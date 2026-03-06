@@ -179,6 +179,19 @@ describe("generateEntry", () => {
     expect(indexMatches.length).toBeGreaterThan(10);
   });
 
+  test("includes attributive forms in d:index for noun entries", () => {
+    const xml = generateEntry(fullEntry);
+    // китеп (voiceless, group 2): locative=китепте, attr=китептеги
+    expect(xml).toContain('d:value="китептеги"');
+  });
+
+  test("includes plural+possessive+case forms in d:index for noun entries", () => {
+    const xml = generateEntry(fullEntry);
+    // китеп → китептери (pl+3sg poss), китептеринин (pl+3sg poss+gen)
+    expect(xml).toContain('d:value="китептери"');
+    expect(xml).toContain('d:value="китептеринин"');
+  });
+
   test("escapes XML special characters in all text fields", () => {
     const entryWithSpecials: DictionaryEntry = {
       id: "ru-test-001",
