@@ -264,6 +264,44 @@ export function generatePossessiveCaseForms(
   return Array.from(forms);
 }
 
+// Attributive suffix -гы/-ги/-гу/-гү added to locative forms
+// Locative forms end in а/е/о/ө (all vowels), so the suffix always starts with г
+const ATTRIBUTIVE_SUFFIX: string[] = ["гы", "ги", "гу", "гү"];
+
+/**
+ * Generate attributive forms from locative bases.
+ * Covers: singular locative, 3sg possessive + locative, plural + locative.
+ * Each gets the attributive suffix -гы/-ги/-гу/-гү based on vowel group.
+ */
+export function generateAttributiveForms(
+  word: string,
+  stem: StemInfo,
+): string[] {
+  const forms = new Set<string>();
+  const vgIdx = stem.vowelGroup - 1;
+  const attrSuffix = ATTRIBUTIVE_SUFFIX[vgIdx];
+
+  // 1. Singular locative + attributive
+  const locative = word + getSuffix(LOCATIVE, stem);
+  forms.add(locative + attrSuffix);
+
+  // 2. 3sg possessive + locative + attributive
+  const poss3sg = word + getSuffix(POSS_3SG, stem);
+  const poss3LocSuffix = POSS3_LOCATIVE[vgIdx];
+  forms.add(poss3sg + poss3LocSuffix + attrSuffix);
+
+  // 3. Plural + locative + attributive
+  const plural = generatePlural(word, stem);
+  const pluralStem: StemInfo = {
+    stemType: "voiced",
+    vowelGroup: stem.vowelGroup as VowelGroup,
+  };
+  const pluralLocative = plural + getSuffix(LOCATIVE, pluralStem);
+  forms.add(pluralLocative + attrSuffix);
+
+  return Array.from(forms);
+}
+
 const STEM_TYPE_LABELS: Record<StemType, string> = {
   vowel: "гласную",
   voiced: "звонкую согласную",

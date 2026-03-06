@@ -6,6 +6,7 @@ import {
   generateNounPluralForms,
   generatePossessiveForms,
   generatePossessiveCaseForms,
+  generateAttributiveForms,
   generateRule,
   enrichEntry,
   extractVerbStem,
@@ -187,6 +188,40 @@ describe("generatePossessiveCaseForms", () => {
     const forms = generatePossessiveCaseForms("күн", { stemType: "voiced", vowelGroup: 4 });
     // 5 persons × 6 cases (nom + 5 oblique) = 30 forms max (some may merge)
     expect(forms.length).toBeGreaterThanOrEqual(20);
+  });
+});
+
+describe("generateAttributiveForms", () => {
+  test("китеп (voiceless, group 2): locative+attributive", () => {
+    const forms = generateAttributiveForms("китеп", { stemType: "voiceless", vowelGroup: 2 });
+    expect(forms).toContain("китептеги");
+  });
+
+  test("бала (vowel, group 1): locative+attributive", () => {
+    const forms = generateAttributiveForms("бала", { stemType: "vowel", vowelGroup: 1 });
+    expect(forms).toContain("баладагы");
+  });
+
+  test("сөз (voiced, group 4): locative+attributive", () => {
+    const forms = generateAttributiveForms("сөз", { stemType: "voiced", vowelGroup: 4 });
+    expect(forms).toContain("сөздөгү");
+  });
+
+  test("жол (voiced, group 3): locative+attributive", () => {
+    const forms = generateAttributiveForms("жол", { stemType: "voiced", vowelGroup: 3 });
+    expect(forms).toContain("жолдогу");
+  });
+
+  test("includes 3sg poss+loc+attributive", () => {
+    const forms = generateAttributiveForms("календар", classifyStem("календар"));
+    expect(forms).toContain("календардагы");
+    expect(forms).toContain("календарындагы");
+  });
+
+  test("includes plural+loc+attributive", () => {
+    const forms = generateAttributiveForms("китеп", { stemType: "voiceless", vowelGroup: 2 });
+    expect(forms).toContain("китептеги");
+    expect(forms).toContain("китептердеги");
   });
 });
 
