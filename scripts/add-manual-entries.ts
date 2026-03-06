@@ -40,6 +40,35 @@ const manualEntries: DictionaryEntry[] = [
   { id: "ru-именуемый-manual-001", ru: "именуемый", ky: "аттуу", pos: "adj", source: "manual", senses: ["именуемый", "по имени", "имеющий имя"] },
   { id: "ru-Коран-manual-001", ru: "Коран", ky: "куран", pos: "noun", source: "manual", senses: ["Коран"] },
   { id: "ru-поклонение-manual-001", ru: "поклонение", ky: "ибадат", pos: "noun", source: "manual", senses: ["поклонение", "молитва", "богослужение"] },
+
+  // === Batch 2: from multi-site audit (o.kg, mega24.kg, nbkr.kg, 24.kg) ===
+
+  // Function words / particles (8)
+  { id: "ru-для-manual-001", ru: "для", ky: "үчүн", pos: "post", source: "manual", senses: ["для", "ради", "за (послелог)"] },
+  { id: "ru-к-manual-001", ru: "к, по случаю", ky: "карата", pos: "post", source: "manual", senses: ["к", "по отношению к", "по случаю"] },
+  { id: "ru-по-manual-001", ru: "по, в области", ky: "боюнча", pos: "post", source: "manual", senses: ["по", "согласно", "в области"] },
+  { id: "ru-через-manual-001", ru: "через", ky: "аркылуу", pos: "post", source: "manual", senses: ["через", "посредством", "с помощью"] },
+  { id: "ru-именно-manual-001", ru: "именно", ky: "эле", pos: "conj", source: "manual", senses: ["именно", "только что", "ведь", "-же"] },
+  { id: "ru-также-manual-001", ru: "также", ky: "ошондой", pos: "adv", source: "manual", senses: ["также", "так же", "такой же"] },
+  { id: "ru-после-manual-001", ru: "после", ky: "кийин", pos: "post", source: "manual", senses: ["после", "потом", "затем"] },
+  { id: "ru-поэтому-manual-001", ru: "поэтому", ky: "ошондуктан", pos: "conj", source: "manual", senses: ["поэтому", "вследствие этого", "по этой причине"] },
+
+  // Content words (15)
+  { id: "ru-личный-manual-001", ru: "личный", ky: "жеке", pos: "adj", source: "manual", senses: ["личный", "частный", "персональный", "индивидуальный"] },
+  { id: "ru-тариф-manual-001", ru: "тариф", ky: "тариф", pos: "noun", source: "manual", senses: ["тариф", "расценка", "ставка"] },
+  { id: "ru-связь-manual-001", ru: "связь", ky: "байланыш", pos: "noun", source: "manual", senses: ["связь", "контакт", "коммуникация", "отношение"] },
+  { id: "ru-мобильный-manual-001", ru: "мобильный", ky: "мобилдик", pos: "adj", source: "manual", senses: ["мобильный", "подвижный"] },
+  { id: "ru-Бишкек-manual-001", ru: "Бишкек", ky: "бишкек", pos: "noun", source: "manual", senses: ["Бишкек (столица Кыргызстана)"] },
+  { id: "ru-оператор-manual-001", ru: "оператор", ky: "оператор", pos: "noun", source: "manual", senses: ["оператор", "оператор связи"] },
+  { id: "ru-Кыргызстан-manual-001", ru: "Кыргызстан", ky: "кыргызстан", pos: "noun", source: "manual", senses: ["Кыргызстан", "Киргизия"] },
+  { id: "ru-электронный-manual-001", ru: "электронный", ky: "электрондук", pos: "adj", source: "manual", senses: ["электронный", "цифровой"] },
+  { id: "ru-высший-manual-001", ru: "высший", ky: "жогорку", pos: "adj", source: "manual", senses: ["высший", "верхний", "высокий"] },
+  { id: "ru-обеспеченный-manual-001", ru: "обеспеченный", ky: "камсыз", pos: "adj", source: "manual", senses: ["обеспеченный", "камсыз кылуу = обеспечивать"] },
+  { id: "ru-устойчивый-manual-001", ru: "устойчивый", ky: "туруктуу", pos: "adj", source: "manual", senses: ["устойчивый", "стабильный", "постоянный"] },
+  { id: "ru-мера-manual-001", ru: "мера", ky: "чара", pos: "noun", source: "manual", senses: ["мера", "мероприятие", "средство"] },
+  { id: "ru-пособие-manual-001", ru: "пособие", ky: "жөлөкпул", pos: "noun", source: "manual", senses: ["пособие", "стипендия", "дотация"] },
+  { id: "ru-платёж-manual-001", ru: "платёж", ky: "төлөм", pos: "noun", source: "manual", senses: ["платёж", "оплата", "взнос"] },
+  { id: "ru-постановление-manual-001", ru: "постановление", ky: "токтом", pos: "noun", source: "manual", senses: ["постановление", "решение", "указ"] },
 ];
 
 function getLetterKey(ru: string): string {
