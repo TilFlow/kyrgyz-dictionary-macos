@@ -23,6 +23,7 @@ Features:
 1. Download the dictionary you need from [Releases](../../releases/latest)
 2. Unzip
 3. Copy the `.dictionary` bundle to `~/Library/Dictionaries/`
+   > **Tip:** You can open this folder directly from Dictionary.app → File → Open Dictionaries Folder
 4. Open Dictionary.app → Preferences → Enable the dictionary
 
 ## Documentation

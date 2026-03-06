@@ -91,16 +91,19 @@ jobs:
             1. Download the archive
             2. Unzip
             3. Copy `.dictionary` to `~/Library/Dictionaries/`
+               💡 Open this folder from Dictionary.app → File → Open Dictionaries Folder
             4. Open Dictionary.app → Preferences → Enable the dictionary
 
             ### Установка
             1. Скачайте архив
             2. Распакуйте
             3. Скопируйте `.dictionary` в `~/Library/Dictionaries/`
+               💡 Папку можно открыть из Dictionary.app → Файл → Открыть папку «Словари»
             4. Откройте Dictionary.app → Настройки → Включите словарь
 
             ### Орнотуу
             1. Архивди жүктөп алыңыз
             2. Архивди ачыңыз
             3. `.dictionary` файлын `~/Library/Dictionaries/` папкасына көчүрүңүз
+               💡 Бул папканы Dictionary.app → File → Open Dictionaries Folder аркылуу ачыңыз
             4. Dictionary.app → Preferences → Сөздүктү иштетиңиз

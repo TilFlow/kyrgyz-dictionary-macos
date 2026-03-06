@@ -1,17 +1,22 @@
 /*
- * Russian-Kyrgyz Dictionary — Apple Dictionary.app Stylesheet
+ * Kyrgyz Dictionary — Apple Dictionary.app Stylesheet
  *
  * Supports compact popup (d:priority="1") and full view (d:priority="2").
- * Dark mode via prefers-color-scheme.
+ * Dark mode via prefers-color-scheme + color-scheme.
  */
 
 /* ── Base ─────────────────────────────────────────────────────────── */
+
+:root {
+  color-scheme: light dark;
+}
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 1.5;
   color: #1d1d1f;
+  background-color: transparent;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +32,13 @@ h1.hw {
   font-weight: 700;
   margin: 0 0 2px;
   display: inline;
+  color: #1d1d1f;
+}
+
+@media (prefers-color-scheme: dark) {
+  h1.hw {
+    color: #f5f5f7;
+  }
 }
 
 /* ── Pronunciation ────────────────────────────────────────────────── */
@@ -60,7 +72,7 @@ h1.hw {
 @media (prefers-color-scheme: dark) {
   .pos {
     color: #a1a1a6;
-    background: #2c2c2e;
+    background: #38383a;
   }
 }
 
@@ -99,10 +111,17 @@ h1.hw {
 ol.senses {
   margin: 4px 0 4px 18px;
   padding: 0;
+  color: #1d1d1f;
 }
 
 ol.senses li {
   margin-bottom: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  ol.senses {
+    color: #f5f5f7;
+  }
 }
 
 /* ── Full view (priority 2) ───────────────────────────────────────── */
@@ -115,7 +134,7 @@ ol.senses li {
 
 @media (prefers-color-scheme: dark) {
   .full-entry {
-    border-top-color: #3a3a3c;
+    border-top-color: #48484a;
   }
 }
 
@@ -136,6 +155,34 @@ ol.senses li {
 
 @media (prefers-color-scheme: dark) {
   .section-header {
+    color: #98989d;
+  }
+}
+
+/* ── Sense description ───────────────────────────────────────────── */
+
+.sense {
+  color: #6e6e73;
+  font-size: 0.92em;
+  margin: 2px 0 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sense {
+    color: #a1a1a6;
+  }
+}
+
+/* ── Frequency ───────────────────────────────────────────────────── */
+
+.frequency {
+  font-size: 0.85em;
+  color: #86868b;
+  margin: 4px 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .frequency {
     color: #8e8e93;
   }
 }
@@ -149,6 +196,7 @@ ol.senses li {
 
 .example .ky {
   font-weight: 500;
+  color: #1d1d1f;
 }
 
 .example .ru {
@@ -156,6 +204,9 @@ ol.senses li {
 }
 
 @media (prefers-color-scheme: dark) {
+  .example .ky {
+    color: #f5f5f7;
+  }
   .example .ru {
     color: #a1a1a6;
   }
@@ -176,6 +227,7 @@ ol.senses li {
   border: 1px solid #d2d2d7;
   padding: 3px 8px;
   text-align: left;
+  color: #1d1d1f;
 }
 
 .morph-table th {
@@ -187,7 +239,8 @@ ol.senses li {
 @media (prefers-color-scheme: dark) {
   .morph-table th,
   .morph-table td {
-    border-color: #3a3a3c;
+    border-color: #48484a;
+    color: #f5f5f7;
   }
   .morph-table th {
     background: #2c2c2e;

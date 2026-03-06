@@ -363,6 +363,23 @@ async function main(): Promise<void> {
     printEnKyStats(pairs, stats, "Kyrgyz-English");
   }
 
+  // Build JSON if requested
+  if (process.argv.includes("--json")) {
+    const jsonDir = join(ROOT, "dist/json");
+    await mkdir(jsonDir, { recursive: true });
+    console.log("\nBuilding JSON...");
+
+    await Bun.write(join(jsonDir, "ru-ky.json"), JSON.stringify(entries, null, 2));
+    await Bun.write(join(jsonDir, "ky-ru.json"), JSON.stringify(entries, null, 2));
+    console.log(`  ru-ky.json / ky-ru.json: ${entries.length} entries`);
+
+    if (enKyData) {
+      await Bun.write(join(jsonDir, "en-ky.json"), JSON.stringify(enKyData.pairs, null, 2));
+      await Bun.write(join(jsonDir, "ky-en.json"), JSON.stringify(enKyData.pairs, null, 2));
+      console.log(`  en-ky.json / ky-en.json: ${enKyData.pairs.length} entries`);
+    }
+  }
+
   console.log("\nBuild complete.");
 }
 

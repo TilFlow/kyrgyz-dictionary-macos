@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "build": "bun run scripts/build.ts",
+    "build:json": "bun run scripts/build.ts --json",
     "validate": "bun run scripts/validate.ts",
     "stats": "bun run scripts/stats.ts",
     "add": "bun run scripts/add.ts",

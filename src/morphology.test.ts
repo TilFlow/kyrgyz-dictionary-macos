@@ -4,6 +4,8 @@ import {
   generatePlural,
   generateNounForms,
   generateNounPluralForms,
+  generatePossessiveForms,
+  generatePossessiveCaseForms,
   generateRule,
   enrichEntry,
 } from "./morphology";
@@ -114,6 +116,75 @@ describe("generateNounPluralForms", () => {
     expect(forms.accusative).toBe("сөздөрдү");
     expect(forms.locative).toBe("сөздөрдө");
     expect(forms.ablative).toBe("сөздөрдөн");
+  });
+});
+
+describe("generatePossessiveForms", () => {
+  test('күн (voiced, group 4) → correct possessive nominatives', () => {
+    const forms = generatePossessiveForms("күн", { stemType: "voiced", vowelGroup: 4 });
+    expect(forms).toContain("күнүм");   // 1sg: my day
+    expect(forms).toContain("күнүң");   // 2sg: your day
+    expect(forms).toContain("күнү");    // 3sg: his/her day
+    expect(forms).toContain("күнүбүз"); // 1pl: our day
+    expect(forms).toContain("күнүңүз"); // 2pl: your (formal) day
+  });
+
+  test('бала (vowel, group 1) → correct possessive nominatives', () => {
+    const forms = generatePossessiveForms("бала", { stemType: "vowel", vowelGroup: 1 });
+    expect(forms).toContain("балам");   // 1sg
+    expect(forms).toContain("балаң");   // 2sg
+    expect(forms).toContain("баласы");  // 3sg
+    expect(forms).toContain("балабыз"); // 1pl
+    expect(forms).toContain("балаңыз"); // 2pl
+  });
+
+  test('китеп (voiceless, group 2) → correct possessive nominatives', () => {
+    const forms = generatePossessiveForms("китеп", { stemType: "voiceless", vowelGroup: 2 });
+    // Consonant voicing (п→б) is not modeled; forms use base stem
+    expect(forms).toContain("китепим");   // 1sg
+    expect(forms).toContain("китепиң");   // 2sg
+    expect(forms).toContain("китепи");    // 3sg
+    expect(forms).toContain("китепибиз"); // 1pl
+    expect(forms).toContain("китепиңиз"); // 2pl
+  });
+});
+
+describe("generatePossessiveCaseForms", () => {
+  test('күн 3sg possessive + cases (linking-н)', () => {
+    const forms = generatePossessiveCaseForms("күн", { stemType: "voiced", vowelGroup: 4 });
+    // 3sg possessive: күнү (vowel-final) → linking-н case suffixes
+    expect(forms).toContain("күнү");      // 3sg poss nom
+    expect(forms).toContain("күнүнөн");   // 3sg poss ablative — the original failing lookup
+    expect(forms).toContain("күнүнүн");   // 3sg poss genitive
+    expect(forms).toContain("күнүнө");    // 3sg poss dative
+    expect(forms).toContain("күнүн");     // 3sg poss accusative
+    expect(forms).toContain("күнүндө");   // 3sg poss locative
+  });
+
+  test('бала 3sg possessive + cases (linking-н)', () => {
+    const forms = generatePossessiveCaseForms("бала", { stemType: "vowel", vowelGroup: 1 });
+    // 3sg possessive: баласы (vowel-final) → linking-н case suffixes
+    expect(forms).toContain("баласы");     // 3sg poss nom
+    expect(forms).toContain("баласынан");  // 3sg poss ablative
+    expect(forms).toContain("баласынын");  // 3sg poss genitive
+  });
+
+  test('1sg/2sg possessive + cases (voiced-stem suffixes)', () => {
+    const forms = generatePossessiveCaseForms("күн", { stemType: "voiced", vowelGroup: 4 });
+    // 1sg possessive: күнүм (м = voiced consonant) → voiced-stem suffixes
+    expect(forms).toContain("күнүм");      // 1sg nom
+    expect(forms).toContain("күнүмдөн");   // 1sg ablative (voiced: -дөн)
+    expect(forms).toContain("күнүмдүн");   // 1sg genitive
+    expect(forms).toContain("күнүмгө");    // 1sg dative
+    // 2sg possessive: күнүң (ң = voiced consonant) → voiced-stem suffixes
+    expect(forms).toContain("күнүң");      // 2sg nom
+    expect(forms).toContain("күнүңдөн");   // 2sg ablative
+  });
+
+  test('generates significant number of forms', () => {
+    const forms = generatePossessiveCaseForms("күн", { stemType: "voiced", vowelGroup: 4 });
+    // 5 persons × 6 cases (nom + 5 oblique) = 30 forms max (some may merge)
+    expect(forms.length).toBeGreaterThanOrEqual(20);
   });
 });
 

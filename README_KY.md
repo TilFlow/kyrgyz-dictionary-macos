@@ -23,6 +23,7 @@ macOS Dictionary.app учун ачык маалыматтардан курулг
 1. Керектүү сөздүктү [Releases](../../releases/latest) бөлүмүнөн жүктөп алыңыз
 2. Архивди ачыңыз
 3. `.dictionary` файлын `~/Library/Dictionaries/` папкасына көчүрүңүз
+   > **Кеңеш:** Бул папканы Dictionary.app → File → Open Dictionaries Folder аркылуу ачсаңыз болот
 4. Dictionary.app → Preferences → Сөздүктү иштетиңиз
 
 ## Документация

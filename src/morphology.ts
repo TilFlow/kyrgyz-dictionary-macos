@@ -149,6 +149,121 @@ export function generateNounPluralForms(
   };
 }
 
+// ── Possessive suffixes ──────────────────────────────────────────────
+// Person suffixes indexed by [stemType][vowelGroup-1]
+// After vowel stems, consonant-initial suffixes are used
+// After consonant stems, vowel-initial suffixes are used
+
+const POSS_1SG: Record<StemType, string[]> = {
+  vowel:     ["м", "м", "м", "м"],
+  voiced:    ["ым", "им", "ум", "үм"],
+  voiceless: ["ым", "им", "ум", "үм"],
+};
+
+const POSS_2SG: Record<StemType, string[]> = {
+  vowel:     ["ң", "ң", "ң", "ң"],
+  voiced:    ["ың", "иң", "уң", "үң"],
+  voiceless: ["ың", "иң", "уң", "үң"],
+};
+
+const POSS_3SG: Record<StemType, string[]> = {
+  vowel:     ["сы", "си", "су", "сү"],
+  voiced:    ["ы", "и", "у", "ү"],
+  voiceless: ["ы", "и", "у", "ү"],
+};
+
+const POSS_1PL: Record<StemType, string[]> = {
+  vowel:     ["быз", "биз", "буз", "бүз"],
+  voiced:    ["ыбыз", "ибиз", "убуз", "үбүз"],
+  voiceless: ["ыбыз", "ибиз", "убуз", "үбүз"],
+};
+
+const POSS_2PL: Record<StemType, string[]> = {
+  vowel:     ["ңыз", "ңиз", "ңуз", "ңүз"],
+  voiced:    ["ыңыз", "иңиз", "уңуз", "үңүз"],
+  voiceless: ["ыңыз", "иңиз", "уңуз", "үңүз"],
+};
+
+// 3pl same as 3sg in Kyrgyz
+
+const POSSESSIVE_TABLES = [
+  POSS_1SG, POSS_2SG, POSS_3SG, POSS_1PL, POSS_2PL,
+];
+
+// After 3sg possessive (vowel-final: -ы/-и/-у/-ү/-сы/-си/-су/-сү),
+// case suffixes use linking "н":
+//   genitive:   -нын/-нин/-нун/-нүн
+//   dative:     -на/-не/-но/-нө
+//   accusative: -н
+//   locative:   -нда/-нде/-ндо/-ндө
+//   ablative:   -нан/-нен/-нон/-нөн
+// After other persons (consonant-final: -м, -ң, -быз/-биз, -ңыз/-ңиз),
+// regular voiced-stem case suffixes apply (all end in voiced consonants).
+
+const POSS3_GENITIVE: string[]   = ["нын", "нин", "нун", "нүн"];
+const POSS3_DATIVE: string[]     = ["на", "не", "но", "нө"];
+const POSS3_ACCUSATIVE: string[] = ["н", "н", "н", "н"];
+const POSS3_LOCATIVE: string[]   = ["нда", "нде", "ндо", "ндө"];
+const POSS3_ABLATIVE: string[]   = ["нан", "нен", "нон", "нөн"];
+
+/**
+ * Generate all possessive forms of a noun (nominative only).
+ * Returns an array of unique possessive forms for indexing.
+ */
+export function generatePossessiveForms(
+  word: string,
+  stem: StemInfo,
+): string[] {
+  const forms = new Set<string>();
+  for (const table of POSSESSIVE_TABLES) {
+    const suffix = getSuffix(table, stem);
+    forms.add(word + suffix);
+  }
+  return Array.from(forms);
+}
+
+/**
+ * Generate possessive + case combinations for a noun.
+ *
+ * For 3sg possessive (vowel-final: -ы/-и/-у/-ү/-сы/-си/-су/-сү),
+ * case suffixes use linking "н" (e.g. күнү+нөн = күнүнөн).
+ *
+ * For other persons (consonant-final: -м, -ң, -быз/-биз, -ңыз/-ңиз),
+ * regular voiced-stem case suffixes apply (e.g. күнүм+дөн = күнүмдөн).
+ */
+export function generatePossessiveCaseForms(
+  word: string,
+  stem: StemInfo,
+): string[] {
+  const forms = new Set<string>();
+  const vgIdx = stem.vowelGroup - 1;
+
+  // 3sg possessive (vowel-final) — special linking-н suffixes
+  const poss3sg = word + getSuffix(POSS_3SG, stem);
+  forms.add(poss3sg);
+  forms.add(poss3sg + POSS3_GENITIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_DATIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_ACCUSATIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_LOCATIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_ABLATIVE[vgIdx]);
+
+  // Other persons (consonant-final: м, ң, з) — voiced-stem case suffixes
+  const consonantTables = [POSS_1SG, POSS_2SG, POSS_1PL, POSS_2PL];
+  for (const table of consonantTables) {
+    const possForm = word + getSuffix(table, stem);
+    forms.add(possForm);
+    // All end in voiced consonants, use voiced-stem suffixes with same vowel group
+    const possStem: StemInfo = { stemType: "voiced", vowelGroup: stem.vowelGroup };
+    forms.add(possForm + getSuffix(GENITIVE, possStem));
+    forms.add(possForm + getSuffix(DATIVE, possStem));
+    forms.add(possForm + getSuffix(ACCUSATIVE, possStem));
+    forms.add(possForm + getSuffix(LOCATIVE, possStem));
+    forms.add(possForm + getSuffix(ABLATIVE, possStem));
+  }
+
+  return Array.from(forms);
+}
+
 const STEM_TYPE_LABELS: Record<StemType, string> = {
   vowel: "гласную",
   voiced: "звонкую согласную",

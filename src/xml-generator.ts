@@ -1,4 +1,5 @@
 import type { DictionaryEntry } from "./schema";
+import { classifyStem, generatePossessiveCaseForms } from "./morphology";
 
 export type DictDirection = "ru-ky" | "ky-ru" | "en-ky" | "ky-en";
 
@@ -72,6 +73,14 @@ function generateIndexElements(entry: DictionaryEntry): string {
   if (entry.morphology?.pluralForms) {
     for (const value of Object.values(entry.morphology.pluralForms)) {
       indices.add(value);
+    }
+  }
+
+  // Generate possessive + case forms at build time for indexing
+  if (entry.pos === "noun") {
+    const stem = classifyStem(entry.ky);
+    for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
+      indices.add(form);
     }
   }
 
