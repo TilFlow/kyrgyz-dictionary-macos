@@ -2,8 +2,24 @@
  * Kyrgyz Dictionary — Apple Dictionary.app Stylesheet
  *
  * Supports compact popup (d:priority="1") and full view (d:priority="2").
- * Dark mode via prefers-color-scheme + color-scheme.
+ * Dark mode via Apple's prefers-dark-interface (popup/panel) and
+ * standard prefers-color-scheme (full Dictionary.app window).
  */
+
+/* ── Apple Dictionary.app dark mode (popup & panel) ──────────────── */
+/* This is the primary dark mode mechanism for Dictionary.app.
+   prefers-color-scheme does NOT work in the popup/panel view.
+   apple-invert-lightness() automatically inverts all lightness values. */
+
+@media (prefers-dark-interface) {
+  html {
+    -apple-color-filter: apple-invert-lightness();
+  }
+  a:link {
+    -apple-color-filter: none;
+    color: #2997ff;
+  }
+}
 
 /* ── Base ─────────────────────────────────────────────────────────── */
 
