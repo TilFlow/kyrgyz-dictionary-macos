@@ -356,15 +356,153 @@ export function generateFrontMatter(direction: DictDirection = "ru-ky"): string 
 </d:entry>`;
 }
 
+/**
+ * Generate a merged d:entry for a group of entries sharing the same ky headword.
+ * Used for ky-ru direction to avoid duplicate cards in Dictionary.app.
+ */
+function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection): string {
+  const primary = group[0];
+
+  // Collect all indices from all entries in the group
+  const allIndices: string[] = [];
+  for (const entry of group) {
+    allIndices.push(generateIndexElements(entry, direction));
+  }
+  const indices = allIndices.join("\n");
+
+  // Compact view: single headword, merged translations
+  const headword = direction === "ky-ru" ? primary.ky : primary.ru;
+  const compactParts: string[] = [];
+  compactParts.push(`<h1 class="hw">${escapeXml(headword)}</h1>`);
+
+  if (primary.pronunciation) {
+    compactParts.push(`<span class="pronunciation">${escapeXml(primary.pronunciation)}</span>`);
+  }
+
+  // Collect unique POS labels
+  const posLabels = [...new Set(group.map((e) => POS_LABELS[e.pos] ?? e.pos))];
+  compactParts.push(`<span class="pos">${escapeXml(posLabels.join(", "))}</span>`);
+
+  if (primary.morphology?.pluralForms?.nominative) {
+    compactParts.push(
+      `<span class="forms-brief">(мн. ${escapeXml(primary.morphology.pluralForms.nominative)})</span>`
+    );
+  }
+
+  // Merge all translations into one numbered list
+  const allTranslations = direction === "ky-ru"
+    ? group.map((e) => e.ru)
+    : group.map((e) => e.ky);
+  const uniqueTranslations = [...new Set(allTranslations)];
+  const sensesHtml = uniqueTranslations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
+  compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
+
+  const compact = `<span d:priority="1">\n${compactParts.join("\n")}\n</span>`;
+
+  // Full view: merged sections
+  const fullSections: string[] = [];
+
+  // Translation section — all unique translations
+  const header = direction === "ky-ru" ? "Перевод" : "Перевод";
+  const allItems = direction === "ky-ru"
+    ? group.flatMap((e) => [e.ru, ...(e.senses ?? [])])
+    : group.flatMap((e) => [e.ky, ...(e.senses ?? [])]);
+  const uniqueItems = [...new Set(allItems)];
+  fullSections.push(
+    `<div class="section">
+<h3 class="section-header">${header}</h3>
+<ol class="senses">${uniqueItems.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>
+</div>`
+  );
+
+  // Examples — collect from all entries
+  const allExamples = group.flatMap((e) => e.examples ?? []);
+  if (allExamples.length > 0) {
+    const exampleItems = allExamples
+      .map((ex) => `<div class="example"><span class="ky">${escapeXml(ex.ky)}</span> — <span class="ru">${escapeXml(ex.ru)}</span></div>`)
+      .join("\n");
+    fullSections.push(
+      `<div class="section">
+<h3 class="section-header">Примеры</h3>
+${exampleItems}
+</div>`
+    );
+  }
+
+  // Morphology — use primary entry's morphology
+  if (primary.morphology?.forms) {
+    const forms = primary.morphology.forms;
+    const pluralForms = primary.morphology.pluralForms;
+    const rows = CASE_ORDER.filter((c) => forms[c] || pluralForms?.[c]).map((c) => {
+      const singular = forms[c] ? escapeXml(forms[c]) : "";
+      const plural = pluralForms?.[c] ? escapeXml(pluralForms[c]) : "";
+      return `<tr><td>${CASE_LABELS[c]}</td><td>${singular}</td><td>${plural}</td></tr>`;
+    });
+    let morphHtml = `<div class="section">
+<h3 class="section-header">Морфология</h3>
+<table class="morph-table">
+<tr><th>Падеж</th><th>Ед. число</th><th>Мн. число</th></tr>
+${rows.join("\n")}
+</table>`;
+    if (primary.morphology.rule) {
+      morphHtml += `\n<p class="morph-rule">${escapeXml(primary.morphology.rule)}</p>`;
+    }
+    morphHtml += "\n</div>";
+    fullSections.push(morphHtml);
+  }
+
+  // Etymology — first available
+  const etymologyEntry = group.find((e) => e.etymology);
+  if (etymologyEntry) {
+    fullSections.push(
+      `<div class="section">
+<h3 class="section-header">Этимология</h3>
+<p class="etymology">${escapeXml(etymologyEntry.etymology!)}</p>
+</div>`
+    );
+  }
+
+  // Wiktionary link
+  if (primary.wiktionaryUrl) {
+    fullSections.push(
+      `<a class="wiktionary-link" href="${escapeXml(primary.wiktionaryUrl)}">Wiktionary ↗</a>`
+    );
+  }
+
+  const full = `<div d:priority="2" class="full-entry">\n${fullSections.join("\n")}\n</div>`;
+  const title = direction === "ky-ru" ? primary.ky : primary.ru;
+
+  return `<d:entry id="${escapeXml(primary.id)}" d:title="${escapeXml(title)}">
+${indices}
+${compact}
+${full}
+</d:entry>`;
+}
+
 export function generateDictionary(entries: DictionaryEntry[], direction: DictDirection = "ru-ky"): string {
-  const header = `<?xml version="1.0" encoding="UTF-8"?>
+  const xmlHeader = `<?xml version="1.0" encoding="UTF-8"?>
 <d:dictionary xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" xmlns="http://www.w3.org/1999/xhtml">`;
 
   const frontMatter = generateFrontMatter(direction);
-  const entryXml = entries.map((e) => generateEntry(e, direction)).join("\n");
-  const footer = "</d:dictionary>";
 
-  return `${header}\n${frontMatter}\n${entryXml}\n${footer}\n`;
+  let entryXml: string;
+  if (direction === "ky-ru") {
+    // Group entries by Kyrgyz headword to avoid duplicate cards
+    const groups = new Map<string, DictionaryEntry[]>();
+    for (const entry of entries) {
+      const key = entry.ky.toLowerCase();
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key)!.push(entry);
+    }
+    entryXml = [...groups.values()]
+      .map((group) => generateMergedEntry(group, direction))
+      .join("\n");
+  } else {
+    entryXml = entries.map((e) => generateEntry(e, direction)).join("\n");
+  }
+
+  const footer = "</d:dictionary>";
+  return `${xmlHeader}\n${frontMatter}\n${entryXml}\n${footer}\n`;
 }
 
 // --- English-Kyrgyz dictionary generation ---
