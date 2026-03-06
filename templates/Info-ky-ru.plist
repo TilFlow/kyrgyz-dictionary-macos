@@ -5,9 +5,9 @@
   <key>CFBundleDevelopmentRegion</key>
   <string>Kyrgyz</string>
   <key>CFBundleVersion</key>
-  <string>0.0.7</string>
+  <string>0.0.8</string>
   <key>CFBundleShortVersionString</key>
-  <string>0.0.7</string>
+  <string>0.0.8</string>
   <key>CFBundleIdentifier</key>
   <string>org.ky-concept.ky-ru-dictionary</string>
   <key>CFBundleDisplayName</key>
