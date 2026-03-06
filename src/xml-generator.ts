@@ -355,10 +355,16 @@ function generateEnKyEntryXml(entry: EnKyEntry, index: number): string {
   const id = `en-ky-${index.toString().padStart(6, "0")}`;
   const posLabel = entry.pos ? (POS_LABELS_EN[entry.pos] ?? entry.pos) : "";
 
-  const indices = [
-    `<d:index d:value="${escapeXml(entry.en)}"/>`,
-    `<d:index d:value="${escapeXml(entry.ky)}"/>`,
-  ].join("\n");
+  const indexSet = new Set<string>([entry.en, entry.ky]);
+  if (entry.pos === "noun") {
+    const stem = classifyStem(entry.ky);
+    for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
+      indexSet.add(form);
+    }
+  }
+  const indices = Array.from(indexSet)
+    .map((v) => `<d:index d:value="${escapeXml(v)}"/>`)
+    .join("\n");
 
   // Compact view
   const compactParts: string[] = [];
@@ -447,10 +453,16 @@ function generateKyEnEntryXml(entry: EnKyEntry, index: number): string {
   const id = `ky-en-${index.toString().padStart(6, "0")}`;
   const posLabel = entry.pos ? (POS_LABELS_EN[entry.pos] ?? entry.pos) : "";
 
-  const indices = [
-    `<d:index d:value="${escapeXml(entry.ky)}"/>`,
-    `<d:index d:value="${escapeXml(entry.en)}"/>`,
-  ].join("\n");
+  const indexSet = new Set<string>([entry.ky, entry.en]);
+  if (entry.pos === "noun") {
+    const stem = classifyStem(entry.ky);
+    for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
+      indexSet.add(form);
+    }
+  }
+  const indices = Array.from(indexSet)
+    .map((v) => `<d:index d:value="${escapeXml(v)}"/>`)
+    .join("\n");
 
   // Compact view — Kyrgyz headword, English translation
   const compactParts: string[] = [];

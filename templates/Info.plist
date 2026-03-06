@@ -15,9 +15,9 @@
   <key>CFBundleName</key>
   <string>Russian-Kyrgyz Dictionary</string>
   <key>DCSDictionaryCopyright</key>
-  <string>Data: CC BY-SA (Wiktionary), GPL-3.0 (Apertium). Build tools: MIT.</string>
+  <string>© TilFlow. CC BY-NC-SA 4.0</string>
   <key>DCSDictionaryManufacturerName</key>
-  <string>ky-concept</string>
+  <string>TilFlow</string>
   <key>DCSDictionaryFrontMatterReferenceID</key>
   <string>front-matter</string>
 </dict>
