@@ -10,6 +10,8 @@ const VOWELS: Record<string, VowelGroup> = {
   "е": 2, "и": 2,   // front unrounded
   "о": 3, "у": 3,   // back rounded
   "ө": 4, "ү": 4,   // front rounded
+  // Russian loanword vowels (treated as vowels for stem classification)
+  "я": 1, "ю": 3, "ё": 3,
 };
 
 const ALL_VOWELS = new Set(Object.keys(VOWELS));
@@ -91,6 +93,11 @@ function getSuffix(table: Record<StemType, string[]>, stem: { stemType: string; 
  * Generate the plural form of a Kyrgyz noun.
  */
 export function generatePlural(word: string, stem: { stemType: string; vowelGroup: number }): string {
+  // Sonant consonants р and й take vowel-type plural suffix (-лар) in Kyrgyz
+  const lastChar = word[word.length - 1];
+  if (lastChar === "р" || lastChar === "й") {
+    return word + PLURAL.vowel[stem.vowelGroup - 1];
+  }
   return word + getSuffix(PLURAL, stem);
 }
 
@@ -300,6 +307,28 @@ export function generateAttributiveForms(
   forms.add(pluralLocative + attrSuffix);
 
   return Array.from(forms);
+}
+
+/**
+ * Generate plural + case forms (without possessive).
+ * E.g., кардар → кардарларга (plural+dative), кардарлардын (plural+gen), etc.
+ * Plural always ends in р (sonant) → voiced stem type for subsequent suffixes.
+ */
+export function generatePluralCaseForms(
+  word: string,
+  stem: StemInfo,
+): string[] {
+  const plural = generatePlural(word, stem);
+  // Plural ends in р (sonant consonant) → voiced stem for case suffixes
+  const pluralStem: StemInfo = {
+    stemType: "voiced",
+    vowelGroup: stem.vowelGroup as VowelGroup,
+  };
+  const cases = generateNounForms(plural, pluralStem);
+  // Return all case forms except nominative (which is just the plural itself, already indexed)
+  return Object.entries(cases)
+    .filter(([k]) => k !== "nominative")
+    .map(([, v]) => v);
 }
 
 /**

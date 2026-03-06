@@ -1,5 +1,5 @@
 import type { DictionaryEntry } from "./schema";
-import { classifyStem, generatePlural, generatePossessiveCaseForms, generateVerbForms, generateAttributiveForms, generatePluralPossessiveCaseForms } from "./morphology";
+import { classifyStem, generatePlural, generatePossessiveCaseForms, generateVerbForms, generateAttributiveForms, generatePluralCaseForms, generatePluralPossessiveCaseForms } from "./morphology";
 
 export type DictDirection = "ru-ky" | "ky-ru" | "en-ky" | "ky-en";
 
@@ -84,6 +84,9 @@ function generateIndexElements(entry: DictionaryEntry, direction: DictDirection 
       indices.add(form);
     }
     for (const form of generateAttributiveForms(entry.ky, stem)) {
+      indices.add(form);
+    }
+    for (const form of generatePluralCaseForms(entry.ky, stem)) {
       indices.add(form);
     }
     for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) {
@@ -380,6 +383,9 @@ function generateEnKyEntryXml(entry: EnKyEntry, index: number): string {
     for (const form of generateAttributiveForms(entry.ky, stem)) {
       indexSet.add(form);
     }
+    for (const form of generatePluralCaseForms(entry.ky, stem)) {
+      indexSet.add(form);
+    }
     for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) {
       indexSet.add(form);
     }
@@ -488,6 +494,9 @@ function generateKyEnEntryXml(entry: EnKyEntry, index: number): string {
       indexSet.add(form);
     }
     for (const form of generateAttributiveForms(entry.ky, stem)) {
+      indexSet.add(form);
+    }
+    for (const form of generatePluralCaseForms(entry.ky, stem)) {
       indexSet.add(form);
     }
     for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) {
