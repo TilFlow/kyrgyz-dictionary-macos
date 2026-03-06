@@ -3088,5 +3088,16 @@
       "общий"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B8%D0%BA%D1%82%D2%AF%D2%AF"
+  },
+  {
+    "id": "ru-ещё-manual-001",
+    "ru": "ещё (больше)",
+    "ky": "ого",
+    "pos": "adv",
+    "source": "manual",
+    "senses": [
+      "ещё",
+      "ого бетер = тем более, ещё больше"
+    ]
   }
 ]
