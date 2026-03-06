@@ -83143,5 +83143,95 @@
       "rule": "Основа на звонкую согласную -м, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
     },
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D1%82%D0%BE%D0%BC"
+  },
+  {
+    "id": "ru-полномочие-manual-001",
+    "ru": "полномочие",
+    "ky": "ыйгарым укук",
+    "pos": "noun",
+    "source": "manual",
+    "senses": [
+      "полномочие",
+      "компетенция",
+      "ыйгарым укуктар = полномочия"
+    ],
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "ыйгарым укуктун",
+        "dative": "ыйгарым укукко",
+        "accusative": "ыйгарым укукту",
+        "locative": "ыйгарым укукто",
+        "ablative": "ыйгарым укуктон"
+      },
+      "pluralForms": {
+        "genitive": "ыйгарым укуктордун",
+        "dative": "ыйгарым укукторго",
+        "accusative": "ыйгарым укукторду",
+        "locative": "ыйгарым укуктордо",
+        "ablative": "ыйгарым укуктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    },
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B9%D0%B3%D0%B0%D1%80%D1%8B%D0%BC%20%D1%83%D0%BA%D1%83%D0%BA"
+  },
+  {
+    "id": "ru-предпосылка-manual-001",
+    "ru": "предпосылка",
+    "ky": "өбөлгө",
+    "pos": "noun",
+    "source": "manual",
+    "senses": [
+      "предпосылка",
+      "условие",
+      "өбөлгө түзүү = создать условия"
+    ],
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "өбөлгөнүн",
+        "dative": "өбөлгөгө",
+        "accusative": "өбөлгөнү",
+        "locative": "өбөлгөдө",
+        "ablative": "өбөлгөдөн"
+      },
+      "pluralForms": {
+        "genitive": "өбөлгөлөрдүн",
+        "dative": "өбөлгөлөргө",
+        "accusative": "өбөлгөлөрдү",
+        "locative": "өбөлгөлөрдө",
+        "ablative": "өбөлгөлөрдөн"
+      },
+      "rule": "Основа на гласную -ө, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    },
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D3%A9%D0%BB%D0%B3%D3%A9"
+  },
+  {
+    "id": "ru-проведение-manual-001",
+    "ru": "проведение",
+    "ky": "жүргүзүү",
+    "pos": "verb",
+    "source": "manual",
+    "senses": [
+      "проведение",
+      "вести",
+      "осуществлять (саясат жүргүзүү = проводить политику)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF"
+  },
+  {
+    "id": "ru-посредством-manual-001",
+    "ru": "посредством, со стороны",
+    "ky": "тарабынан",
+    "pos": "post",
+    "source": "manual",
+    "senses": [
+      "со стороны (кого-л.)",
+      "посредством",
+      "от имени"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D0%B0%D0%B1%D1%8B%D0%BD%D0%B0%D0%BD"
   }
 ]

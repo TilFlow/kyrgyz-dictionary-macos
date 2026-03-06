@@ -28856,5 +28856,49 @@
       "камсыз кылуу = обеспечивать"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D1%81%D1%8B%D0%B7"
+  },
+  {
+    "id": "ru-отчётность-manual-001",
+    "ru": "отчётность",
+    "ky": "отчеттуулук",
+    "pos": "noun",
+    "source": "manual",
+    "senses": [
+      "отчётность",
+      "отчёт"
+    ],
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "отчеттуулуктун",
+        "dative": "отчеттуулукко",
+        "accusative": "отчеттуулукту",
+        "locative": "отчеттуулукто",
+        "ablative": "отчеттуулуктон"
+      },
+      "pluralForms": {
+        "genitive": "отчеттуулуктордун",
+        "dative": "отчеттуулукторго",
+        "accusative": "отчеттуулукторду",
+        "locative": "отчеттуулуктордо",
+        "ablative": "отчеттуулуктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    },
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%82%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "ru-осуществлять-manual-001",
+    "ru": "осуществлять",
+    "ky": "жүзөгө ашыруу",
+    "pos": "verb",
+    "source": "manual",
+    "senses": [
+      "осуществлять",
+      "реализовать",
+      "жүзөгө ашыруу = претворять в жизнь"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%B7%D3%A9%D0%B3%D3%A9%20%D0%B0%D1%88%D1%8B%D1%80%D1%83%D1%83"
   }
 ]

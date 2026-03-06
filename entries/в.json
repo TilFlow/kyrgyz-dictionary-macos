@@ -38353,5 +38353,18 @@
       "высокий"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%B3%D0%BE%D1%80%D0%BA%D1%83"
+  },
+  {
+    "id": "ru-выполнение-manual-001",
+    "ru": "выполнение",
+    "ky": "аткаруу",
+    "pos": "verb",
+    "source": "manual",
+    "senses": [
+      "выполнение",
+      "исполнять",
+      "осуществлять"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D0%BA%D0%B0%D1%80%D1%83%D1%83"
   }
 ]
