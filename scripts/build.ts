@@ -327,6 +327,93 @@ function printEnKyStats(pairs: EnKyEntry[], stats: Record<string, number>, label
   console.log(`    With examples: ${stats.withExamples}`);
 }
 
+interface MergedEntry {
+  headword: string;
+  pos: string[];
+  translations: string[];
+  senses: string[];
+  examples: { ky: string; ru: string }[];
+  pronunciation?: string;
+  etymology?: string;
+  morphology?: DictionaryEntry["morphology"];
+  frequency?: number;
+  sources: string[];
+}
+
+function dedupeExamples(examples: { ky: string; ru: string }[]): { ky: string; ru: string }[] {
+  const seen = new Set<string>();
+  return examples.filter((ex) => {
+    if (seen.has(ex.ky)) return false;
+    seen.add(ex.ky);
+    return true;
+  });
+}
+
+function mergeGroup(group: DictionaryEntry[], direction: "ru-ky" | "ky-ru"): MergedEntry {
+  const primary = group[0];
+  const headword = direction === "ky-ru" ? primary.ky : primary.ru;
+  const translations = direction === "ky-ru"
+    ? [...new Set(group.map((e) => e.ru))]
+    : [...new Set(group.map((e) => e.ky))];
+  const allSenses = [...new Set(group.flatMap((e) => e.senses ?? []))];
+  const allExamples = dedupeExamples(group.flatMap((e) => e.examples ?? []));
+  const posSet = [...new Set(group.map((e) => e.pos))];
+  const sources = [...new Set(group.map((e) => e.source))];
+  const etymologyEntry = group.find((e) => e.etymology);
+  const freqEntry = group.find((e) => e.frequency != null);
+
+  return {
+    headword,
+    pos: posSet,
+    translations,
+    senses: allSenses,
+    examples: allExamples,
+    pronunciation: primary.pronunciation,
+    etymology: etymologyEntry?.etymology,
+    morphology: primary.morphology,
+    frequency: freqEntry?.frequency,
+    sources,
+  };
+}
+
+interface MergedEnKyEntry {
+  headword: string;
+  pos: string[];
+  translations: string[];
+  senses: string[];
+  examples: { ky: string; ru: string }[];
+  pronunciation?: string;
+  etymology?: string;
+  frequency?: number;
+  sources: string[];
+}
+
+function mergeEnKyGroup(group: EnKyEntry[], headwordField: "en" | "ky"): MergedEnKyEntry {
+  const primary = group[0];
+  const headword = headwordField === "en" ? primary.en : primary.ky;
+  const translations = headwordField === "en"
+    ? [...new Set(group.map((e) => e.ky))]
+    : [...new Set(group.map((e) => e.en))];
+  const allSenses = [...new Set(group.flatMap((e) => e.senses ?? []))];
+  const allExamples = dedupeExamples(group.flatMap((e) => e.examples ?? []));
+  const posSet = [...new Set(group.map((e) => e.pos))];
+  const sources = [...new Set(group.map((e) => e.source))];
+  const etymologyEntry = group.find((e) => e.etymology);
+  const freqEntry = group.find((e) => e.frequency != null);
+
+  return {
+    headword,
+    pos: posSet,
+    translations,
+    senses: allSenses,
+    examples: allExamples,
+    pronunciation: primary.pronunciation,
+    etymology: etymologyEntry?.etymology,
+    frequency: freqEntry?.frequency,
+    sources,
+  };
+}
+
 async function main(): Promise<void> {
   console.log("Building dictionaries...\n");
 
@@ -369,14 +456,50 @@ async function main(): Promise<void> {
     await mkdir(jsonDir, { recursive: true });
     console.log("\nBuilding JSON...");
 
-    await Bun.write(join(jsonDir, "ru-ky.json"), JSON.stringify(entries, null, 2));
-    await Bun.write(join(jsonDir, "ky-ru.json"), JSON.stringify(entries, null, 2));
-    console.log(`  ru-ky.json / ky-ru.json: ${entries.length} entries`);
+    // ru-ky: group by Russian headword
+    const ruKyGroups = new Map<string, DictionaryEntry[]>();
+    for (const entry of entries) {
+      const key = entry.ru.toLowerCase();
+      if (!ruKyGroups.has(key)) ruKyGroups.set(key, []);
+      ruKyGroups.get(key)!.push(entry);
+    }
+    const ruKyMerged = [...ruKyGroups.values()].map((group) => mergeGroup(group, "ru-ky"));
+    await Bun.write(join(jsonDir, "ru-ky.json"), JSON.stringify(ruKyMerged, null, 2));
+    console.log(`  ru-ky.json: ${ruKyMerged.length} entries (from ${entries.length})`);
+
+    // ky-ru: group by Kyrgyz headword
+    const kyRuGroups = new Map<string, DictionaryEntry[]>();
+    for (const entry of entries) {
+      const key = entry.ky.toLowerCase();
+      if (!kyRuGroups.has(key)) kyRuGroups.set(key, []);
+      kyRuGroups.get(key)!.push(entry);
+    }
+    const kyRuMerged = [...kyRuGroups.values()].map((group) => mergeGroup(group, "ky-ru"));
+    await Bun.write(join(jsonDir, "ky-ru.json"), JSON.stringify(kyRuMerged, null, 2));
+    console.log(`  ky-ru.json: ${kyRuMerged.length} entries (from ${entries.length})`);
 
     if (enKyData) {
-      await Bun.write(join(jsonDir, "en-ky.json"), JSON.stringify(enKyData.pairs, null, 2));
-      await Bun.write(join(jsonDir, "ky-en.json"), JSON.stringify(enKyData.pairs, null, 2));
-      console.log(`  en-ky.json / ky-en.json: ${enKyData.pairs.length} entries`);
+      // en-ky: group by English headword
+      const enKyGroups = new Map<string, EnKyEntry[]>();
+      for (const entry of enKyData.pairs) {
+        const key = entry.en.toLowerCase();
+        if (!enKyGroups.has(key)) enKyGroups.set(key, []);
+        enKyGroups.get(key)!.push(entry);
+      }
+      const enKyMerged = [...enKyGroups.values()].map((group) => mergeEnKyGroup(group, "en"));
+      await Bun.write(join(jsonDir, "en-ky.json"), JSON.stringify(enKyMerged, null, 2));
+      console.log(`  en-ky.json: ${enKyMerged.length} entries (from ${enKyData.pairs.length})`);
+
+      // ky-en: group by Kyrgyz headword
+      const kyEnGroups = new Map<string, EnKyEntry[]>();
+      for (const entry of enKyData.pairs) {
+        const key = entry.ky.toLowerCase();
+        if (!kyEnGroups.has(key)) kyEnGroups.set(key, []);
+        kyEnGroups.get(key)!.push(entry);
+      }
+      const kyEnMerged = [...kyEnGroups.values()].map((group) => mergeEnKyGroup(group, "ky"));
+      await Bun.write(join(jsonDir, "ky-en.json"), JSON.stringify(kyEnMerged, null, 2));
+      console.log(`  ky-en.json: ${kyEnMerged.length} entries (from ${enKyData.pairs.length})`);
     }
   }
 
