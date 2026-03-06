@@ -86,6 +86,7 @@ function generateMakefile(dictName: string): string {
 DICT_BUILD_TOOL_DIR = /Applications/Utilities/DictionaryDevelopmentKit/bin
 DICT_BUILD_TOOL_BIN = $(DICT_BUILD_TOOL_DIR)/build_dict.sh
 
+DICT_NAME = ${dictName}
 DICT_SRC_PATH = MyDictionary.xml
 CSS_PATH = dictionary.css
 PLIST_PATH = Info.plist
@@ -93,7 +94,7 @@ PLIST_PATH = Info.plist
 DICT_DEV_KIT_OBJ_DIR = ./objects
 
 all:
-\t"$(DICT_BUILD_TOOL_BIN)" $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
+\t"$(DICT_BUILD_TOOL_BIN)" "$(DICT_NAME)" $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
 \techo "Done. Install the .dictionary bundle from objects/"
 
 install: all
@@ -113,6 +114,7 @@ async function buildDictionary(
   distDir: string
 ): Promise<void> {
   const label = direction === "ru-ky" ? "Русско-кыргызский" : "Кыргызско-русский";
+  const dictName = direction === "ru-ky" ? "Russian-Kyrgyz Dictionary" : "Kyrgyz-Russian Dictionary";
   const plistFile = direction === "ru-ky" ? "Info.plist" : "Info-ky-ru.plist";
 
   console.log(`\nBuilding ${label} словарь...`);
@@ -143,7 +145,7 @@ async function buildDictionary(
   }
 
   // Generate Makefile
-  await Bun.write(join(distDir, "Makefile"), generateMakefile(`${label} словарь`));
+  await Bun.write(join(distDir, "Makefile"), generateMakefile(dictName));
 
   printStats(entries, label);
 }

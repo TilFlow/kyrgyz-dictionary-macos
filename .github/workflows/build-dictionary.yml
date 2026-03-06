@@ -28,25 +28,25 @@ jobs:
       - name: Compile ru-ky dictionary
         run: |
           cd dist/ru-ky
-          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh "Russian-Kyrgyz Dictionary" MyDictionary.xml dictionary.css Info.plist
           ls -lh objects/
 
       - name: Compile ky-ru dictionary
         run: |
           cd dist/ky-ru
-          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh "Kyrgyz-Russian Dictionary" MyDictionary.xml dictionary.css Info.plist
           ls -lh objects/
 
       - name: Compile en-ky dictionary
         run: |
           cd dist/en-ky
-          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh "English-Kyrgyz Dictionary" MyDictionary.xml dictionary.css Info.plist
           ls -lh objects/
 
       - name: Compile ky-en dictionary
         run: |
           cd dist/ky-en
-          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh "Kyrgyz-English Dictionary" MyDictionary.xml dictionary.css Info.plist
           ls -lh objects/
 
       - name: Package dictionaries
