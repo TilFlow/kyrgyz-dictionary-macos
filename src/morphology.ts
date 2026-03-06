@@ -648,10 +648,11 @@ export function generateVerbForms(word: string): string[] {
 }
 
 /**
- * Enrich a DictionaryEntry with morphological data if it's a noun without morphology.
+ * Enrich a DictionaryEntry with morphological data (noun only).
+ * Always regenerates to pick up morphology engine fixes.
  */
 export function enrichEntry(entry: DictionaryEntry): DictionaryEntry {
-  if (entry.pos !== "noun" || entry.morphology) {
+  if (entry.pos !== "noun") {
     return entry;
   }
 

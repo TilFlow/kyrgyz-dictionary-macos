@@ -286,7 +286,7 @@ describe("enrichEntry", () => {
     expect(enriched.morphology!.rule).toBeDefined();
   });
 
-  test('does not overwrite existing morphology', () => {
+  test('regenerates morphology even if already present', () => {
     const entry: DictionaryEntry = {
       id: "ru-книга-001",
       ru: "книга",
@@ -294,13 +294,14 @@ describe("enrichEntry", () => {
       pos: "noun",
       source: "wiktionary-en",
       morphology: {
-        stemType: "voiceless",
+        stemType: "voiced",
         vowelGroup: 2,
-        rule: "custom rule",
+        rule: "old wrong rule",
       },
     };
     const enriched = enrichEntry(entry);
-    expect(enriched.morphology!.rule).toBe("custom rule");
+    expect(enriched.morphology!.stemType).toBe("voiceless");
+    expect(enriched.morphology!.rule).not.toBe("old wrong rule");
   });
 
   test('does not enrich non-noun entries', () => {

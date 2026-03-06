@@ -43,11 +43,9 @@ async function main() {
       totalEntries++;
       const entry = entries[i];
 
-      // Enrich morphology for nouns
+      // Enrich morphology for nouns (always regenerate to pick up morphology fixes)
       if (entry.pos !== "noun") {
         nonNounSkipped++;
-      } else if (entry.morphology) {
-        alreadyHadMorphology++;
       } else {
         entries[i] = enrichEntry(entry);
         nounsEnriched++;
