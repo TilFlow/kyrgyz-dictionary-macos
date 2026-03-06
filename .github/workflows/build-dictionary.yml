@@ -82,10 +82,10 @@ jobs:
 
             | Dictionary | File |
             |---|---|
-            | Русско-кыргызский (Russian→Kyrgyz) | `ru-ky-dictionary-macos.zip` |
-            | Кыргызско-русский (Kyrgyz→Russian) | `ky-ru-dictionary-macos.zip` |
-            | English→Kyrgyz | `en-ky-dictionary-macos.zip` |
-            | Kyrgyz→English | `ky-en-dictionary-macos.zip` |
+            | Орусча-кыргызча сөздүк | `ru-ky-dictionary-macos.zip` |
+            | Кыргызско-русский словарь | `ky-ru-dictionary-macos.zip` |
+            | Англисче-кыргызча сөздүк | `en-ky-dictionary-macos.zip` |
+            | Kyrgyz-English Dictionary | `ky-en-dictionary-macos.zip` |
 
             ### Installation
             1. Download the archive

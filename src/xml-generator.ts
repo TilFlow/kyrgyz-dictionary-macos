@@ -60,10 +60,6 @@ function escapeXml(text: string): string {
     .replace(/'/g, "&apos;");
 }
 
-function capitalize(s: string): string {
-  return s.charAt(0).toUpperCase() + s.slice(1);
-}
-
 function deduplicateCI(items: string[]): string[] {
   const seen = new Set<string>();
   return items.filter((t) => {
@@ -71,7 +67,99 @@ function deduplicateCI(items: string[]): string[] {
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
-  }).map(capitalize);
+  });
+}
+
+/**
+ * Check if two Russian words share a long common prefix,
+ * indicating they are likely morphological variants (aspect pairs,
+ * noun/verb from same root, gendered pairs).
+ */
+function areStemRelated(a: string, b: string): boolean {
+  const na = normalizeRu(a);
+  const nb = normalizeRu(b);
+
+  if (hasLongCommonPrefix(na, nb)) return true;
+
+  // Try stripping common verb prefixes to catch pairs like
+  // информировать / проинформировать
+  const prefixes = [
+    "про", "по", "за", "вы", "при", "пере", "на", "от", "из", "до", "раз", "об",
+  ];
+  for (const prefix of prefixes) {
+    if (na.startsWith(prefix) && !nb.startsWith(prefix)) {
+      if (hasLongCommonPrefix(na.slice(prefix.length), nb)) return true;
+    }
+    if (nb.startsWith(prefix) && !na.startsWith(prefix)) {
+      if (hasLongCommonPrefix(na, nb.slice(prefix.length))) return true;
+    }
+  }
+
+  return false;
+}
+
+function normalizeRu(word: string): string {
+  return word
+    .toLowerCase()
+    .replace(/ё/g, "е")
+    .replace(/(ся|сь)$/, "");
+}
+
+function hasLongCommonPrefix(a: string, b: string): boolean {
+  let common = 0;
+  while (common < a.length && common < b.length && a[common] === b[common]) {
+    common++;
+  }
+  const minLen = Math.min(a.length, b.length);
+  return common >= 5 && common >= minLen * 0.4;
+}
+
+interface ScoredTranslation {
+  text: string;
+  pos: string;
+  sourceCount: number;
+}
+
+/**
+ * Score translations by source attestation count and deduplicate
+ * stem-related Russian words (verb aspect pairs, noun/verb from same root).
+ */
+function scoreAndDedupTranslations(
+  group: DictionaryEntry[],
+  direction: DictDirection,
+): ScoredTranslation[] {
+  // Collect translations with source counts
+  const translationData = new Map<string, { text: string; pos: string; sources: Set<string> }>();
+  for (const entry of group) {
+    const translation = direction === "ky-ru" ? entry.ru : entry.ky;
+    const key = translation.toLowerCase();
+    if (!translationData.has(key)) {
+      translationData.set(key, { text: translation, pos: entry.pos, sources: new Set() });
+    }
+    translationData.get(key)!.sources.add(entry.source);
+  }
+
+  // Build scored list
+  const scored: ScoredTranslation[] = [];
+  for (const [, { text, pos, sources }] of translationData) {
+    scored.push({ text, pos, sourceCount: sources.size });
+  }
+
+  // Sort by source count desc, then length asc (prefer shorter/simpler words)
+  scored.sort((a, b) => {
+    if (b.sourceCount !== a.sourceCount) return b.sourceCount - a.sourceCount;
+    return a.text.length - b.text.length;
+  });
+
+  // Stem dedup: keep first of each stem cluster
+  const result: ScoredTranslation[] = [];
+  for (const item of scored) {
+    if (!result.some((r) => areStemRelated(r.text, item.text))) {
+      result.push(item);
+    }
+  }
+
+  return result;
 }
 
 function collectIndexValues(entry: DictionaryEntry): Set<string> {
@@ -324,41 +412,43 @@ const POS_LABELS_EN: Record<string, string> = {
   intj: "intj.",
 };
 
-const DICT_NAMES: Record<DictDirection, { ru: string; en: string; desc: string }> = {
+const DICT_NAMES: Record<DictDirection, { title: string; desc: string }> = {
   "ru-ky": {
-    ru: "Русско-кыргызский словарь",
-    en: "Russian-Kyrgyz Dictionary",
-    desc: "Содержит переводы с русского на кыргызский язык с морфологической информацией.",
+    title: "Орусча-кыргызча сөздүк",
+    desc: "Орус тилинен кыргыз тилине котормолор, морфология маалыматы менен.",
   },
   "ky-ru": {
-    ru: "Кыргызско-русский словарь",
-    en: "Kyrgyz-Russian Dictionary",
+    title: "Кыргызско-русский словарь",
     desc: "Содержит переводы с кыргызского на русский язык с морфологической информацией.",
   },
   "en-ky": {
-    ru: "English-Kyrgyz Dictionary",
-    en: "English-Kyrgyz Dictionary",
-    desc: "English to Kyrgyz translations sourced from Wiktionary.",
+    title: "Англисче-кыргызча сөздүк",
+    desc: "Wiktionary булагынан англис тилинен кыргыз тилине котормолор.",
   },
   "ky-en": {
-    ru: "Kyrgyz-English Dictionary",
-    en: "Kyrgyz-English Dictionary",
+    title: "Kyrgyz-English Dictionary",
     desc: "Kyrgyz to English translations sourced from Wiktionary.",
   },
 };
 
 export function generateFrontMatter(direction: DictDirection = "ru-ky"): string {
   const name = DICT_NAMES[direction];
-  return `<d:entry id="front-matter" d:title="${name.ru}">
-<h1 class="hw">${name.ru}</h1>
+  const isKy = direction === "ru-ky" || direction === "en-ky";
+  const aboutHeader = isKy ? "Сөздүк жөнүндө" : direction === "ky-en" ? "About" : "О словаре";
+  const sourcesHeader = isKy ? "Маалымат булактары" : direction === "ky-en" ? "Data Sources" : "Источники данных";
+  const licenseHeader = isKy ? "Лицензия" : direction === "ky-en" ? "License" : "Лицензия";
+  const forApp = isKy ? "macOS Dictionary.app үчүн." : direction === "ky-en" ? "for macOS Dictionary.app." : "для macOS Dictionary.app.";
+
+  return `<d:entry id="front-matter" d:title="${name.title}">
+<h1 class="hw">${name.title}</h1>
 <div class="full-entry">
 <div class="section">
-<h3 class="section-header">О словаре</h3>
-<p>${name.ru} для macOS Dictionary.app.</p>
+<h3 class="section-header">${aboutHeader}</h3>
+<p>${name.title} ${forApp}</p>
 <p>${name.desc}</p>
 </div>
 <div class="section">
-<h3 class="section-header">Источники данных</h3>
+<h3 class="section-header">${sourcesHeader}</h3>
 <ul>
 <li>Wiktionary (CC BY-SA)</li>
 <li>Apertium (GPL-3.0)</li>
@@ -368,7 +458,7 @@ export function generateFrontMatter(direction: DictDirection = "ru-ky"): string 
 </ul>
 </div>
 <div class="section">
-<h3 class="section-header">Лицензия</h3>
+<h3 class="section-header">${licenseHeader}</h3>
 <p>CC BY-NC-SA 4.0</p>
 </div>
 </div>
@@ -409,16 +499,14 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
     );
   }
 
-  // Group entries by POS, deduplicate translations case-insensitively, capitalize
+  // Score translations by source attestation and deduplicate stem-related words
+  const scoredTranslations = scoreAndDedupTranslations(group, direction);
+
+  // Group deduped translations by POS for display
   const byPos = new Map<string, string[]>();
-  for (const entry of group) {
-    const pos = entry.pos;
-    if (!byPos.has(pos)) byPos.set(pos, []);
-    const translation = direction === "ky-ru" ? entry.ru : entry.ky;
-    byPos.get(pos)!.push(translation);
-  }
-  for (const [pos, translations] of byPos) {
-    byPos.set(pos, deduplicateCI(translations));
+  for (const item of scoredTranslations) {
+    if (!byPos.has(item.pos)) byPos.set(item.pos, []);
+    byPos.get(item.pos)!.push(item.text);
   }
 
   // Render grouped by POS
@@ -434,7 +522,6 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
     // Multiple POS — group with labels
     const posLabels = posEntries.map(([p]) => POS_LABELS[p] ?? p);
     compactParts.push(`<span class="pos">${escapeXml(posLabels.join(", "))}</span>`);
-    let senseNum = 1;
     const parts: string[] = [];
     for (const [pos, translations] of posEntries) {
       const posLabel = POS_LABELS[pos] ?? pos;
@@ -448,26 +535,25 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
   // Full view: merged sections
   const fullSections: string[] = [];
 
-  // Translation section — grouped by POS, case-insensitive dedup
+  // Translation section — use scored+deduped translations, add senses
+  // Collect senses from all entries, dedup case-insensitively
+  const allSenses = deduplicateCI(group.flatMap((e) => e.senses ?? []));
+
+  // Group scored translations by POS (reuse from compact view)
   const fullByPos = new Map<string, string[]>();
-  for (const entry of group) {
-    const pos = entry.pos;
-    if (!fullByPos.has(pos)) fullByPos.set(pos, []);
-    const items = direction === "ky-ru"
-      ? [entry.ru, ...(entry.senses ?? [])]
-      : [entry.ky, ...(entry.senses ?? [])];
-    fullByPos.get(pos)!.push(...items);
+  for (const item of scoredTranslations) {
+    if (!fullByPos.has(item.pos)) fullByPos.set(item.pos, []);
+    fullByPos.get(item.pos)!.push(item.text);
   }
-  for (const [pos, items] of fullByPos) {
-    fullByPos.set(pos, deduplicateCI(items));
-  }
+
   const fullPosEntries = [...fullByPos.entries()];
   if (fullPosEntries.length === 1) {
     const [, items] = fullPosEntries[0];
+    const allItems = [...items, ...allSenses.filter((s) => !items.some((i) => i.toLowerCase() === s.toLowerCase()))];
     fullSections.push(
       `<div class="section">
 <h3 class="section-header">Перевод</h3>
-<ol class="senses">${items.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>
+<ol class="senses">${allItems.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>
 </div>`
     );
   } else {
@@ -476,6 +562,12 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
       const posLabel = POS_LABELS[pos] ?? pos;
       parts.push(`<p class="pos-label">${escapeXml(posLabel)}</p>
 <ol class="senses">${items.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>`);
+    }
+    // Add extra senses not already covered
+    const allTranslations = scoredTranslations.map((t) => t.text.toLowerCase());
+    const extraSenses = allSenses.filter((s) => !allTranslations.includes(s.toLowerCase()));
+    if (extraSenses.length > 0) {
+      parts.push(`<ol class="senses">${extraSenses.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>`);
     }
     fullSections.push(
       `<div class="section">
@@ -556,10 +648,12 @@ export function generateDictionary(entries: DictionaryEntry[], direction: DictDi
 
   let entryXml: string;
   if (direction === "ky-ru") {
-    // Group entries by Kyrgyz headword to avoid duplicate cards
+    // Group entries by Kyrgyz headword only (no POS) to enable
+    // cross-POS stem dedup (e.g. уведомление noun + уведомить verb → one word)
+    // Strip trailing dashes so "кара-" merges with "кара"
     const groups = new Map<string, DictionaryEntry[]>();
     for (const entry of entries) {
-      const key = entry.ky.toLowerCase();
+      const key = entry.ky.toLowerCase().replace(/-+$/, "");
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key)!.push(entry);
     }
@@ -567,10 +661,10 @@ export function generateDictionary(entries: DictionaryEntry[], direction: DictDi
       .map((group) => generateMergedEntry(group, direction))
       .join("\n");
   } else {
-    // ru-ky: group by Russian headword
+    // ru-ky: group by Russian headword + POS
     const groups = new Map<string, DictionaryEntry[]>();
     for (const entry of entries) {
-      const key = entry.ru.toLowerCase();
+      const key = entry.ru.toLowerCase().replace(/-+$/, "") + "\0" + entry.pos;
       if (!groups.has(key)) groups.set(key, []);
       groups.get(key)!.push(entry);
     }
@@ -941,10 +1035,10 @@ export function generateKyEnDictionary(entries: EnKyEntry[]): string {
 
   const frontMatter = generateFrontMatter("ky-en");
 
-  // Group by Kyrgyz headword
+  // Group by Kyrgyz headword + POS (strip trailing dashes)
   const groups = new Map<string, EnKyEntry[]>();
   for (const entry of entries) {
-    const key = entry.ky.toLowerCase();
+    const key = entry.ky.toLowerCase().replace(/-+$/, "") + "\0" + (entry.pos ?? "");
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key)!.push(entry);
   }
@@ -967,10 +1061,10 @@ export function generateEnKyDictionary(entries: EnKyEntry[]): string {
 
   const frontMatter = generateFrontMatter("en-ky");
 
-  // Group by English headword
+  // Group by English headword + POS (strip trailing dashes)
   const groups = new Map<string, EnKyEntry[]>();
   for (const entry of entries) {
-    const key = entry.en.toLowerCase();
+    const key = entry.en.toLowerCase().replace(/-+$/, "") + "\0" + (entry.pos ?? "");
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key)!.push(entry);
   }

@@ -3467,7 +3467,7 @@
     }
   },
   {
-    "ru": "Киргизия",
+    "ru": "Кыргызстан",
     "ky": "Кыргызстан",
     "pos": "noun",
     "source": "wiktionary-ru",
@@ -3483,7 +3483,7 @@
       }
     ],
     "frequency": 447,
-    "id": "ru-Киргизия-001",
+    "id": "ru-Кыргызстан-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -3764,7 +3764,7 @@
     }
   },
   {
-    "ru": "киргиз",
+    "ru": "кыргыз",
     "ky": "кыргыз",
     "pos": "noun",
     "source": "wiktionary-ru",
@@ -3784,7 +3784,7 @@
     "ruAccented": "кирги'з",
     "ruGender": "m",
     "frequency": 17360,
-    "id": "ru-киргиз-001",
+    "id": "ru-кыргыз-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -12143,7 +12143,7 @@
     }
   },
   {
-    "ru": "киргизский язык",
+    "ru": "кыргызский язык",
     "ky": "кыргыз",
     "pos": "noun",
     "source": "wiktionary-ru",
@@ -12161,7 +12161,7 @@
       }
     ],
     "frequency": 17360,
-    "id": "ru-киргизский язык-001",
+    "id": "ru-кыргызский язык-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -12183,12 +12183,12 @@
     }
   },
   {
-    "ru": "киргизский язык",
+    "ru": "кыргызский язык",
     "ky": "кыргыз тили",
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D1%82%D0%B8%D0%BB%D0%B8",
-    "id": "ru-киргизский язык-002",
+    "id": "ru-кыргызский язык-002",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 2,
@@ -12210,7 +12210,7 @@
     }
   },
   {
-    "ru": "киргизский язык",
+    "ru": "кыргызский язык",
     "ky": "кыргызча",
     "pos": "noun",
     "source": "wiktionary-ru",
@@ -12226,7 +12226,7 @@
       }
     ],
     "frequency": 17,
-    "id": "ru-киргизский язык-003",
+    "id": "ru-кыргызский язык-003",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 1,
@@ -12582,12 +12582,12 @@
     }
   },
   {
-    "ru": "Киргизская ССР",
+    "ru": "Кыргызская ССР",
     "ky": "Кыргыз ССР",
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D0%A1%D0%A1%D0%A0",
-    "id": "ru-Киргизская ССР-001",
+    "id": "ru-Кыргызская ССР-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -12938,12 +12938,12 @@
     }
   },
   {
-    "ru": "Киргизская Республика",
+    "ru": "Кыргызская Республика",
     "ky": "Кыргыз Республикасы",
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
-    "id": "ru-Киргизская Республика-001",
+    "id": "ru-Кыргызская Республика-001",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 1,
@@ -16110,7 +16110,7 @@
     }
   },
   {
-    "ru": "Киргизстан",
+    "ru": "Кыргызстан",
     "ky": "Кыргызстан",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -16131,7 +16131,7 @@
     "ruAccented": "Киргизста'н",
     "ruGender": "m",
     "frequency": 447,
-    "id": "ru-Киргизстан-001",
+    "id": "ru-Кыргызстан-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -28707,7 +28707,7 @@
     "id": "ru-картвельский-002"
   },
   {
-    "ru": "киргизка",
+    "ru": "кыргызка",
     "ky": "кыргыз",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -28730,7 +28730,7 @@
     "ruAccented": "кирги'зка",
     "ruGender": "f",
     "frequency": 17360,
-    "id": "ru-киргизка-001",
+    "id": "ru-кыргызка-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -28838,7 +28838,7 @@
     }
   },
   {
-    "ru": "киргизский язык",
+    "ru": "кыргызский язык",
     "ky": "قىرعىز تىلى",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -28846,7 +28846,7 @@
     "senses": [
       "language"
     ],
-    "id": "ru-киргизский язык-004",
+    "id": "ru-кыргызский язык-004",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -28868,7 +28868,7 @@
     }
   },
   {
-    "ru": "киргизский язык",
+    "ru": "кыргызский язык",
     "ky": "قىرعىزچا",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -28876,7 +28876,7 @@
     "senses": [
       "language"
     ],
-    "id": "ru-киргизский язык-005",
+    "id": "ru-кыргызский язык-005",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -28898,7 +28898,7 @@
     }
   },
   {
-    "ru": "киргизский",
+    "ru": "кыргызский",
     "ky": "кыргыз",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -28920,7 +28920,7 @@
     ],
     "ruAccented": "кирги'зский",
     "frequency": 17360,
-    "id": "ru-киргизский-001",
+    "id": "ru-кыргызский-001",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -28942,7 +28942,7 @@
     }
   },
   {
-    "ru": "киргизский",
+    "ru": "кыргызский",
     "ky": "кыргыз тили",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -28951,7 +28951,7 @@
       "language"
     ],
     "ruAccented": "кирги'зский",
-    "id": "ru-киргизский-002",
+    "id": "ru-кыргызский-002",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 2,
@@ -28973,7 +28973,7 @@
     }
   },
   {
-    "ru": "киргизский",
+    "ru": "кыргызский",
     "ky": "кыргызча",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -28993,7 +28993,7 @@
     ],
     "ruAccented": "кирги'зский",
     "frequency": 17,
-    "id": "ru-киргизский-003",
+    "id": "ru-кыргызский-003",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 1,
@@ -29015,7 +29015,7 @@
     }
   },
   {
-    "ru": "киргизский",
+    "ru": "кыргызский",
     "ky": "قىرعىز تىلى",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -29024,7 +29024,7 @@
       "language"
     ],
     "ruAccented": "кирги'зский",
-    "id": "ru-киргизский-004",
+    "id": "ru-кыргызский-004",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -29046,7 +29046,7 @@
     }
   },
   {
-    "ru": "киргизский",
+    "ru": "кыргызский",
     "ky": "قىرعىزچا",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -29055,7 +29055,7 @@
       "language"
     ],
     "ruAccented": "кирги'зский",
-    "id": "ru-киргизский-005",
+    "id": "ru-кыргызский-005",
     "morphology": {
       "stemType": "voiced",
       "vowelGroup": 1,
@@ -29380,7 +29380,7 @@
     }
   },
   {
-    "ru": "киргиз",
+    "ru": "кыргыз",
     "ky": "казак",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -29402,7 +29402,7 @@
     "ruAccented": "кирги'з",
     "ruGender": "m",
     "frequency": 270,
-    "id": "ru-киргиз-002",
+    "id": "ru-кыргыз-002",
     "morphology": {
       "stemType": "voiceless",
       "vowelGroup": 1,
@@ -29424,7 +29424,7 @@
     }
   },
   {
-    "ru": "киргизка",
+    "ru": "кыргызка",
     "ky": "казак",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -29446,7 +29446,7 @@
     "ruAccented": "кирги'зка",
     "ruGender": "f",
     "frequency": 270,
-    "id": "ru-киргизка-002",
+    "id": "ru-кыргызка-002",
     "morphology": {
       "stemType": "voiceless",
       "vowelGroup": 1,
@@ -51862,7 +51862,7 @@
     "id": "ru-кыргызстанский-001"
   },
   {
-    "ru": "Киргизская Советская Социалистическая Республика",
+    "ru": "Кыргызская Советская Социалистическая Республика",
     "ky": "Кыргыз Советтик Социалисттик Республикасы",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -51870,7 +51870,7 @@
     "senses": [
       "Translations"
     ],
-    "id": "ru-Киргизская Советская Социалистическая Республика-001",
+    "id": "ru-Кыргызская Советская Социалистическая Республика-001",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 1,
@@ -52503,7 +52503,7 @@
     }
   },
   {
-    "ru": "киргизизация",
+    "ru": "кыргызизация",
     "ky": "кыргыздаштырма",
     "pos": "noun",
     "source": "wiktionary-en",
@@ -52513,7 +52513,7 @@
     ],
     "etymology": "From кыргыздаштыр- (kırgızdaştır-, “to Kyrgyzize”) + -ма (-ma).",
     "pronunciation": "[qɯrˈʁɯzˈdaʃˈtɯrˈma]",
-    "id": "ru-киргизизация-001",
+    "id": "ru-кыргызизация-001",
     "morphology": {
       "stemType": "vowel",
       "vowelGroup": 1,
@@ -52567,7 +52567,7 @@
     }
   },
   {
-    "ru": "киргизизировать",
+    "ru": "кыргызизировать",
     "ky": "кыргыздаштыруу",
     "pos": "verb",
     "source": "wiktionary-en",
@@ -52575,7 +52575,7 @@
     "senses": [
       "Kyrgyzize"
     ],
-    "id": "ru-киргизизировать-001"
+    "id": "ru-кыргызизировать-001"
   },
   {
     "ru": "Коканд",
@@ -52732,7 +52732,7 @@
     "source": "manual",
     "senses": [
       "Кыргызстан",
-      "Киргизия"
+      "Кыргызстан"
     ],
     "morphology": {
       "stemType": "voiced",

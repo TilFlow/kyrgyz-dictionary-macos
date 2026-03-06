@@ -456,10 +456,10 @@ async function main(): Promise<void> {
     await mkdir(jsonDir, { recursive: true });
     console.log("\nBuilding JSON...");
 
-    // ru-ky: group by Russian headword
+    // ru-ky: group by Russian headword + POS
     const ruKyGroups = new Map<string, DictionaryEntry[]>();
     for (const entry of entries) {
-      const key = entry.ru.toLowerCase();
+      const key = entry.ru.toLowerCase().replace(/-+$/, "") + "\0" + entry.pos;
       if (!ruKyGroups.has(key)) ruKyGroups.set(key, []);
       ruKyGroups.get(key)!.push(entry);
     }
@@ -467,10 +467,10 @@ async function main(): Promise<void> {
     await Bun.write(join(jsonDir, "ru-ky.json"), JSON.stringify(ruKyMerged, null, 2));
     console.log(`  ru-ky.json: ${ruKyMerged.length} entries (from ${entries.length})`);
 
-    // ky-ru: group by Kyrgyz headword
+    // ky-ru: group by Kyrgyz headword + POS
     const kyRuGroups = new Map<string, DictionaryEntry[]>();
     for (const entry of entries) {
-      const key = entry.ky.toLowerCase();
+      const key = entry.ky.toLowerCase().replace(/-+$/, "") + "\0" + entry.pos;
       if (!kyRuGroups.has(key)) kyRuGroups.set(key, []);
       kyRuGroups.get(key)!.push(entry);
     }
@@ -479,10 +479,10 @@ async function main(): Promise<void> {
     console.log(`  ky-ru.json: ${kyRuMerged.length} entries (from ${entries.length})`);
 
     if (enKyData) {
-      // en-ky: group by English headword
+      // en-ky: group by English headword + POS
       const enKyGroups = new Map<string, EnKyEntry[]>();
       for (const entry of enKyData.pairs) {
-        const key = entry.en.toLowerCase();
+        const key = entry.en.toLowerCase().replace(/-+$/, "") + "\0" + (entry.pos ?? "");
         if (!enKyGroups.has(key)) enKyGroups.set(key, []);
         enKyGroups.get(key)!.push(entry);
       }
@@ -490,10 +490,10 @@ async function main(): Promise<void> {
       await Bun.write(join(jsonDir, "en-ky.json"), JSON.stringify(enKyMerged, null, 2));
       console.log(`  en-ky.json: ${enKyMerged.length} entries (from ${enKyData.pairs.length})`);
 
-      // ky-en: group by Kyrgyz headword
+      // ky-en: group by Kyrgyz headword + POS
       const kyEnGroups = new Map<string, EnKyEntry[]>();
       for (const entry of enKyData.pairs) {
-        const key = entry.ky.toLowerCase();
+        const key = entry.ky.toLowerCase().replace(/-+$/, "") + "\0" + (entry.pos ?? "");
         if (!kyEnGroups.has(key)) kyEnGroups.set(key, []);
         kyEnGroups.get(key)!.push(entry);
       }

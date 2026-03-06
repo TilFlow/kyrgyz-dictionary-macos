@@ -49,7 +49,7 @@ entries/          # Dictionary entries (JSON, grouped by first letter)
 src/              # Core
   schema.ts       # Zod schema for DictionaryEntry
   morphology.ts   # Kyrgyz morphology (vowel harmony, declension)
-  xml-generator.ts # JSON → Apple Dictionary XML (4 directions)
+  xml-generator.ts # JSON → Apple Dictionary XML (4 directions, stem dedup, source scoring)
 scripts/          # Build scripts
   build.ts        # Main build (entries → dist/)
   validate.ts     # Schema validation

@@ -1,5 +1,7 @@
 # Kyrgyz Dictionaries for macOS
 
+[README на русском](README_RU.md) · [README кыргызча](README_KY.md)
+
 Four dictionaries for macOS Dictionary.app, built from open data:
 
 | Dictionary | Entries | Description |
@@ -10,8 +12,10 @@ Four dictionaries for macOS Dictionary.app, built from open data:
 | Kyrgyz-English | 8,800+ | Reverse lookup with Kyrgyz headwords |
 
 Features:
-- Search by any word form (type "китептин" to find "китеп")
+- Search by any word form (type "китептин" to find "китеп", "билдирет" to find "билдирүү")
 - Noun declension tables (6 cases x singular/plural)
+- Verb conjugation forms indexed for search
+- Smart translation grouping: deduplicates verb aspect pairs, gendered forms; ranks by source attestation
 - Suffix selection rules explained
 - Etymology and pronunciation from Wiktionary
 - Corpus frequency from Manas-UdS
@@ -31,8 +35,6 @@ Features:
 - [Building from source](docs/BUILDING.md)
 - [Data pipeline](docs/PIPELINE.md)
 - [Contributing](docs/CONTRIBUTING.md)
-- [README на русском](README_RU.md)
-- [README кыргызча](README_KY.md)
 
 ## Data Sources
 

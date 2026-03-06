@@ -120,6 +120,15 @@ The en-ky pairs are extracted separately and enriched at build time:
 
 The same enriched data is used for both en-ky and ky-en dictionaries.
 
+## How Build-time Translation Processing Works
+
+During XML generation (`bun run build`), translations are processed:
+
+1. **Source scoring**: each translation is scored by the number of distinct sources that attest it (e.g., a word found in both wiktionary-en and wiktionary-ru scores higher)
+2. **Stem dedup**: morphologically related Russian translations are collapsed — verb aspect pairs (сообщать/сообщить), noun/verb from same root (уведомление/уведомить), gendered pairs (мерзавец/мерзавка). Uses longest-common-prefix heuristic with Russian verb prefix stripping
+3. **Sorting**: translations with more source attestations appear first, then by word length (shorter first)
+4. For ky-ru direction, entries are grouped by Kyrgyz headword only (not POS), so cross-POS dedup works
+
 ## How Morphological Enrichment Works
 
 For each noun without morphology:

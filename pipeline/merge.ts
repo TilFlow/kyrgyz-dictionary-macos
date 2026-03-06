@@ -88,9 +88,26 @@ export interface MergeResult {
 
 // --- Normalization ---
 
-/** Normalize a Russian word: strip leading English glosses, acute accent (U+0301), NFC normalize. */
+/** Normalize a Russian word: strip leading English glosses, acute accent (U+0301), NFC normalize, fix "киргиз" → "кыргыз". */
 export function normalizeRussianWord(word: string): string {
-  return word.replace(/^\([^)]*\)\s*/g, "").replace(/\u0301/g, "").normalize("NFC");
+  return fixKyrgyzSpelling(
+    word.replace(/^\([^)]*\)\s*/g, "").replace(/\u0301/g, "").normalize("NFC")
+  );
+}
+
+/** Replace outdated/incorrect "киргиз" spellings with correct "кыргыз" forms. */
+export function fixKyrgyzSpelling(text: string): string {
+  return text
+    .replace(/Киргизия/g, "Кыргызстан")
+    .replace(/Киргизстан/g, "Кыргызстан")
+    .replace(/киргизизирова/g, "кыргызизирова")
+    .replace(/киргизизаци/g, "кыргызизаци")
+    .replace(/Киргизск/g, "Кыргызск")
+    .replace(/киргизск/g, "кыргызск")
+    .replace(/по-киргизски/g, "по-кыргызски")
+    .replace(/киргизк/g, "кыргызк")
+    .replace(/киргиз/g, "кыргыз")
+    .replace(/Киргиз/g, "Кыргыз");
 }
 
 const VALID_POS = new Set([
@@ -211,9 +228,9 @@ export function mergeEntries(
       pos = "noun"; // default fallback
     }
 
-    // Parse senses
+    // Parse senses, fix "киргиз" spelling
     const senses = item.sense
-      ? item.sense.split("; ").map((s) => s.trim()).filter(Boolean)
+      ? item.sense.split("; ").map((s) => fixKyrgyzSpelling(s.trim())).filter(Boolean)
       : undefined;
 
     // Look up enrichment by "word:pos"
