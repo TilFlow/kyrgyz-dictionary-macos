@@ -60,7 +60,7 @@ function escapeXml(text: string): string {
     .replace(/'/g, "&apos;");
 }
 
-function generateIndexElements(entry: DictionaryEntry, direction: DictDirection = "ru-ky"): string {
+function collectIndexValues(entry: DictionaryEntry): Set<string> {
   const indices = new Set<string>();
   indices.add(entry.ru);
   indices.add(entry.ky);
@@ -101,6 +101,11 @@ function generateIndexElements(entry: DictionaryEntry, direction: DictDirection 
     }
   }
 
+  return indices;
+}
+
+function generateIndexElements(entry: DictionaryEntry, direction: DictDirection = "ru-ky"): string {
+  const indices = collectIndexValues(entry);
   const title = direction === "ky-ru" ? entry.ky : entry.ru;
   return Array.from(indices)
     .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(title)}"/>`)
@@ -363,15 +368,20 @@ export function generateFrontMatter(direction: DictDirection = "ru-ky"): string 
 function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection): string {
   const primary = group[0];
 
-  // Collect all indices from all entries in the group
-  const allIndices: string[] = [];
+  const headword = direction === "ky-ru" ? primary.ky : primary.ru;
+
+  // Collect all index values from all entries, deduplicating
+  const allValues = new Set<string>();
   for (const entry of group) {
-    allIndices.push(generateIndexElements(entry, direction));
+    for (const v of collectIndexValues(entry)) {
+      allValues.add(v);
+    }
   }
-  const indices = allIndices.join("\n");
+  const indices = Array.from(allValues)
+    .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(headword)}"/>`)
+    .join("\n");
 
   // Compact view: single headword, merged translations
-  const headword = direction === "ky-ru" ? primary.ky : primary.ru;
   const compactParts: string[] = [];
   compactParts.push(`<h1 class="hw">${escapeXml(headword)}</h1>`);
 
@@ -470,9 +480,8 @@ ${rows.join("\n")}
   }
 
   const full = `<div d:priority="2" class="full-entry">\n${fullSections.join("\n")}\n</div>`;
-  const title = direction === "ky-ru" ? primary.ky : primary.ru;
 
-  return `<d:entry id="${escapeXml(primary.id)}" d:title="${escapeXml(title)}">
+  return `<d:entry id="${escapeXml(primary.id)}" d:title="${escapeXml(headword)}">
 ${indices}
 ${compact}
 ${full}
