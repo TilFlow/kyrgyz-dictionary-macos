@@ -1,0 +1,62 @@
+[
+  {
+    "ru": "includes reptiles",
+    "ky": "рептилия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D0%BF%D1%82%D0%B8%D0%BB%D0%B8%D1%8F",
+    "senses": [
+      "a cold-blooded vertebrate"
+    ],
+    "id": "ru-includes reptiles-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "рептилиядин",
+        "dative": "рептилияге",
+        "accusative": "рептилияди",
+        "locative": "рептилияде",
+        "ablative": "рептилияден"
+      },
+      "pluralForms": {
+        "genitive": "рептилиядердин",
+        "dative": "рептилиядерге",
+        "accusative": "рептилиядерди",
+        "locative": "рептилиядерде",
+        "ablative": "рептилиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "includes reptiles",
+    "ky": "сойлоочу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B9%D0%BB%D0%BE%D0%BE%D1%87%D1%83",
+    "senses": [
+      "a cold-blooded vertebrate"
+    ],
+    "id": "ru-includes reptiles-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "сойлоочунун",
+        "dative": "сойлоочуго",
+        "accusative": "сойлоочуну",
+        "locative": "сойлоочудо",
+        "ablative": "сойлоочудон"
+      },
+      "pluralForms": {
+        "genitive": "сойлоочулордун",
+        "dative": "сойлоочулорго",
+        "accusative": "сойлоочулорду",
+        "locative": "сойлоочулордо",
+        "ablative": "сойлоочулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  }
+]

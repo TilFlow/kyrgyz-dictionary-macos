@@ -1,0 +1,87 @@
+name: Build Dictionary
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Build XML (both dictionaries)
+        run: bun run build
+
+      - name: Clone Dictionary Development Kit
+        run: |
+          git clone --depth 1 https://github.com/SebastianSzturo/Dictionary-Development-Kit.git /tmp/DictionaryDevelopmentKit
+
+      - name: Compile ru-ky dictionary
+        run: |
+          cd dist/ru-ky
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          ls -lh objects/
+
+      - name: Compile ky-ru dictionary
+        run: |
+          cd dist/ky-ru
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          ls -lh objects/
+
+      - name: Compile en-ky dictionary
+        run: |
+          cd dist/en-ky
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          ls -lh objects/
+
+      - name: Compile ky-en dictionary
+        run: |
+          cd dist/ky-en
+          /tmp/DictionaryDevelopmentKit/bin/build_dict.sh MyDictionary.xml dictionary.css Info.plist
+          ls -lh objects/
+
+      - name: Package dictionaries
+        run: |
+          mkdir -p release
+          for dir in ru-ky ky-ru en-ky ky-en; do
+            cd dist/$dir/objects
+            DICT_DIR=$(ls -d *.dictionary)
+            zip -r ../../../release/$dir-dictionary-macos.zip "$DICT_DIR"
+            cd ../../..
+          done
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: dictionaries
+          path: release/*.zip
+
+      - name: Create Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: release/*-dictionary-macos.zip
+          body: |
+            ## Dictionaries for macOS Dictionary.app
+
+            | Dictionary | File |
+            |---|---|
+            | Русско-кыргызский (Russian→Kyrgyz) | `ru-ky-dictionary-macos.zip` |
+            | Кыргызско-русский (Kyrgyz→Russian) | `ky-ru-dictionary-macos.zip` |
+            | English→Kyrgyz | `en-ky-dictionary-macos.zip` |
+            | Kyrgyz→English | `ky-en-dictionary-macos.zip` |
+
+            ### Installation
+            1. Download the archive
+            2. Unzip
+            3. Copy `.dictionary` to `~/Library/Dictionaries/`
+            4. Open Dictionary.app → Preferences → Enable the dictionary

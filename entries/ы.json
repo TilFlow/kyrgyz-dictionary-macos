@@ -1,0 +1,32 @@
+[
+  {
+    "ru": "ы",
+    "ky": "ы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B",
+    "senses": [
+      "a letter of the Cyrillic alphabet \"Ы/ы\""
+    ],
+    "id": "ru-ы-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ынын",
+        "dative": "ыга",
+        "accusative": "ыны",
+        "locative": "ыда",
+        "ablative": "ыдан"
+      },
+      "pluralForms": {
+        "genitive": "ылардын",
+        "dative": "ыларга",
+        "accusative": "ыларды",
+        "locative": "ыларда",
+        "ablative": "ылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  }
+]

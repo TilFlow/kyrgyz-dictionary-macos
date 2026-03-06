@@ -1,0 +1,594 @@
+[
+  {
+    "ru": "щенок",
+    "ky": "күчүк",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87%D2%AF%D0%BA",
+    "senses": [
+      "детёныш животного"
+    ],
+    "ruAccented": "щено'к",
+    "frequency": 71,
+    "id": "ru-щенок-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "күчүктүн",
+        "dative": "күчүккө",
+        "accusative": "күчүктү",
+        "locative": "күчүктө",
+        "ablative": "күчүктөн"
+      },
+      "pluralForms": {
+        "genitive": "күчүктөрдүн",
+        "dative": "күчүктөргө",
+        "accusative": "күчүктөрдү",
+        "locative": "күчүктөрдө",
+        "ablative": "күчүктөрдөн"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щека",
+    "ky": "бет",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
+    "senses": [
+      "боковая часть лица"
+    ],
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "pronunciation": "/bet/",
+    "examples": [
+      {
+        "ky": "Биз, журналисттер, саясий элитанын бет",
+        "ru": "Мы, журналисты, сидели напротив политэлиты и, пристально"
+      },
+      {
+        "ky": "кандайдыр бир бет кабын, көшөгөсүн сыйрып салгандай болду.",
+        "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
+      }
+    ],
+    "ruAccented": "щека'",
+    "frequency": 1486,
+    "id": "ru-щека-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "беттин",
+        "dative": "бетке",
+        "accusative": "бетти",
+        "locative": "бетте",
+        "ablative": "беттен"
+      },
+      "pluralForms": {
+        "genitive": "беттердин",
+        "dative": "беттерге",
+        "accusative": "беттерди",
+        "locative": "беттерде",
+        "ablative": "беттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щегол",
+    "ky": "сава",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B2%D0%B0",
+    "senses": [
+      "певчая птица семейства вьюрковых отряда воробьиных с ярким пёстрым оперением"
+    ],
+    "id": "ru-щегол-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "саванын",
+        "dative": "савага",
+        "accusative": "саваны",
+        "locative": "савада",
+        "ablative": "савадан"
+      },
+      "pluralForms": {
+        "genitive": "савалардын",
+        "dative": "саваларга",
+        "accusative": "саваларды",
+        "locative": "саваларда",
+        "ablative": "савалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Щёлково",
+    "ky": "Щёлково",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A9%D1%91%D0%BB%D0%BA%D0%BE%D0%B2%D0%BE",
+    "id": "ru-Щёлково-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Щёлковонун",
+        "dative": "Щёлкового",
+        "accusative": "Щёлковону",
+        "locative": "Щёлководо",
+        "ablative": "Щёлководон"
+      },
+      "pluralForms": {
+        "genitive": "Щёлковолордун",
+        "dative": "Щёлковолорго",
+        "accusative": "Щёлковолорду",
+        "locative": "Щёлковолордо",
+        "ablative": "Щёлковолордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щётка",
+    "ky": "щетка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%89%D0%B5%D1%82%D0%BA%D0%B0",
+    "senses": [
+      "implement"
+    ],
+    "examples": [
+      {
+        "ky": "көөп чыгып, щетка сымал ичегилерди тазалап чыгат.",
+        "ru": "разбухают и, как щетка, очищают его. Есть так"
+      }
+    ],
+    "ruAccented": "щётка",
+    "ruGender": "f",
+    "id": "ru-щётка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "щетканын",
+        "dative": "щеткага",
+        "accusative": "щетканы",
+        "locative": "щеткада",
+        "ablative": "щеткадан"
+      },
+      "pluralForms": {
+        "genitive": "щеткалардын",
+        "dative": "щеткаларга",
+        "accusative": "щеткаларды",
+        "locative": "щеткаларда",
+        "ablative": "щеткалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щипцы",
+    "ky": "аттиш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D0%B8%D1%88",
+    "senses": [
+      "gripping tool which multiplies the strength of the user's hand"
+    ],
+    "id": "ru-щипцы-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "аттиштин",
+        "dative": "аттишке",
+        "accusative": "аттишти",
+        "locative": "аттиште",
+        "ablative": "аттиштен"
+      },
+      "pluralForms": {
+        "genitive": "аттиштердин",
+        "dative": "аттиштерге",
+        "accusative": "аттиштерди",
+        "locative": "аттиштерде",
+        "ablative": "аттиштерден"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щётка",
+    "ky": "шыпыргы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF%D1%8B%D1%80%D0%B3%D1%8B",
+    "senses": [
+      "domestic utensil"
+    ],
+    "ruAccented": "щётка",
+    "ruGender": "f",
+    "frequency": 2,
+    "id": "ru-щётка-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "шыпыргынын",
+        "dative": "шыпыргыга",
+        "accusative": "шыпыргыны",
+        "locative": "шыпыргыда",
+        "ablative": "шыпыргыдан"
+      },
+      "pluralForms": {
+        "genitive": "шыпыргылардын",
+        "dative": "шыпыргыларга",
+        "accusative": "шыпыргыларды",
+        "locative": "шыпыргыларда",
+        "ablative": "шыпыргылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щит",
+    "ky": "калкан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD",
+    "senses": [
+      "armor"
+    ],
+    "etymology": "Possibly from Proto-Turkic *kalkan.",
+    "ruAccented": "щит",
+    "ruGender": "m",
+    "id": "ru-щит-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "калкандын",
+        "dative": "калканга",
+        "accusative": "калканды",
+        "locative": "калканда",
+        "ablative": "калкандан"
+      },
+      "pluralForms": {
+        "genitive": "калкандардын",
+        "dative": "калкандарга",
+        "accusative": "калкандарды",
+        "locative": "калкандарда",
+        "ablative": "калкандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щека",
+    "ky": "жаак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B0%D0%BA",
+    "senses": [
+      "part of face"
+    ],
+    "etymology": "From Proto-Turkic *yayŋak. Cognate with Kazakh жақ (jaq), Southern Altai јаак (ǰaak, “jaw”), Crimean Tatar yanaq, Karachay-Balkar жыякъ (jıyaq), Kumyk яякъ (yayaq), Bashkir яңаҡ (yañaq), Tatar яңак (yañaq), Azerbaijani yanaq, Turkish yanak, Turkmen ýaňak, Shor наақ, Western Yugur yïnaq/ yinaq, etc.",
+    "ruAccented": "щека'",
+    "frequency": 180,
+    "id": "ru-щека-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жаактын",
+        "dative": "жаакка",
+        "accusative": "жаакты",
+        "locative": "жаакта",
+        "ablative": "жаактан"
+      },
+      "pluralForms": {
+        "genitive": "жаактардын",
+        "dative": "жаактарга",
+        "accusative": "жаактарды",
+        "locative": "жаактарда",
+        "ablative": "жаактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щека",
+    "ky": "жаңак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D0%B0%D0%BA",
+    "senses": [
+      "part of face"
+    ],
+    "ruAccented": "щека'",
+    "id": "ru-щека-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жаңактын",
+        "dative": "жаңакка",
+        "accusative": "жаңакты",
+        "locative": "жаңакта",
+        "ablative": "жаңактан"
+      },
+      "pluralForms": {
+        "genitive": "жаңактардын",
+        "dative": "жаңактарга",
+        "accusative": "жаңактарды",
+        "locative": "жаңактарда",
+        "ablative": "жаңактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щекотать",
+    "ky": "кытыгылоо",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%82%D1%8B%D0%B3%D1%8B%D0%BB%D0%BE%D0%BE",
+    "senses": [
+      "to touch in a manner that causes tingling sensation"
+    ],
+    "ruAccented": "щекота'ть",
+    "id": "ru-щекотать-001"
+  },
+  {
+    "ru": "щука",
+    "ky": "чортон",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%80%D1%82%D0%BE%D0%BD",
+    "senses": [
+      "fish of the genus Esox"
+    ],
+    "etymology": "From Proto-Turkic *čortan. Kazakh шортан (şortan), Nogai шортан (şortan), Southern Altai чортон (čorton) , Bashkir суртан (surtan), Kumyk чортан (çortan), Uzbek choʻrtan, Uyghur چورتان (chortan), Khakas сортан (sortan), Shor шортан, Tuvan шортан (şortan), etc.",
+    "ruAccented": "щу'ка",
+    "ruGender": "f",
+    "id": "ru-щука-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "чортондун",
+        "dative": "чортонго",
+        "accusative": "чортонду",
+        "locative": "чортондо",
+        "ablative": "чортондон"
+      },
+      "pluralForms": {
+        "genitive": "чортондордун",
+        "dative": "чортондорго",
+        "accusative": "чортондорду",
+        "locative": "чортондордо",
+        "ablative": "чортондордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щавель",
+    "ky": "ат кулак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%20%D0%BA%D1%83%D0%BB%D0%B0%D0%BA",
+    "senses": [
+      "plant of genus Rumex"
+    ],
+    "ruAccented": "щаве'ль",
+    "ruGender": "m",
+    "id": "ru-щавель-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ат кулактын",
+        "dative": "ат кулакка",
+        "accusative": "ат кулакты",
+        "locative": "ат кулакта",
+        "ablative": "ат кулактан"
+      },
+      "pluralForms": {
+        "genitive": "ат кулактардын",
+        "dative": "ат кулактарга",
+        "accusative": "ат кулактарды",
+        "locative": "ат кулактарда",
+        "ablative": "ат кулактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щавель",
+    "ky": "козу кулак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B7%D1%83%20%D0%BA%D1%83%D0%BB%D0%B0%D0%BA",
+    "senses": [
+      "plant of genus Rumex"
+    ],
+    "ruAccented": "щаве'ль",
+    "ruGender": "m",
+    "id": "ru-щавель-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "козу кулактын",
+        "dative": "козу кулакка",
+        "accusative": "козу кулакты",
+        "locative": "козу кулакта",
+        "ablative": "козу кулактан"
+      },
+      "pluralForms": {
+        "genitive": "козу кулактардын",
+        "dative": "козу кулактарга",
+        "accusative": "козу кулактарды",
+        "locative": "козу кулактарда",
+        "ablative": "козу кулактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щипцы",
+    "ky": "пинцет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82",
+    "senses": [
+      "small pincer-like instrument, usually made of metal, used for handling small objects"
+    ],
+    "id": "ru-щипцы-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "пинцеттин",
+        "dative": "пинцетке",
+        "accusative": "пинцетти",
+        "locative": "пинцетте",
+        "ablative": "пинцеттен"
+      },
+      "pluralForms": {
+        "genitive": "пинцеттердин",
+        "dative": "пинцеттерге",
+        "accusative": "пинцеттерди",
+        "locative": "пинцеттерде",
+        "ablative": "пинцеттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щипцы",
+    "ky": "искек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA",
+    "senses": [
+      "small pincer-like instrument, usually made of metal, used for handling small objects"
+    ],
+    "id": "ru-щипцы-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "искектин",
+        "dative": "искекке",
+        "accusative": "искекти",
+        "locative": "искекте",
+        "ablative": "искектен"
+      },
+      "pluralForms": {
+        "genitive": "искектердин",
+        "dative": "искектерге",
+        "accusative": "искектерди",
+        "locative": "искектерде",
+        "ablative": "искектерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щипчики",
+    "ky": "пинцет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82",
+    "senses": [
+      "small pincer-like instrument, usually made of metal, used for handling small objects"
+    ],
+    "id": "ru-щипчики-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "пинцеттин",
+        "dative": "пинцетке",
+        "accusative": "пинцетти",
+        "locative": "пинцетте",
+        "ablative": "пинцеттен"
+      },
+      "pluralForms": {
+        "genitive": "пинцеттердин",
+        "dative": "пинцеттерге",
+        "accusative": "пинцеттерди",
+        "locative": "пинцеттерде",
+        "ablative": "пинцеттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щипчики",
+    "ky": "искек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA",
+    "senses": [
+      "small pincer-like instrument, usually made of metal, used for handling small objects"
+    ],
+    "id": "ru-щипчики-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "искектин",
+        "dative": "искекке",
+        "accusative": "искекти",
+        "locative": "искекте",
+        "ablative": "искектен"
+      },
+      "pluralForms": {
+        "genitive": "искектердин",
+        "dative": "искектерге",
+        "accusative": "искектерди",
+        "locative": "искектерде",
+        "ablative": "искектерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "щи",
+    "ky": "щи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%89%D0%B8",
+    "senses": [
+      "a type of Russian soup"
+    ],
+    "ruAccented": "щи",
+    "ruGender": "m",
+    "id": "ru-щи-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "щинин",
+        "dative": "щиге",
+        "accusative": "щини",
+        "locative": "щиде",
+        "ablative": "щиден"
+      },
+      "pluralForms": {
+        "genitive": "щилердин",
+        "dative": "щилерге",
+        "accusative": "щилерди",
+        "locative": "щилерде",
+        "ablative": "щилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  }
+]

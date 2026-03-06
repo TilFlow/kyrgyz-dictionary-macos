@@ -1,0 +1,251 @@
+/*
+ * Russian-Kyrgyz Dictionary — Apple Dictionary.app Stylesheet
+ *
+ * Supports compact popup (d:priority="1") and full view (d:priority="2").
+ * Dark mode via prefers-color-scheme.
+ */
+
+/* ── Base ─────────────────────────────────────────────────────────── */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #1d1d1f;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #f5f5f7;
+  }
+}
+
+/* ── Headword ─────────────────────────────────────────────────────── */
+
+h1.hw {
+  font-size: 1.6em;
+  font-weight: 700;
+  margin: 0 0 2px;
+  display: inline;
+}
+
+/* ── Pronunciation ────────────────────────────────────────────────── */
+
+.pronunciation {
+  font-style: italic;
+  color: #6e6e73;
+  margin-left: 6px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .pronunciation {
+    color: #a1a1a6;
+  }
+}
+
+/* ── POS badge ────────────────────────────────────────────────────── */
+
+.pos {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 500;
+  color: #86868b;
+  background: #f5f5f7;
+  border-radius: 4px;
+  padding: 1px 6px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+@media (prefers-color-scheme: dark) {
+  .pos {
+    color: #a1a1a6;
+    background: #2c2c2e;
+  }
+}
+
+/* ── Compact popup (priority 1) ───────────────────────────────────── */
+
+.forms-brief {
+  color: #6e6e73;
+  font-size: 0.9em;
+  margin-left: 4px;
+}
+
+.brief-morph {
+  font-size: 0.85em;
+  color: #6e6e73;
+  margin: 4px 0 0;
+}
+
+.brief-rule {
+  font-size: 0.82em;
+  color: #86868b;
+  margin: 2px 0 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .forms-brief,
+  .brief-morph {
+    color: #a1a1a6;
+  }
+  .brief-rule {
+    color: #8e8e93;
+  }
+}
+
+/* ── Senses list (shared) ─────────────────────────────────────────── */
+
+ol.senses {
+  margin: 4px 0 4px 18px;
+  padding: 0;
+}
+
+ol.senses li {
+  margin-bottom: 2px;
+}
+
+/* ── Full view (priority 2) ───────────────────────────────────────── */
+
+.full-entry {
+  margin-top: 10px;
+  border-top: 1px solid #d2d2d7;
+  padding-top: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .full-entry {
+    border-top-color: #3a3a3c;
+  }
+}
+
+/* ── Sections ─────────────────────────────────────────────────────── */
+
+.section {
+  margin-bottom: 12px;
+}
+
+.section-header {
+  font-size: 0.85em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #86868b;
+  margin: 0 0 4px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .section-header {
+    color: #8e8e93;
+  }
+}
+
+/* ── Examples ─────────────────────────────────────────────────────── */
+
+.example {
+  margin: 3px 0;
+  font-size: 0.95em;
+}
+
+.example .ky {
+  font-weight: 500;
+}
+
+.example .ru {
+  color: #6e6e73;
+}
+
+@media (prefers-color-scheme: dark) {
+  .example .ru {
+    color: #a1a1a6;
+  }
+}
+
+/* ── Morphology table ─────────────────────────────────────────────── */
+
+.morph-table {
+  border-collapse: collapse;
+  font-size: 0.9em;
+  margin: 4px 0 6px;
+  width: 100%;
+  max-width: 420px;
+}
+
+.morph-table th,
+.morph-table td {
+  border: 1px solid #d2d2d7;
+  padding: 3px 8px;
+  text-align: left;
+}
+
+.morph-table th {
+  background: #f5f5f7;
+  font-weight: 600;
+  font-size: 0.92em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .morph-table th,
+  .morph-table td {
+    border-color: #3a3a3c;
+  }
+  .morph-table th {
+    background: #2c2c2e;
+  }
+}
+
+.morph-rule {
+  font-size: 0.85em;
+  color: #6e6e73;
+  margin: 2px 0 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .morph-rule {
+    color: #a1a1a6;
+  }
+}
+
+/* ── Derivations ──────────────────────────────────────────────────── */
+
+ul.derivations {
+  margin: 4px 0 4px 18px;
+  padding: 0;
+}
+
+ul.derivations li {
+  margin-bottom: 2px;
+}
+
+/* ── Etymology ────────────────────────────────────────────────────── */
+
+.etymology {
+  font-size: 0.93em;
+  color: #3a3a3c;
+}
+
+@media (prefers-color-scheme: dark) {
+  .etymology {
+    color: #d1d1d6;
+  }
+}
+
+/* ── Wiktionary link ──────────────────────────────────────────────── */
+
+.wiktionary-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.85em;
+  color: #0071e3;
+  text-decoration: none;
+}
+
+.wiktionary-link:hover {
+  text-decoration: underline;
+}
+
+@media (prefers-color-scheme: dark) {
+  .wiktionary-link {
+    color: #2997ff;
+  }
+}

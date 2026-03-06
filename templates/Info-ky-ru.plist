@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>Kyrgyz</string>
+  <key>CFBundleIdentifier</key>
+  <string>org.ky-concept.ky-ru-dictionary</string>
+  <key>CFBundleDisplayName</key>
+  <string>Кыргызско-русский словарь</string>
+  <key>CFBundleName</key>
+  <string>Kyrgyz-Russian Dictionary</string>
+  <key>DCSDictionaryCopyright</key>
+  <string>CC BY-NC-SA 4.0. Sources: Wiktionary, Apertium, GoURMET, OpenRussian.org, Manas-UdS.</string>
+  <key>DCSDictionaryManufacturerName</key>
+  <string>ky-concept</string>
+  <key>DCSDictionaryFrontMatterReferenceID</key>
+  <string>front-matter</string>
+</dict>
+</plist>

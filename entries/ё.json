@@ -1,0 +1,206 @@
+[
+  {
+    "ru": "ёж",
+    "ky": "кирпи",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
+    "senses": [
+      "млекопитающее"
+    ],
+    "etymology": "From Proto-Turkic *kirpi",
+    "ruAccented": "ёж",
+    "frequency": 7,
+    "id": "ru-ёж-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кирпинин",
+        "dative": "кирпиге",
+        "accusative": "кирпини",
+        "locative": "кирпиде",
+        "ablative": "кирпиден"
+      },
+      "pluralForms": {
+        "genitive": "кирпилердин",
+        "dative": "кирпилерге",
+        "accusative": "кирпилерди",
+        "locative": "кирпилерде",
+        "ablative": "кирпилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ёжик",
+    "ky": "кирпи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
+    "senses": [
+      "animal"
+    ],
+    "etymology": "From Proto-Turkic *kirpi",
+    "ruAccented": "ёжик",
+    "ruGender": "m",
+    "frequency": 7,
+    "id": "ru-ёжик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кирпинин",
+        "dative": "кирпиге",
+        "accusative": "кирпини",
+        "locative": "кирпиде",
+        "ablative": "кирпиден"
+      },
+      "pluralForms": {
+        "genitive": "кирпилердин",
+        "dative": "кирпилерге",
+        "accusative": "кирпилерди",
+        "locative": "кирпилерде",
+        "ablative": "кирпилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ёмкость",
+    "ky": "бак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA",
+    "senses": [
+      "closed container for fluids"
+    ],
+    "etymology": "From Persian باغ (“garden”).",
+    "pronunciation": "/bɑq/",
+    "examples": [
+      {
+        "ky": "Калгандарына алма бак",
+        "ru": "На остальных разбили сады,"
+      },
+      {
+        "ky": "коомдук-маанилүү ишти жасап берүүсүн өтүнөбүз – бакчаларга бак отургузуу, арык",
+        "ru": "общественно-значимую работу – посадить деревья в парке, почистить канал,"
+      }
+    ],
+    "ruAccented": "ёмкость",
+    "ruGender": "f",
+    "frequency": 1140,
+    "id": "ru-ёмкость-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бактын",
+        "dative": "бакка",
+        "accusative": "бакты",
+        "locative": "бакта",
+        "ablative": "бактан"
+      },
+      "pluralForms": {
+        "genitive": "бактардын",
+        "dative": "бактарга",
+        "accusative": "бактарды",
+        "locative": "бактарда",
+        "ablative": "бактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ёлка",
+    "ky": "ёлка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%91%D0%BB%D0%BA%D0%B0",
+    "senses": [
+      "evergreen tree used as a decoration during the Christmas holiday season"
+    ],
+    "ruAccented": "ёлка",
+    "ruGender": "f",
+    "id": "ru-ёлка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ёлканын",
+        "dative": "ёлкага",
+        "accusative": "ёлканы",
+        "locative": "ёлкада",
+        "ablative": "ёлкадан"
+      },
+      "pluralForms": {
+        "genitive": "ёлкалардын",
+        "dative": "ёлкаларга",
+        "accusative": "ёлкаларды",
+        "locative": "ёлкаларда",
+        "ablative": "ёлкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ёж-рыба",
+    "ky": "деңиз кирписи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%20%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%81%D0%B8",
+    "senses": [
+      "any of many marine echinoderms of the class Echinoidea"
+    ],
+    "id": "ru-ёж-рыба-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "деңиз кирписинин",
+        "dative": "деңиз кирписиге",
+        "accusative": "деңиз кирписини",
+        "locative": "деңиз кирписиде",
+        "ablative": "деңиз кирписиден"
+      },
+      "pluralForms": {
+        "genitive": "деңиз кирписилердин",
+        "dative": "деңиз кирписилерге",
+        "accusative": "деңиз кирписилерди",
+        "locative": "деңиз кирписилерде",
+        "ablative": "деңиз кирписилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ёся",
+    "ky": "Жо",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%BE",
+    "senses": [
+      "pet form of Joseph"
+    ],
+    "id": "ru-Ёся-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Жонун",
+        "dative": "Жого",
+        "accusative": "Жону",
+        "locative": "Жодо",
+        "ablative": "Жодон"
+      },
+      "pluralForms": {
+        "genitive": "Жолордун",
+        "dative": "Жолорго",
+        "accusative": "Жолорду",
+        "locative": "Жолордо",
+        "ablative": "Жолордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  }
+]

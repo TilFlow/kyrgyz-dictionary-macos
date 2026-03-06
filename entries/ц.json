@@ -1,0 +1,4645 @@
+[
+  {
+    "ru": "цель",
+    "ky": "максат",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82",
+    "senses": [
+      "намерение"
+    ],
+    "examples": [
+      {
+        "ky": "Биз кошкон социал-экономикалык салымын жогорулатууну максат кылабыз толугураак",
+        "ru": "Мы ставим перед собой цель увеличить экономическое воздействие золотодобывающего рудника Кумтор подробнее"
+      },
+      {
+        "ky": "е) Жабдуу бөлүмүнүн кызматкерлери үчүн компаниянын максат жана маселелерин колдоого алчу эффективдүүлүк көрсөткүчтөрүн иштеп чыгуу",
+        "ru": "е) Разработка ключевых показателей эффективности для сотрудников отдела снабжения, которые будут поддерживать цели и задачи организации"
+      }
+    ],
+    "ruAccented": "цель",
+    "ruGender": "f",
+    "frequency": 1451,
+    "id": "ru-цель-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "максаттын",
+        "dative": "максатка",
+        "accusative": "максатты",
+        "locative": "максатта",
+        "ablative": "максаттан"
+      },
+      "pluralForms": {
+        "genitive": "максаттардын",
+        "dative": "максаттарга",
+        "accusative": "максаттарды",
+        "locative": "максаттарда",
+        "ablative": "максаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цинк",
+    "ky": "цинк",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA",
+    "senses": [
+      "химический элемент"
+    ],
+    "ruAccented": "цинк",
+    "ruGender": "m",
+    "id": "ru-цинк-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цинктин",
+        "dative": "цинкке",
+        "accusative": "цинкти",
+        "locative": "цинкте",
+        "ablative": "цинктен"
+      },
+      "pluralForms": {
+        "genitive": "цинктердин",
+        "dative": "цинктерге",
+        "accusative": "цинктерди",
+        "locative": "цинктерде",
+        "ablative": "цинктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цезий",
+    "ky": "цезий",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B7%D0%B8%D0%B9",
+    "id": "ru-цезий-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цезийдин",
+        "dative": "цезийге",
+        "accusative": "цезийди",
+        "locative": "цезийде",
+        "ablative": "цезийден"
+      },
+      "pluralForms": {
+        "genitive": "цезийдердин",
+        "dative": "цезийдерге",
+        "accusative": "цезийдерди",
+        "locative": "цезийдерде",
+        "ablative": "цезийдерден"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цвет",
+    "ky": "түс",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81",
+    "senses": [
+      "окраска, световой тон, спектральный состав света"
+    ],
+    "etymology": "From Proto-Turkic *tǖs (“colour”).\nCognate to Bashkir төҫ (töś), Nogai туьс (tüs), Tatar төс (tös), Uzbek tus, Kazakh түс (tüs), Uyghur تۈس (tüs) and Crimean Tatar tüs (“dye, color”).",
+    "examples": [
+      {
+        "ky": "Эң жаркын, позитивдүү түс болуп кызгыл сары түс эсептелет.",
+        "ru": "Наиболее позитивным цветом является оранжевый."
+      },
+      {
+        "ky": "Учурдагы эң саркеч түс – “көк пион”, өтө көк түс.",
+        "ru": "Из цветов самый модный – «синий пион», глубокий синий."
+      }
+    ],
+    "ruAccented": "цвет",
+    "ruGender": "m",
+    "frequency": 78,
+    "id": "ru-цвет-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "түстүн",
+        "dative": "түскө",
+        "accusative": "түстү",
+        "locative": "түстө",
+        "ablative": "түстөн"
+      },
+      "pluralForms": {
+        "genitive": "түстөрдүн",
+        "dative": "түстөргө",
+        "accusative": "түстөрдү",
+        "locative": "түстөрдө",
+        "ablative": "түстөрдөн"
+      },
+      "rule": "Основа на глухую согласную -с, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветок",
+    "ky": "гүл",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
+    "senses": [
+      "орган растения"
+    ],
+    "etymology": "Borrowed from Classical Persian گُل (gul).",
+    "pronunciation": "/ɡyl/",
+    "examples": [
+      {
+        "ky": "Гүл ич ооруларды айыктыра алат деген ишеним бар, жана да ал 1978-жылы эле Кызыл китепке киргизилгени менен анын кооздугуна суктанып бул гүлдү үзүп, өзү менен алып кеткиси келгендер да кезигет.",
+        "ru": "Легенда об Айгуль цветку приписывают благотворное действие при болезнях ЖКТ, да и ради красоты все еще находятся желающие оборвать цветы, занесенные в Красную Книгу еще в 1978 году."
+      },
+      {
+        "ky": "биринчи кварталдар жана гүл бакчалар пландаштырыла баштайт.",
+        "ru": "и производилась разбивка первых кварталов и скверов."
+      }
+    ],
+    "ruAccented": "цвето'к",
+    "frequency": 248,
+    "id": "ru-цветок-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "гүлдүн",
+        "dative": "гүлгө",
+        "accusative": "гүлдү",
+        "locative": "гүлдө",
+        "ablative": "гүлдөн"
+      },
+      "pluralForms": {
+        "genitive": "гүлдөрдүн",
+        "dative": "гүлдөргө",
+        "accusative": "гүлдөрдү",
+        "locative": "гүлдөрдө",
+        "ablative": "гүлдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цена",
+    "ky": "баа",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0",
+    "senses": [
+      "денежное или иное количественное выражение стоимости товара или услуги"
+    ],
+    "etymology": "From Classical Persian بَها (bahā). Cognate with Kazakh баға (bağa), Southern Altai баа (baa), Karachay-Balkar багъа (bağa), Kumyk багьа (baha), Tatar бәя (bäyä), Azerbaijani baha, Turkish paha, Turkmen baha, Uzbek baho, Uyghur باھا (baha),\nShor паа, etc.",
+    "pronunciation": "/bɑː/",
+    "examples": [
+      {
+        "ky": "- Баа берүүнүн эл аралык стандарттарды жана улуттук стандарттарын билүү",
+        "ru": "- Знание и понимание Международных стандартов и национальных стандартов оценки"
+      },
+      {
+        "ky": "- Банк мыйзамдарынын талаптарынын сакталышына баа берүүгө катышуу. Кредиттик бөлүмдүн компетенциясына таандык кредиттик ишке байланыштуу отчетторду даярдоо;",
+        "ru": "- Участие в оценке фактического соблюдения требований банковского законодательства Подготовка отчетов, связанных с кредитной деятельностью, находящихся в компетенции Кредитного отдела;"
+      }
+    ],
+    "ruAccented": "цена'",
+    "ruGender": "f",
+    "frequency": 641,
+    "id": "ru-цена-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "баанын",
+        "dative": "баага",
+        "accusative": "бааны",
+        "locative": "баада",
+        "ablative": "баадан"
+      },
+      "pluralForms": {
+        "genitive": "баалардын",
+        "dative": "бааларга",
+        "accusative": "бааларды",
+        "locative": "бааларда",
+        "ablative": "баалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цена",
+    "ky": "нарк",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BA",
+    "senses": [
+      "денежное или иное количественное выражение стоимости товара или услуги"
+    ],
+    "ruAccented": "цена'",
+    "ruGender": "f",
+    "frequency": 160,
+    "id": "ru-цена-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "нарктын",
+        "dative": "наркка",
+        "accusative": "наркты",
+        "locative": "наркта",
+        "ablative": "нарктан"
+      },
+      "pluralForms": {
+        "genitive": "нарктардын",
+        "dative": "нарктарга",
+        "accusative": "нарктарды",
+        "locative": "нарктарда",
+        "ablative": "нарктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цивилизация",
+    "ky": "цивилизация",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+    "senses": [
+      "уровень общественного развития"
+    ],
+    "ruAccented": "цивилиза'ция",
+    "ruGender": "f",
+    "frequency": 9,
+    "id": "ru-цивилизация-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цивилизациядин",
+        "dative": "цивилизацияге",
+        "accusative": "цивилизацияди",
+        "locative": "цивилизацияде",
+        "ablative": "цивилизацияден"
+      },
+      "pluralForms": {
+        "genitive": "цивилизациядердин",
+        "dative": "цивилизациядерге",
+        "accusative": "цивилизациядерди",
+        "locative": "цивилизациядерде",
+        "ablative": "цивилизациядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цунами",
+    "ky": "цунами",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%83%D0%BD%D0%B0%D0%BC%D0%B8",
+    "id": "ru-цунами-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цунаминин",
+        "dative": "цунамиге",
+        "accusative": "цунамини",
+        "locative": "цунамиде",
+        "ablative": "цунамиден"
+      },
+      "pluralForms": {
+        "genitive": "цунамилердин",
+        "dative": "цунамилерге",
+        "accusative": "цунамилерди",
+        "locative": "цунамилерде",
+        "ablative": "цунамилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церий",
+    "ky": "церий",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D1%80%D0%B8%D0%B9",
+    "id": "ru-церий-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "церийдин",
+        "dative": "церийге",
+        "accusative": "церийди",
+        "locative": "церийде",
+        "ablative": "церийден"
+      },
+      "pluralForms": {
+        "genitive": "церийдердин",
+        "dative": "церийдерге",
+        "accusative": "церийдерди",
+        "locative": "церийдерде",
+        "ablative": "церийдерден"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цель оправдывает средства",
+    "ky": "максат каражаттарды актайт",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82%20%D0%BA%D0%B0%D1%80%D0%B0%D0%B6%D0%B0%D1%82%D1%82%D0%B0%D1%80%D0%B4%D1%8B%20%D0%B0%D0%BA%D1%82%D0%B0%D0%B9%D1%82",
+    "id": "ru-цель оправдывает средства-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "максат каражаттарды актайттын",
+        "dative": "максат каражаттарды актайтка",
+        "accusative": "максат каражаттарды актайтты",
+        "locative": "максат каражаттарды актайтта",
+        "ablative": "максат каражаттарды актайттан"
+      },
+      "pluralForms": {
+        "genitive": "максат каражаттарды актайттардын",
+        "dative": "максат каражаттарды актайттарга",
+        "accusative": "максат каражаттарды актайттарды",
+        "locative": "максат каражаттарды актайттарда",
+        "ablative": "максат каражаттарды актайттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "циклон",
+    "ky": "циклон",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD",
+    "senses": [
+      "атмосферный вихрь"
+    ],
+    "ruAccented": "цикло'н",
+    "ruGender": "m",
+    "id": "ru-циклон-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "циклондун",
+        "dative": "циклонго",
+        "accusative": "циклонду",
+        "locative": "циклондо",
+        "ablative": "циклондон"
+      },
+      "pluralForms": {
+        "genitive": "циклондордун",
+        "dative": "циклондорго",
+        "accusative": "циклондорду",
+        "locative": "циклондордо",
+        "ablative": "циклондордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цепь",
+    "ky": "чынжыр",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B6%D1%8B%D1%80",
+    "senses": [
+      "ряд звеньев"
+    ],
+    "etymology": "From Persian زنجیر. Cognate with Tajik занҷир (zanjir), Azerbaijani zəncir,\nBashkir сынйыр (sınyır), Tatar чылбыр (çılbır), Southern Altai чылбыр (čïlbïr),\nTurkmen zynjyr, Uyghur زەنجىر (zenjir),\nUzbek zanjir, Kalmyk шинҗүр (şinjür),\nKazakh шынжыр (şynjyr), etc.",
+    "ruAccented": "цепь",
+    "ruGender": "f",
+    "frequency": 6,
+    "id": "ru-цепь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "чынжырдын",
+        "dative": "чынжырга",
+        "accusative": "чынжырды",
+        "locative": "чынжырда",
+        "ablative": "чынжырдан"
+      },
+      "pluralForms": {
+        "genitive": "чынжырдардын",
+        "dative": "чынжырдарга",
+        "accusative": "чынжырдарды",
+        "locative": "чынжырдарда",
+        "ablative": "чынжырдардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цифра",
+    "ky": "санарип",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
+    "senses": [
+      "знак"
+    ],
+    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
+    "pronunciation": "/sanaˈrip/",
+    "examples": [
+      {
+        "ky": "Заманбап маалыматтык технологияларды — акылдуу эсептегичтерди, санарип технологияларын киргизүүнү, энергетикалык эсеп борборун өнүктүрүүнү колго алгыла.",
+        "ru": "Вам следует наладить работу по внедрению современных технологий — умных счетчиков, современных цифровых технологий, развитию центра энергетического расчета."
+      }
+    ],
+    "ruAccented": "ци'фра",
+    "ruGender": "f",
+    "frequency": 28,
+    "id": "ru-цифра-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "санариптин",
+        "dative": "санарипке",
+        "accusative": "санарипти",
+        "locative": "санарипте",
+        "ablative": "санариптен"
+      },
+      "pluralForms": {
+        "genitive": "санариптердин",
+        "dative": "санариптерге",
+        "accusative": "санариптерди",
+        "locative": "санариптерде",
+        "ablative": "санариптерден"
+      },
+      "rule": "Основа на глухую согласную -п, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целлулоид",
+    "ky": "целлулоид",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BB%D0%BB%D1%83%D0%BB%D0%BE%D0%B8%D0%B4",
+    "id": "ru-целлулоид-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "целлулоиддин",
+        "dative": "целлулоидге",
+        "accusative": "целлулоидди",
+        "locative": "целлулоидде",
+        "ablative": "целлулоидден"
+      },
+      "pluralForms": {
+        "genitive": "целлулоиддердин",
+        "dative": "целлулоиддерге",
+        "accusative": "целлулоиддерди",
+        "locative": "целлулоиддерде",
+        "ablative": "целлулоиддерден"
+      },
+      "rule": "Основа на звонкую согласную -д, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цемент",
+    "ky": "цемент",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82",
+    "senses": [
+      "порошкообразный строительный материал"
+    ],
+    "etymology": "From Russian.",
+    "examples": [
+      {
+        "ky": "цемент менен морт айнектин, керамикалык плита менен металлопластиктин, черепица",
+        "ru": "тяжелая арматура, ни цемент с хрупким стеклом, ни керамическая плитка с"
+      }
+    ],
+    "ruAccented": "цеме'нт",
+    "ruGender": "m",
+    "frequency": 9,
+    "id": "ru-цемент-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цементтин",
+        "dative": "цементке",
+        "accusative": "цементти",
+        "locative": "цементте",
+        "ablative": "цементтен"
+      },
+      "pluralForms": {
+        "genitive": "цементтердин",
+        "dative": "цементтерге",
+        "accusative": "цементтерди",
+        "locative": "цементтерде",
+        "ablative": "цементтерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церемониальный",
+    "ky": "салтанаттуу",
+    "pos": "adj",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BB%D1%82%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D1%83%D1%83",
+    "examples": [
+      {
+        "ky": "конок тосо турган салтанаттуу боз үйдү, же жүрүштөрдө өзүң менен ала жүргөн",
+        "ru": "деталей можно было компоновать юрты обычные, парадные или походные."
+      },
+      {
+        "ky": "чыгармачыл топтор сахнада концерттик программаларын тартуулашты, кол өнөрчүлөрдүн жана фестиваль конокторунун салтанаттуу парады болду.",
+        "ru": "На сценической площадке показали свои концертные номера молодые творческие группы, прошел торжественный парад ремесленников и гостей фестиваля."
+      }
+    ],
+    "ruAccented": "церемониа'льный",
+    "frequency": 33,
+    "id": "ru-церемониальный-001"
+  },
+  {
+    "ru": "цезура",
+    "ky": "цезура",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B7%D1%83%D1%80%D0%B0",
+    "senses": [
+      "внутристиховая ритмическая пауза на постоянном месте в стихотворной строке"
+    ],
+    "id": "ru-цезура-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цезуранын",
+        "dative": "цезурага",
+        "accusative": "цезураны",
+        "locative": "цезурада",
+        "ablative": "цезурадан"
+      },
+      "pluralForms": {
+        "genitive": "цезуралардын",
+        "dative": "цезураларга",
+        "accusative": "цезураларды",
+        "locative": "цезураларда",
+        "ablative": "цезуралардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цифровой",
+    "ky": "санарип",
+    "pos": "adj",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
+    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
+    "pronunciation": "/sanaˈrip/",
+    "examples": [
+      {
+        "ky": "Заманбап маалыматтык технологияларды — акылдуу эсептегичтерди, санарип технологияларын киргизүүнү, энергетикалык эсеп борборун өнүктүрүүнү колго алгыла.",
+        "ru": "Вам следует наладить работу по внедрению современных технологий — умных счетчиков, современных цифровых технологий, развитию центра энергетического расчета."
+      }
+    ],
+    "ruAccented": "цифрово'й",
+    "frequency": 28,
+    "id": "ru-цифровой-001"
+  },
+  {
+    "ru": "циклотрон",
+    "ky": "циклотрон",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D1%82%D1%80%D0%BE%D0%BD",
+    "id": "ru-циклотрон-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "циклотрондун",
+        "dative": "циклотронго",
+        "accusative": "циклотронду",
+        "locative": "циклотрондо",
+        "ablative": "циклотрондон"
+      },
+      "pluralForms": {
+        "genitive": "циклотрондордун",
+        "dative": "циклотрондорго",
+        "accusative": "циклотрондорду",
+        "locative": "циклотрондордо",
+        "ablative": "циклотрондордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирк",
+    "ky": "цирк",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA",
+    "senses": [
+      "вид искусства"
+    ],
+    "etymology": "Borrowed from Russian цирк (cirk).",
+    "ruAccented": "цирк",
+    "ruGender": "m",
+    "id": "ru-цирк-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цирктин",
+        "dative": "циркке",
+        "accusative": "циркти",
+        "locative": "циркте",
+        "ablative": "цирктен"
+      },
+      "pluralForms": {
+        "genitive": "цирктердин",
+        "dative": "цирктерге",
+        "accusative": "цирктерди",
+        "locative": "цирктерде",
+        "ablative": "цирктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "циркуль",
+    "ky": "циркуль",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8C",
+    "ruAccented": "ци'ркуль",
+    "ruGender": "m",
+    "id": "ru-циркуль-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "циркульдун",
+        "dative": "циркульго",
+        "accusative": "циркульду",
+        "locative": "циркульдо",
+        "ablative": "циркульдон"
+      },
+      "pluralForms": {
+        "genitive": "циркульдордун",
+        "dative": "циркульдорго",
+        "accusative": "циркульдорду",
+        "locative": "циркульдордо",
+        "ablative": "циркульдордон"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "циркуляция",
+    "ky": "айлануу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D1%83%D1%83",
+    "senses": [
+      "движение по замкнутому маршруту, замкнутой траектории"
+    ],
+    "examples": [
+      {
+        "ky": "Биз бай, өнүккөн, бактылуу өлкөгө айлануу үчүн ар тараптуу кеңешиңиз барбы?",
+        "ru": "У вас есть универсальный совет, как нам стать богатой, счастливой, развитой страной?"
+      }
+    ],
+    "ruAccented": "циркуля'ция",
+    "ruGender": "f",
+    "id": "ru-циркуляция-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "айлануунун",
+        "dative": "айланууго",
+        "accusative": "айланууну",
+        "locative": "айлануудо",
+        "ablative": "айлануудон"
+      },
+      "pluralForms": {
+        "genitive": "айлануулордун",
+        "dative": "айлануулорго",
+        "accusative": "айлануулорду",
+        "locative": "айлануулордо",
+        "ablative": "айлануулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирроз",
+    "ky": "цирроз",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D1%80%D0%BE%D0%B7",
+    "ruAccented": "цирро'з",
+    "id": "ru-цирроз-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "цирроздун",
+        "dative": "циррозго",
+        "accusative": "циррозду",
+        "locative": "цирроздо",
+        "ablative": "цирроздон"
+      },
+      "pluralForms": {
+        "genitive": "цирроздордун",
+        "dative": "цирроздорго",
+        "accusative": "цирроздорду",
+        "locative": "цирроздордо",
+        "ablative": "цирроздордон"
+      },
+      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цитата",
+    "ky": "цитата",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B0",
+    "examples": [
+      {
+        "ky": "- Кимдер мени ушул темага аралаштыгысы келгенин мен билем, - дегенин цитата келтирди Турдукулов.",
+        "ru": "- Мы обратились к ЮСАИД и ведущим американским учебным заведениям с просьбой о помощи в реализации нашей идеи, - рассказал Лахдир."
+      }
+    ],
+    "ruAccented": "цита'та",
+    "ruGender": "f",
+    "id": "ru-цитата-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цитатанын",
+        "dative": "цитатага",
+        "accusative": "цитатаны",
+        "locative": "цитатада",
+        "ablative": "цитатадан"
+      },
+      "pluralForms": {
+        "genitive": "цитаталардын",
+        "dative": "цитаталарга",
+        "accusative": "цитаталарды",
+        "locative": "цитаталарда",
+        "ablative": "цитаталардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цитология",
+    "ky": "цитология",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+    "id": "ru-цитология-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цитологиядин",
+        "dative": "цитологияге",
+        "accusative": "цитологияди",
+        "locative": "цитологияде",
+        "ablative": "цитологияден"
+      },
+      "pluralForms": {
+        "genitive": "цитологиядердин",
+        "dative": "цитологиядерге",
+        "accusative": "цитологиядерди",
+        "locative": "цитологиядерде",
+        "ablative": "цитологиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "циклометрия",
+    "ky": "циклометрия",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F",
+    "id": "ru-циклометрия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "циклометриядин",
+        "dative": "циклометрияге",
+        "accusative": "циклометрияди",
+        "locative": "циклометрияде",
+        "ablative": "циклометрияден"
+      },
+      "pluralForms": {
+        "genitive": "циклометриядердин",
+        "dative": "циклометриядерге",
+        "accusative": "циклометриядерди",
+        "locative": "циклометриядерде",
+        "ablative": "циклометриядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цинга",
+    "ky": "цинга",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%B3%D0%B0",
+    "ruAccented": "цинга'",
+    "id": "ru-цинга-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цинганын",
+        "dative": "цингага",
+        "accusative": "цинганы",
+        "locative": "цингада",
+        "ablative": "цингадан"
+      },
+      "pluralForms": {
+        "genitive": "цингалардын",
+        "dative": "цингаларга",
+        "accusative": "цингаларды",
+        "locative": "цингаларда",
+        "ablative": "цингалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цинкография",
+    "ky": "цинкография",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+    "senses": [
+      "способ изготовления цинковых клише"
+    ],
+    "id": "ru-цинкография-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цинкографиядин",
+        "dative": "цинкографияге",
+        "accusative": "цинкографияди",
+        "locative": "цинкографияде",
+        "ablative": "цинкографияден"
+      },
+      "pluralForms": {
+        "genitive": "цинкографиядердин",
+        "dative": "цинкографиядерге",
+        "accusative": "цинкографиядерди",
+        "locative": "цинкографиядерде",
+        "ablative": "цинкографиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цейхгауз",
+    "ky": "цейхгауз",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B9%D1%85%D0%B3%D0%B0%D1%83%D0%B7",
+    "id": "ru-цейхгауз-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "цейхгауздун",
+        "dative": "цейхгаузго",
+        "accusative": "цейхгаузду",
+        "locative": "цейхгауздо",
+        "ablative": "цейхгауздон"
+      },
+      "pluralForms": {
+        "genitive": "цейхгауздордун",
+        "dative": "цейхгауздорго",
+        "accusative": "цейхгауздорду",
+        "locative": "цейхгауздордо",
+        "ablative": "цейхгауздордон"
+      },
+      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "централизм",
+    "ky": "централизм",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
+    "examples": [
+      {
+        "ky": "централизм – бул башкаруунун эң эле бекем формасы.",
+        "ru": "демократический централизм – это устойчивая форма правления."
+      }
+    ],
+    "id": "ru-централизм-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "централизмдин",
+        "dative": "централизмге",
+        "accusative": "централизмди",
+        "locative": "централизмде",
+        "ablative": "централизмден"
+      },
+      "pluralForms": {
+        "genitive": "централизмдердин",
+        "dative": "централизмдерге",
+        "accusative": "централизмдерди",
+        "locative": "централизмдерде",
+        "ablative": "централизмдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цукат",
+    "ky": "цукат",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%83%D0%BA%D0%B0%D1%82",
+    "id": "ru-цукат-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цукаттын",
+        "dative": "цукатка",
+        "accusative": "цукатты",
+        "locative": "цукатта",
+        "ablative": "цукаттан"
+      },
+      "pluralForms": {
+        "genitive": "цукаттардын",
+        "dative": "цукаттарга",
+        "accusative": "цукаттарды",
+        "locative": "цукаттарда",
+        "ablative": "цукаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "центральная нервная система",
+    "ky": "борбордук нерв системасы",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%BD%D0%B5%D1%80%D0%B2%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%81%D1%8B",
+    "id": "ru-центральная нервная система-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "борбордук нерв системасынын",
+        "dative": "борбордук нерв системасыга",
+        "accusative": "борбордук нерв системасыны",
+        "locative": "борбордук нерв системасыда",
+        "ablative": "борбордук нерв системасыдан"
+      },
+      "pluralForms": {
+        "genitive": "борбордук нерв системасылардын",
+        "dative": "борбордук нерв системасыларга",
+        "accusative": "борбордук нерв системасыларды",
+        "locative": "борбордук нерв системасыларда",
+        "ablative": "борбордук нерв системасылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Цюрих",
+    "ky": "Цюрих",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85",
+    "ruAccented": "Цю'рих",
+    "ruGender": "m",
+    "id": "ru-Цюрих-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Цюрихтин",
+        "dative": "Цюрихке",
+        "accusative": "Цюрихти",
+        "locative": "Цюрихте",
+        "ablative": "Цюрихтен"
+      },
+      "pluralForms": {
+        "genitive": "Цюрихтердин",
+        "dative": "Цюрихтерге",
+        "accusative": "Цюрихтерди",
+        "locative": "Цюрихтерде",
+        "ablative": "Цюрихтерден"
+      },
+      "rule": "Основа на глухую согласную -х, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Центральная Америка",
+    "ky": "Борбордук Америка",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0",
+    "id": "ru-Центральная Америка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Борбордук Американын",
+        "dative": "Борбордук Америкага",
+        "accusative": "Борбордук Американы",
+        "locative": "Борбордук Америкада",
+        "ablative": "Борбордук Америкадан"
+      },
+      "pluralForms": {
+        "genitive": "Борбордук Америкалардын",
+        "dative": "Борбордук Америкаларга",
+        "accusative": "Борбордук Америкаларды",
+        "locative": "Борбордук Америкаларда",
+        "ablative": "Борбордук Америкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветная революция",
+    "ky": "түстүү төңкөрүш",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81%D1%82%D2%AF%D2%AF%20%D1%82%D3%A9%D2%A3%D0%BA%D3%A9%D1%80%D2%AF%D1%88",
+    "id": "ru-цветная революция-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "түстүү төңкөрүштүн",
+        "dative": "түстүү төңкөрүшкө",
+        "accusative": "түстүү төңкөрүштү",
+        "locative": "түстүү төңкөрүштө",
+        "ablative": "түстүү төңкөрүштөн"
+      },
+      "pluralForms": {
+        "genitive": "түстүү төңкөрүштөрдүн",
+        "dative": "түстүү төңкөрүштөргө",
+        "accusative": "түстүү төңкөрүштөрдү",
+        "locative": "түстүү төңкөрүштөрдө",
+        "ablative": "түстүү төңкөрүштөрдөн"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "центнер",
+    "ky": "центнер",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D0%B5%D1%80",
+    "senses": [
+      "100 кг"
+    ],
+    "ruAccented": "це'нтнер",
+    "ruGender": "m",
+    "id": "ru-центнер-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "центнердин",
+        "dative": "центнерге",
+        "accusative": "центнерди",
+        "locative": "центнерде",
+        "ablative": "центнерден"
+      },
+      "pluralForms": {
+        "genitive": "центнердердин",
+        "dative": "центнердерге",
+        "accusative": "центнердерди",
+        "locative": "центнердерде",
+        "ablative": "центнердерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "центральный банк",
+    "ky": "борбордук банк",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%B1%D0%B0%D0%BD%D0%BA",
+    "id": "ru-центральный банк-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "борбордук банктын",
+        "dative": "борбордук банкка",
+        "accusative": "борбордук банкты",
+        "locative": "борбордук банкта",
+        "ablative": "борбордук банктан"
+      },
+      "pluralForms": {
+        "genitive": "борбордук банктардын",
+        "dative": "борбордук банктарга",
+        "accusative": "борбордук банктарды",
+        "locative": "борбордук банктарда",
+        "ablative": "борбордук банктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цвет",
+    "ky": "өң",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D2%A3",
+    "senses": [
+      "spectral composition of visible light"
+    ],
+    "etymology": "From Proto-Turkic *öŋ (“front, colour”). Cognate with Southern Altai ӧҥ (öŋ), Khakas ӧң (öñ), Shor ӧң, Yakut өҥ (öŋ).",
+    "ruAccented": "цвет",
+    "ruGender": "m",
+    "frequency": 183,
+    "id": "ru-цвет-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "өңдүн",
+        "dative": "өңгө",
+        "accusative": "өңдү",
+        "locative": "өңдө",
+        "ablative": "өңдөн"
+      },
+      "pluralForms": {
+        "genitive": "өңдөрдүн",
+        "dative": "өңдөргө",
+        "accusative": "өңдөрдү",
+        "locative": "өңдөрдө",
+        "ablative": "өңдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -ң, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цифра",
+    "ky": "сан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD",
+    "senses": [
+      "non-word symbol that represents a number"
+    ],
+    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
+    "pronunciation": "/sɑn/",
+    "examples": [
+      {
+        "ky": "адам эмгектенүүдө. Жана бул сан күндөн күнгө өсүүдө.",
+        "ru": "И каждый день эта цифра увеличивается."
+      },
+      {
+        "ky": "бул өтө эле чоң сан дейли, бирок табигый-баланстын минимумун эске алсак өлкөнүн",
+        "ru": "Ладно, пусть это несбыточно, но даже с учетом природно-сбалансированного"
+      }
+    ],
+    "ruAccented": "ци'фра",
+    "ruGender": "f",
+    "frequency": 1298,
+    "id": "ru-цифра-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "сандын",
+        "dative": "санга",
+        "accusative": "санды",
+        "locative": "санда",
+        "ablative": "сандан"
+      },
+      "pluralForms": {
+        "genitive": "сандардын",
+        "dative": "сандарга",
+        "accusative": "сандарды",
+        "locative": "сандарда",
+        "ablative": "сандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цифровой",
+    "ky": "санариптик",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%BA",
+    "senses": [
+      "of or relating to computers"
+    ],
+    "examples": [
+      {
+        "ky": "санариптик өнүктүрүү, коргонуу жана аэрокосмостук өнөр жай министрлигинин",
+        "ru": "цифрового развития, оборонной и аэрокосмической промышленности Республики"
+      },
+      {
+        "ky": "Казакстанды жана бизди кандай санариптик келечек күтөт?",
+        "ru": "цифровое будущее ждет соседний Казахстан и нас?"
+      }
+    ],
+    "ruAccented": "цифрово'й",
+    "id": "ru-цифровой-002"
+  },
+  {
+    "ru": "Центрально-Африканская Республика",
+    "ky": "Борбордук Африка Республикасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
+    "senses": [
+      "country in Central Africa"
+    ],
+    "id": "ru-Центрально-Африканская Республика-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Борбордук Африка Республикасынын",
+        "dative": "Борбордук Африка Республикасыга",
+        "accusative": "Борбордук Африка Республикасыны",
+        "locative": "Борбордук Африка Республикасыда",
+        "ablative": "Борбордук Африка Республикасыдан"
+      },
+      "pluralForms": {
+        "genitive": "Борбордук Африка Республикасылардын",
+        "dative": "Борбордук Африка Республикасыларга",
+        "accusative": "Борбордук Африка Республикасыларды",
+        "locative": "Борбордук Африка Республикасыларда",
+        "ablative": "Борбордук Африка Республикасылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ЦАР",
+    "ky": "Борбордук Африка Республикасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
+    "senses": [
+      "country in Central Africa"
+    ],
+    "id": "ru-ЦАР-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Борбордук Африка Республикасынын",
+        "dative": "Борбордук Африка Республикасыга",
+        "accusative": "Борбордук Африка Республикасыны",
+        "locative": "Борбордук Африка Республикасыда",
+        "ablative": "Борбордук Африка Республикасыдан"
+      },
+      "pluralForms": {
+        "genitive": "Борбордук Африка Республикасылардын",
+        "dative": "Борбордук Африка Республикасыларга",
+        "accusative": "Борбордук Африка Республикасыларды",
+        "locative": "Борбордук Африка Республикасыларда",
+        "ablative": "Борбордук Африка Республикасылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церковь",
+    "ky": "чиркөө",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D3%A9%D3%A9",
+    "senses": [
+      "house of worship"
+    ],
+    "etymology": "Borrowed from Russian це́рковь (cérkovʹ). Cognate with Bashkir сиркәү (sirkəw), Kildin Sami цэ̄ркав (cērkav), Kazakh шіркеу (şırkeu), Skolt Sami ceerkav, etc.",
+    "examples": [
+      {
+        "ky": "болгон эмес, азыркы иштеп жаткан чиркөө коомдору Орусия Православдык",
+        "ru": "никогда не было, приходы, действующие в стране, подчиняются Московской"
+      }
+    ],
+    "ruAccented": "це'рковь",
+    "ruGender": "f",
+    "frequency": 11,
+    "id": "ru-церковь-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "чиркөөнүн",
+        "dative": "чиркөөгө",
+        "accusative": "чиркөөнү",
+        "locative": "чиркөөдө",
+        "ablative": "чиркөөдөн"
+      },
+      "pluralForms": {
+        "genitive": "чиркөөлөрдүн",
+        "dative": "чиркөөлөргө",
+        "accusative": "чиркөөлөрдү",
+        "locative": "чиркөөлөрдө",
+        "ablative": "чиркөөлөрдөн"
+      },
+      "rule": "Основа на гласную -ө, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церква",
+    "ky": "чиркөө",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D3%A9%D3%A9",
+    "senses": [
+      "house of worship"
+    ],
+    "etymology": "Borrowed from Russian це́рковь (cérkovʹ). Cognate with Bashkir сиркәү (sirkəw), Kildin Sami цэ̄ркав (cērkav), Kazakh шіркеу (şırkeu), Skolt Sami ceerkav, etc.",
+    "examples": [
+      {
+        "ky": "болгон эмес, азыркы иштеп жаткан чиркөө коомдору Орусия Православдык",
+        "ru": "никогда не было, приходы, действующие в стране, подчиняются Московской"
+      }
+    ],
+    "frequency": 11,
+    "id": "ru-церква-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "чиркөөнүн",
+        "dative": "чиркөөгө",
+        "accusative": "чиркөөнү",
+        "locative": "чиркөөдө",
+        "ablative": "чиркөөдөн"
+      },
+      "pluralForms": {
+        "genitive": "чиркөөлөрдүн",
+        "dative": "чиркөөлөргө",
+        "accusative": "чиркөөлөрдү",
+        "locative": "чиркөөлөрдө",
+        "ablative": "чиркөөлөрдөн"
+      },
+      "rule": "Основа на гласную -ө, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царь",
+    "ky": "король",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C",
+    "senses": [
+      "a male of a royal family who is the supreme ruler of his nation"
+    ],
+    "etymology": "Borrowed from Russian коро́ль (korólʹ).",
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "id": "ru-царь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "корольдун",
+        "dative": "корольго",
+        "accusative": "корольду",
+        "locative": "корольдо",
+        "ablative": "корольдон"
+      },
+      "pluralForms": {
+        "genitive": "корольдордун",
+        "dative": "корольдорго",
+        "accusative": "корольдорду",
+        "locative": "корольдордо",
+        "ablative": "корольдордон"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царь",
+    "ky": "падыша",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0",
+    "senses": [
+      "a male of a royal family who is the supreme ruler of his nation"
+    ],
+    "etymology": "Borrowed from Persian پادشاه.",
+    "pronunciation": "/pɑdɯˈʃɑ/",
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "frequency": 170,
+    "id": "ru-царь-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "падышанын",
+        "dative": "падышага",
+        "accusative": "падышаны",
+        "locative": "падышада",
+        "ablative": "падышадан"
+      },
+      "pluralForms": {
+        "genitive": "падышалардын",
+        "dative": "падышаларга",
+        "accusative": "падышаларды",
+        "locative": "падышаларда",
+        "ablative": "падышалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царь",
+    "ky": "кан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD",
+    "senses": [
+      "a male of a royal family who is the supreme ruler of his nation"
+    ],
+    "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "examples": [
+      {
+        "ky": "Бирок, Кудайга шүгүр, кан төгүлгөн жок.",
+        "ru": "Но, слава Аллаху, кровь не пролилась."
+      },
+      {
+        "ky": "сыртынан жылтыраган, бирок чындап киргенде кан менен терден улам жаралуучу, дың",
+        "ru": "понимании – ровно по всему диапазону. Природные данные, разумеется, желательны"
+      }
+    ],
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "frequency": 6011,
+    "id": "ru-царь-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кандын",
+        "dative": "канга",
+        "accusative": "канды",
+        "locative": "канда",
+        "ablative": "кандан"
+      },
+      "pluralForms": {
+        "genitive": "кандардын",
+        "dative": "кандарга",
+        "accusative": "кандарды",
+        "locative": "кандарда",
+        "ablative": "кандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "королева",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0",
+    "senses": [
+      "female monarch"
+    ],
+    "examples": [
+      {
+        "ky": "Акимович, королева жөнүндө сизден жүз ирет сурагандай болушту.",
+        "ru": "Султан Акимович, про королеву вас уже сто раз расспрашивали."
+      }
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "королеванын",
+        "dative": "королевага",
+        "accusative": "королеваны",
+        "locative": "королевада",
+        "ablative": "королевадан"
+      },
+      "pluralForms": {
+        "genitive": "королевалардын",
+        "dative": "королеваларга",
+        "accusative": "королеваларды",
+        "locative": "королеваларда",
+        "ablative": "королевалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "каныш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88",
+    "senses": [
+      "female monarch"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "каныштын",
+        "dative": "канышка",
+        "accusative": "канышты",
+        "locative": "канышта",
+        "ablative": "каныштан"
+      },
+      "pluralForms": {
+        "genitive": "каныштардын",
+        "dative": "каныштарга",
+        "accusative": "каныштарды",
+        "locative": "каныштарда",
+        "ablative": "каныштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "ханыша",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD%D1%8B%D1%88%D0%B0",
+    "senses": [
+      "female monarch"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ханышанын",
+        "dative": "ханышага",
+        "accusative": "ханышаны",
+        "locative": "ханышада",
+        "ablative": "ханышадан"
+      },
+      "pluralForms": {
+        "genitive": "ханышалардын",
+        "dative": "ханышаларга",
+        "accusative": "ханышаларды",
+        "locative": "ханышаларда",
+        "ablative": "ханышалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветы",
+    "ky": "гүл",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
+    "senses": [
+      "reproductive structure in angiosperms"
+    ],
+    "etymology": "Borrowed from Classical Persian گُل (gul).",
+    "pronunciation": "/ɡyl/",
+    "examples": [
+      {
+        "ky": "Гүл ич ооруларды айыктыра алат деген ишеним бар, жана да ал 1978-жылы эле Кызыл китепке киргизилгени менен анын кооздугуна суктанып бул гүлдү үзүп, өзү менен алып кеткиси келгендер да кезигет.",
+        "ru": "Легенда об Айгуль цветку приписывают благотворное действие при болезнях ЖКТ, да и ради красоты все еще находятся желающие оборвать цветы, занесенные в Красную Книгу еще в 1978 году."
+      },
+      {
+        "ky": "биринчи кварталдар жана гүл бакчалар пландаштырыла баштайт.",
+        "ru": "и производилась разбивка первых кварталов и скверов."
+      }
+    ],
+    "frequency": 248,
+    "id": "ru-цветы-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "гүлдүн",
+        "dative": "гүлгө",
+        "accusative": "гүлдү",
+        "locative": "гүлдө",
+        "ablative": "гүлдөн"
+      },
+      "pluralForms": {
+        "genitive": "гүлдөрдүн",
+        "dative": "гүлдөргө",
+        "accusative": "гүлдөрдү",
+        "locative": "гүлдөрдө",
+        "ablative": "гүлдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царство",
+    "ky": "королевство",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE",
+    "senses": [
+      "realm having as supreme ruler a king or queen"
+    ],
+    "ruAccented": "ца'рство",
+    "ruGender": "n",
+    "id": "ru-царство-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "королевствонун",
+        "dative": "королевствого",
+        "accusative": "королевствону",
+        "locative": "королевстводо",
+        "ablative": "королевстводон"
+      },
+      "pluralForms": {
+        "genitive": "королевстволордун",
+        "dative": "королевстволорго",
+        "accusative": "королевстволорду",
+        "locative": "королевстволордо",
+        "ablative": "королевстволордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царство",
+    "ky": "падышалык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "realm having as supreme ruler a king or queen"
+    ],
+    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
+    "pronunciation": "/pɑˈdɯˈʃɑˈlɯq/",
+    "ruAccented": "ца'рство",
+    "ruGender": "n",
+    "frequency": 14,
+    "id": "ru-царство-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "падышалыктын",
+        "dative": "падышалыкка",
+        "accusative": "падышалыкты",
+        "locative": "падышалыкта",
+        "ablative": "падышалыктан"
+      },
+      "pluralForms": {
+        "genitive": "падышалыктардын",
+        "dative": "падышалыктарга",
+        "accusative": "падышалыктарды",
+        "locative": "падышалыктарда",
+        "ablative": "падышалыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цвета индиго",
+    "ky": "индиго",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE",
+    "senses": [
+      "colour"
+    ],
+    "id": "ru-цвета индиго-001"
+  },
+  {
+    "ru": "цепь",
+    "ky": "тизмек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D0%BA",
+    "senses": [
+      "series of interconnected rings or links"
+    ],
+    "examples": [
+      {
+        "ky": "байкагандай, силердеги бардык баалуу буюмдарды биз тизмек жана акт боюнча сизге",
+        "ru": "Плюс вы заметили, что мы принимаем и сдаем ваши ценные вещи по"
+      }
+    ],
+    "ruAccented": "цепь",
+    "ruGender": "f",
+    "id": "ru-цепь-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тизмектин",
+        "dative": "тизмекке",
+        "accusative": "тизмекти",
+        "locative": "тизмекте",
+        "ablative": "тизмектен"
+      },
+      "pluralForms": {
+        "genitive": "тизмектердин",
+        "dative": "тизмектерге",
+        "accusative": "тизмектерди",
+        "locative": "тизмектерде",
+        "ablative": "тизмектерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цепочка",
+    "ky": "чынжыр",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B6%D1%8B%D1%80",
+    "senses": [
+      "series of interconnected rings or links"
+    ],
+    "etymology": "From Persian زنجیر. Cognate with Tajik занҷир (zanjir), Azerbaijani zəncir,\nBashkir сынйыр (sınyır), Tatar чылбыр (çılbır), Southern Altai чылбыр (čïlbïr),\nTurkmen zynjyr, Uyghur زەنجىر (zenjir),\nUzbek zanjir, Kalmyk шинҗүр (şinjür),\nKazakh шынжыр (şynjyr), etc.",
+    "ruAccented": "цепо'чка",
+    "ruGender": "f",
+    "frequency": 6,
+    "id": "ru-цепочка-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "чынжырдын",
+        "dative": "чынжырга",
+        "accusative": "чынжырды",
+        "locative": "чынжырда",
+        "ablative": "чынжырдан"
+      },
+      "pluralForms": {
+        "genitive": "чынжырдардын",
+        "dative": "чынжырдарга",
+        "accusative": "чынжырдарды",
+        "locative": "чынжырдарда",
+        "ablative": "чынжырдардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цепочка",
+    "ky": "тизмек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D0%BA",
+    "senses": [
+      "series of interconnected rings or links"
+    ],
+    "examples": [
+      {
+        "ky": "байкагандай, силердеги бардык баалуу буюмдарды биз тизмек жана акт боюнча сизге",
+        "ru": "Плюс вы заметили, что мы принимаем и сдаем ваши ценные вещи по"
+      }
+    ],
+    "ruAccented": "цепо'чка",
+    "ruGender": "f",
+    "id": "ru-цепочка-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тизмектин",
+        "dative": "тизмекке",
+        "accusative": "тизмекти",
+        "locative": "тизмекте",
+        "ablative": "тизмектен"
+      },
+      "pluralForms": {
+        "genitive": "тизмектердин",
+        "dative": "тизмектерге",
+        "accusative": "тизмектерди",
+        "locative": "тизмектерде",
+        "ablative": "тизмектерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цивильный",
+    "ky": "жарандык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "related to people and government office as opposed to military or religion"
+    ],
+    "etymology": "From жаран (jaran, “citizen”) + -дык (-dık, noun-forming suffix).",
+    "pronunciation": "/d͡ʒɑrɑndɯq/",
+    "examples": [
+      {
+        "ky": "Бул иш чарага ар кайсы өлкөлөрдүн өкмөттөрүнүн лидерлери, эл аралык өнүгүү институттарынын, жеке сектордун, жарандык коомчулуктун жана илимий чөйрөнүн өкүлдөрү катышты.",
+        "ru": "В данном мероприятии приняли участие лидеры правительств разных стран, представители международных институтов развития, частного сектора, гражданского общества и научных кругов."
+      },
+      {
+        "ky": "Аталган документти иштеп чыгууда, өлкөнүн негизги каналын өнүктүрүү максатында коомдук жана жарандык коомчулук өкүлдөрүнөн кеңири масштабдагы кеңештер, ой-пикирлер кабыл алынып, документке камтылды.",
+        "ru": "В процессе разработки документа были проведены масштабные консультации с представителями общественности и гражданского сектора, по обсуждению идей и мнений развития главного канала страны."
+      }
+    ],
+    "ruAccented": "циви'льный",
+    "frequency": 915,
+    "id": "ru-цивильный-001"
+  },
+  {
+    "ru": "цивильный",
+    "ky": "граждандык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "related to people and government office as opposed to military or religion"
+    ],
+    "examples": [
+      {
+        "ky": "б) Кыргыз Республикасынын Граждандык кодексинде белгиленген доонун эскирүү мөөнөтү аяктагандыгына байланыштуу милдеттенмелерди эсептен чыгаруудан;",
+        "ru": "б) списания обязательств в связи с истечением срока исковой давности, установленного Гражданским кодексом Кыргызской Республики;"
+      },
+      {
+        "ky": "- Чернобыль АЭСиндеги жана башка граждандык же аскердик багыттагы атом объекттериндеги кыйроонун кесепеттерин жоюуга катышкандарга.",
+        "ru": "- участникам ликвидации последствий аварии на Чернобыльской АЭС и других атомных объектах гражданского или военного назначения."
+      }
+    ],
+    "ruAccented": "циви'льный",
+    "frequency": 30,
+    "id": "ru-цивильный-002"
+  },
+  {
+    "ru": "целомудрие",
+    "ky": "изгилик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B7%D0%B3%D0%B8%D0%BB%D0%B8%D0%BA",
+    "senses": [
+      "excellence in morals"
+    ],
+    "ruAccented": "целому'дрие",
+    "ruGender": "n",
+    "id": "ru-целомудрие-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "изгиликтин",
+        "dative": "изгиликке",
+        "accusative": "изгиликти",
+        "locative": "изгиликте",
+        "ablative": "изгиликтен"
+      },
+      "pluralForms": {
+        "genitive": "изгиликтердин",
+        "dative": "изгиликтерге",
+        "accusative": "изгиликтерди",
+        "locative": "изгиликтерде",
+        "ablative": "изгиликтерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целомудрие",
+    "ky": "кайрымдуу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D1%8B%D0%BC%D0%B4%D1%83%D1%83",
+    "senses": [
+      "excellence in morals"
+    ],
+    "ruAccented": "целому'дрие",
+    "ruGender": "n",
+    "frequency": 4,
+    "id": "ru-целомудрие-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "кайрымдуунун",
+        "dative": "кайрымдууго",
+        "accusative": "кайрымдууну",
+        "locative": "кайрымдуудо",
+        "ablative": "кайрымдуудон"
+      },
+      "pluralForms": {
+        "genitive": "кайрымдуулордун",
+        "dative": "кайрымдуулорго",
+        "accusative": "кайрымдуулорду",
+        "locative": "кайрымдуулордо",
+        "ablative": "кайрымдуулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цитадель",
+    "ky": "башкы мунара",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D1%8B%20%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0",
+    "senses": [
+      "main tower"
+    ],
+    "ruAccented": "цитаде'ль",
+    "id": "ru-цитадель-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "башкы мунаранын",
+        "dative": "башкы мунарага",
+        "accusative": "башкы мунараны",
+        "locative": "башкы мунарада",
+        "ablative": "башкы мунарадан"
+      },
+      "pluralForms": {
+        "genitive": "башкы мунаралардын",
+        "dative": "башкы мунараларга",
+        "accusative": "башкы мунараларды",
+        "locative": "башкы мунараларда",
+        "ablative": "башкы мунаралардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "центральный",
+    "ky": "борбордук",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA",
+    "senses": [
+      "being in the centre"
+    ],
+    "examples": [
+      {
+        "ky": "Борбордук карьерде жардыруу иштерин жүргүзүү укугуна уруксат",
+        "ru": "Разрешение на право производства взрывных работ на Центральном карьере"
+      },
+      {
+        "ky": "Demirbank жогорку билим алууга жана Борбордук Азиялагы Америка Университетинде билим алууга төлөө мүмкүнчүлүгүн берет.",
+        "ru": "Demirbank предоставляет возможность получить высшее образование и оплатить обучение в Американском университете Центральной Азии."
+      }
+    ],
+    "ruAccented": "центра'льный",
+    "frequency": 1854,
+    "id": "ru-центральный-001"
+  },
+  {
+    "ru": "цапля",
+    "ky": "кытан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "bird"
+    ],
+    "ruAccented": "ца'пля",
+    "ruGender": "f",
+    "id": "ru-цапля-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кытандын",
+        "dative": "кытанга",
+        "accusative": "кытанды",
+        "locative": "кытанда",
+        "ablative": "кытандан"
+      },
+      "pluralForms": {
+        "genitive": "кытандардын",
+        "dative": "кытандарга",
+        "accusative": "кытандарды",
+        "locative": "кытандарда",
+        "ablative": "кытандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цыплёнок",
+    "ky": "тоок",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BE%D0%BA",
+    "senses": [
+      "bird"
+    ],
+    "etymology": "From Proto-Turkic *tiakïgu (“hen, fowl”).\nCognate with\nOld Uyghur 𐾀𐽰𐽲𐾄𐽶𐽲𐽳 (takïgu),\nBashkir тауыҡ (tawıq),\nTatar тавык (tawıq),\nKazakh тауық (tauyq),\nSouthern Altai таак (taak), така (taka),\nKumyk тавукъ (tawuq),\nUzbek tovuq,\nTurkish tavuk (“hen”), Turkmen towuk,\netc.",
+    "examples": [
+      {
+        "ky": "өзгөчө ыкма менен даярдалып, мешке какталып башырылган тоок эти болчу.",
+        "ru": "Это была курица, как-то по-особенному запеченная в кокосовой стружке."
+      },
+      {
+        "ky": "Мисалы, велосипед, телевизор, тоок уурдагандарга айып пул, коомдук жана түзөтүү иштери каралган.",
+        "ru": "Например, тем, кто украл велосипед, телевизор, курицу предусмотрены наложение денежного штрафа, общественные и исправительные работы."
+      }
+    ],
+    "ruAccented": "цыплёнок",
+    "ruGender": "m",
+    "frequency": 83,
+    "id": "ru-цыплёнок-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "тооктун",
+        "dative": "тоокко",
+        "accusative": "тоокту",
+        "locative": "тоокто",
+        "ablative": "тооктон"
+      },
+      "pluralForms": {
+        "genitive": "тооктордун",
+        "dative": "тоокторго",
+        "accusative": "тоокторду",
+        "locative": "тооктордо",
+        "ablative": "тооктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целый",
+    "ky": "лык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "total, entire"
+    ],
+    "ruAccented": "це'лый",
+    "id": "ru-целый-001"
+  },
+  {
+    "ru": "царевич",
+    "ky": "канзада",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D0%B4%D0%B0",
+    "senses": [
+      "son or male-line grandson of a reigning monarch"
+    ],
+    "ruAccented": "царе'вич",
+    "ruGender": "m",
+    "id": "ru-царевич-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "канзаданын",
+        "dative": "канзадага",
+        "accusative": "канзаданы",
+        "locative": "канзадада",
+        "ablative": "канзададан"
+      },
+      "pluralForms": {
+        "genitive": "канзадалардын",
+        "dative": "канзадаларга",
+        "accusative": "канзадаларды",
+        "locative": "канзадаларда",
+        "ablative": "канзадалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царевич",
+    "ky": "канзаада",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D0%B0%D0%B4%D0%B0",
+    "senses": [
+      "son or male-line grandson of a reigning monarch"
+    ],
+    "etymology": "From кан (kan) + заада (zaada)",
+    "pronunciation": "/qɑnˈzɑːˈdɑ/",
+    "ruAccented": "царе'вич",
+    "ruGender": "m",
+    "id": "ru-царевич-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "канзааданын",
+        "dative": "канзаадага",
+        "accusative": "канзааданы",
+        "locative": "канзаадада",
+        "ablative": "канзаададан"
+      },
+      "pluralForms": {
+        "genitive": "канзаадалардын",
+        "dative": "канзаадаларга",
+        "accusative": "канзаадаларды",
+        "locative": "канзаадаларда",
+        "ablative": "канзаадалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царевич",
+    "ky": "падышазада",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%B7%D0%B0%D0%B4%D0%B0",
+    "senses": [
+      "son or male-line grandson of a reigning monarch"
+    ],
+    "ruAccented": "царе'вич",
+    "ruGender": "m",
+    "id": "ru-царевич-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "падышазаданын",
+        "dative": "падышазадага",
+        "accusative": "падышазаданы",
+        "locative": "падышазадада",
+        "ablative": "падышазададан"
+      },
+      "pluralForms": {
+        "genitive": "падышазадалардын",
+        "dative": "падышазадаларга",
+        "accusative": "падышазадаларды",
+        "locative": "падышазадаларда",
+        "ablative": "падышазадалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царевна",
+    "ky": "канбийке",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B1%D0%B8%D0%B9%D0%BA%D0%B5",
+    "senses": [
+      "female member of royal family"
+    ],
+    "etymology": "From кан (kan) + бийке (biyke)",
+    "pronunciation": "/qɑnˈbijˈcɛ/",
+    "ruAccented": "царе'вна",
+    "ruGender": "f",
+    "id": "ru-царевна-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "канбийкенин",
+        "dative": "канбийкеге",
+        "accusative": "канбийкени",
+        "locative": "канбийкеде",
+        "ablative": "канбийкеден"
+      },
+      "pluralForms": {
+        "genitive": "канбийкелердин",
+        "dative": "канбийкелерге",
+        "accusative": "канбийкелерди",
+        "locative": "канбийкелерде",
+        "ablative": "канбийкелерден"
+      },
+      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царевна",
+    "ky": "принцесса",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0",
+    "senses": [
+      "female member of royal family"
+    ],
+    "ruAccented": "царе'вна",
+    "ruGender": "f",
+    "id": "ru-царевна-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "принцессанын",
+        "dative": "принцессага",
+        "accusative": "принцессаны",
+        "locative": "принцессада",
+        "ablative": "принцессадан"
+      },
+      "pluralForms": {
+        "genitive": "принцессалардын",
+        "dative": "принцессаларга",
+        "accusative": "принцессаларды",
+        "locative": "принцессаларда",
+        "ablative": "принцессалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царь",
+    "ky": "император",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80",
+    "senses": [
+      "ruler of an empire"
+    ],
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "frequency": 48,
+    "id": "ru-царь-004",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "императордун",
+        "dative": "императорго",
+        "accusative": "императорду",
+        "locative": "императордо",
+        "ablative": "императордон"
+      },
+      "pluralForms": {
+        "genitive": "императордордун",
+        "dative": "императордорго",
+        "accusative": "императордорду",
+        "locative": "императордордо",
+        "ablative": "императордордон"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "императрица",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0",
+    "senses": [
+      "female monarch of an empire"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "императрицанын",
+        "dative": "императрицага",
+        "accusative": "императрицаны",
+        "locative": "императрицада",
+        "ablative": "императрицадан"
+      },
+      "pluralForms": {
+        "genitive": "императрицалардын",
+        "dative": "императрицаларга",
+        "accusative": "императрицаларды",
+        "locative": "императрицаларда",
+        "ablative": "императрицалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "император аял",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%D0%B0%D1%8F%D0%BB",
+    "senses": [
+      "female monarch of an empire"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-005",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "император аялдын",
+        "dative": "император аялга",
+        "accusative": "император аялды",
+        "locative": "император аялда",
+        "ablative": "император аялдан"
+      },
+      "pluralForms": {
+        "genitive": "император аялдардын",
+        "dative": "император аялдарга",
+        "accusative": "император аялдарды",
+        "locative": "император аялдарда",
+        "ablative": "император аялдардан"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царство",
+    "ky": "империя",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F",
+    "senses": [
+      "political unit, having numerous or extensive territories"
+    ],
+    "ruAccented": "ца'рство",
+    "ruGender": "n",
+    "frequency": 90,
+    "id": "ru-царство-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "империядин",
+        "dative": "империяге",
+        "accusative": "империяди",
+        "locative": "империяде",
+        "ablative": "империяден"
+      },
+      "pluralForms": {
+        "genitive": "империядердин",
+        "dative": "империядерге",
+        "accusative": "империядерди",
+        "locative": "империядерде",
+        "ablative": "империядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цилиндр",
+    "ky": "цилиндр",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80",
+    "senses": [
+      "geometry: surface"
+    ],
+    "ruAccented": "цили'ндр",
+    "ruGender": "m",
+    "frequency": 3,
+    "id": "ru-цилиндр-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цилиндрдин",
+        "dative": "цилиндрге",
+        "accusative": "цилиндрди",
+        "locative": "цилиндрде",
+        "ablative": "цилиндрден"
+      },
+      "pluralForms": {
+        "genitive": "цилиндрдердин",
+        "dative": "цилиндрдерге",
+        "accusative": "цилиндрдерди",
+        "locative": "цилиндрдерде",
+        "ablative": "цилиндрдерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цех",
+    "ky": "мастерская",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F",
+    "senses": [
+      "small manufacturing room"
+    ],
+    "ruAccented": "цех",
+    "ruGender": "m",
+    "id": "ru-цех-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мастерскаядын",
+        "dative": "мастерскаяга",
+        "accusative": "мастерскаяды",
+        "locative": "мастерскаяда",
+        "ablative": "мастерскаядан"
+      },
+      "pluralForms": {
+        "genitive": "мастерскаядардын",
+        "dative": "мастерскаядарга",
+        "accusative": "мастерскаядарды",
+        "locative": "мастерскаядарда",
+        "ablative": "мастерскаядардан"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цех",
+    "ky": "устакана",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D0%B0",
+    "senses": [
+      "small manufacturing room"
+    ],
+    "ruAccented": "цех",
+    "ruGender": "m",
+    "frequency": 7,
+    "id": "ru-цех-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "устакананын",
+        "dative": "устаканага",
+        "accusative": "устакананы",
+        "locative": "устаканада",
+        "ablative": "устаканадан"
+      },
+      "pluralForms": {
+        "genitive": "устаканалардын",
+        "dative": "устаканаларга",
+        "accusative": "устаканаларды",
+        "locative": "устаканаларда",
+        "ablative": "устаканалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цех",
+    "ky": "цех",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D1%85",
+    "senses": [
+      "small manufacturing room"
+    ],
+    "examples": [
+      {
+        "ky": "аткаруучу жетекчиси Гүлнара Розыбаева дагы «Тигүүчү цех бул жаңы жөндөмдөр, ал",
+        "ru": "Гульнара Розыбаева, исполнительный директор швейного цеха также отметила: “Швейный цех это новые"
+      },
+      {
+        "ky": "Ал үчүн биз тигүүчү цех ачтык, андан биз балдарды жаңы",
+        "ru": "Для этого мы и открыли швейный цех, в котором обучим"
+      }
+    ],
+    "ruAccented": "цех",
+    "ruGender": "m",
+    "frequency": 31,
+    "id": "ru-цех-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цехтин",
+        "dative": "цехке",
+        "accusative": "цехти",
+        "locative": "цехте",
+        "ablative": "цехтен"
+      },
+      "pluralForms": {
+        "genitive": "цехтердин",
+        "dative": "цехтерге",
+        "accusative": "цехтерди",
+        "locative": "цехтерде",
+        "ablative": "цехтерден"
+      },
+      "rule": "Основа на глухую согласную -х, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цивилизация",
+    "ky": "маданият",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%D1%82",
+    "senses": [
+      "organized culture"
+    ],
+    "etymology": "Borrowed from Classical Persian مَدَنِیَّت (madaniyyat).",
+    "pronunciation": "/mɑdɑniˈjɑt/",
+    "examples": [
+      {
+        "ky": "Маданият жана Билим",
+        "ru": "Культура и Образование"
+      },
+      {
+        "ky": "Сөз кезегинде Жамбылдан келген маданият адамдары да Таластагы бүгүнкү күндөр, кыргыз боорлордун урмат-сыйы өзгөчө жагымдуу маанай тартуулап жатканын жашырышкан жок.",
+        "ru": "Оно будет следить за исправностью водопроводной линии, обеспечивать бесперебойную подачу воды и собирать оплату за воду."
+      }
+    ],
+    "ruAccented": "цивилиза'ция",
+    "ruGender": "f",
+    "frequency": 462,
+    "id": "ru-цивилизация-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "маданияттин",
+        "dative": "маданиятке",
+        "accusative": "маданиятти",
+        "locative": "маданиятте",
+        "ablative": "маданияттен"
+      },
+      "pluralForms": {
+        "genitive": "маданияттердин",
+        "dative": "маданияттерге",
+        "accusative": "маданияттерди",
+        "locative": "маданияттерде",
+        "ablative": "маданияттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цистерна",
+    "ky": "бак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA",
+    "senses": [
+      "closed container for fluids"
+    ],
+    "etymology": "From Persian باغ (“garden”).",
+    "pronunciation": "/bɑq/",
+    "examples": [
+      {
+        "ky": "Калгандарына алма бак",
+        "ru": "На остальных разбили сады,"
+      },
+      {
+        "ky": "коомдук-маанилүү ишти жасап берүүсүн өтүнөбүз – бакчаларга бак отургузуу, арык",
+        "ru": "общественно-значимую работу – посадить деревья в парке, почистить канал,"
+      }
+    ],
+    "ruAccented": "цисте'рна",
+    "ruGender": "f",
+    "frequency": 1140,
+    "id": "ru-цистерна-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бактын",
+        "dative": "бакка",
+        "accusative": "бакты",
+        "locative": "бакта",
+        "ablative": "бактан"
+      },
+      "pluralForms": {
+        "genitive": "бактардын",
+        "dative": "бактарга",
+        "accusative": "бактарды",
+        "locative": "бактарда",
+        "ablative": "бактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирконий",
+    "ky": "цирконий",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9",
+    "senses": [
+      "chemical element"
+    ],
+    "id": "ru-цирконий-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цирконийдин",
+        "dative": "цирконийге",
+        "accusative": "цирконийди",
+        "locative": "цирконийде",
+        "ablative": "цирконийден"
+      },
+      "pluralForms": {
+        "genitive": "цирконийдердин",
+        "dative": "цирконийдерге",
+        "accusative": "цирконийдерди",
+        "locative": "цирконийдерде",
+        "ablative": "цирконийдерден"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целовать",
+    "ky": "өбүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF",
+    "senses": [
+      "to touch with the lips"
+    ],
+    "etymology": "From Proto-Turkic *öp-. Compare to Southern Altai ӧбӧр (öbör), etc.",
+    "ruAccented": "целова'ть",
+    "id": "ru-целовать-001"
+  },
+  {
+    "ru": "целовать",
+    "ky": "өөп коюу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83",
+    "senses": [
+      "to touch with the lips"
+    ],
+    "ruAccented": "целова'ть",
+    "id": "ru-целовать-002"
+  },
+  {
+    "ru": "целоваться",
+    "ky": "өбүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF",
+    "senses": [
+      "to touch with the lips"
+    ],
+    "etymology": "From Proto-Turkic *öp-. Compare to Southern Altai ӧбӧр (öbör), etc.",
+    "ruAccented": "целова'ться",
+    "id": "ru-целоваться-001"
+  },
+  {
+    "ru": "целоваться",
+    "ky": "өөп коюу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83",
+    "senses": [
+      "to touch with the lips"
+    ],
+    "ruAccented": "целова'ться",
+    "id": "ru-целоваться-002"
+  },
+  {
+    "ru": "центр",
+    "ky": "борбор",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80",
+    "senses": [
+      "point equidistant from all points on the perimeter of a circle"
+    ],
+    "examples": [
+      {
+        "ky": "БУУ Борбор Азия өлкөлөрүнө курал жеткирүүнүн алдын алуу боюнча программа иштеп чыкты - КТРК",
+        "ru": "ООН запустил проект по предотвращению поставок оружия террористам в странах Центральной Азии - КТРК"
+      },
+      {
+        "ky": "Алардын көпчүлүгү борбор шаарда жана Мосвка облусунда катталган. Өткөн жуманын аягында, БШКнын төрайымы баштаган делегация Москва шаарындагы мекендештер менен жыйын өткөрдү.",
+        "ru": "Большая часть из них находится в Москве и Московской области.В конце прошлой недели делегация во главе с председателем ЦИКа провела встречу с соотечественниками в Москве."
+      }
+    ],
+    "ruAccented": "центр",
+    "ruGender": "m",
+    "frequency": 686,
+    "id": "ru-центр-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "борбордун",
+        "dative": "борборго",
+        "accusative": "борборду",
+        "locative": "борбордо",
+        "ablative": "борбордон"
+      },
+      "pluralForms": {
+        "genitive": "борбордордун",
+        "dative": "борбордорго",
+        "accusative": "борбордорду",
+        "locative": "борбордордо",
+        "ablative": "борбордордон"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "центр",
+    "ky": "орто",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%82%D0%BE",
+    "senses": [
+      "point equidistant from all points on the perimeter of a circle"
+    ],
+    "etymology": "From Proto-Turkic *or- (“middle”). Kazakh орта (orta), Southern Altai орто (orto), Crimean Tatar orta, Kumyk орта (orta), Azerbaijani orta, Turkish orta, Turkmen orta, Uzbek o'rta,\nShor орта, Tuvan орту (ortu), Western Yugur orta, etc.",
+    "examples": [
+      {
+        "ky": "Сокулук районунун Орок айылынын орто мектебине жана Бишкек шаарындагы №12 мектеп-гимназиясына кошумча имараттар салына баштады.",
+        "ru": "Вот и сейчас с участием главы государства состоялась церемония закладки капсул под строительство новых корпусов школы в селе Орок Сокулукского района и столичной школе-гимназии №12."
+      },
+      {
+        "ky": "- Англис тилин билүүсү – орто деңгээлден төмөн эмес;",
+        "ru": "- Знание английского языка – не ниже среднего уровня"
+      }
+    ],
+    "ruAccented": "центр",
+    "ruGender": "m",
+    "frequency": 1348,
+    "id": "ru-центр-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "ортонун",
+        "dative": "ортого",
+        "accusative": "ортону",
+        "locative": "ортодо",
+        "ablative": "ортодон"
+      },
+      "pluralForms": {
+        "genitive": "ортолордун",
+        "dative": "ортолорго",
+        "accusative": "ортолорду",
+        "locative": "ортолордо",
+        "ablative": "ортолордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "центр",
+    "ky": "центр",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D1%80",
+    "senses": [
+      "point equidistant from all points on the perimeter of a circle"
+    ],
+    "ruAccented": "центр",
+    "ruGender": "m",
+    "id": "ru-центр-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "центрдин",
+        "dative": "центрге",
+        "accusative": "центрди",
+        "locative": "центрде",
+        "ablative": "центрден"
+      },
+      "pluralForms": {
+        "genitive": "центрдердин",
+        "dative": "центрдерге",
+        "accusative": "центрдерди",
+        "locative": "центрдерде",
+        "ablative": "центрдерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Цюрих",
+    "ky": "Цүрих",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D2%AF%D1%80%D0%B8%D1%85",
+    "senses": [
+      "city"
+    ],
+    "ruAccented": "Цю'рих",
+    "ruGender": "m",
+    "id": "ru-Цюрих-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Цүрихтин",
+        "dative": "Цүрихке",
+        "accusative": "Цүрихти",
+        "locative": "Цүрихте",
+        "ablative": "Цүрихтен"
+      },
+      "pluralForms": {
+        "genitive": "Цүрихтердин",
+        "dative": "Цүрихтерге",
+        "accusative": "Цүрихтерди",
+        "locative": "Цүрихтерде",
+        "ablative": "Цүрихтерден"
+      },
+      "rule": "Основа на глухую согласную -х, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цель",
+    "ky": "бута",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0",
+    "senses": [
+      "result one is attempting to achieve"
+    ],
+    "ruAccented": "цель",
+    "ruGender": "f",
+    "frequency": 54,
+    "id": "ru-цель-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бутанын",
+        "dative": "бутага",
+        "accusative": "бутаны",
+        "locative": "бутада",
+        "ablative": "бутадан"
+      },
+      "pluralForms": {
+        "genitive": "буталардын",
+        "dative": "буталарга",
+        "accusative": "буталарды",
+        "locative": "буталарда",
+        "ablative": "буталардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирюльник",
+    "ky": "чачтарач",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
+    "senses": [
+      "person whose profession is cutting (usually male) customers' hair and beards"
+    ],
+    "ruAccented": "цирю'льник",
+    "ruGender": "m",
+    "id": "ru-цирюльник-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "чачтарачтын",
+        "dative": "чачтарачка",
+        "accusative": "чачтарачты",
+        "locative": "чачтарачта",
+        "ablative": "чачтарачтан"
+      },
+      "pluralForms": {
+        "genitive": "чачтарачтардын",
+        "dative": "чачтарачтарга",
+        "accusative": "чачтарачтарды",
+        "locative": "чачтарачтарда",
+        "ablative": "чачтарачтардан"
+      },
+      "rule": "Основа на глухую согласную -ч, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирюльник",
+    "ky": "парикмахер",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80",
+    "senses": [
+      "person whose profession is cutting (usually male) customers' hair and beards"
+    ],
+    "ruAccented": "цирю'льник",
+    "ruGender": "m",
+    "id": "ru-цирюльник-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "парикмахердин",
+        "dative": "парикмахерге",
+        "accusative": "парикмахерди",
+        "locative": "парикмахерде",
+        "ablative": "парикмахерден"
+      },
+      "pluralForms": {
+        "genitive": "парикмахердердин",
+        "dative": "парикмахердерге",
+        "accusative": "парикмахердерди",
+        "locative": "парикмахердерде",
+        "ablative": "парикмахердерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирюльница",
+    "ky": "чачтарач",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
+    "senses": [
+      "person whose profession is cutting (usually male) customers' hair and beards"
+    ],
+    "id": "ru-цирюльница-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "чачтарачтын",
+        "dative": "чачтарачка",
+        "accusative": "чачтарачты",
+        "locative": "чачтарачта",
+        "ablative": "чачтарачтан"
+      },
+      "pluralForms": {
+        "genitive": "чачтарачтардын",
+        "dative": "чачтарачтарга",
+        "accusative": "чачтарачтарды",
+        "locative": "чачтарачтарда",
+        "ablative": "чачтарачтардан"
+      },
+      "rule": "Основа на глухую согласную -ч, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирюльница",
+    "ky": "парикмахер",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80",
+    "senses": [
+      "person whose profession is cutting (usually male) customers' hair and beards"
+    ],
+    "id": "ru-цирюльница-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "парикмахердин",
+        "dative": "парикмахерге",
+        "accusative": "парикмахерди",
+        "locative": "парикмахерде",
+        "ablative": "парикмахерден"
+      },
+      "pluralForms": {
+        "genitive": "парикмахердердин",
+        "dative": "парикмахердерге",
+        "accusative": "парикмахердерди",
+        "locative": "парикмахердерде",
+        "ablative": "парикмахердерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цент",
+    "ky": "цент",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82",
+    "senses": [
+      "subunit of currency in US and elsewhere"
+    ],
+    "ruAccented": "цент",
+    "ruGender": "m",
+    "id": "ru-цент-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "центтин",
+        "dative": "центке",
+        "accusative": "центти",
+        "locative": "центте",
+        "ablative": "центтен"
+      },
+      "pluralForms": {
+        "genitive": "центтердин",
+        "dative": "центтерге",
+        "accusative": "центтерди",
+        "locative": "центтерде",
+        "ablative": "центтерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царь",
+    "ky": "царь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D1%8C",
+    "senses": [
+      "an emperor"
+    ],
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "id": "ru-царь-005",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "царьдын",
+        "dative": "царьга",
+        "accusative": "царьды",
+        "locative": "царьда",
+        "ablative": "царьдан"
+      },
+      "pluralForms": {
+        "genitive": "царьдардын",
+        "dative": "царьдарга",
+        "accusative": "царьдарды",
+        "locative": "царьдарда",
+        "ablative": "царьдардан"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "каныша",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88%D0%B0",
+    "senses": [
+      "empress or wife of a tsar"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-006",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "канышанын",
+        "dative": "канышага",
+        "accusative": "канышаны",
+        "locative": "канышада",
+        "ablative": "канышадан"
+      },
+      "pluralForms": {
+        "genitive": "канышалардын",
+        "dative": "канышаларга",
+        "accusative": "канышаларды",
+        "locative": "канышаларда",
+        "ablative": "канышалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царица",
+    "ky": "царица",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0",
+    "senses": [
+      "empress or wife of a tsar"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "id": "ru-царица-007",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "царицанын",
+        "dative": "царицага",
+        "accusative": "царицаны",
+        "locative": "царицада",
+        "ablative": "царицадан"
+      },
+      "pluralForms": {
+        "genitive": "царицалардын",
+        "dative": "царицаларга",
+        "accusative": "царицаларды",
+        "locative": "царицаларда",
+        "ablative": "царицалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ценность",
+    "ky": "баалуулук",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
+    "senses": [
+      "quality that renders something desirable or valuable"
+    ],
+    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
+    "pronunciation": "/baːˈluːˈluq/",
+    "examples": [
+      {
+        "ky": "Супер-держава – бул элдин, улуттун жыргалчылыгын эң башкы баалуулук",
+        "ru": "Супер-держава – это когда благосостояние народа, нации является"
+      }
+    ],
+    "ruAccented": "це'нность",
+    "ruGender": "f",
+    "id": "ru-ценность-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "баалуулуктун",
+        "dative": "баалуулукко",
+        "accusative": "баалуулукту",
+        "locative": "баалуулукто",
+        "ablative": "баалуулуктон"
+      },
+      "pluralForms": {
+        "genitive": "баалуулуктордун",
+        "dative": "баалуулукторго",
+        "accusative": "баалуулукторду",
+        "locative": "баалуулуктордо",
+        "ablative": "баалуулуктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ценность",
+    "ky": "маани",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8",
+    "senses": [
+      "quality that renders something desirable or valuable"
+    ],
+    "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
+    "examples": [
+      {
+        "ky": "DemirBank өз кызматкерлеринин өнүгүүсүнө жана профессионалдык жактан өсүүсүнө зор маани берет.",
+        "ru": "Значительное внимание в Demir Bank уделяется развитию и профессиональному росту своих сотрудников."
+      },
+      {
+        "ky": "сапатына анчалык деле маани бербегенибизди түшүндүм.",
+        "ru": "значение качеству используемых ножей."
+      }
+    ],
+    "ruAccented": "це'нность",
+    "ruGender": "f",
+    "frequency": 685,
+    "id": "ru-ценность-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "маанинин",
+        "dative": "мааниге",
+        "accusative": "маанини",
+        "locative": "мааниде",
+        "ablative": "мааниден"
+      },
+      "pluralForms": {
+        "genitive": "маанилердин",
+        "dative": "маанилерге",
+        "accusative": "маанилерди",
+        "locative": "маанилерде",
+        "ablative": "маанилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ценный",
+    "ky": "баалуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83",
+    "senses": [
+      "having a great value"
+    ],
+    "etymology": "From баа (baa) + -луу (-luu). Compare to Southern Altai баалу (baalu, “valuable, precious”), etc.",
+    "pronunciation": "/baːˈluː/",
+    "examples": [
+      {
+        "ky": "Инвестициялар жана мамлекеттик баалуу кагаздар (МБК)",
+        "ru": "Инвестиции и государственные ценные бумаги (ГЦБ)"
+      },
+      {
+        "ky": "Мамлекеттик баалуу кагаздарга салымдар",
+        "ru": "Инвестиции в государственные ценные бумаги"
+      }
+    ],
+    "ruAccented": "це'нный",
+    "frequency": 176,
+    "id": "ru-ценный-001"
+  },
+  {
+    "ru": "цветение",
+    "ky": "гүлдөп турган маал",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
+    "senses": [
+      "state or season for such flowers"
+    ],
+    "ruAccented": "цвете'ние",
+    "ruGender": "n",
+    "id": "ru-цветение-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "гүлдөп турган маалдын",
+        "dative": "гүлдөп турган маалга",
+        "accusative": "гүлдөп турган маалды",
+        "locative": "гүлдөп турган маалда",
+        "ablative": "гүлдөп турган маалдан"
+      },
+      "pluralForms": {
+        "genitive": "гүлдөп турган маалдардын",
+        "dative": "гүлдөп турган маалдарга",
+        "accusative": "гүлдөп турган маалдарды",
+        "locative": "гүлдөп турган маалдарда",
+        "ablative": "гүлдөп турган маалдардан"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цвет",
+    "ky": "гүлдөп турган маал",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
+    "senses": [
+      "state or season for such flowers"
+    ],
+    "ruAccented": "цвет",
+    "ruGender": "m",
+    "id": "ru-цвет-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "гүлдөп турган маалдын",
+        "dative": "гүлдөп турган маалга",
+        "accusative": "гүлдөп турган маалды",
+        "locative": "гүлдөп турган маалда",
+        "ablative": "гүлдөп турган маалдан"
+      },
+      "pluralForms": {
+        "genitive": "гүлдөп турган маалдардын",
+        "dative": "гүлдөп турган маалдарга",
+        "accusative": "гүлдөп турган маалдарды",
+        "locative": "гүлдөп турган маалдарда",
+        "ablative": "гүлдөп турган маалдардан"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цвести",
+    "ky": "гүлдө",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9",
+    "senses": [
+      "have or open into blossoms"
+    ],
+    "ruAccented": "цвести'",
+    "frequency": 72,
+    "id": "ru-цвести-001"
+  },
+  {
+    "ru": "цвести",
+    "ky": "гүлдөө",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D3%A9",
+    "senses": [
+      "have or open into blossoms"
+    ],
+    "ruAccented": "цвести'",
+    "id": "ru-цвести-002"
+  },
+  {
+    "ru": "цензура",
+    "ky": "цензура",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D0%B7%D1%83%D1%80%D0%B0",
+    "senses": [
+      "use of state or group power to control freedom of expression"
+    ],
+    "ruAccented": "цензу'ра",
+    "ruGender": "f",
+    "frequency": 5,
+    "id": "ru-цензура-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цензуранын",
+        "dative": "цензурага",
+        "accusative": "цензураны",
+        "locative": "цензурада",
+        "ablative": "цензурадан"
+      },
+      "pluralForms": {
+        "genitive": "цензуралардын",
+        "dative": "цензураларга",
+        "accusative": "цензураларды",
+        "locative": "цензураларда",
+        "ablative": "цензуралардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирик",
+    "ky": "жоокер",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BA%D0%B5%D1%80",
+    "senses": [
+      "member of an army"
+    ],
+    "examples": [
+      {
+        "ky": "билбеген мергенчи, жоокер жана малчы көчмөн элдин материалдык маданиятынын",
+        "ru": "материальной культуры различных сообществ вечно колобродящих охотников, воинов"
+      }
+    ],
+    "frequency": 58,
+    "id": "ru-цирик-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жоокердин",
+        "dative": "жоокерге",
+        "accusative": "жоокерди",
+        "locative": "жоокерде",
+        "ablative": "жоокерден"
+      },
+      "pluralForms": {
+        "genitive": "жоокердердин",
+        "dative": "жоокердерге",
+        "accusative": "жоокердерди",
+        "locative": "жоокердерде",
+        "ablative": "жоокердерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирик",
+    "ky": "черүү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D2%AF%D2%AF",
+    "senses": [
+      "member of an army"
+    ],
+    "etymology": "From Proto-Turkic *čerig. Cognate to Southern Altai черӱ (čerü), etc.",
+    "id": "ru-цирик-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "черүүнүн",
+        "dative": "черүүгө",
+        "accusative": "черүүнү",
+        "locative": "черүүдө",
+        "ablative": "черүүдөн"
+      },
+      "pluralForms": {
+        "genitive": "черүүлөрдүн",
+        "dative": "черүүлөргө",
+        "accusative": "черүүлөрдү",
+        "locative": "черүүлөрдө",
+        "ablative": "черүүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирик",
+    "ky": "черик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B8%D0%BA",
+    "senses": [
+      "member of an army"
+    ],
+    "id": "ru-цирик-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "чериктин",
+        "dative": "черикке",
+        "accusative": "черикти",
+        "locative": "черикте",
+        "ablative": "чериктен"
+      },
+      "pluralForms": {
+        "genitive": "чериктердин",
+        "dative": "чериктерге",
+        "accusative": "чериктерди",
+        "locative": "чериктерде",
+        "ablative": "чериктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирик",
+    "ky": "солдат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82",
+    "senses": [
+      "member of an army"
+    ],
+    "frequency": 123,
+    "id": "ru-цирик-004",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "солдаттын",
+        "dative": "солдатка",
+        "accusative": "солдатты",
+        "locative": "солдатта",
+        "ablative": "солдаттан"
+      },
+      "pluralForms": {
+        "genitive": "солдаттардын",
+        "dative": "солдаттарга",
+        "accusative": "солдаттарды",
+        "locative": "солдаттарда",
+        "ablative": "солдаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цирик",
+    "ky": "аскер",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D0%BA%D0%B5%D1%80",
+    "senses": [
+      "member of an army"
+    ],
+    "examples": [
+      {
+        "ky": "пенсияга келип такалганда, адам- аскер кызматчысыбы же дыйканбы, айырмасы жок.",
+        "ru": "здоровье, образовании или пенсиях неважно является ли человек военнослужащим"
+      },
+      {
+        "ky": "Кыргызстандагы жаңы аскер базалары: мүмкүн эмес мүмкүнбү?",
+        "ru": "Новые военные базы в Кыргызстане: невозможное возможно?"
+      }
+    ],
+    "frequency": 1097,
+    "id": "ru-цирик-005",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "аскердин",
+        "dative": "аскерге",
+        "accusative": "аскерди",
+        "locative": "аскерде",
+        "ablative": "аскерден"
+      },
+      "pluralForms": {
+        "genitive": "аскердердин",
+        "dative": "аскердерге",
+        "accusative": "аскердерди",
+        "locative": "аскердерде",
+        "ablative": "аскердерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "циркумцизия",
+    "ky": "сүннөт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%BD%D0%BD%D3%A9%D1%82",
+    "senses": [
+      "removal of foreskin from penis"
+    ],
+    "etymology": "From Arabic سُنَّة (sunna). Cognates with Kazakh сүннет (sünnet), Turkish sünnet.",
+    "pronunciation": "/synˈnøt/",
+    "frequency": 15,
+    "id": "ru-циркумцизия-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "сүннөттүн",
+        "dative": "сүннөткө",
+        "accusative": "сүннөттү",
+        "locative": "сүннөттө",
+        "ablative": "сүннөттөн"
+      },
+      "pluralForms": {
+        "genitive": "сүннөттөрдүн",
+        "dative": "сүннөттөргө",
+        "accusative": "сүннөттөрдү",
+        "locative": "сүннөттөрдө",
+        "ablative": "сүннөттөрдөн"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цацка",
+    "ky": "оюнчук",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD%D1%87%D1%83%D0%BA",
+    "senses": [
+      "something to play with"
+    ],
+    "etymology": "From Proto-Turkic *oy- +-чук (-cuk).",
+    "examples": [
+      {
+        "ky": "Эми минтип 20-жылдан кийин, советтик чиновниктер азыркы чиновниктерге салыштырмалуу оюнчук",
+        "ru": "А спустя 20 лет оказалось, что советские чиновники по части коррупции – просто дети по сравнению с чиновниками"
+      }
+    ],
+    "frequency": 12,
+    "id": "ru-цацка-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "оюнчуктун",
+        "dative": "оюнчукко",
+        "accusative": "оюнчукту",
+        "locative": "оюнчукто",
+        "ablative": "оюнчуктон"
+      },
+      "pluralForms": {
+        "genitive": "оюнчуктордун",
+        "dative": "оюнчукторго",
+        "accusative": "оюнчукторду",
+        "locative": "оюнчуктордо",
+        "ablative": "оюнчуктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церемония",
+    "ky": "азем",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B5%D0%BC",
+    "senses": [
+      "ritual with religious significance"
+    ],
+    "ruAccented": "церемо'ния",
+    "ruGender": "f",
+    "frequency": 38,
+    "id": "ru-церемония-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "аземдин",
+        "dative": "аземге",
+        "accusative": "аземди",
+        "locative": "аземде",
+        "ablative": "аземден"
+      },
+      "pluralForms": {
+        "genitive": "аземдердин",
+        "dative": "аземдерге",
+        "accusative": "аземдерди",
+        "locative": "аземдерде",
+        "ablative": "аземдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церковное государство",
+    "ky": "теократия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F",
+    "senses": [
+      "government under the control of a Church"
+    ],
+    "id": "ru-церковное государство-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "теократиядин",
+        "dative": "теократияге",
+        "accusative": "теократияди",
+        "locative": "теократияде",
+        "ablative": "теократияден"
+      },
+      "pluralForms": {
+        "genitive": "теократиядердин",
+        "dative": "теократиядерге",
+        "accusative": "теократиядерди",
+        "locative": "теократиядерде",
+        "ablative": "теократиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целковый",
+    "ky": "сом",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BC",
+    "senses": [
+      "Russian monetary unit"
+    ],
+    "etymology": "As a unit of currency, the Turkic root *som literally means pure, implying pure gold.",
+    "examples": [
+      {
+        "ky": "сом бөлүнүп берилди",
+        "ru": "Новости по теме"
+      },
+      {
+        "ky": "Фитосанитардык сертификаттын баасы эгерде жүк эки тоннага чейин болсо 200 сом, андан ашык болсо 492 сом турат.",
+        "ru": "Фитосанитарный сертификат на груз, не превышающий двух тонн, стоит 200 сомов, а в случае превышения этой нормы нужно оплатить 492 сома."
+      }
+    ],
+    "ruAccented": "целко'вый",
+    "frequency": 546,
+    "id": "ru-целковый-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "сомдун",
+        "dative": "сомго",
+        "accusative": "сомду",
+        "locative": "сомдо",
+        "ablative": "сомдон"
+      },
+      "pluralForms": {
+        "genitive": "сомдордун",
+        "dative": "сомдорго",
+        "accusative": "сомдорду",
+        "locative": "сомдордо",
+        "ablative": "сомдордон"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целковый",
+    "ky": "рубль",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%B1%D0%BB%D1%8C",
+    "senses": [
+      "Russian monetary unit"
+    ],
+    "examples": [
+      {
+        "ky": "Сом, доллар же рубль менен шашылыш түрдө депозиттерди ачуу мүмкүнчүлүгү",
+        "ru": "Возможность открытия срочных депозитов в сомах, долларах США и российских рублях."
+      }
+    ],
+    "ruAccented": "целко'вый",
+    "id": "ru-целковый-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "рубльдун",
+        "dative": "рубльго",
+        "accusative": "рубльду",
+        "locative": "рубльдо",
+        "ablative": "рубльдон"
+      },
+      "pluralForms": {
+        "genitive": "рубльдордун",
+        "dative": "рубльдорго",
+        "accusative": "рубльдорду",
+        "locative": "рубльдордо",
+        "ablative": "рубльдордон"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царствование",
+    "ky": "падышалык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "the exercise of sovereign power"
+    ],
+    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
+    "pronunciation": "/pɑˈdɯˈʃɑˈlɯq/",
+    "ruAccented": "ца'рствование",
+    "ruGender": "n",
+    "frequency": 14,
+    "id": "ru-царствование-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "падышалыктын",
+        "dative": "падышалыкка",
+        "accusative": "падышалыкты",
+        "locative": "падышалыкта",
+        "ablative": "падышалыктан"
+      },
+      "pluralForms": {
+        "genitive": "падышалыктардын",
+        "dative": "падышалыктарга",
+        "accusative": "падышалыктарды",
+        "locative": "падышалыктарда",
+        "ablative": "падышалыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "царствовать",
+    "ky": "падышалык кылуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA%20%D0%BA%D1%8B%D0%BB%D1%83%D1%83",
+    "senses": [
+      "exercise sovereign power"
+    ],
+    "ruAccented": "ца'рствовать",
+    "id": "ru-царствовать-001"
+  },
+  {
+    "ru": "Царьград",
+    "ky": "Стамбул",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB",
+    "senses": [
+      "largest city of Turkey and last capital of the Ottoman Empire"
+    ],
+    "examples": [
+      {
+        "ky": "Негизгиси туура тандоо керек: «кайнаган Стамбул эмес», үп, аба",
+        "ru": "Главное, правильно выбрать направление: не «знойный Истамбул», не"
+      }
+    ],
+    "ruAccented": "Царьгра'д",
+    "ruGender": "m",
+    "frequency": 10,
+    "id": "ru-Царьград-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Стамбулдун",
+        "dative": "Стамбулго",
+        "accusative": "Стамбулду",
+        "locative": "Стамбулдо",
+        "ablative": "Стамбулдон"
+      },
+      "pluralForms": {
+        "genitive": "Стамбулдордун",
+        "dative": "Стамбулдорго",
+        "accusative": "Стамбулдорду",
+        "locative": "Стамбулдордо",
+        "ablative": "Стамбулдордон"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Царьград",
+    "ky": "Ыстанбул",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AB%D1%81%D1%82%D0%B0%D0%BD%D0%B1%D1%83%D0%BB",
+    "senses": [
+      "largest city of Turkey and last capital of the Ottoman Empire"
+    ],
+    "ruAccented": "Царьгра'д",
+    "ruGender": "m",
+    "id": "ru-Царьград-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Ыстанбулдун",
+        "dative": "Ыстанбулго",
+        "accusative": "Ыстанбулду",
+        "locative": "Ыстанбулдо",
+        "ablative": "Ыстанбулдон"
+      },
+      "pluralForms": {
+        "genitive": "Ыстанбулдордун",
+        "dative": "Ыстанбулдорго",
+        "accusative": "Ыстанбулдорду",
+        "locative": "Ыстанбулдордо",
+        "ablative": "Ыстанбулдордон"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цифровой",
+    "ky": "сандык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "of or pertaining to numbers"
+    ],
+    "examples": [
+      {
+        "ky": "- Жетекчилик тарабынан белгиленген пайда жана сандык көрсөткүчтөр боюнча максаттарга жетишүү үчүн бардык зарыл аракеттерди көрүү.",
+        "ru": "- Предпринимать все необходимые действия для достижения целей по прибыли и количественным показателям, установленные руководством."
+      },
+      {
+        "ky": "- Жетекчилик тарабынан белгиленген, пайда жана сандык көрсөткүчтөр боюнча максаттарга жетишүү үчүн бардык зарыл чараларды көрүү.",
+        "ru": "- Предпринимать все необходимые действия для достижения целей по прибыли и количественным показателям, установленные руководством."
+      }
+    ],
+    "ruAccented": "цифрово'й",
+    "frequency": 97,
+    "id": "ru-цифровой-003"
+  },
+  {
+    "ru": "ценный",
+    "ky": "кымбаттуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BC%D0%B1%D0%B0%D1%82%D1%82%D1%83%D1%83",
+    "senses": [
+      "of high value or worth"
+    ],
+    "examples": [
+      {
+        "ky": "Жок, кымбаттуу түркмөн бир туугандарыбыз.",
+        "ru": "Нет, дорогие наши братья-туркмены."
+      },
+      {
+        "ky": "Кымбаттуу биздин Америка, эркиндиктин жана демократиянын өлкөсү, постсоветтик элдердин романтикалык",
+        "ru": "страна свободы и демократии, страна романтических грез всех постсоветских"
+      }
+    ],
+    "ruAccented": "це'нный",
+    "frequency": 30,
+    "id": "ru-ценный-002"
+  },
+  {
+    "ru": "ценный",
+    "ky": "асыл",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB",
+    "senses": [
+      "of high value or worth"
+    ],
+    "examples": [
+      {
+        "ky": "Фермердик чарба малдын асыл тукумдуулугун арттыруу үчүн алты жылдык мөөнөт менен банктан насыя алган.",
+        "ru": "Крестьянское хозяйство приобрело иностранных бурёнок за счёт банковского кредита сроком на шесть лет."
+      },
+      {
+        "ky": "Мал чарбачылыгы, спорт жорголору, мрамор эт багытындагы, негизинен, асыл тукум багытында уйлар, койлор асыралып, каралып, кардарларга жакшы баада сатылып турат.2.",
+        "ru": "Необходимо, чтобы в Кыргызстане один из вице-премьер-министров курировал только сферу сельского хозяйства."
+      }
+    ],
+    "ruAccented": "це'нный",
+    "frequency": 352,
+    "id": "ru-ценный-003"
+  },
+  {
+    "ru": "царапать",
+    "ky": "кыруу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D1%83%D1%83",
+    "senses": [
+      "draw an object along while exerting pressure"
+    ],
+    "etymology": "From Proto-Turkic *kïr-. Cognate to Southern Altai кырар (kïrar), etc.",
+    "ruAccented": "цара'пать",
+    "frequency": 2,
+    "id": "ru-царапать-001"
+  },
+  {
+    "ru": "цветовая слепота",
+    "ky": "дальтонизм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC",
+    "senses": [
+      "condition in which the ability to see colors is impaired"
+    ],
+    "id": "ru-цветовая слепота-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "дальтонизмдин",
+        "dative": "дальтонизмге",
+        "accusative": "дальтонизмди",
+        "locative": "дальтонизмде",
+        "ablative": "дальтонизмден"
+      },
+      "pluralForms": {
+        "genitive": "дальтонизмдердин",
+        "dative": "дальтонизмдерге",
+        "accusative": "дальтонизмдерди",
+        "locative": "дальтонизмдерде",
+        "ablative": "дальтонизмдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветовая слепота",
+    "ky": "түс тааныбоо",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81%20%D1%82%D0%B0%D0%B0%D0%BD%D1%8B%D0%B1%D0%BE%D0%BE",
+    "senses": [
+      "condition in which the ability to see colors is impaired"
+    ],
+    "id": "ru-цветовая слепота-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "түс тааныбоонун",
+        "dative": "түс тааныбоого",
+        "accusative": "түс тааныбоону",
+        "locative": "түс тааныбоодо",
+        "ablative": "түс тааныбоодон"
+      },
+      "pluralForms": {
+        "genitive": "түс тааныбоолордун",
+        "dative": "түс тааныбоолорго",
+        "accusative": "түс тааныбоолорду",
+        "locative": "түс тааныбоолордо",
+        "ablative": "түс тааныбоолордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цыган",
+    "ky": "сыган",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "a member of the Romani people or another nomadic group"
+    ],
+    "ruAccented": "цыга'н",
+    "ruGender": "m",
+    "id": "ru-цыган-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "сыгандын",
+        "dative": "сыганга",
+        "accusative": "сыганды",
+        "locative": "сыганда",
+        "ablative": "сыгандан"
+      },
+      "pluralForms": {
+        "genitive": "сыгандардын",
+        "dative": "сыгандарга",
+        "accusative": "сыгандарды",
+        "locative": "сыгандарда",
+        "ablative": "сыгандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цыган",
+    "ky": "цыган",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "a member of the Romani people or another nomadic group"
+    ],
+    "ruAccented": "цыга'н",
+    "ruGender": "m",
+    "id": "ru-цыган-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цыгандын",
+        "dative": "цыганга",
+        "accusative": "цыганды",
+        "locative": "цыганда",
+        "ablative": "цыгандан"
+      },
+      "pluralForms": {
+        "genitive": "цыгандардын",
+        "dative": "цыгандарга",
+        "accusative": "цыгандарды",
+        "locative": "цыгандарда",
+        "ablative": "цыгандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цыганка",
+    "ky": "сыган",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "a member of the Romani people or another nomadic group"
+    ],
+    "ruAccented": "цыга'нка",
+    "ruGender": "f",
+    "id": "ru-цыганка-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "сыгандын",
+        "dative": "сыганга",
+        "accusative": "сыганды",
+        "locative": "сыганда",
+        "ablative": "сыгандан"
+      },
+      "pluralForms": {
+        "genitive": "сыгандардын",
+        "dative": "сыгандарга",
+        "accusative": "сыгандарды",
+        "locative": "сыгандарда",
+        "ablative": "сыгандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цыганка",
+    "ky": "цыган",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "a member of the Romani people or another nomadic group"
+    ],
+    "ruAccented": "цыга'нка",
+    "ruGender": "f",
+    "id": "ru-цыганка-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цыгандын",
+        "dative": "цыганга",
+        "accusative": "цыганды",
+        "locative": "цыганда",
+        "ablative": "цыгандан"
+      },
+      "pluralForms": {
+        "genitive": "цыгандардын",
+        "dative": "цыгандарга",
+        "accusative": "цыгандарды",
+        "locative": "цыгандарда",
+        "ablative": "цыгандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Цезарь",
+    "ky": "Цезарь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8C",
+    "senses": [
+      "ancient Roman family name"
+    ],
+    "id": "ru-Цезарь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Цезарьдын",
+        "dative": "Цезарьга",
+        "accusative": "Цезарьды",
+        "locative": "Цезарьда",
+        "ablative": "Цезарьдан"
+      },
+      "pluralForms": {
+        "genitive": "Цезарьдардын",
+        "dative": "Цезарьдарга",
+        "accusative": "Цезарьдарды",
+        "locative": "Цезарьдарда",
+        "ablative": "Цезарьдардан"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Церера",
+    "ky": "Церера",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B5%D1%80%D0%B5%D1%80%D0%B0",
+    "senses": [
+      "asteroid"
+    ],
+    "id": "ru-Церера-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Цереранын",
+        "dative": "Церерага",
+        "accusative": "Церераны",
+        "locative": "Церерада",
+        "ablative": "Церерадан"
+      },
+      "pluralForms": {
+        "genitive": "Церералардын",
+        "dative": "Церераларга",
+        "accusative": "Церераларды",
+        "locative": "Церераларда",
+        "ablative": "Церералардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цистеин",
+    "ky": "цистеин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD",
+    "senses": [
+      "nonessential amino acid"
+    ],
+    "id": "ru-цистеин-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "цистеиндин",
+        "dative": "цистеинге",
+        "accusative": "цистеинди",
+        "locative": "цистеинде",
+        "ablative": "цистеинден"
+      },
+      "pluralForms": {
+        "genitive": "цистеиндердин",
+        "dative": "цистеиндерге",
+        "accusative": "цистеиндерди",
+        "locative": "цистеиндерде",
+        "ablative": "цистеиндерден"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цистерна",
+    "ky": "цистерна",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0",
+    "senses": [
+      "reservoir for holding water"
+    ],
+    "ruAccented": "цисте'рна",
+    "ruGender": "f",
+    "id": "ru-цистерна-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "цистернанын",
+        "dative": "цистернага",
+        "accusative": "цистернаны",
+        "locative": "цистернада",
+        "ablative": "цистернадан"
+      },
+      "pluralForms": {
+        "genitive": "цистерналардын",
+        "dative": "цистерналарга",
+        "accusative": "цистерналарды",
+        "locative": "цистерналарда",
+        "ablative": "цистерналардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Цицерон",
+    "ky": "Цицерон",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%BD",
+    "senses": [
+      "Roman statesman and orator"
+    ],
+    "id": "ru-Цицерон-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Цицерондун",
+        "dative": "Цицеронго",
+        "accusative": "Цицеронду",
+        "locative": "Цицерондо",
+        "ablative": "Цицерондон"
+      },
+      "pluralForms": {
+        "genitive": "Цицерондордун",
+        "dative": "Цицерондорго",
+        "accusative": "Цицерондорду",
+        "locative": "Цицерондордо",
+        "ablative": "Цицерондордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целомудрие",
+    "ky": "пакизалык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BA%D0%B8%D0%B7%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "abstaining from sexual activity"
+    ],
+    "ruAccented": "целому'дрие",
+    "ruGender": "n",
+    "id": "ru-целомудрие-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "пакизалыктын",
+        "dative": "пакизалыкка",
+        "accusative": "пакизалыкты",
+        "locative": "пакизалыкта",
+        "ablative": "пакизалыктан"
+      },
+      "pluralForms": {
+        "genitive": "пакизалыктардын",
+        "dative": "пакизалыктарга",
+        "accusative": "пакизалыктарды",
+        "locative": "пакизалыктарда",
+        "ablative": "пакизалыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целомудрие",
+    "ky": "тазалык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B7%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "abstaining from sexual activity"
+    ],
+    "examples": [
+      {
+        "ky": "турат, өнөр-жай иштеп жатат, жумушсуздук дээрлик жок, бир гана борбордо тазалык",
+        "ru": "промышленность, практически отсутствует безработица, чистота не только в"
+      }
+    ],
+    "ruAccented": "целому'дрие",
+    "ruGender": "n",
+    "frequency": 28,
+    "id": "ru-целомудрие-004",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тазалыктын",
+        "dative": "тазалыкка",
+        "accusative": "тазалыкты",
+        "locative": "тазалыкта",
+        "ablative": "тазалыктан"
+      },
+      "pluralForms": {
+        "genitive": "тазалыктардын",
+        "dative": "тазалыктарга",
+        "accusative": "тазалыктарды",
+        "locative": "тазалыктарда",
+        "ablative": "тазалыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целомудрие",
+    "ky": "кыздык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "abstaining from sexual activity"
+    ],
+    "ruAccented": "целому'дрие",
+    "ruGender": "n",
+    "id": "ru-целомудрие-005",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кыздыктын",
+        "dative": "кыздыкка",
+        "accusative": "кыздыкты",
+        "locative": "кыздыкта",
+        "ablative": "кыздыктан"
+      },
+      "pluralForms": {
+        "genitive": "кыздыктардын",
+        "dative": "кыздыктарга",
+        "accusative": "кыздыктарды",
+        "locative": "кыздыктарда",
+        "ablative": "кыздыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветник",
+    "ky": "гүлзар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B7%D0%B0%D1%80",
+    "senses": [
+      "place where flowers are grown"
+    ],
+    "ruAccented": "цветни'к",
+    "ruGender": "m",
+    "id": "ru-цветник-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "гүлзардын",
+        "dative": "гүлзарга",
+        "accusative": "гүлзарды",
+        "locative": "гүлзарда",
+        "ablative": "гүлзардан"
+      },
+      "pluralForms": {
+        "genitive": "гүлзардардын",
+        "dative": "гүлзардарга",
+        "accusative": "гүлзардарды",
+        "locative": "гүлзардарда",
+        "ablative": "гүлзардардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "циферблат",
+    "ky": "циферблат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%84%D0%B5%D1%80%D0%B1%D0%BB%D0%B0%D1%82",
+    "senses": [
+      "the surface of a clock that contains the dial and hands"
+    ],
+    "ruAccented": "цифербла'т",
+    "ruGender": "m",
+    "id": "ru-циферблат-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "циферблаттын",
+        "dative": "циферблатка",
+        "accusative": "циферблатты",
+        "locative": "циферблатта",
+        "ablative": "циферблаттан"
+      },
+      "pluralForms": {
+        "genitive": "циферблаттардын",
+        "dative": "циферблаттарга",
+        "accusative": "циферблаттарды",
+        "locative": "циферблаттарда",
+        "ablative": "циферблаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "церебральный паралич",
+    "ky": "балдардын церебралдык шалы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D0%B4%D1%8B%D0%BD%20%D1%86%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%20%D1%88%D0%B0%D0%BB%D1%8B",
+    "senses": [
+      "group of non-contagious conditions"
+    ],
+    "id": "ru-церебральный паралич-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "балдардын церебралдык шалынын",
+        "dative": "балдардын церебралдык шалыга",
+        "accusative": "балдардын церебралдык шалыны",
+        "locative": "балдардын церебралдык шалыда",
+        "ablative": "балдардын церебралдык шалыдан"
+      },
+      "pluralForms": {
+        "genitive": "балдардын церебралдык шалылардын",
+        "dative": "балдардын церебралдык шалыларга",
+        "accusative": "балдардын церебралдык шалыларды",
+        "locative": "балдардын церебралдык шалыларда",
+        "ablative": "балдардын церебралдык шалылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветочный горшок",
+    "ky": "кумура",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%83%D1%80%D0%B0",
+    "senses": [
+      "container in which plants are grown"
+    ],
+    "id": "ru-цветочный горшок-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кумуранын",
+        "dative": "кумурага",
+        "accusative": "кумураны",
+        "locative": "кумурада",
+        "ablative": "кумурадан"
+      },
+      "pluralForms": {
+        "genitive": "кумуралардын",
+        "dative": "кумураларга",
+        "accusative": "кумураларды",
+        "locative": "кумураларда",
+        "ablative": "кумуралардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "цветочный горшок",
+    "ky": "карапа",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D0%BF%D0%B0",
+    "senses": [
+      "container in which plants are grown"
+    ],
+    "id": "ru-цветочный горшок-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "карапанын",
+        "dative": "карапага",
+        "accusative": "карапаны",
+        "locative": "карапада",
+        "ablative": "карападан"
+      },
+      "pluralForms": {
+        "genitive": "карапалардын",
+        "dative": "карапаларга",
+        "accusative": "карапаларды",
+        "locative": "карапаларда",
+        "ablative": "карапалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Центральная Европа",
+    "ky": "Борбордук Европа",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0",
+    "senses": [
+      "geographical region in the center of Europe"
+    ],
+    "id": "ru-Центральная Европа-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Борбордук Европанын",
+        "dative": "Борбордук Европага",
+        "accusative": "Борбордук Европаны",
+        "locative": "Борбордук Европада",
+        "ablative": "Борбордук Европадан"
+      },
+      "pluralForms": {
+        "genitive": "Борбордук Европалардын",
+        "dative": "Борбордук Европаларга",
+        "accusative": "Борбордук Европаларды",
+        "locative": "Борбордук Европаларда",
+        "ablative": "Борбордук Европалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "целина",
+    "ky": "дың",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%8B%D2%A3",
+    "senses": [
+      "virgin lands in Russia and Kazakhstan"
+    ],
+    "examples": [
+      {
+        "ky": "сыртынан жылтыраган, бирок чындап киргенде кан менен терден улам жаралуучу, дың",
+        "ru": "понимании – ровно по всему диапазону. Природные данные, разумеется, желательны"
+      }
+    ],
+    "ruAccented": "целина'",
+    "ruGender": "f",
+    "id": "ru-целина-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "дыңдын",
+        "dative": "дыңга",
+        "accusative": "дыңды",
+        "locative": "дыңда",
+        "ablative": "дыңдан"
+      },
+      "pluralForms": {
+        "genitive": "дыңдардын",
+        "dative": "дыңдарга",
+        "accusative": "дыңдарды",
+        "locative": "дыңдарда",
+        "ablative": "дыңдардан"
+      },
+      "rule": "Основа на звонкую согласную -ң, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  }
+]

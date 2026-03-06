@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>English</string>
+  <key>CFBundleIdentifier</key>
+  <string>org.ky-concept.en-ky-dictionary</string>
+  <key>CFBundleDisplayName</key>
+  <string>English-Kyrgyz Dictionary</string>
+  <key>CFBundleName</key>
+  <string>English-Kyrgyz Dictionary</string>
+  <key>DCSDictionaryCopyright</key>
+  <string>CC BY-SA 4.0. Source: Wiktionary (kaikki.org).</string>
+  <key>DCSDictionaryManufacturerName</key>
+  <string>ky-concept</string>
+  <key>DCSDictionaryFrontMatterReferenceID</key>
+  <string>front-matter</string>
+</dict>
+</plist>

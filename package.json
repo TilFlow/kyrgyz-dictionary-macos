@@ -1,0 +1,23 @@
+{
+  "name": "ky-concept",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "bun run scripts/build.ts",
+    "validate": "bun run scripts/validate.ts",
+    "stats": "bun run scripts/stats.ts",
+    "add": "bun run scripts/add.ts",
+    "package": "bun run scripts/package.ts",
+    "update": "bun run scripts/update.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

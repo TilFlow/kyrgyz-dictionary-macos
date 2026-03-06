@@ -1,0 +1,3079 @@
+[
+  {
+    "ru": "ебать",
+    "ky": "тыгуу",
+    "pos": "verb",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
+    "senses": [
+      "инициативно совершать половой акт"
+    ],
+    "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
+    "ruAccented": "еба'ть",
+    "id": "ru-ебать-001"
+  },
+  {
+    "ru": "еле",
+    "ky": "араң эле",
+    "pos": "adv",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D2%A3%20%D1%8D%D0%BB%D0%B5",
+    "id": "ru-еле-001"
+  },
+  {
+    "ru": "еле",
+    "ky": "жаңыдан эле",
+    "pos": "adv",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%B4%D0%B0%D0%BD%20%D1%8D%D0%BB%D0%B5",
+    "id": "ru-еле-002"
+  },
+  {
+    "ru": "еле",
+    "ky": "араңдан-зорго",
+    "pos": "adv",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D2%A3%D0%B4%D0%B0%D0%BD-%D0%B7%D0%BE%D1%80%D0%B3%D0%BE",
+    "id": "ru-еле-003"
+  },
+  {
+    "ru": "еле",
+    "ky": "арак эле",
+    "pos": "adv",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA%20%D1%8D%D0%BB%D0%B5",
+    "id": "ru-еле-004"
+  },
+  {
+    "ru": "есть",
+    "ky": "жеш",
+    "pos": "verb",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%88",
+    "senses": [
+      "принимать пищу, питаться"
+    ],
+    "ruAccented": "есть",
+    "frequency": 3,
+    "id": "ru-есть-001"
+  },
+  {
+    "ru": "Египет",
+    "ky": "Мисир",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9C%D0%B8%D1%81%D0%B8%D1%80",
+    "id": "ru-Египет-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Мисирдин",
+        "dative": "Мисирге",
+        "accusative": "Мисирди",
+        "locative": "Мисирде",
+        "ablative": "Мисирден"
+      },
+      "pluralForms": {
+        "genitive": "Мисирдердин",
+        "dative": "Мисирдерге",
+        "accusative": "Мисирдерди",
+        "locative": "Мисирдерде",
+        "ablative": "Мисирдерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "если",
+    "ky": "эгер",
+    "pos": "conj",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
+    "senses": [
+      "ввод придаточного предложения, выражающего потенциально возможное условие"
+    ],
+    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
+    "pronunciation": "/eˈɡer/",
+    "examples": [
+      {
+        "ky": "*ВК лимити жана Сиздин кредиттик картаңыздын лимити өз ара байланышкан: эгер Сиз алардын бирөөсүнүн лимитин колдонсоңуз, экинчисинин лимити төмөндөйт.",
+        "ru": "*Лимит ВК и лимит Вашей кредитной карты связаны между собой: если Вы использовали лимит одной из них, то лимит другой карты уменьшится."
+      },
+      {
+        "ky": "Мамлекет эгер колунан келсе, күч-кубаты жетсе жардам берсе болот.",
+        "ru": "Если государство в силах, оно может помочь."
+      }
+    ],
+    "frequency": 15,
+    "id": "ru-если-001"
+  },
+  {
+    "ru": "европейский",
+    "ky": "европалык",
+    "pos": "adj",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
+    "examples": [
+      {
+        "ky": "Совет мезгилинде саясат башкача эле, бизге жалпы европалык баалулуктарды киргизе башташты, ал жашоонун баардык тармактарына, анын ичинде маданият жана спротко да тиешелүү эле.",
+        "ru": "В советские времена была другая политика – нам стали прививать общеевропейские ценности, это касалось всех сфер жизни, в том числе в культуре и спорте."
+      },
+      {
+        "ky": "Мен Орусия өнүккөн европалык өлкө болуусун каалайм.",
+        "ru": "Я хочу, чтобы Россия стала развитой европейской страной."
+      }
+    ],
+    "ruAccented": "европе'йский",
+    "frequency": 20,
+    "id": "ru-европейский-001"
+  },
+  {
+    "ru": "европеец",
+    "ky": "европалык",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "уроженец или житель Европы"
+    ],
+    "examples": [
+      {
+        "ky": "Совет мезгилинде саясат башкача эле, бизге жалпы европалык баалулуктарды киргизе башташты, ал жашоонун баардык тармактарына, анын ичинде маданият жана спротко да тиешелүү эле.",
+        "ru": "В советские времена была другая политика – нам стали прививать общеевропейские ценности, это касалось всех сфер жизни, в том числе в культуре и спорте."
+      },
+      {
+        "ky": "Мен Орусия өнүккөн европалык өлкө болуусун каалайм.",
+        "ru": "Я хочу, чтобы Россия стала развитой европейской страной."
+      }
+    ],
+    "ruAccented": "европе'ец",
+    "ruGender": "m",
+    "frequency": 20,
+    "id": "ru-европеец-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "европалыктын",
+        "dative": "европалыкка",
+        "accusative": "европалыкты",
+        "locative": "европалыкта",
+        "ablative": "европалыктан"
+      },
+      "pluralForms": {
+        "genitive": "европалыктардын",
+        "dative": "европалыктарга",
+        "accusative": "европалыктарды",
+        "locative": "европалыктарда",
+        "ablative": "европалыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Европа",
+    "ky": "Европа",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0",
+    "senses": [
+      "часть света"
+    ],
+    "examples": [
+      {
+        "ky": "Саммит Африка өнүктүрүү банкы (АӨБ) тарабынан Руанда өкмөтүнүн жана башка эл аралык уюмдардын, Европа реконструкциялоо жана өнүктүрүү банкынын (ЕРӨБ) кошо колдоосу менен уюшулган.",
+        "ru": "Саммит был организован Африканским банком развития (АБР) при поддержке правительства Руанды и других международных организаций, включая Европейский банк реконструкции и развития (ЕБРР)."
+      },
+      {
+        "ky": "эксперттер Алмазбек Атамбаевдин европа турнесин ортомчулук миссиясы, Орусия менен",
+        "ru": "европейское турне Алмазбека Атамбаева как посредническую миссию, попытку дать"
+      }
+    ],
+    "ruAccented": "Евро'па",
+    "ruGender": "f",
+    "frequency": 91,
+    "id": "ru-Европа-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Европанын",
+        "dative": "Европага",
+        "accusative": "Европаны",
+        "locative": "Европада",
+        "ablative": "Европадан"
+      },
+      "pluralForms": {
+        "genitive": "Европалардын",
+        "dative": "Европаларга",
+        "accusative": "Европаларды",
+        "locative": "Европаларда",
+        "ablative": "Европалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврей",
+    "ky": "жөөт",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
+    "pronunciation": "/d͡ʒøːt/",
+    "ruAccented": "евре'й",
+    "ruGender": "m",
+    "id": "ru-еврей-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "жөөттүн",
+        "dative": "жөөткө",
+        "accusative": "жөөттү",
+        "locative": "жөөттө",
+        "ablative": "жөөттөн"
+      },
+      "pluralForms": {
+        "genitive": "жөөттөрдүн",
+        "dative": "жөөттөргө",
+        "accusative": "жөөттөрдү",
+        "locative": "жөөттөрдө",
+        "ablative": "жөөттөрдөн"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежемесячно",
+    "ky": "ай сайын",
+    "pos": "adv",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
+    "id": "ru-ежемесячно-001"
+  },
+  {
+    "ru": "еженедельный",
+    "ky": "жума сайын",
+    "pos": "adj",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D0%B0%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
+    "ruAccented": "еженеде'льный",
+    "id": "ru-еженедельный-001"
+  },
+  {
+    "ru": "еженедельный",
+    "ky": "апта сайын",
+    "pos": "adj",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D1%82%D0%B0%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
+    "ruAccented": "еженеде'льный",
+    "id": "ru-еженедельный-002"
+  },
+  {
+    "ru": "Ерохин",
+    "ky": "Ерохин",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D1%80%D0%BE%D1%85%D0%B8%D0%BD",
+    "id": "ru-Ерохин-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Ерохиндин",
+        "dative": "Ерохинге",
+        "accusative": "Ерохинди",
+        "locative": "Ерохинде",
+        "ablative": "Ерохинден"
+      },
+      "pluralForms": {
+        "genitive": "Ерохиндердин",
+        "dative": "Ерохиндерге",
+        "accusative": "Ерохиндерди",
+        "locative": "Ерохиндерде",
+        "ablative": "Ерохиндерден"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Екатеринбург",
+    "ky": "Екатеринбург",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3",
+    "examples": [
+      {
+        "ky": "Екатеринбург аркылуу Россиянын борборунан Сибирге негизги унаа өзөк жолунун",
+        "ru": "велось строительство основных транспортных магистралей из Центральной России в"
+      }
+    ],
+    "ruAccented": "Екатеринбу'рг",
+    "ruGender": "m",
+    "id": "ru-Екатеринбург-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Екатеринбургдун",
+        "dative": "Екатеринбургго",
+        "accusative": "Екатеринбургду",
+        "locative": "Екатеринбургдо",
+        "ablative": "Екатеринбургдон"
+      },
+      "pluralForms": {
+        "genitive": "Екатеринбургдордун",
+        "dative": "Екатеринбургдорго",
+        "accusative": "Екатеринбургдорду",
+        "locative": "Екатеринбургдордо",
+        "ablative": "Екатеринбургдордон"
+      },
+      "rule": "Основа на звонкую согласную -г, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежевика",
+    "ky": "бүлдүркөн",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D2%AF%D0%BB%D0%B4%D2%AF%D1%80%D0%BA%D3%A9%D0%BD",
+    "senses": [
+      "кустарник"
+    ],
+    "ruAccented": "ежеви'ка",
+    "ruGender": "f",
+    "id": "ru-ежевика-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "бүлдүркөндүн",
+        "dative": "бүлдүркөнгө",
+        "accusative": "бүлдүркөндү",
+        "locative": "бүлдүркөндө",
+        "ablative": "бүлдүркөндөн"
+      },
+      "pluralForms": {
+        "genitive": "бүлдүркөндөрдүн",
+        "dative": "бүлдүркөндөргө",
+        "accusative": "бүлдүркөндөрдү",
+        "locative": "бүлдүркөндөрдө",
+        "ablative": "бүлдүркөндөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "естественность",
+    "ky": "табигыйлык",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%D0%BB%D1%8B%D0%BA",
+    "ruAccented": "есте'ственность",
+    "ruGender": "f",
+    "id": "ru-естественность-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "табигыйлыктын",
+        "dative": "табигыйлыкка",
+        "accusative": "табигыйлыкты",
+        "locative": "табигыйлыкта",
+        "ablative": "табигыйлыктан"
+      },
+      "pluralForms": {
+        "genitive": "табигыйлыктардын",
+        "dative": "табигыйлыктарга",
+        "accusative": "табигыйлыктарды",
+        "locative": "табигыйлыктарда",
+        "ablative": "табигыйлыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "европий",
+    "ky": "европий",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B8%D0%B9",
+    "ruAccented": "евро'пий",
+    "ruGender": "m",
+    "id": "ru-европий-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "европийдин",
+        "dative": "европийге",
+        "accusative": "европийди",
+        "locative": "европийде",
+        "ablative": "европийден"
+      },
+      "pluralForms": {
+        "genitive": "европийдердин",
+        "dative": "европийдерге",
+        "accusative": "европийдерди",
+        "locative": "европийдерде",
+        "ablative": "европийдерден"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "европоцентризм",
+    "ky": "европоцентризм",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D0%B7%D0%BC",
+    "id": "ru-европоцентризм-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "европоцентризмдин",
+        "dative": "европоцентризмге",
+        "accusative": "европоцентризмди",
+        "locative": "европоцентризмде",
+        "ablative": "европоцентризмден"
+      },
+      "pluralForms": {
+        "genitive": "европоцентризмдердин",
+        "dative": "европоцентризмдерге",
+        "accusative": "европоцентризмдерди",
+        "locative": "европоцентризмдерде",
+        "ablative": "европоцентризмдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ерошить",
+    "ky": "үрпөйтүү",
+    "pos": "verb",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D1%80%D0%BF%D3%A9%D0%B9%D1%82%D2%AF%D2%AF",
+    "senses": [
+      "теребя, взлохмачивать, приводить в беспорядок"
+    ],
+    "ruAccented": "еро'шить",
+    "id": "ru-ерошить-001"
+  },
+  {
+    "ru": "ерошить",
+    "ky": "уйпалоо",
+    "pos": "verb",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B9%D0%BF%D0%B0%D0%BB%D0%BE%D0%BE",
+    "senses": [
+      "теребя, взлохмачивать, приводить в беспорядок"
+    ],
+    "ruAccented": "еро'шить",
+    "id": "ru-ерошить-002"
+  },
+  {
+    "ru": "ерошить",
+    "ky": "түктүйтү",
+    "pos": "verb",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BA%D1%82%D2%AF%D0%B9%D1%82%D2%AF",
+    "senses": [
+      "теребя, взлохмачивать, приводить в беспорядок"
+    ],
+    "ruAccented": "еро'шить",
+    "id": "ru-ерошить-003"
+  },
+  {
+    "ru": "единорог",
+    "ky": "единорог",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3",
+    "senses": [
+      "мифологическое животное с рогом на лбу"
+    ],
+    "ruAccented": "единоро'г",
+    "ruGender": "m",
+    "id": "ru-единорог-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "единорогдун",
+        "dative": "единорогго",
+        "accusative": "единорогду",
+        "locative": "единорогдо",
+        "ablative": "единорогдон"
+      },
+      "pluralForms": {
+        "genitive": "единорогдордун",
+        "dative": "единорогдорго",
+        "accusative": "единорогдорду",
+        "locative": "единорогдордо",
+        "ablative": "единорогдордон"
+      },
+      "rule": "Основа на звонкую согласную -г, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "евангелие",
+    "ky": "инжил",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B6%D0%B8%D0%BB",
+    "senses": [
+      "Евангелие, часть Библии (Нового Завета)"
+    ],
+    "ruAccented": "ева'нгелие",
+    "id": "ru-евангелие-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "инжилдин",
+        "dative": "инжилге",
+        "accusative": "инжилди",
+        "locative": "инжилде",
+        "ablative": "инжилден"
+      },
+      "pluralForms": {
+        "genitive": "инжилдердин",
+        "dative": "инжилдерге",
+        "accusative": "инжилдерди",
+        "locative": "инжилдерде",
+        "ablative": "инжилдерден"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ереван",
+    "ky": "Ереван",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD",
+    "ruAccented": "Ерева'н",
+    "ruGender": "m",
+    "frequency": 2,
+    "id": "ru-Ереван-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Еревандын",
+        "dative": "Ереванга",
+        "accusative": "Ереванды",
+        "locative": "Ереванда",
+        "ablative": "Еревандан"
+      },
+      "pluralForms": {
+        "genitive": "Еревандардын",
+        "dative": "Еревандарга",
+        "accusative": "Еревандарды",
+        "locative": "Еревандарда",
+        "ablative": "Еревандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Енисейск",
+    "ky": "Енисейск",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%BD%D0%B8%D1%81%D0%B5%D0%B9%D1%81%D0%BA",
+    "id": "ru-Енисейск-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Енисейсктин",
+        "dative": "Енисейскке",
+        "accusative": "Енисейскти",
+        "locative": "Енисейскте",
+        "ablative": "Енисейсктен"
+      },
+      "pluralForms": {
+        "genitive": "Енисейсктердин",
+        "dative": "Енисейсктерге",
+        "accusative": "Енисейсктерди",
+        "locative": "Енисейсктерде",
+        "ablative": "Енисейсктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "естественный отбор",
+    "ky": "табигый тандалуу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D1%83%D1%83",
+    "id": "ru-естественный отбор-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "табигый тандалуунун",
+        "dative": "табигый тандалууго",
+        "accusative": "табигый тандалууну",
+        "locative": "табигый тандалуудо",
+        "ablative": "табигый тандалуудон"
+      },
+      "pluralForms": {
+        "genitive": "табигый тандалуулордун",
+        "dative": "табигый тандалуулорго",
+        "accusative": "табигый тандалуулорду",
+        "locative": "табигый тандалуулордо",
+        "ablative": "табигый тандалуулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "едкий",
+    "ky": "кычкыл",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "pronunciation": "/qɯt͡ʃˈqɯɫ/",
+    "ruAccented": "е'дкий",
+    "frequency": 5,
+    "id": "ru-едкий-001"
+  },
+  {
+    "ru": "едкий",
+    "ky": "кычкылдык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-002"
+  },
+  {
+    "ru": "едкий",
+    "ky": "кычкыл нерсе",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB%20%D0%BD%D0%B5%D1%80%D1%81%D0%B5",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-003"
+  },
+  {
+    "ru": "едкий",
+    "ky": "кислота",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-004"
+  },
+  {
+    "ru": "едкий",
+    "ky": "жегич",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%B3%D0%B8%D1%87",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-005"
+  },
+  {
+    "ru": "едкий",
+    "ky": "ачыштыргыч",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D1%88%D1%82%D1%8B%D1%80%D0%B3%D1%8B%D1%87",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-006"
+  },
+  {
+    "ru": "едкий",
+    "ky": "курч",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%87",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "etymology": "From Proto-Turkic *kurč (“hard, firm, stout”).\nCognate with\nOld Uyghur qurč (“firm, stout”);\nSouthern Altai курч (kurč, “steel; sharp”),\nTatar корыч (qorıç, “steel”),\nBashkir ҡорос (qoros, “steel”),\nKarachay-Balkar къурч (qurç, “steel”),\nKumyk къурч (qurç, “brisk, vigorous”), etc.",
+    "examples": [
+      {
+        "ky": "карабай уйгур каламтороштору ушундай курч болгондуктан, аны менен этти да кессе",
+        "ru": "на малые размеры, уйгурские каламтароши столь остры, что ими легко"
+      },
+      {
+        "ky": "академия өлкөдө диний тармакта иш алып бара турган кадрлардын жетишсиздиги курч",
+        "ru": "академии в Кыргызстане вызвана острой нехваткой кадров, специализирующихся в"
+      }
+    ],
+    "ruAccented": "е'дкий",
+    "frequency": 160,
+    "id": "ru-едкий-007"
+  },
+  {
+    "ru": "едкий",
+    "ky": "күйгүзүүчү",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B9%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-008"
+  },
+  {
+    "ru": "едкий",
+    "ky": "шылдың",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BB%D0%B4%D1%8B%D2%A3",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "examples": [
+      {
+        "ky": "Президенттен баштап, катардагы жарандарга чейин, шылдың кылып, кемсинтип же",
+        "ru": "журналисты получили право оскорбить, унизить и оклеветать любого кыргызстанца, от"
+      }
+    ],
+    "ruAccented": "е'дкий",
+    "frequency": 33,
+    "id": "ru-едкий-009"
+  },
+  {
+    "ru": "едкий",
+    "ky": "какшык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BA%D1%88%D1%8B%D0%BA",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-010"
+  },
+  {
+    "ru": "едкий",
+    "ky": "кекээр",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BA%D1%8D%D1%8D%D1%80",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-011"
+  },
+  {
+    "ru": "едкий",
+    "ky": "кыжырлантуучу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B6%D1%8B%D1%80%D0%BB%D0%B0%D0%BD%D1%82%D1%83%D1%83%D1%87%D1%83",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-012"
+  },
+  {
+    "ru": "едкий",
+    "ky": "сайгылаган",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B9%D0%B3%D1%8B%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-013"
+  },
+  {
+    "ru": "едкий",
+    "ky": "ачуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%83%D1%83",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "etymology": "From Proto-Turkic *ač-.",
+    "pronunciation": "/ɑˈt͡ʃuː/",
+    "examples": [
+      {
+        "ky": "3D Secureтехнологиясын колдобогон сайттарда операцияларды жүргүзүү үчүн, интернет аркылуу товарлар/кызматтар үчүн төлөмдөрдү жүргүзүүгө жеткилик ачуу зарыл.",
+        "ru": "Для совершения операции на сайтах, не поддерживающих технологию 3D Secure, необходимо открыть доступ* на осуществление платежей за товары/услуги в сети Интернет."
+      },
+      {
+        "ky": "- жеткилик ачуу үчүн Банкка кат түрүндөгү арыз менен кайрылууңуз зарыл.",
+        "ru": "- обратиться в Банк для подписания заявления на открытие доступа."
+      }
+    ],
+    "ruAccented": "е'дкий",
+    "frequency": 224,
+    "id": "ru-едкий-014"
+  },
+  {
+    "ru": "едкий",
+    "ky": "уулуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D0%BB%D1%83%D1%83",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "examples": [
+      {
+        "ky": "Сатылып алынган балдардын буюмдарын, алардагы уулуу заттардын камтылышын текшерүү үчүн Бишкек жана Ош шаарындагы лабораториялык изилдөөгө жана санэпидемстанцияга бердик.",
+        "ru": "Закупленные детские вещи сдали на лабораторные исследования в санэпидстанции в городах Ош и Бишкек, чтобы проверить их на содержание токсичных веществ."
+      },
+      {
+        "ky": "Ысык тамак куйганда андагы уулуу заттарды бөлүп чыгуу эки эсе көбөйөт экен.",
+        "ru": "При использовании этих емкостей для горячей пищи выделение токсичных веществ увеличивается в разы."
+      }
+    ],
+    "ruAccented": "е'дкий",
+    "frequency": 21,
+    "id": "ru-едкий-015"
+  },
+  {
+    "ru": "едкий",
+    "ky": "заардуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B0%D1%80%D0%B4%D1%83%D1%83",
+    "senses": [
+      "sour, sharp, or biting to the taste"
+    ],
+    "ruAccented": "е'дкий",
+    "id": "ru-едкий-016"
+  },
+  {
+    "ru": "единица",
+    "ky": "бир",
+    "pos": "num",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80",
+    "senses": [
+      "cardinal number 1"
+    ],
+    "etymology": "From Proto-Turkic *bīr (“one”).",
+    "pronunciation": "/bir/",
+    "examples": [
+      {
+        "ky": "бир түстүү фотография 3х4,",
+        "ru": "одна цветная фотография, размером 3х4 см,"
+      },
+      {
+        "ky": "Так ошондуктан азыркы учурда Раундадагы гендердик теңсиздик индекси боюнча Европанын Швейцария жана Франция өңдүү кээ бир өлкөлөрүнө караганда жакшы абалда деп ойлойм.",
+        "ru": "Полагаю, что именно поэтому в настоящее время по индексу гендерного неравенства Руанда находится в лучшем положении, чем некоторые страны Европы, например Швейцария и Франция."
+      }
+    ],
+    "ruAccented": "едини'ца",
+    "frequency": 18551,
+    "id": "ru-единица-001"
+  },
+  {
+    "ru": "единобожие",
+    "ky": "биркудайчылык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BA%D1%83%D0%B4%D0%B0%D0%B9%D1%87%D1%8B%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "belief in one God"
+    ],
+    "etymology": "From бир (bir, “one”) + кудай (kuday, “god”) + -чы (-cı) + -лык (-lık).",
+    "pronunciation": "/birqudɑjt͡ʃɯˈlɯq/",
+    "ruAccented": "единобо'жие",
+    "ruGender": "n",
+    "id": "ru-единобожие-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "биркудайчылыктын",
+        "dative": "биркудайчылыкка",
+        "accusative": "биркудайчылыкты",
+        "locative": "биркудайчылыкта",
+        "ablative": "биркудайчылыктан"
+      },
+      "pluralForms": {
+        "genitive": "биркудайчылыктардын",
+        "dative": "биркудайчылыктарга",
+        "accusative": "биркудайчылыктарды",
+        "locative": "биркудайчылыктарда",
+        "ablative": "биркудайчылыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "единобожие",
+    "ky": "биртеңирчилик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D1%82%D0%B5%D2%A3%D0%B8%D1%80%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
+    "senses": [
+      "belief in one God"
+    ],
+    "ruAccented": "единобо'жие",
+    "ruGender": "n",
+    "id": "ru-единобожие-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "биртеңирчиликтин",
+        "dative": "биртеңирчиликке",
+        "accusative": "биртеңирчиликти",
+        "locative": "биртеңирчиликте",
+        "ablative": "биртеңирчиликтен"
+      },
+      "pluralForms": {
+        "genitive": "биртеңирчиликтердин",
+        "dative": "биртеңирчиликтерге",
+        "accusative": "биртеңирчиликтерди",
+        "locative": "биртеңирчиликтерде",
+        "ablative": "биртеңирчиликтерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "елда",
+    "ky": "коток",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BE%D0%BA",
+    "senses": [
+      "penis"
+    ],
+    "etymology": "From Proto-Turkic *kotak (“penis”).\nCognate with\nBashkir ҡутаҡ (qutaq),\nKazakh қотақ (qotaq),\nSouthern Altai коток (kotok),\nTatar кутак (qutaq),\nUzbek qoʻtoq (“penis”),\netc.",
+    "pronunciation": "[qoˈtoq]",
+    "id": "ru-елда-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "котоктун",
+        "dative": "котокко",
+        "accusative": "котокту",
+        "locative": "котокто",
+        "ablative": "котоктон"
+      },
+      "pluralForms": {
+        "genitive": "котоктордун",
+        "dative": "котокторго",
+        "accusative": "котокторду",
+        "locative": "котоктордо",
+        "ablative": "котоктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "евро",
+    "ky": "эвро",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%80%D0%BE",
+    "senses": [
+      "currency unit of the European Monetary Union"
+    ],
+    "ruAccented": "е'вро",
+    "ruGender": "n",
+    "id": "ru-евро-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "эвронун",
+        "dative": "эврого",
+        "accusative": "эврону",
+        "locative": "эвродо",
+        "ablative": "эвродон"
+      },
+      "pluralForms": {
+        "genitive": "эвролордун",
+        "dative": "эвролорго",
+        "accusative": "эвролорду",
+        "locative": "эвролордо",
+        "ablative": "эвролордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "европейка",
+    "ky": "европалык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "person"
+    ],
+    "examples": [
+      {
+        "ky": "Совет мезгилинде саясат башкача эле, бизге жалпы европалык баалулуктарды киргизе башташты, ал жашоонун баардык тармактарына, анын ичинде маданият жана спротко да тиешелүү эле.",
+        "ru": "В советские времена была другая политика – нам стали прививать общеевропейские ценности, это касалось всех сфер жизни, в том числе в культуре и спорте."
+      },
+      {
+        "ky": "Мен Орусия өнүккөн европалык өлкө болуусун каалайм.",
+        "ru": "Я хочу, чтобы Россия стала развитой европейской страной."
+      }
+    ],
+    "ruAccented": "европе'йка",
+    "ruGender": "f",
+    "frequency": 20,
+    "id": "ru-европейка-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "европалыктын",
+        "dative": "европалыкка",
+        "accusative": "европалыкты",
+        "locative": "европалыкта",
+        "ablative": "европалыктан"
+      },
+      "pluralForms": {
+        "genitive": "европалыктардын",
+        "dative": "европалыктарга",
+        "accusative": "европалыктарды",
+        "locative": "европалыктарда",
+        "ablative": "европалыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Египет",
+    "ky": "Мысыр",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9C%D1%8B%D1%81%D1%8B%D1%80",
+    "senses": [
+      "country in North Africa"
+    ],
+    "frequency": 6,
+    "id": "ru-Египет-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Мысырдын",
+        "dative": "Мысырга",
+        "accusative": "Мысырды",
+        "locative": "Мысырда",
+        "ablative": "Мысырдан"
+      },
+      "pluralForms": {
+        "genitive": "Мысырдардын",
+        "dative": "Мысырдарга",
+        "accusative": "Мысырдарды",
+        "locative": "Мысырдарда",
+        "ablative": "Мысырдардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Египет",
+    "ky": "Эгипет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+    "senses": [
+      "country in North Africa"
+    ],
+    "id": "ru-Египет-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Эгипеттин",
+        "dative": "Эгипетке",
+        "accusative": "Эгипетти",
+        "locative": "Эгипетте",
+        "ablative": "Эгипеттен"
+      },
+      "pluralForms": {
+        "genitive": "Эгипеттердин",
+        "dative": "Эгипеттерге",
+        "accusative": "Эгипеттерди",
+        "locative": "Эгипеттерде",
+        "ablative": "Эгипеттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Египет",
+    "ky": "Египет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+    "senses": [
+      "country in North Africa"
+    ],
+    "frequency": 5,
+    "id": "ru-Египет-004",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Египеттин",
+        "dative": "Египетке",
+        "accusative": "Египетти",
+        "locative": "Египетте",
+        "ablative": "Египеттен"
+      },
+      "pluralForms": {
+        "genitive": "Египеттердин",
+        "dative": "Египеттерге",
+        "accusative": "Египеттерди",
+        "locative": "Египеттерде",
+        "ablative": "Египеттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еда",
+    "ky": "аш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88",
+    "senses": [
+      "any substance consumed by living organisms to sustain life"
+    ],
+    "ruAccented": "еда'",
+    "ruGender": "f",
+    "frequency": 1758,
+    "id": "ru-еда-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "аштын",
+        "dative": "ашка",
+        "accusative": "ашты",
+        "locative": "ашта",
+        "ablative": "аштан"
+      },
+      "pluralForms": {
+        "genitive": "аштардын",
+        "dative": "аштарга",
+        "accusative": "аштарды",
+        "locative": "аштарда",
+        "ablative": "аштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еда",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA",
+    "senses": [
+      "any substance consumed by living organisms to sustain life"
+    ],
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "pronunciation": "[tɑˈmɑq]",
+    "examples": [
+      {
+        "ky": "жумуштардын, жүктөгүчтөрдүн, реализаторлордун, тамак ташгычтардын,таштанды",
+        "ru": "услуги несовершеннолетних грузчиков, реализаторов, разносчиков еды, сборщиков"
+      },
+      {
+        "ky": "бөлмөдөгү бир бурч жана бир табак тамак үчүн мушташып келишет.",
+        "ru": "приходится всю жизнь батрачить за угол и тарелку супа."
+      }
+    ],
+    "ruAccented": "еда'",
+    "ruGender": "f",
+    "frequency": 429,
+    "id": "ru-еда-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тамактын",
+        "dative": "тамакка",
+        "accusative": "тамакты",
+        "locative": "тамакта",
+        "ablative": "тамактан"
+      },
+      "pluralForms": {
+        "genitive": "тамактардын",
+        "dative": "тамактарга",
+        "accusative": "тамактарды",
+        "locative": "тамактарда",
+        "ablative": "тамактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еда",
+    "ky": "тамак-аш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA-%D0%B0%D1%88",
+    "senses": [
+      "any substance consumed by living organisms to sustain life"
+    ],
+    "examples": [
+      {
+        "ky": "көрсөтүп, балдардын рационун жакшыртуу үчүн тамак-аш азыктарын алып келип,",
+        "ru": "снабжают продуктами питания, чтобы улучшить рацион детей, привозят технику –"
+      },
+      {
+        "ky": "тамак-аш жасай турган жер, коноктор үчүн стенддер, ырым-жырымарды өткөрүү үчүн",
+        "ru": "готовки пищи, стенды для посетителей, юрта для проведения ритуалов…"
+      }
+    ],
+    "ruAccented": "еда'",
+    "ruGender": "f",
+    "id": "ru-еда-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тамак-аштын",
+        "dative": "тамак-ашка",
+        "accusative": "тамак-ашты",
+        "locative": "тамак-ашта",
+        "ablative": "тамак-аштан"
+      },
+      "pluralForms": {
+        "genitive": "тамак-аштардын",
+        "dative": "тамак-аштарга",
+        "accusative": "тамак-аштарды",
+        "locative": "тамак-аштарда",
+        "ablative": "тамак-аштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежа",
+    "ky": "аш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88",
+    "senses": [
+      "any substance consumed by living organisms to sustain life"
+    ],
+    "frequency": 1758,
+    "id": "ru-ежа-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "аштын",
+        "dative": "ашка",
+        "accusative": "ашты",
+        "locative": "ашта",
+        "ablative": "аштан"
+      },
+      "pluralForms": {
+        "genitive": "аштардын",
+        "dative": "аштарга",
+        "accusative": "аштарды",
+        "locative": "аштарда",
+        "ablative": "аштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежа",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA",
+    "senses": [
+      "any substance consumed by living organisms to sustain life"
+    ],
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "pronunciation": "[tɑˈmɑq]",
+    "examples": [
+      {
+        "ky": "жумуштардын, жүктөгүчтөрдүн, реализаторлордун, тамак ташгычтардын,таштанды",
+        "ru": "услуги несовершеннолетних грузчиков, реализаторов, разносчиков еды, сборщиков"
+      },
+      {
+        "ky": "бөлмөдөгү бир бурч жана бир табак тамак үчүн мушташып келишет.",
+        "ru": "приходится всю жизнь батрачить за угол и тарелку супа."
+      }
+    ],
+    "frequency": 429,
+    "id": "ru-ежа-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тамактын",
+        "dative": "тамакка",
+        "accusative": "тамакты",
+        "locative": "тамакта",
+        "ablative": "тамактан"
+      },
+      "pluralForms": {
+        "genitive": "тамактардын",
+        "dative": "тамактарга",
+        "accusative": "тамактарды",
+        "locative": "тамактарда",
+        "ablative": "тамактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежа",
+    "ky": "тамак-аш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA-%D0%B0%D1%88",
+    "senses": [
+      "any substance consumed by living organisms to sustain life"
+    ],
+    "examples": [
+      {
+        "ky": "көрсөтүп, балдардын рационун жакшыртуу үчүн тамак-аш азыктарын алып келип,",
+        "ru": "снабжают продуктами питания, чтобы улучшить рацион детей, привозят технику –"
+      },
+      {
+        "ky": "тамак-аш жасай турган жер, коноктор үчүн стенддер, ырым-жырымарды өткөрүү үчүн",
+        "ru": "готовки пищи, стенды для посетителей, юрта для проведения ритуалов…"
+      }
+    ],
+    "id": "ru-ежа-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тамак-аштын",
+        "dative": "тамак-ашка",
+        "accusative": "тамак-ашты",
+        "locative": "тамак-ашта",
+        "ablative": "тамак-аштан"
+      },
+      "pluralForms": {
+        "genitive": "тамак-аштардын",
+        "dative": "тамак-аштарга",
+        "accusative": "тамак-аштарды",
+        "locative": "тамак-аштарда",
+        "ablative": "тамак-аштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ебать",
+    "ky": "сигүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
+    "pronunciation": "/siɡyː/",
+    "ruAccented": "еба'ть",
+    "id": "ru-ебать-002"
+  },
+  {
+    "ru": "ебаться",
+    "ky": "тыгуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
+    "id": "ru-ебаться-001"
+  },
+  {
+    "ru": "ебаться",
+    "ky": "сигүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
+    "pronunciation": "/siɡyː/",
+    "id": "ru-ебаться-002"
+  },
+  {
+    "ru": "еть",
+    "ky": "тыгуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
+    "id": "ru-еть-001"
+  },
+  {
+    "ru": "еть",
+    "ky": "сигүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
+    "pronunciation": "/siɡyː/",
+    "id": "ru-еть-002"
+  },
+  {
+    "ru": "ети",
+    "ky": "тыгуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
+    "id": "ru-ети-001"
+  },
+  {
+    "ru": "ети",
+    "ky": "сигүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
+    "senses": [
+      "to have sexual intercourse—obscene or vulgar"
+    ],
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
+    "pronunciation": "/siɡyː/",
+    "id": "ru-ети-002"
+  },
+  {
+    "ru": "енот",
+    "ky": "жанат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%82",
+    "senses": [
+      "nocturnal omnivore living in North America, Procyon lotor"
+    ],
+    "ruAccented": "ено'т",
+    "ruGender": "m",
+    "id": "ru-енот-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жанаттын",
+        "dative": "жанатка",
+        "accusative": "жанатты",
+        "locative": "жанатта",
+        "ablative": "жанаттан"
+      },
+      "pluralForms": {
+        "genitive": "жанаттардын",
+        "dative": "жанаттарга",
+        "accusative": "жанаттарды",
+        "locative": "жанаттарда",
+        "ablative": "жанаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "енот-полоскун",
+    "ky": "жанат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%82",
+    "senses": [
+      "nocturnal omnivore living in North America, Procyon lotor"
+    ],
+    "id": "ru-енот-полоскун-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жанаттын",
+        "dative": "жанатка",
+        "accusative": "жанатты",
+        "locative": "жанатта",
+        "ablative": "жанаттан"
+      },
+      "pluralForms": {
+        "genitive": "жанаттардын",
+        "dative": "жанаттарга",
+        "accusative": "жанаттарды",
+        "locative": "жанаттарда",
+        "ablative": "жанаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "его",
+    "ky": "анын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D1%8B%D0%BD",
+    "senses": [
+      "attributive: belonging to him"
+    ],
+    "examples": [
+      {
+        "ky": "Анын үстүнө, изилдей келгенде эле повесттин өзгөчөлүгү, чыгарманы жаратууга түрткү болгон чөйрөнүн дүйнөнүн башка жеринде кездешпеген улуттук оригиналдуулугунда экендиги ачылып чыга келет экен да.",
+        "ru": "То есть экстремальный туризм у нас присутствует и есть все условия для его развития.Помимо этого большое количество людей, даже из соседних республик приезжают для паломничества к святым местам."
+      },
+      {
+        "ky": "Анын ушул чөйрөдө, Жамыйладай, Сейиттей жаркын адамдардын жанында жүрүүгө мүмкүнчүлүгү бар болучу, бирок, ал аны көрө алган, тааный алган жок.",
+        "ru": "В частности, в Ала-Букинский район выезжала, чтобы провести разъяснительные работы."
+      }
+    ],
+    "id": "ru-его-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "анындын",
+        "dative": "анынга",
+        "accusative": "анынды",
+        "locative": "анында",
+        "ablative": "анындан"
+      },
+      "pluralForms": {
+        "genitive": "анындардын",
+        "dative": "анындарга",
+        "accusative": "анындарды",
+        "locative": "анындарда",
+        "ablative": "анындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ещё раз",
+    "ky": "дагы",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B3%D1%8B",
+    "senses": [
+      "another time"
+    ],
+    "etymology": "From Proto-Turkic *takï (“again, once more; additionally, plus”).\nCognate with Old Uyghur [script needed] (taqï, “more”); Tatar тагын (tağın), Kazakh тағы (tağy), Bashkir тағы (tağı), Southern Altai таа (taa), Uzbek tagʻin, Uzbek تېگى, Uyghur تېخى (tëxi), Turkmen dagy, Azerbaijani daha, Turkish daha (“more, in addition”).",
+    "pronunciation": "/dɑˈʁɯ/",
+    "examples": [
+      {
+        "ky": "Анын үстүнө бул реформаларда аялдардын өлкөдөгү саясий дагы, экономикалык дагы турмушундагы ролун күчөтүүгө көбүрөөк көңүл бурулган.",
+        "ru": "Причем не последнее место в этих реформах занимало усиление роли женщин как в политической, так и в экономической жизни страны."
+      },
+      {
+        "ky": "Африка өнүгүү банкынын президенти Акинвуми Адесина (самиттин негизги уюштуруучусу) айткандай: «Бир дагы канаттуу жалгыз канаты менен уча албайт.",
+        "ru": "Как сказал президент Африканского банка развития (основной организатор саммита) Акинвуми Адесина: «Ни одна птица не летает на одном крыле."
+      }
+    ],
+    "frequency": 2824,
+    "id": "ru-ещё раз-001"
+  },
+  {
+    "ru": "ещё раз",
+    "ky": "кайтадан",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%82%D0%B0%D0%B4%D0%B0%D0%BD",
+    "senses": [
+      "another time"
+    ],
+    "frequency": 37,
+    "id": "ru-ещё раз-002"
+  },
+  {
+    "ru": "ещё раз",
+    "ky": "жаңыдан",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%B4%D0%B0%D0%BD",
+    "senses": [
+      "another time"
+    ],
+    "examples": [
+      {
+        "ky": "Жаңыдан балык чарбачылыгын өздөштүргөндөр да болду.",
+        "ru": "Молодой предприниматель рассказывает, что для рыбы нужна специальная среда."
+      },
+      {
+        "ky": "менен автоунаа жолу башталат, аны орус инвесторлору жаңыдан куруп чыкан.",
+        "ru": "автомобильная дорога, которую фактически заново проложили российские инвесторы."
+      }
+    ],
+    "frequency": 34,
+    "id": "ru-ещё раз-003"
+  },
+  {
+    "ru": "ездить",
+    "ky": "саякаттоо",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D0%BA%D0%B0%D1%82%D1%82%D0%BE%D0%BE",
+    "senses": [
+      "be on a journey"
+    ],
+    "ruAccented": "е'здить",
+    "id": "ru-ездить-001"
+  },
+  {
+    "ru": "ебало",
+    "ky": "бет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
+    "senses": [
+      "anatomy: front part of head"
+    ],
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "pronunciation": "/bet/",
+    "examples": [
+      {
+        "ky": "Биз, журналисттер, саясий элитанын бет",
+        "ru": "Мы, журналисты, сидели напротив политэлиты и, пристально"
+      },
+      {
+        "ky": "кандайдыр бир бет кабын, көшөгөсүн сыйрып салгандай болду.",
+        "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
+      }
+    ],
+    "ruAccented": "еба'ло",
+    "ruGender": "n",
+    "frequency": 1486,
+    "id": "ru-ебало-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "беттин",
+        "dative": "бетке",
+        "accusative": "бетти",
+        "locative": "бетте",
+        "ablative": "беттен"
+      },
+      "pluralForms": {
+        "genitive": "беттердин",
+        "dative": "беттерге",
+        "accusative": "беттерди",
+        "locative": "беттерде",
+        "ablative": "беттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ебло",
+    "ky": "бет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
+    "senses": [
+      "anatomy: front part of head"
+    ],
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "pronunciation": "/bet/",
+    "examples": [
+      {
+        "ky": "Биз, журналисттер, саясий элитанын бет",
+        "ru": "Мы, журналисты, сидели напротив политэлиты и, пристально"
+      },
+      {
+        "ky": "кандайдыр бир бет кабын, көшөгөсүн сыйрып салгандай болду.",
+        "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
+      }
+    ],
+    "frequency": 1486,
+    "id": "ru-ебло-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "беттин",
+        "dative": "бетке",
+        "accusative": "бетти",
+        "locative": "бетте",
+        "ablative": "беттен"
+      },
+      "pluralForms": {
+        "genitive": "беттердин",
+        "dative": "беттерге",
+        "accusative": "беттерди",
+        "locative": "беттерде",
+        "ablative": "беттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ебальник",
+    "ky": "бет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
+    "senses": [
+      "anatomy: front part of head"
+    ],
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "pronunciation": "/bet/",
+    "examples": [
+      {
+        "ky": "Биз, журналисттер, саясий элитанын бет",
+        "ru": "Мы, журналисты, сидели напротив политэлиты и, пристально"
+      },
+      {
+        "ky": "кандайдыр бир бет кабын, көшөгөсүн сыйрып салгандай болду.",
+        "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
+      }
+    ],
+    "ruAccented": "еба'льник",
+    "ruGender": "m",
+    "frequency": 1486,
+    "id": "ru-ебальник-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "беттин",
+        "dative": "бетке",
+        "accusative": "бетти",
+        "locative": "бетте",
+        "ablative": "беттен"
+      },
+      "pluralForms": {
+        "genitive": "беттердин",
+        "dative": "беттерге",
+        "accusative": "беттерди",
+        "locative": "беттерде",
+        "ablative": "беттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ездить",
+    "ky": "баруу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D1%83%D1%83",
+    "senses": [
+      "to move through space (especially from one place to another)"
+    ],
+    "etymology": "From Proto-Turkic *bar-, compare Yakut бар (bar).",
+    "examples": [
+      {
+        "ky": "ишкерликти алып баруу үчүн либералдуу мыйзамдарды кабыл алганга аракет кылып,",
+        "ru": "либеральное законодательство для ведения бизнеса, упрощать"
+      },
+      {
+        "ky": "сейилдеп чыгуу же зоопаркка баруу дагы көңүлүңөрдү көтөрүшү мүмкүн.",
+        "ru": "фотографий, прогулки на лошадях или походы в зоопарк."
+      }
+    ],
+    "ruAccented": "е'здить",
+    "id": "ru-ездить-002"
+  },
+  {
+    "ru": "ездить",
+    "ky": "жүрүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
+    "senses": [
+      "to move through space (especially from one place to another)"
+    ],
+    "etymology": "From Proto-Turkic *yüri- (“to walk”), compare Southern Altai јӱрер (ǰürer), Turkish yürümek.",
+    "examples": [
+      {
+        "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
+        "ru": "- Опыт работы в сфере правового сопровождения текущей деятельности Банка;"
+      },
+      {
+        "ky": "6%- агрессивдүү алып жүрүү тобокнлчилигинин",
+        "ru": "6% - группа риска по агрессивному поведению, импульсивные, которые"
+      }
+    ],
+    "ruAccented": "е'здить",
+    "id": "ru-ездить-003"
+  },
+  {
+    "ru": "ехать",
+    "ky": "баруу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D1%83%D1%83",
+    "senses": [
+      "to move through space (especially from one place to another)"
+    ],
+    "etymology": "From Proto-Turkic *bar-, compare Yakut бар (bar).",
+    "examples": [
+      {
+        "ky": "ишкерликти алып баруу үчүн либералдуу мыйзамдарды кабыл алганга аракет кылып,",
+        "ru": "либеральное законодательство для ведения бизнеса, упрощать"
+      },
+      {
+        "ky": "сейилдеп чыгуу же зоопаркка баруу дагы көңүлүңөрдү көтөрүшү мүмкүн.",
+        "ru": "фотографий, прогулки на лошадях или походы в зоопарк."
+      }
+    ],
+    "ruAccented": "е'хать",
+    "id": "ru-ехать-001"
+  },
+  {
+    "ru": "ехать",
+    "ky": "жүрүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
+    "senses": [
+      "to move through space (especially from one place to another)"
+    ],
+    "etymology": "From Proto-Turkic *yüri- (“to walk”), compare Southern Altai јӱрер (ǰürer), Turkish yürümek.",
+    "examples": [
+      {
+        "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
+        "ru": "- Опыт работы в сфере правового сопровождения текущей деятельности Банка;"
+      },
+      {
+        "ky": "6%- агрессивдүү алып жүрүү тобокнлчилигинин",
+        "ru": "6% - группа риска по агрессивному поведению, импульсивные, которые"
+      }
+    ],
+    "ruAccented": "е'хать",
+    "id": "ru-ехать-002"
+  },
+  {
+    "ru": "ехать",
+    "ky": "мин-",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD-",
+    "senses": [
+      "to transport oneself by sitting on and directing a horse, bicycle etc."
+    ],
+    "ruAccented": "е'хать",
+    "id": "ru-ехать-003"
+  },
+  {
+    "ru": "ездить",
+    "ky": "мин-",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD-",
+    "senses": [
+      "to transport oneself by sitting on and directing a horse, bicycle etc."
+    ],
+    "ruAccented": "е'здить",
+    "id": "ru-ездить-004"
+  },
+  {
+    "ru": "ежиха",
+    "ky": "кирпи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
+    "senses": [
+      "animal"
+    ],
+    "etymology": "From Proto-Turkic *kirpi",
+    "ruAccented": "ежи'ха",
+    "ruGender": "f",
+    "frequency": 7,
+    "id": "ru-ежиха-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кирпинин",
+        "dative": "кирпиге",
+        "accusative": "кирпини",
+        "locative": "кирпиде",
+        "ablative": "кирпиден"
+      },
+      "pluralForms": {
+        "genitive": "кирпилердин",
+        "dative": "кирпилерге",
+        "accusative": "кирпилерди",
+        "locative": "кирпилерде",
+        "ablative": "кирпилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежак",
+    "ky": "кирпи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
+    "senses": [
+      "animal"
+    ],
+    "etymology": "From Proto-Turkic *kirpi",
+    "frequency": 7,
+    "id": "ru-ежак-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кирпинин",
+        "dative": "кирпиге",
+        "accusative": "кирпини",
+        "locative": "кирпиде",
+        "ablative": "кирпиден"
+      },
+      "pluralForms": {
+        "genitive": "кирпилердин",
+        "dative": "кирпилерге",
+        "accusative": "кирпилерди",
+        "locative": "кирпилерде",
+        "ablative": "кирпилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежели",
+    "ky": "эгер",
+    "pos": "conj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
+    "senses": [
+      "supposing that"
+    ],
+    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
+    "pronunciation": "/eˈɡer/",
+    "examples": [
+      {
+        "ky": "*ВК лимити жана Сиздин кредиттик картаңыздын лимити өз ара байланышкан: эгер Сиз алардын бирөөсүнүн лимитин колдонсоңуз, экинчисинин лимити төмөндөйт.",
+        "ru": "*Лимит ВК и лимит Вашей кредитной карты связаны между собой: если Вы использовали лимит одной из них, то лимит другой карты уменьшится."
+      },
+      {
+        "ky": "Мамлекет эгер колунан келсе, күч-кубаты жетсе жардам берсе болот.",
+        "ru": "Если государство в силах, оно может помочь."
+      }
+    ],
+    "frequency": 15,
+    "id": "ru-ежели-001"
+  },
+  {
+    "ru": "Европейский союз",
+    "ky": "Европа Биримдиги",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%D0%91%D0%B8%D1%80%D0%B8%D0%BC%D0%B4%D0%B8%D0%B3%D0%B8",
+    "senses": [
+      "European supranational organisation"
+    ],
+    "id": "ru-Европейский союз-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Европа Биримдигинин",
+        "dative": "Европа Биримдигиге",
+        "accusative": "Европа Биримдигини",
+        "locative": "Европа Биримдигиде",
+        "ablative": "Европа Биримдигиден"
+      },
+      "pluralForms": {
+        "genitive": "Европа Биримдигилердин",
+        "dative": "Европа Биримдигилерге",
+        "accusative": "Европа Биримдигилерди",
+        "locative": "Европа Биримдигилерде",
+        "ablative": "Европа Биримдигилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Евросоюз",
+    "ky": "Европа Биримдиги",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%D0%91%D0%B8%D1%80%D0%B8%D0%BC%D0%B4%D0%B8%D0%B3%D0%B8",
+    "senses": [
+      "European supranational organisation"
+    ],
+    "id": "ru-Евросоюз-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Европа Биримдигинин",
+        "dative": "Европа Биримдигиге",
+        "accusative": "Европа Биримдигини",
+        "locative": "Европа Биримдигиде",
+        "ablative": "Европа Биримдигиден"
+      },
+      "pluralForms": {
+        "genitive": "Европа Биримдигилердин",
+        "dative": "Европа Биримдигилерге",
+        "accusative": "Европа Биримдигилерди",
+        "locative": "Европа Биримдигилерде",
+        "ablative": "Европа Биримдигилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврей",
+    "ky": "еврей",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
+    "senses": [
+      "person of the Jewish faith"
+    ],
+    "ruAccented": "евре'й",
+    "ruGender": "m",
+    "frequency": 5,
+    "id": "ru-еврей-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "еврейдин",
+        "dative": "еврейге",
+        "accusative": "еврейди",
+        "locative": "еврейде",
+        "ablative": "еврейден"
+      },
+      "pluralForms": {
+        "genitive": "еврейдердин",
+        "dative": "еврейдерге",
+        "accusative": "еврейдерди",
+        "locative": "еврейдерде",
+        "ablative": "еврейдерден"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврейка",
+    "ky": "жөөт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
+    "senses": [
+      "person of the Jewish faith"
+    ],
+    "pronunciation": "/d͡ʒøːt/",
+    "ruAccented": "евре'йка",
+    "ruGender": "f",
+    "id": "ru-еврейка-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "жөөттүн",
+        "dative": "жөөткө",
+        "accusative": "жөөттү",
+        "locative": "жөөттө",
+        "ablative": "жөөттөн"
+      },
+      "pluralForms": {
+        "genitive": "жөөттөрдүн",
+        "dative": "жөөттөргө",
+        "accusative": "жөөттөрдү",
+        "locative": "жөөттөрдө",
+        "ablative": "жөөттөрдөн"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврейка",
+    "ky": "еврей",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
+    "senses": [
+      "person of the Jewish faith"
+    ],
+    "ruAccented": "евре'йка",
+    "ruGender": "f",
+    "frequency": 5,
+    "id": "ru-еврейка-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "еврейдин",
+        "dative": "еврейге",
+        "accusative": "еврейди",
+        "locative": "еврейде",
+        "ablative": "еврейден"
+      },
+      "pluralForms": {
+        "genitive": "еврейдердин",
+        "dative": "еврейдерге",
+        "accusative": "еврейдерди",
+        "locative": "еврейдерде",
+        "ablative": "еврейдерден"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврей",
+    "ky": "жуу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
+    "senses": [
+      "member or descendant of the Jewish people"
+    ],
+    "examples": [
+      {
+        "ky": "Ысык сууга же кайнатылган сууга жуу менен, уулуу заттардан кутула албайсыңар.",
+        "ru": "Промыв в горячей воде или же путем кипячения, вы не избавитесь от токсичных веществ."
+      }
+    ],
+    "ruAccented": "евре'й",
+    "ruGender": "m",
+    "frequency": 170,
+    "id": "ru-еврей-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "жуунун",
+        "dative": "жууго",
+        "accusative": "жууну",
+        "locative": "жуудо",
+        "ablative": "жуудон"
+      },
+      "pluralForms": {
+        "genitive": "жуулордун",
+        "dative": "жуулорго",
+        "accusative": "жуулорду",
+        "locative": "жуулордо",
+        "ablative": "жуулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврейка",
+    "ky": "жуу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
+    "senses": [
+      "member or descendant of the Jewish people"
+    ],
+    "examples": [
+      {
+        "ky": "Ысык сууга же кайнатылган сууга жуу менен, уулуу заттардан кутула албайсыңар.",
+        "ru": "Промыв в горячей воде или же путем кипячения, вы не избавитесь от токсичных веществ."
+      }
+    ],
+    "ruAccented": "евре'йка",
+    "ruGender": "f",
+    "frequency": 170,
+    "id": "ru-еврейка-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "жуунун",
+        "dative": "жууго",
+        "accusative": "жууну",
+        "locative": "жуудо",
+        "ablative": "жуудон"
+      },
+      "pluralForms": {
+        "genitive": "жуулордун",
+        "dative": "жуулорго",
+        "accusative": "жуулорду",
+        "locative": "жуулордо",
+        "ablative": "жуулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежедневно",
+    "ky": "ар күн",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%20%D0%BA%D2%AF%D0%BD",
+    "senses": [
+      "every day"
+    ],
+    "id": "ru-ежедневно-001"
+  },
+  {
+    "ru": "епископ",
+    "ky": "епископ",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF",
+    "senses": [
+      "church official, supervisor of priests and congregations"
+    ],
+    "ruAccented": "епи'скоп",
+    "ruGender": "m",
+    "id": "ru-епископ-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "епископтун",
+        "dative": "епископко",
+        "accusative": "епископту",
+        "locative": "епископто",
+        "ablative": "епископтон"
+      },
+      "pluralForms": {
+        "genitive": "епископтордун",
+        "dative": "епископторго",
+        "accusative": "епископторду",
+        "locative": "епископтордо",
+        "ablative": "епископтордон"
+      },
+      "rule": "Основа на глухую согласную -п, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "египетский",
+    "ky": "египеттик",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%82%D0%B8%D0%BA",
+    "senses": [
+      "of, from, or pertaining to Egypt"
+    ],
+    "ruAccented": "еги'петский",
+    "id": "ru-египетский-001"
+  },
+  {
+    "ru": "египетский",
+    "ky": "египет",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
+    "senses": [
+      "of, from, or pertaining to Egypt"
+    ],
+    "ruAccented": "еги'петский",
+    "frequency": 5,
+    "id": "ru-египетский-002"
+  },
+  {
+    "ru": "еретик",
+    "ky": "бидъатчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82%D1%87%D1%8B",
+    "senses": [
+      "someone who believes contrary to fundamentals. of a religion"
+    ],
+    "ruAccented": "ерети'к",
+    "id": "ru-еретик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бидъатчынын",
+        "dative": "бидъатчыга",
+        "accusative": "бидъатчыны",
+        "locative": "бидъатчыда",
+        "ablative": "бидъатчыдан"
+      },
+      "pluralForms": {
+        "genitive": "бидъатчылардын",
+        "dative": "бидъатчыларга",
+        "accusative": "бидъатчыларды",
+        "locative": "бидъатчыларда",
+        "ablative": "бидъатчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еретик",
+    "ky": "еретик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%82%D0%B8%D0%BA",
+    "senses": [
+      "someone who believes contrary to fundamentals. of a religion"
+    ],
+    "ruAccented": "ерети'к",
+    "id": "ru-еретик-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "еретиктин",
+        "dative": "еретикке",
+        "accusative": "еретикти",
+        "locative": "еретикте",
+        "ablative": "еретиктен"
+      },
+      "pluralForms": {
+        "genitive": "еретиктердин",
+        "dative": "еретиктерге",
+        "accusative": "еретиктерди",
+        "locative": "еретиктерде",
+        "ablative": "еретиктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еретичка",
+    "ky": "бидъатчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82%D1%87%D1%8B",
+    "senses": [
+      "someone who believes contrary to fundamentals. of a religion"
+    ],
+    "id": "ru-еретичка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бидъатчынын",
+        "dative": "бидъатчыга",
+        "accusative": "бидъатчыны",
+        "locative": "бидъатчыда",
+        "ablative": "бидъатчыдан"
+      },
+      "pluralForms": {
+        "genitive": "бидъатчылардын",
+        "dative": "бидъатчыларга",
+        "accusative": "бидъатчыларды",
+        "locative": "бидъатчыларда",
+        "ablative": "бидъатчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еретичка",
+    "ky": "еретик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%82%D0%B8%D0%BA",
+    "senses": [
+      "someone who believes contrary to fundamentals. of a religion"
+    ],
+    "id": "ru-еретичка-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "еретиктин",
+        "dative": "еретикке",
+        "accusative": "еретикти",
+        "locative": "еретикте",
+        "ablative": "еретиктен"
+      },
+      "pluralForms": {
+        "genitive": "еретиктердин",
+        "dative": "еретиктерге",
+        "accusative": "еретиктерди",
+        "locative": "еретиктерде",
+        "ablative": "еретиктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ещё и",
+    "ky": "да",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0",
+    "senses": [
+      "implying extreme example"
+    ],
+    "frequency": 4436,
+    "id": "ru-ещё и-001"
+  },
+  {
+    "ru": "ещё и",
+    "ky": "жадаганда",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0",
+    "senses": [
+      "implying extreme example"
+    ],
+    "id": "ru-ещё и-002"
+  },
+  {
+    "ru": "ель",
+    "ky": "ёлка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%91%D0%BB%D0%BA%D0%B0",
+    "senses": [
+      "tree from the genus Picea"
+    ],
+    "ruAccented": "ель",
+    "ruGender": "f",
+    "id": "ru-ель-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ёлканын",
+        "dative": "ёлкага",
+        "accusative": "ёлканы",
+        "locative": "ёлкада",
+        "ablative": "ёлкадан"
+      },
+      "pluralForms": {
+        "genitive": "ёлкалардын",
+        "dative": "ёлкаларга",
+        "accusative": "ёлкаларды",
+        "locative": "ёлкаларда",
+        "ablative": "ёлкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "единственный",
+    "ky": "сейрек",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D1%80%D0%B5%D0%BA",
+    "senses": [
+      "one of a kind"
+    ],
+    "examples": [
+      {
+        "ky": "Мындай кооздуктагы гүл өтө сейрек кездешет.",
+        "ru": "Такой красоты дикий цветок – вообще редкость."
+      },
+      {
+        "ky": "Кызыгы, учурда Азия чөлкөмүндөгү эң сейрек гүлгө байланыштуу бир дагы ири долбоор байкалбайт.",
+        "ru": "Пока каких-то серьезных проектов по части самого редкого цветка в Азии не работает, что странно."
+      }
+    ],
+    "ruAccented": "еди'нственный",
+    "frequency": 40,
+    "id": "ru-единственный-001"
+  },
+  {
+    "ru": "ещё бы",
+    "ky": "албетте",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B1%D0%B5%D1%82%D1%82%D0%B5",
+    "senses": [
+      "naturally"
+    ],
+    "etymology": "Borrowed from Classical Persian اَلْبَتَّه (albatta, “of course”), from Arabic الْبَتَّة (al-batta).",
+    "pronunciation": "/ɑl.betˈte/",
+    "examples": [
+      {
+        "ky": "Бул албетте кубанаарлык иш.",
+        "ru": "И это безусловно радует."
+      },
+      {
+        "ky": "Албетте бардык маселе келип акча каражатына такалат.",
+        "ru": "Конечно, все упирается в нехватку денег."
+      }
+    ],
+    "frequency": 262,
+    "id": "ru-ещё бы-001"
+  },
+  {
+    "ru": "естественно",
+    "ky": "албетте",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B1%D0%B5%D1%82%D1%82%D0%B5",
+    "senses": [
+      "naturally"
+    ],
+    "etymology": "Borrowed from Classical Persian اَلْبَتَّه (albatta, “of course”), from Arabic الْبَتَّة (al-batta).",
+    "pronunciation": "/ɑl.betˈte/",
+    "examples": [
+      {
+        "ky": "Бул албетте кубанаарлык иш.",
+        "ru": "И это безусловно радует."
+      },
+      {
+        "ky": "Албетте бардык маселе келип акча каражатына такалат.",
+        "ru": "Конечно, все упирается в нехватку денег."
+      }
+    ],
+    "frequency": 262,
+    "id": "ru-естественно-001"
+  },
+  {
+    "ru": "ежевика",
+    "ky": "кара бүлдүркөн",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%20%D0%B1%D2%AF%D0%BB%D0%B4%D2%AF%D1%80%D0%BA%D3%A9%D0%BD",
+    "senses": [
+      "fruit"
+    ],
+    "ruAccented": "ежеви'ка",
+    "ruGender": "f",
+    "id": "ru-ежевика-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "кара бүлдүркөндүн",
+        "dative": "кара бүлдүркөнгө",
+        "accusative": "кара бүлдүркөндү",
+        "locative": "кара бүлдүркөндө",
+        "ablative": "кара бүлдүркөндөн"
+      },
+      "pluralForms": {
+        "genitive": "кара бүлдүркөндөрдүн",
+        "dative": "кара бүлдүркөндөргө",
+        "accusative": "кара бүлдүркөндөрдү",
+        "locative": "кара бүлдүркөндөрдө",
+        "ablative": "кара бүлдүркөндөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ездок",
+    "ky": "атчан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%87%D0%B0%D0%BD",
+    "senses": [
+      "one who rides — see also cyclist, driver"
+    ],
+    "ruAccented": "ездо'к",
+    "ruGender": "m",
+    "frequency": 311,
+    "id": "ru-ездок-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "атчандын",
+        "dative": "атчанга",
+        "accusative": "атчанды",
+        "locative": "атчанда",
+        "ablative": "атчандан"
+      },
+      "pluralForms": {
+        "genitive": "атчандардын",
+        "dative": "атчандарга",
+        "accusative": "атчандарды",
+        "locative": "атчандарда",
+        "ablative": "атчандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "евгеника",
+    "ky": "эвгеника",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0",
+    "senses": [
+      "social philosophy"
+    ],
+    "ruAccented": "евге'ника",
+    "ruGender": "f",
+    "id": "ru-евгеника-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "эвгениканын",
+        "dative": "эвгеникага",
+        "accusative": "эвгениканы",
+        "locative": "эвгеникада",
+        "ablative": "эвгеникадан"
+      },
+      "pluralForms": {
+        "genitive": "эвгеникалардын",
+        "dative": "эвгеникаларга",
+        "accusative": "эвгеникаларды",
+        "locative": "эвгеникаларда",
+        "ablative": "эвгеникалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еврейский",
+    "ky": "еврей",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
+    "senses": [
+      "of or relating to a Jew or Jews, their ethnicity, religion or culture"
+    ],
+    "ruAccented": "евре'йский",
+    "frequency": 5,
+    "id": "ru-еврейский-001"
+  },
+  {
+    "ru": "еврейский",
+    "ky": "жөөт",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
+    "senses": [
+      "of or relating to a Jew or Jews, their ethnicity, religion or culture"
+    ],
+    "pronunciation": "/d͡ʒøːt/",
+    "ruAccented": "евре'йский",
+    "id": "ru-еврейский-002"
+  },
+  {
+    "ru": "еврейский",
+    "ky": "жуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
+    "senses": [
+      "of or relating to a Jew or Jews, their ethnicity, religion or culture"
+    ],
+    "examples": [
+      {
+        "ky": "Ысык сууга же кайнатылган сууга жуу менен, уулуу заттардан кутула албайсыңар.",
+        "ru": "Промыв в горячей воде или же путем кипячения, вы не избавитесь от токсичных веществ."
+      }
+    ],
+    "ruAccented": "евре'йский",
+    "frequency": 170,
+    "id": "ru-еврейский-003"
+  },
+  {
+    "ru": "ежедневник",
+    "ky": "күндөлүк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D0%B4%D3%A9%D0%BB%D2%AF%D0%BA",
+    "senses": [
+      "daily log of experiences"
+    ],
+    "etymology": "From күн (kün, “day”) + -дө (-dö) + -лүк (-lük).",
+    "pronunciation": "/kyndølyk/",
+    "examples": [
+      {
+        "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
+        "ru": "- Опыт работы в сфере правового сопровождения текущей деятельности Банка;"
+      },
+      {
+        "ky": "Казыналык мамлекеттин кирешелери жана чыгашалары боюнча банк-агенттер жүргүзүүчү күндөлүк операцияларды жүзөгө ашыруунун жумушчу механизмин иштеп чыгат.",
+        "ru": "Казначейство разрабатывает рабочий механизм осуществления банками-агентами ежедневных операций по доходам и расходам государства."
+      }
+    ],
+    "frequency": 106,
+    "id": "ru-ежедневник-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "күндөлүктүн",
+        "dative": "күндөлүккө",
+        "accusative": "күндөлүктү",
+        "locative": "күндөлүктө",
+        "ablative": "күндөлүктөн"
+      },
+      "pluralForms": {
+        "genitive": "күндөлүктөрдүн",
+        "dative": "күндөлүктөргө",
+        "accusative": "күндөлүктөрдү",
+        "locative": "күндөлүктөрдө",
+        "ablative": "күндөлүктөрдөн"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ежедневник",
+    "ky": "дневник",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA",
+    "senses": [
+      "daily log of experiences"
+    ],
+    "id": "ru-ежедневник-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "дневниктин",
+        "dative": "дневникке",
+        "accusative": "дневникти",
+        "locative": "дневникте",
+        "ablative": "дневниктен"
+      },
+      "pluralForms": {
+        "genitive": "дневниктердин",
+        "dative": "дневниктерге",
+        "accusative": "дневниктерди",
+        "locative": "дневниктерде",
+        "ablative": "дневниктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ересь",
+    "ky": "ересь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%81%D1%8C",
+    "senses": [
+      "dissension from religious dogma"
+    ],
+    "ruAccented": "е'ресь",
+    "ruGender": "f",
+    "id": "ru-ересь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "ересьдин",
+        "dative": "ересьге",
+        "accusative": "ересьди",
+        "locative": "ересьде",
+        "ablative": "ересьден"
+      },
+      "pluralForms": {
+        "genitive": "ересьдердин",
+        "dative": "ересьдерге",
+        "accusative": "ересьдерди",
+        "locative": "ересьдерде",
+        "ablative": "ересьдерден"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ересь",
+    "ky": "бидъат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82",
+    "senses": [
+      "dissension from religious dogma"
+    ],
+    "ruAccented": "е'ресь",
+    "ruGender": "f",
+    "id": "ru-ересь-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бидъаттын",
+        "dative": "бидъатка",
+        "accusative": "бидъатты",
+        "locative": "бидъатта",
+        "ablative": "бидъаттан"
+      },
+      "pluralForms": {
+        "genitive": "бидъаттардын",
+        "dative": "бидъаттарга",
+        "accusative": "бидъаттарды",
+        "locative": "бидъаттарда",
+        "ablative": "бидъаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ехидна",
+    "ky": "ехидна",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%85%D0%B8%D0%B4%D0%BD%D0%B0",
+    "senses": [
+      "any of the four species of small spined monotremes"
+    ],
+    "ruAccented": "ехи'дна",
+    "ruGender": "f",
+    "id": "ru-ехидна-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ехиднанын",
+        "dative": "ехиднага",
+        "accusative": "ехиднаны",
+        "locative": "ехиднада",
+        "ablative": "ехиднадан"
+      },
+      "pluralForms": {
+        "genitive": "ехидналардын",
+        "dative": "ехидналарга",
+        "accusative": "ехидналарды",
+        "locative": "ехидналарда",
+        "ablative": "ехидналардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "есть",
+    "ky": "бар",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80",
+    "senses": [
+      "third-person singular simple present indicative form of there be"
+    ],
+    "examples": [
+      {
+        "ky": "Анын ушул чөйрөдө, Жамыйладай, Сейиттей жаркын адамдардын жанында жүрүүгө мүмкүнчүлүгү бар болучу, бирок, ал аны көрө алган, тааный алган жок.",
+        "ru": "В частности, в Ала-Букинский район выезжала, чтобы провести разъяснительные работы."
+      },
+      {
+        "ky": "Аңгемелешүүдө комиссиянын курамына төмөнкүлөр киришет: кадрлар бөлүмүнүн өкүлдөр, вакансия бар бөлүмдүн өкүлү, өндүрүштүк окутуунун инструктору жана чет элдик адис.",
+        "ru": "В состав комиссии при собеседовании входят: представитель отдела кадров, представитель отдела, инструктор производственного обучения и иностранный специалист."
+      }
+    ],
+    "ruAccented": "есть",
+    "frequency": 10968,
+    "id": "ru-есть-002"
+  },
+  {
+    "ru": "Ева",
+    "ky": "Обо",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D0%B1%D0%BE",
+    "senses": [
+      "the first woman"
+    ],
+    "frequency": 67,
+    "id": "ru-Ева-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Обонун",
+        "dative": "Обого",
+        "accusative": "Обону",
+        "locative": "Ободо",
+        "ablative": "Ободон"
+      },
+      "pluralForms": {
+        "genitive": "Оболордун",
+        "dative": "Оболорго",
+        "accusative": "Оболорду",
+        "locative": "Оболордо",
+        "ablative": "Оболордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Евразия",
+    "ky": "Евразия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F",
+    "senses": [
+      "the largest landmass on Earth, consisting of Europe and Asia"
+    ],
+    "examples": [
+      {
+        "ky": "Евразия аборигендеринин принциби: бардыгын өзүм менен алып жүрөм!",
+        "ru": "Принцип аборигенов Евразии: все свое ношу с собой!"
+      },
+      {
+        "ky": "Евразия континентин гана эмес, бардык дүйнө жүзүн маданий түрдө бириктирүүгө",
+        "ru": "культурного единения не только Евразийского континента, но и всего мира."
+      }
+    ],
+    "ruAccented": "Евра'зия",
+    "ruGender": "f",
+    "frequency": 138,
+    "id": "ru-Евразия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Евразиядин",
+        "dative": "Евразияге",
+        "accusative": "Евразияди",
+        "locative": "Евразияде",
+        "ablative": "Евразияден"
+      },
+      "pluralForms": {
+        "genitive": "Евразиядердин",
+        "dative": "Евразиядерге",
+        "accusative": "Евразиядерди",
+        "locative": "Евразиядерде",
+        "ablative": "Евразиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ефрейтор",
+    "ky": "ефрейтор",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%84%D1%80%D0%B5%D0%B9%D1%82%D0%BE%D1%80",
+    "senses": [
+      "lance corporal"
+    ],
+    "ruAccented": "ефре'йтор",
+    "ruGender": "m",
+    "id": "ru-ефрейтор-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "ефрейтордун",
+        "dative": "ефрейторго",
+        "accusative": "ефрейторду",
+        "locative": "ефрейтордо",
+        "ablative": "ефрейтордон"
+      },
+      "pluralForms": {
+        "genitive": "ефрейтордордун",
+        "dative": "ефрейтордорго",
+        "accusative": "ефрейтордорду",
+        "locative": "ефрейтордордо",
+        "ablative": "ефрейтордордон"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ерь",
+    "ky": "ичкертүү белгиси",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%BA%D0%B5%D1%80%D1%82%D2%AF%D2%AF%20%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8%D1%81%D0%B8",
+    "senses": [
+      "Cyrillic letter Ь/ь"
+    ],
+    "id": "ru-ерь-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "ичкертүү белгисинин",
+        "dative": "ичкертүү белгисиге",
+        "accusative": "ичкертүү белгисини",
+        "locative": "ичкертүү белгисиде",
+        "ablative": "ичкертүү белгисиден"
+      },
+      "pluralForms": {
+        "genitive": "ичкертүү белгисилердин",
+        "dative": "ичкертүү белгисилерге",
+        "accusative": "ичкертүү белгисилерди",
+        "locative": "ичкертүү белгисилерде",
+        "ablative": "ичкертүү белгисилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ерь",
+    "ky": "жумшартуу белгиси",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%88%D0%B0%D1%80%D1%82%D1%83%D1%83%20%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8%D1%81%D0%B8",
+    "senses": [
+      "Cyrillic letter Ь/ь"
+    ],
+    "id": "ru-ерь-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жумшартуу белгисинин",
+        "dative": "жумшартуу белгисиге",
+        "accusative": "жумшартуу белгисини",
+        "locative": "жумшартуу белгисиде",
+        "ablative": "жумшартуу белгисиден"
+      },
+      "pluralForms": {
+        "genitive": "жумшартуу белгисилердин",
+        "dative": "жумшартуу белгисилерге",
+        "accusative": "жумшартуу белгисилерди",
+        "locative": "жумшартуу белгисилерде",
+        "ablative": "жумшартуу белгисилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "еры",
+    "ky": "ы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B",
+    "senses": [
+      "a letter of the Cyrillic alphabet \"Ы/ы\""
+    ],
+    "id": "ru-еры-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ынын",
+        "dative": "ыга",
+        "accusative": "ыны",
+        "locative": "ыда",
+        "ablative": "ыдан"
+      },
+      "pluralForms": {
+        "genitive": "ылардын",
+        "dative": "ыларга",
+        "accusative": "ыларды",
+        "locative": "ыларда",
+        "ablative": "ылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  }
+]

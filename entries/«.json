@@ -1,0 +1,92 @@
+[
+  {
+    "ru": "«",
+    "ky": "тырмакча",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%80%D0%BC%D0%B0%D0%BA%D1%87%D0%B0",
+    "senses": [
+      "Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural."
+    ],
+    "id": "ru-«-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тырмакчанын",
+        "dative": "тырмакчага",
+        "accusative": "тырмакчаны",
+        "locative": "тырмакчада",
+        "ablative": "тырмакчадан"
+      },
+      "pluralForms": {
+        "genitive": "тырмакчалардын",
+        "dative": "тырмакчаларга",
+        "accusative": "тырмакчаларды",
+        "locative": "тырмакчаларда",
+        "ablative": "тырмакчалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "«",
+    "ky": "кавычка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B2%D1%8B%D1%87%D0%BA%D0%B0",
+    "senses": [
+      "Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural."
+    ],
+    "id": "ru-«-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кавычканын",
+        "dative": "кавычкага",
+        "accusative": "кавычканы",
+        "locative": "кавычкада",
+        "ablative": "кавычкадан"
+      },
+      "pluralForms": {
+        "genitive": "кавычкалардын",
+        "dative": "кавычкаларга",
+        "accusative": "кавычкаларды",
+        "locative": "кавычкаларда",
+        "ablative": "кавычкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "«",
+    "ky": "кавычкалар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B2%D1%8B%D1%87%D0%BA%D0%B0%D0%BB%D0%B0%D1%80",
+    "senses": [
+      "Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural."
+    ],
+    "id": "ru-«-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кавычкалардын",
+        "dative": "кавычкаларга",
+        "accusative": "кавычкаларды",
+        "locative": "кавычкаларда",
+        "ablative": "кавычкалардан"
+      },
+      "pluralForms": {
+        "genitive": "кавычкалардардын",
+        "dative": "кавычкалардарга",
+        "accusative": "кавычкалардарды",
+        "locative": "кавычкалардарда",
+        "ablative": "кавычкалардардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  }
+]

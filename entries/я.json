@@ -1,0 +1,4812 @@
+[
+  {
+    "ru": "я",
+    "ky": "мен",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD",
+    "senses": [
+      "личное местоимение"
+    ],
+    "examples": [
+      {
+        "ky": "Таластыктардан мен муну байкаган жагдайым бар.",
+        "ru": "В отношении акима действительно было возбуждено уголовное дело."
+      },
+      {
+        "ky": "Бул мен үчүн чоң сыймык жана чоң жоопкерчилик.",
+        "ru": "Это была большая честь и большая ответственность."
+      }
+    ],
+    "frequency": 5517,
+    "id": "ru-я-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "мендин",
+        "dative": "менге",
+        "accusative": "менди",
+        "locative": "менде",
+        "ablative": "менден"
+      },
+      "pluralForms": {
+        "genitive": "мендердин",
+        "dative": "мендерге",
+        "accusative": "мендерди",
+        "locative": "мендерде",
+        "ablative": "мендерден"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйцо",
+    "ky": "жумуртка",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%80%D1%82%D0%BA%D0%B0",
+    "senses": [
+      "вместилище, в котором образуется и развивается зародыш птиц, пресмыкающихся и клоачных",
+      "совокупность белка и желтка в оболочке (обычно овальной формы в твёрдой и хрупкой скорлупе)"
+    ],
+    "etymology": "From Proto-Turkic *yumurtka.",
+    "pronunciation": "/d͡ʒumurtˈqɑ/",
+    "ruAccented": "яйцо'",
+    "ruGender": "n",
+    "frequency": 63,
+    "id": "ru-яйцо-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жумуртканын",
+        "dative": "жумурткага",
+        "accusative": "жумуртканы",
+        "locative": "жумурткада",
+        "ablative": "жумурткадан"
+      },
+      "pluralForms": {
+        "genitive": "жумурткалардын",
+        "dative": "жумурткаларга",
+        "accusative": "жумурткаларды",
+        "locative": "жумурткаларда",
+        "ablative": "жумурткалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язык",
+    "ky": "тил",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
+    "senses": [
+      "мышечный орган"
+    ],
+    "etymology": "From Proto-Turkic *til, *tïl (“tongue; language”).",
+    "pronunciation": "/til/",
+    "examples": [
+      {
+        "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
+        "ru": "Национальная комиссия по государственному языку при Президенте Кыргызской Республики"
+      },
+      {
+        "ky": "“Кыргыз ССРинин мамлекеттик тили жөнүндө” мыйзам кабыл алынып, кыргыз тилине мамлекеттик тил макамы берилгендигинин 30 жылдыгы Москва шаарында да белгиленди.",
+        "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
+      }
+    ],
+    "ruAccented": "язы'к",
+    "ruGender": "m",
+    "frequency": 1849,
+    "id": "ru-язык-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тилдин",
+        "dative": "тилге",
+        "accusative": "тилди",
+        "locative": "тилде",
+        "ablative": "тилден"
+      },
+      "pluralForms": {
+        "genitive": "тилдердин",
+        "dative": "тилдерге",
+        "accusative": "тилдерди",
+        "locative": "тилдерде",
+        "ablative": "тилдерден"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "январь",
+    "ky": "бирдин айы",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B8%D0%BD%20%D0%B0%D0%B9%D1%8B",
+    "ruAccented": "янва'рь",
+    "ruGender": "m",
+    "id": "ru-январь-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бирдин айынын",
+        "dative": "бирдин айыга",
+        "accusative": "бирдин айыны",
+        "locative": "бирдин айыда",
+        "ablative": "бирдин айыдан"
+      },
+      "pluralForms": {
+        "genitive": "бирдин айылардын",
+        "dative": "бирдин айыларга",
+        "accusative": "бирдин айыларды",
+        "locative": "бирдин айыларда",
+        "ablative": "бирдин айылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яблоко",
+    "ky": "алма",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0",
+    "senses": [
+      "плод яблони"
+    ],
+    "etymology": "From Proto-Common Turkic *alma (“apple”).",
+    "pronunciation": "/ɑlˈmɑ/",
+    "examples": [
+      {
+        "ky": "Компаньон региондо багбанчылыкты өнүктүрүүгө багытталган онунчу алма фестивалын өткөрдү.",
+        "ru": "Компаньон провел десятый яблочный фестиваль, целью которого стало развитие садоводства в регионе."
+      },
+      {
+        "ky": "жылдары жергиликтүү картошка менен алма сатып алууну кыялданып жүргөндөрүн",
+        "ru": "что россияне последние годы жили мечтами о местной картошке и яблоках."
+      }
+    ],
+    "ruAccented": "я'блоко",
+    "ruGender": "n",
+    "frequency": 406,
+    "id": "ru-яблоко-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "алманын",
+        "dative": "алмага",
+        "accusative": "алманы",
+        "locative": "алмада",
+        "ablative": "алмадан"
+      },
+      "pluralForms": {
+        "genitive": "алмалардын",
+        "dative": "алмаларга",
+        "accusative": "алмаларды",
+        "locative": "алмаларда",
+        "ablative": "алмалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яд",
+    "ky": "уу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83",
+    "senses": [
+      "вещество"
+    ],
+    "etymology": "From Proto-Turkic *āgu (“poison”).\nCognate with\nOld Uyghur [script needed]|[Term?] (ağu, “poison”);\nBashkir ағыу (ağıw),\nTatar агу (ağu),\nUzbek og'i,\nTurkish ağı,\nTurkmen awy (“poison, toxin”).",
+    "pronunciation": "/uː/",
+    "ruAccented": "яд",
+    "ruGender": "m",
+    "frequency": 186,
+    "id": "ru-яд-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "уунун",
+        "dative": "ууго",
+        "accusative": "ууну",
+        "locative": "уудо",
+        "ablative": "уудон"
+      },
+      "pluralForms": {
+        "genitive": "уулордун",
+        "dative": "уулорго",
+        "accusative": "уулорду",
+        "locative": "уулордо",
+        "ablative": "уулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ягода",
+    "ky": "жемиш",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC%D0%B8%D1%88",
+    "etymology": "From Common Turkic *yemiš (“fruit”), from Proto-Turkic *yẹ̄miĺč (“fruit”).\nCognate with\nOld Uyghur [script needed] (jemiš, “fruit”);\nTatar җимеш (cimeş),\nBashkir емеш (yemeş)\nSouthern Altai јемиш (ǰemiš),\nKazakh жеміс (jemıs),\nKhakas ниміс (nimìs),\nAzerbaijani, Crimean Tatar, Turkish yemiş,\nChuvash ҫимӗҫ (śimĕś, “fruit”).\nCompare also Hungarian gyümölcs (“fruit”), a Turkic borrowing.",
+    "ruAccented": "я'года",
+    "ruGender": "f",
+    "frequency": 87,
+    "id": "ru-ягода-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жемиштин",
+        "dative": "жемишке",
+        "accusative": "жемишти",
+        "locative": "жемиште",
+        "ablative": "жемиштен"
+      },
+      "pluralForms": {
+        "genitive": "жемиштердин",
+        "dative": "жемиштерге",
+        "accusative": "жемиштерди",
+        "locative": "жемиштерде",
+        "ablative": "жемиштерден"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Япония",
+    "ky": "Жапония",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F",
+    "examples": [
+      {
+        "ky": "Жапония императорунун такка отуруу аземи",
+        "ru": "С.Жээнбеков примет участие в церемонии интронизации императора Японии"
+      }
+    ],
+    "ruAccented": "Япо'ния",
+    "ruGender": "f",
+    "frequency": 2,
+    "id": "ru-Япония-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Жапониядин",
+        "dative": "Жапонияге",
+        "accusative": "Жапонияди",
+        "locative": "Жапонияде",
+        "ablative": "Жапонияден"
+      },
+      "pluralForms": {
+        "genitive": "Жапониядердин",
+        "dative": "Жапониядерге",
+        "accusative": "Жапониядерди",
+        "locative": "Жапониядерде",
+        "ablative": "Жапониядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яблоня",
+    "ky": "алма жыгачы",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D0%B6%D1%8B%D0%B3%D0%B0%D1%87%D1%8B",
+    "ruAccented": "я'блоня",
+    "ruGender": "f",
+    "id": "ru-яблоня-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "алма жыгачынын",
+        "dative": "алма жыгачыга",
+        "accusative": "алма жыгачыны",
+        "locative": "алма жыгачыда",
+        "ablative": "алма жыгачыдан"
+      },
+      "pluralForms": {
+        "genitive": "алма жыгачылардын",
+        "dative": "алма жыгачыларга",
+        "accusative": "алма жыгачыларды",
+        "locative": "алма жыгачыларда",
+        "ablative": "алма жыгачылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "японец",
+    "ky": "японец",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BF%D0%BE%D0%BD%D0%B5%D1%86",
+    "ruAccented": "япо'нец",
+    "ruGender": "m",
+    "id": "ru-японец-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "японецтин",
+        "dative": "японецке",
+        "accusative": "японецти",
+        "locative": "японецте",
+        "ablative": "японецтен"
+      },
+      "pluralForms": {
+        "genitive": "японецтердин",
+        "dative": "японецтерге",
+        "accusative": "японецтерди",
+        "locative": "японецтерде",
+        "ablative": "японецтерден"
+      },
+      "rule": "Основа на глухую согласную -ц, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмарка",
+    "ky": "жармаңке",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BC%D0%B0%D2%A3%D0%BA%D0%B5",
+    "etymology": "From Russian ярмарка (jarmarka), from Polish jarmark, from German Jahrmarkt (“fair”).",
+    "ruAccented": "я'рмарка",
+    "ruGender": "f",
+    "id": "ru-ярмарка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жармаңкенин",
+        "dative": "жармаңкеге",
+        "accusative": "жармаңкени",
+        "locative": "жармаңкеде",
+        "ablative": "жармаңкеден"
+      },
+      "pluralForms": {
+        "genitive": "жармаңкелердин",
+        "dative": "жармаңкелерге",
+        "accusative": "жармаңкелерди",
+        "locative": "жармаңкелерде",
+        "ablative": "жармаңкелерден"
+      },
+      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ястреб",
+    "ky": "карчыга",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%87%D1%8B%D0%B3%D0%B0",
+    "etymology": "From *qarčïğa(y) (“hawk”), from a Mongolic source.",
+    "ruAccented": "я'стреб",
+    "frequency": 78,
+    "id": "ru-ястреб-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "карчыганын",
+        "dative": "карчыгага",
+        "accusative": "карчыганы",
+        "locative": "карчыгада",
+        "ablative": "карчыгадан"
+      },
+      "pluralForms": {
+        "genitive": "карчыгалардын",
+        "dative": "карчыгаларга",
+        "accusative": "карчыгаларды",
+        "locative": "карчыгаларда",
+        "ablative": "карчыгалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящерица",
+    "ky": "кескелдирик",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
+    "ruAccented": "я'щерица",
+    "ruGender": "f",
+    "id": "ru-ящерица-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кескелдириктин",
+        "dative": "кескелдирикке",
+        "accusative": "кескелдирикти",
+        "locative": "кескелдирикте",
+        "ablative": "кескелдириктен"
+      },
+      "pluralForms": {
+        "genitive": "кескелдириктердин",
+        "dative": "кескелдириктерге",
+        "accusative": "кескелдириктерди",
+        "locative": "кескелдириктерде",
+        "ablative": "кескелдириктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яблоко от яблони недалеко падает",
+    "ky": "алма дарагынан алыс түшпөйт",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D0%B4%D0%B0%D1%80%D0%B0%D0%B3%D1%8B%D0%BD%D0%B0%D0%BD%20%D0%B0%D0%BB%D1%8B%D1%81%20%D1%82%D2%AF%D1%88%D0%BF%D3%A9%D0%B9%D1%82",
+    "id": "ru-яблоко от яблони недалеко падает-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "алма дарагынан алыс түшпөйттүн",
+        "dative": "алма дарагынан алыс түшпөйткө",
+        "accusative": "алма дарагынан алыс түшпөйттү",
+        "locative": "алма дарагынан алыс түшпөйттө",
+        "ablative": "алма дарагынан алыс түшпөйттөн"
+      },
+      "pluralForms": {
+        "genitive": "алма дарагынан алыс түшпөйттөрдүн",
+        "dative": "алма дарагынан алыс түшпөйттөргө",
+        "accusative": "алма дарагынан алыс түшпөйттөрдү",
+        "locative": "алма дарагынан алыс түшпөйттөрдө",
+        "ablative": "алма дарагынан алыс түшпөйттөрдөн"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ямайка",
+    "ky": "Ямайка",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0",
+    "id": "ru-Ямайка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Ямайканын",
+        "dative": "Ямайкага",
+        "accusative": "Ямайканы",
+        "locative": "Ямайкада",
+        "ablative": "Ямайкадан"
+      },
+      "pluralForms": {
+        "genitive": "Ямайкалардын",
+        "dative": "Ямайкаларга",
+        "accusative": "Ямайкаларды",
+        "locative": "Ямайкаларда",
+        "ablative": "Ямайкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ятаган",
+    "ky": "ятаган",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D0%B0%D0%B3%D0%B0%D0%BD",
+    "ruAccented": "ятага'н",
+    "ruGender": "m",
+    "id": "ru-ятаган-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ятагандын",
+        "dative": "ятаганга",
+        "accusative": "ятаганды",
+        "locative": "ятаганда",
+        "ablative": "ятагандан"
+      },
+      "pluralForms": {
+        "genitive": "ятагандардын",
+        "dative": "ятагандарга",
+        "accusative": "ятагандарды",
+        "locative": "ятагандарда",
+        "ablative": "ятагандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ячмень",
+    "ky": "арпа",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%BF%D0%B0",
+    "senses": [
+      "злак"
+    ],
+    "etymology": "From Proto-Turkic *arpa (“barley”).",
+    "ruAccented": "ячме'нь",
+    "ruGender": "m",
+    "frequency": 44,
+    "id": "ru-ячмень-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "арпанын",
+        "dative": "арпага",
+        "accusative": "арпаны",
+        "locative": "арпада",
+        "ablative": "арпадан"
+      },
+      "pluralForms": {
+        "genitive": "арпалардын",
+        "dative": "арпаларга",
+        "accusative": "арпаларды",
+        "locative": "арпаларда",
+        "ablative": "арпалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящур",
+    "ky": "шарп",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BF",
+    "examples": [
+      {
+        "ky": "Нарын облусунун Жумгал районундагы шарп (ящур) ылаңы менен ылаңдаган малдар жөнүндө Ветеринардык жана фитосанитардык коопсуздук боюнча Мамлекеттик инспекциянын маалыматы жөнүндө (Маалымат иретинде).",
+        "ru": "Об информации Государственной инспекции по ветеринарной и фитосанитарной безопасности о заболевании ящуром животных в Джумгальском районе Нарынской области (в порядке информации)."
+      }
+    ],
+    "frequency": 8,
+    "id": "ru-ящур-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "шарптын",
+        "dative": "шарпка",
+        "accusative": "шарпты",
+        "locative": "шарпта",
+        "ablative": "шарптан"
+      },
+      "pluralForms": {
+        "genitive": "шарптардын",
+        "dative": "шарптарга",
+        "accusative": "шарптарды",
+        "locative": "шарптарда",
+        "ablative": "шарптардан"
+      },
+      "rule": "Основа на глухую согласную -п, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ямб",
+    "ky": "ямб",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D0%B1",
+    "ruAccented": "ямб",
+    "id": "ru-ямб-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ямбдын",
+        "dative": "ямбга",
+        "accusative": "ямбды",
+        "locative": "ямбда",
+        "ablative": "ямбдан"
+      },
+      "pluralForms": {
+        "genitive": "ямбдардын",
+        "dative": "ямбдарга",
+        "accusative": "ямбдарды",
+        "locative": "ямбдарда",
+        "ablative": "ямбдардан"
+      },
+      "rule": "Основа на звонкую согласную -б, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйцевод",
+    "ky": "урук жолу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%20%D0%B6%D0%BE%D0%BB%D1%83",
+    "id": "ru-яйцевод-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "урук жолунун",
+        "dative": "урук жолуго",
+        "accusative": "урук жолуну",
+        "locative": "урук жолудо",
+        "ablative": "урук жолудон"
+      },
+      "pluralForms": {
+        "genitive": "урук жолулордун",
+        "dative": "урук жолулорго",
+        "accusative": "урук жолулорду",
+        "locative": "урук жолулордо",
+        "ablative": "урук жолулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ястреб-перепелятник",
+    "ky": "кыргый",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B9",
+    "id": "ru-ястреб-перепелятник-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кыргыйдын",
+        "dative": "кыргыйга",
+        "accusative": "кыргыйды",
+        "locative": "кыргыйда",
+        "ablative": "кыргыйдан"
+      },
+      "pluralForms": {
+        "genitive": "кыргыйдардын",
+        "dative": "кыргыйдарга",
+        "accusative": "кыргыйдарды",
+        "locative": "кыргыйдарда",
+        "ablative": "кыргыйдардан"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язычество",
+    "ky": "бутпарастык",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D1%82%D1%8B%D0%BA",
+    "ruAccented": "язы'чество",
+    "ruGender": "n",
+    "id": "ru-язычество-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бутпарастыктын",
+        "dative": "бутпарастыкка",
+        "accusative": "бутпарастыкты",
+        "locative": "бутпарастыкта",
+        "ablative": "бутпарастыктан"
+      },
+      "pluralForms": {
+        "genitive": "бутпарастыктардын",
+        "dative": "бутпарастыктарга",
+        "accusative": "бутпарастыктарды",
+        "locative": "бутпарастыктарда",
+        "ablative": "бутпарастыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ярославль",
+    "ky": "Ярославль",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
+    "ruAccented": "Яросла'вль",
+    "ruGender": "m",
+    "id": "ru-Ярославль-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Ярославльдын",
+        "dative": "Ярославльга",
+        "accusative": "Ярославльды",
+        "locative": "Ярославльда",
+        "ablative": "Ярославльдан"
+      },
+      "pluralForms": {
+        "genitive": "Ярославльдардын",
+        "dative": "Ярославльдарга",
+        "accusative": "Ярославльдарды",
+        "locative": "Ярославльдарда",
+        "ablative": "Ярославльдардан"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я люблю тебя",
+    "ky": "мен сени сүйөм",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
+    "id": "ru-я люблю тебя-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "мен сени сүйөмдүн",
+        "dative": "мен сени сүйөмгө",
+        "accusative": "мен сени сүйөмдү",
+        "locative": "мен сени сүйөмдө",
+        "ablative": "мен сени сүйөмдөн"
+      },
+      "pluralForms": {
+        "genitive": "мен сени сүйөмдөрдүн",
+        "dative": "мен сени сүйөмдөргө",
+        "accusative": "мен сени сүйөмдөрдү",
+        "locative": "мен сени сүйөмдөрдө",
+        "ablative": "мен сени сүйөмдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Якутск",
+    "ky": "Якутск",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA",
+    "id": "ru-Якутск-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "Якутсктун",
+        "dative": "Якутскко",
+        "accusative": "Якутскту",
+        "locative": "Якутскто",
+        "ablative": "Якутсктон"
+      },
+      "pluralForms": {
+        "genitive": "Якутсктордун",
+        "dative": "Якутскторго",
+        "accusative": "Якутскторду",
+        "locative": "Якутсктордо",
+        "ablative": "Якутсктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйца курицу не учат",
+    "ky": "жумуртка тоокко үйрөтпөйт",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%80%D1%82%D0%BA%D0%B0%20%D1%82%D0%BE%D0%BE%D0%BA%D0%BA%D0%BE%20%D2%AF%D0%B9%D1%80%D3%A9%D1%82%D0%BF%D3%A9%D0%B9%D1%82",
+    "id": "ru-яйца курицу не учат-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "жумуртка тоокко үйрөтпөйттүн",
+        "dative": "жумуртка тоокко үйрөтпөйткө",
+        "accusative": "жумуртка тоокко үйрөтпөйттү",
+        "locative": "жумуртка тоокко үйрөтпөйттө",
+        "ablative": "жумуртка тоокко үйрөтпөйттөн"
+      },
+      "pluralForms": {
+        "genitive": "жумуртка тоокко үйрөтпөйттөрдүн",
+        "dative": "жумуртка тоокко үйрөтпөйттөргө",
+        "accusative": "жумуртка тоокко үйрөтпөйттөрдү",
+        "locative": "жумуртка тоокко үйрөтпөйттөрдө",
+        "ablative": "жумуртка тоокко үйрөтпөйттөрдөн"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковая группа",
+    "ky": "тил тобу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D1%82%D0%BE%D0%B1%D1%83",
+    "id": "ru-языковая группа-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "тил тобунун",
+        "dative": "тил тобуго",
+        "accusative": "тил тобуну",
+        "locative": "тил тобудо",
+        "ablative": "тил тобудон"
+      },
+      "pluralForms": {
+        "genitive": "тил тобулордун",
+        "dative": "тил тобулорго",
+        "accusative": "тил тобулорду",
+        "locative": "тил тобулордо",
+        "ablative": "тил тобулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерная война",
+    "ky": "ядролук согуш",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D1%81%D0%BE%D0%B3%D1%83%D1%88",
+    "id": "ru-ядерная война-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "ядролук согуштун",
+        "dative": "ядролук согушко",
+        "accusative": "ядролук согушту",
+        "locative": "ядролук согушто",
+        "ablative": "ядролук согуштон"
+      },
+      "pluralForms": {
+        "genitive": "ядролук согуштордун",
+        "dative": "ядролук согушторго",
+        "accusative": "ядролук согушторду",
+        "locative": "ядролук согуштордо",
+        "ablative": "ядролук согуштордон"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерное оружие",
+    "ky": "ядролук курал",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%BA%D1%83%D1%80%D0%B0%D0%BB",
+    "id": "ru-ядерное оружие-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ядролук куралдын",
+        "dative": "ядролук куралга",
+        "accusative": "ядролук куралды",
+        "locative": "ядролук куралда",
+        "ablative": "ядролук куралдан"
+      },
+      "pluralForms": {
+        "genitive": "ядролук куралдардын",
+        "dative": "ядролук куралдарга",
+        "accusative": "ядролук куралдарды",
+        "locative": "ядролук куралдарда",
+        "ablative": "ядролук куралдардан"
+      },
+      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерный взрыв",
+    "ky": "ядролук жарылуу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%B6%D0%B0%D1%80%D1%8B%D0%BB%D1%83%D1%83",
+    "id": "ru-ядерный взрыв-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "ядролук жарылуунун",
+        "dative": "ядролук жарылууго",
+        "accusative": "ядролук жарылууну",
+        "locative": "ядролук жарылуудо",
+        "ablative": "ядролук жарылуудон"
+      },
+      "pluralForms": {
+        "genitive": "ядролук жарылуулордун",
+        "dative": "ядролук жарылуулорго",
+        "accusative": "ядролук жарылуулорду",
+        "locative": "ядролук жарылуулордо",
+        "ablative": "ядролук жарылуулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерная ночь",
+    "ky": "ядролук түн",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D1%82%D2%AF%D0%BD",
+    "id": "ru-ядерная ночь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "ядролук түндүн",
+        "dative": "ядролук түнгө",
+        "accusative": "ядролук түндү",
+        "locative": "ядролук түндө",
+        "ablative": "ядролук түндөн"
+      },
+      "pluralForms": {
+        "genitive": "ядролук түндөрдүн",
+        "dative": "ядролук түндөргө",
+        "accusative": "ядролук түндөрдү",
+        "locative": "ядролук түндөрдө",
+        "ablative": "ядролук түндөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерная зима",
+    "ky": "ядролук кыш",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%BA%D1%8B%D1%88",
+    "id": "ru-ядерная зима-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ядролук кыштын",
+        "dative": "ядролук кышка",
+        "accusative": "ядролук кышты",
+        "locative": "ядролук кышта",
+        "ablative": "ядролук кыштан"
+      },
+      "pluralForms": {
+        "genitive": "ядролук кыштардын",
+        "dative": "ядролук кыштарга",
+        "accusative": "ядролук кыштарды",
+        "locative": "ядролук кыштарда",
+        "ablative": "ядролук кыштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ярославская область",
+    "ky": "Ярославль областы",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8B",
+    "id": "ru-Ярославская область-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Ярославль областынын",
+        "dative": "Ярославль областыга",
+        "accusative": "Ярославль областыны",
+        "locative": "Ярославль областыда",
+        "ablative": "Ярославль областыдан"
+      },
+      "pluralForms": {
+        "genitive": "Ярославль областылардын",
+        "dative": "Ярославль областыларга",
+        "accusative": "Ярославль областыларды",
+        "locative": "Ярославль областыларда",
+        "ablative": "Ярославль областылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерная физика",
+    "ky": "ядро физикасы",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%20%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
+    "id": "ru-ядерная физика-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ядро физикасынын",
+        "dative": "ядро физикасыга",
+        "accusative": "ядро физикасыны",
+        "locative": "ядро физикасыда",
+        "ablative": "ядро физикасыдан"
+      },
+      "pluralForms": {
+        "genitive": "ядро физикасылардын",
+        "dative": "ядро физикасыларга",
+        "accusative": "ядро физикасыларды",
+        "locative": "ядро физикасыларда",
+        "ablative": "ядро физикасылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковая семья",
+    "ky": "тил үй-бүлөсү",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D2%AF%D0%B9-%D0%B1%D2%AF%D0%BB%D3%A9%D1%81%D2%AF",
+    "id": "ru-языковая семья-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "тил үй-бүлөсүнүн",
+        "dative": "тил үй-бүлөсүгө",
+        "accusative": "тил үй-бүлөсүнү",
+        "locative": "тил үй-бүлөсүдө",
+        "ablative": "тил үй-бүлөсүдөн"
+      },
+      "pluralForms": {
+        "genitive": "тил үй-бүлөсүлөрдүн",
+        "dative": "тил үй-бүлөсүлөргө",
+        "accusative": "тил үй-бүлөсүлөрдү",
+        "locative": "тил үй-бүлөсүлөрдө",
+        "ablative": "тил үй-бүлөсүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковая политика",
+    "ky": "тил саясаты",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D1%81%D0%B0%D1%8F%D1%81%D0%B0%D1%82%D1%8B",
+    "id": "ru-языковая политика-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тил саясатынын",
+        "dative": "тил саясатыга",
+        "accusative": "тил саясатыны",
+        "locative": "тил саясатыда",
+        "ablative": "тил саясатыдан"
+      },
+      "pluralForms": {
+        "genitive": "тил саясатылардын",
+        "dative": "тил саясатыларга",
+        "accusative": "тил саясатыларды",
+        "locative": "тил саясатыларда",
+        "ablative": "тил саясатылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковой барьер",
+    "ky": "тил тососу",
+    "pos": "noun",
+    "source": "wiktionary-ru",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D1%82%D0%BE%D1%81%D0%BE%D1%81%D1%83",
+    "id": "ru-языковой барьер-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "тил тососунун",
+        "dative": "тил тососуго",
+        "accusative": "тил тососуну",
+        "locative": "тил тососудо",
+        "ablative": "тил тососудон"
+      },
+      "pluralForms": {
+        "genitive": "тил тососулордун",
+        "dative": "тил тососулорго",
+        "accusative": "тил тососулорду",
+        "locative": "тил тососулордо",
+        "ablative": "тил тососулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "январь",
+    "ky": "январь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C",
+    "senses": [
+      "first month of the Gregorian calendar"
+    ],
+    "ruAccented": "янва'рь",
+    "ruGender": "m",
+    "frequency": 13,
+    "id": "ru-январь-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "январьдын",
+        "dative": "январьга",
+        "accusative": "январьды",
+        "locative": "январьда",
+        "ablative": "январьдан"
+      },
+      "pluralForms": {
+        "genitive": "январьдардын",
+        "dative": "январьдарга",
+        "accusative": "январьдарды",
+        "locative": "январьдарда",
+        "ablative": "январьдардан"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я тебя люблю",
+    "ky": "мен сени сүйөм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
+    "senses": [
+      "affirmation of affection or deep caring"
+    ],
+    "id": "ru-я тебя люблю-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "мен сени сүйөмдүн",
+        "dative": "мен сени сүйөмгө",
+        "accusative": "мен сени сүйөмдү",
+        "locative": "мен сени сүйөмдө",
+        "ablative": "мен сени сүйөмдөн"
+      },
+      "pluralForms": {
+        "genitive": "мен сени сүйөмдөрдүн",
+        "dative": "мен сени сүйөмдөргө",
+        "accusative": "мен сени сүйөмдөрдү",
+        "locative": "мен сени сүйөмдөрдө",
+        "ablative": "мен сени сүйөмдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я вас люблю",
+    "ky": "мен сени сүйөм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
+    "senses": [
+      "affirmation of romantic feeling"
+    ],
+    "id": "ru-я вас люблю-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "мен сени сүйөмдүн",
+        "dative": "мен сени сүйөмгө",
+        "accusative": "мен сени сүйөмдү",
+        "locative": "мен сени сүйөмдө",
+        "ablative": "мен сени сүйөмдөн"
+      },
+      "pluralForms": {
+        "genitive": "мен сени сүйөмдөрдүн",
+        "dative": "мен сени сүйөмдөргө",
+        "accusative": "мен сени сүйөмдөрдү",
+        "locative": "мен сени сүйөмдөрдө",
+        "ablative": "мен сени сүйөмдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я люблю тебя я тебя люблю",
+    "ky": "мен сени сүйөм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
+    "senses": [
+      "affirmation of romantic feeling"
+    ],
+    "id": "ru-я люблю тебя я тебя люблю-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "мен сени сүйөмдүн",
+        "dative": "мен сени сүйөмгө",
+        "accusative": "мен сени сүйөмдү",
+        "locative": "мен сени сүйөмдө",
+        "ablative": "мен сени сүйөмдөн"
+      },
+      "pluralForms": {
+        "genitive": "мен сени сүйөмдөрдүн",
+        "dative": "мен сени сүйөмдөргө",
+        "accusative": "мен сени сүйөмдөрдү",
+        "locative": "мен сени сүйөмдөрдө",
+        "ablative": "мен сени сүйөмдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "явь",
+    "ky": "чындык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "state of being actual or real"
+    ],
+    "examples": [
+      {
+        "ky": "- Чындык бурмалоолордун тереңинде чөгүп кетпеши үчүн бул кырдаалды кантип оңдоо керек?",
+        "ru": "Как исправить ситуацию, чтобы правда не утопала в океане фальсификаций?"
+      },
+      {
+        "ky": "- Бирок көрүүчүлөр экранда болуп жатканда чындык катары кабыл алат эмеспи.",
+        "ru": "- Но ведь публика принимает происходящее на экране за чистую монету."
+      }
+    ],
+    "ruAccented": "явь",
+    "ruGender": "f",
+    "frequency": 184,
+    "id": "ru-явь-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "чындыктын",
+        "dative": "чындыкка",
+        "accusative": "чындыкты",
+        "locative": "чындыкта",
+        "ablative": "чындыктан"
+      },
+      "pluralForms": {
+        "genitive": "чындыктардын",
+        "dative": "чындыктарга",
+        "accusative": "чындыктарды",
+        "locative": "чындыктарда",
+        "ablative": "чындыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "явь",
+    "ky": "акыйкат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82",
+    "senses": [
+      "state of being actual or real"
+    ],
+    "etymology": "Borrowed from Classical Persian حَقِیقَت (haqīqat), from Arabic حَقِيقَة (ḥaqīqa).",
+    "examples": [
+      {
+        "ky": "Биз бардыгына социалдык эсептөөлөрдү жүргүзөбүз, акыйкат пенсияга ишенебиз,",
+        "ru": "или фермером. Мы все делаем социальные отчисления, надеемся на справедливую"
+      },
+      {
+        "ky": "бирок дале көз каранды сотторго көрсөтүлгөн чечимди эмес, акыйкат сот чечимин",
+        "ru": "мы требуем обеспечить справедливое судебное решение, а не решение, которое"
+      }
+    ],
+    "ruAccented": "явь",
+    "ruGender": "f",
+    "frequency": 111,
+    "id": "ru-явь-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "акыйкаттын",
+        "dative": "акыйкатка",
+        "accusative": "акыйкатты",
+        "locative": "акыйкатта",
+        "ablative": "акыйкаттан"
+      },
+      "pluralForms": {
+        "genitive": "акыйкаттардын",
+        "dative": "акыйкаттарга",
+        "accusative": "акыйкаттарды",
+        "locative": "акыйкаттарда",
+        "ablative": "акыйкаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ямайка",
+    "ky": "Жамайка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0",
+    "senses": [
+      "country in the Caribbean"
+    ],
+    "id": "ru-Ямайка-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Жамайканын",
+        "dative": "Жамайкага",
+        "accusative": "Жамайканы",
+        "locative": "Жамайкада",
+        "ablative": "Жамайкадан"
+      },
+      "pluralForms": {
+        "genitive": "Жамайкалардын",
+        "dative": "Жамайкаларга",
+        "accusative": "Жамайкаларды",
+        "locative": "Жамайкаларда",
+        "ablative": "Жамайкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "японский",
+    "ky": "жапон",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
+    "senses": [
+      "of or relating to Japan"
+    ],
+    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
+    "pronunciation": "/d͡ʒɑˈpon/",
+    "examples": [
+      {
+        "ky": "популярдуу жапон оюнчугун көрсөттү, ал жапон тилинен которгондо “кылыч” же",
+        "ru": "популярную японскую игрушку Kendama, название которой"
+      },
+      {
+        "ky": "белгилүү жапон оюнчуктарынын бири.",
+        "ru": "известных японских игрушек в мире."
+      }
+    ],
+    "ruAccented": "япо'нский",
+    "id": "ru-японский-001"
+  },
+  {
+    "ru": "японец",
+    "ky": "жапон",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
+    "senses": [
+      "person of Japan"
+    ],
+    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
+    "pronunciation": "/d͡ʒɑˈpon/",
+    "examples": [
+      {
+        "ky": "популярдуу жапон оюнчугун көрсөттү, ал жапон тилинен которгондо “кылыч” же",
+        "ru": "популярную японскую игрушку Kendama, название которой"
+      },
+      {
+        "ky": "белгилүү жапон оюнчуктарынын бири.",
+        "ru": "известных японских игрушек в мире."
+      }
+    ],
+    "ruAccented": "япо'нец",
+    "ruGender": "m",
+    "id": "ru-японец-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "жапондун",
+        "dative": "жапонго",
+        "accusative": "жапонду",
+        "locative": "жапондо",
+        "ablative": "жапондон"
+      },
+      "pluralForms": {
+        "genitive": "жапондордун",
+        "dative": "жапондорго",
+        "accusative": "жапондорду",
+        "locative": "жапондордо",
+        "ablative": "жапондордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "японка",
+    "ky": "жапон",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
+    "senses": [
+      "person of Japan"
+    ],
+    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
+    "pronunciation": "/d͡ʒɑˈpon/",
+    "examples": [
+      {
+        "ky": "популярдуу жапон оюнчугун көрсөттү, ал жапон тилинен которгондо “кылыч” же",
+        "ru": "популярную японскую игрушку Kendama, название которой"
+      },
+      {
+        "ky": "белгилүү жапон оюнчуктарынын бири.",
+        "ru": "известных японских игрушек в мире."
+      }
+    ],
+    "ruAccented": "япо'нка",
+    "ruGender": "f",
+    "id": "ru-японка-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "жапондун",
+        "dative": "жапонго",
+        "accusative": "жапонду",
+        "locative": "жапондо",
+        "ablative": "жапондон"
+      },
+      "pluralForms": {
+        "genitive": "жапондордун",
+        "dative": "жапондорго",
+        "accusative": "жапондорду",
+        "locative": "жапондордо",
+        "ablative": "жапондордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "японский язык",
+    "ky": "жапон тили",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD%20%D1%82%D0%B8%D0%BB%D0%B8",
+    "senses": [
+      "Japanese language"
+    ],
+    "id": "ru-японский язык-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жапон тилинин",
+        "dative": "жапон тилиге",
+        "accusative": "жапон тилини",
+        "locative": "жапон тилиде",
+        "ablative": "жапон тилиден"
+      },
+      "pluralForms": {
+        "genitive": "жапон тилилердин",
+        "dative": "жапон тилилерге",
+        "accusative": "жапон тилилерди",
+        "locative": "жапон тилилерде",
+        "ablative": "жапон тилилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "японский",
+    "ky": "жапон тили",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD%20%D1%82%D0%B8%D0%BB%D0%B8",
+    "senses": [
+      "Japanese language"
+    ],
+    "ruAccented": "япо'нский",
+    "ruGender": "m",
+    "id": "ru-японский-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жапон тилинин",
+        "dative": "жапон тилиге",
+        "accusative": "жапон тилини",
+        "locative": "жапон тилиде",
+        "ablative": "жапон тилиден"
+      },
+      "pluralForms": {
+        "genitive": "жапон тилилердин",
+        "dative": "жапон тилилерге",
+        "accusative": "жапон тилилерди",
+        "locative": "жапон тилилерде",
+        "ablative": "жапон тилилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "як",
+    "ky": "топоз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF%D0%BE%D0%B7",
+    "senses": [
+      "ox-like mammal"
+    ],
+    "ruAccented": "як",
+    "ruGender": "m",
+    "frequency": 7,
+    "id": "ru-як-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "топоздун",
+        "dative": "топозго",
+        "accusative": "топозду",
+        "locative": "топоздо",
+        "ablative": "топоздон"
+      },
+      "pluralForms": {
+        "genitive": "топоздордун",
+        "dative": "топоздорго",
+        "accusative": "топоздорду",
+        "locative": "топоздордо",
+        "ablative": "топоздордон"
+      },
+      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яхта",
+    "ky": "яхта",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%85%D1%82%D0%B0",
+    "senses": [
+      "slick and light ship"
+    ],
+    "ruAccented": "я'хта",
+    "ruGender": "f",
+    "id": "ru-яхта-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "яхтанын",
+        "dative": "яхтага",
+        "accusative": "яхтаны",
+        "locative": "яхтада",
+        "ablative": "яхтадан"
+      },
+      "pluralForms": {
+        "genitive": "яхталардын",
+        "dative": "яхталарга",
+        "accusative": "яхталарды",
+        "locative": "яхталарда",
+        "ablative": "яхталардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яма",
+    "ky": "тешик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%88%D0%B8%D0%BA",
+    "senses": [
+      "hollow in some surface"
+    ],
+    "etymology": "From Proto-Turkic *deĺ-, Cognates with Kazakh тесік (tesık), Southern Altai тежик (težik), Crimean Tatar teşik, Kumyk тешик (teşik), Azerbaijani deşik, Turkish deşik, Uzbek teshik, Khakas тизік (tizìk), Shor тежик, etc.",
+    "ruAccented": "я'ма",
+    "ruGender": "f",
+    "frequency": 37,
+    "id": "ru-яма-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тешиктин",
+        "dative": "тешикке",
+        "accusative": "тешикти",
+        "locative": "тешикте",
+        "ablative": "тешиктен"
+      },
+      "pluralForms": {
+        "genitive": "тешиктердин",
+        "dative": "тешиктерге",
+        "accusative": "тешиктерди",
+        "locative": "тешиктерде",
+        "ablative": "тешиктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "янтарь",
+    "ky": "янтарь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BD%D1%82%D0%B0%D1%80%D1%8C",
+    "senses": [
+      "fossil resin"
+    ],
+    "ruAccented": "янта'рь",
+    "ruGender": "m",
+    "id": "ru-янтарь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "янтарьдын",
+        "dative": "янтарьга",
+        "accusative": "янтарьды",
+        "locative": "янтарьда",
+        "ablative": "янтарьдан"
+      },
+      "pluralForms": {
+        "genitive": "янтарьдардын",
+        "dative": "янтарьдарга",
+        "accusative": "янтарьдарды",
+        "locative": "янтарьдарда",
+        "ablative": "янтарьдардан"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яичница",
+    "ky": "омлет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BC%D0%BB%D0%B5%D1%82",
+    "senses": [
+      "dish made with beaten eggs"
+    ],
+    "ruAccented": "яи'чница",
+    "ruGender": "f",
+    "id": "ru-яичница-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "омлеттин",
+        "dative": "омлетке",
+        "accusative": "омлетти",
+        "locative": "омлетте",
+        "ablative": "омлеттен"
+      },
+      "pluralForms": {
+        "genitive": "омлеттердин",
+        "dative": "омлеттерге",
+        "accusative": "омлеттерди",
+        "locative": "омлеттерде",
+        "ablative": "омлеттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языкознание",
+    "ky": "тилбилим",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC",
+    "senses": [
+      "scientific study of language"
+    ],
+    "etymology": "From тил (til, “language”) + билим (bilim, “knowledge”). Cognates with Turkish dilbilim.",
+    "pronunciation": "[til.bi.lim]",
+    "ruAccented": "языкозна'ние",
+    "ruGender": "n",
+    "id": "ru-языкознание-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тилбилимдин",
+        "dative": "тилбилимге",
+        "accusative": "тилбилимди",
+        "locative": "тилбилимде",
+        "ablative": "тилбилимден"
+      },
+      "pluralForms": {
+        "genitive": "тилбилимдердин",
+        "dative": "тилбилимдерге",
+        "accusative": "тилбилимдерди",
+        "locative": "тилбилимдерде",
+        "ablative": "тилбилимдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языкознание",
+    "ky": "лингвистика",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
+    "senses": [
+      "scientific study of language"
+    ],
+    "ruAccented": "языкозна'ние",
+    "ruGender": "n",
+    "id": "ru-языкознание-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "лингвистиканын",
+        "dative": "лингвистикага",
+        "accusative": "лингвистиканы",
+        "locative": "лингвистикада",
+        "ablative": "лингвистикадан"
+      },
+      "pluralForms": {
+        "genitive": "лингвистикалардын",
+        "dative": "лингвистикаларга",
+        "accusative": "лингвистикаларды",
+        "locative": "лингвистикаларда",
+        "ablative": "лингвистикалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковедение",
+    "ky": "тилбилим",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC",
+    "senses": [
+      "scientific study of language"
+    ],
+    "etymology": "From тил (til, “language”) + билим (bilim, “knowledge”). Cognates with Turkish dilbilim.",
+    "pronunciation": "[til.bi.lim]",
+    "ruAccented": "языкове'дение",
+    "ruGender": "n",
+    "id": "ru-языковедение-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тилбилимдин",
+        "dative": "тилбилимге",
+        "accusative": "тилбилимди",
+        "locative": "тилбилимде",
+        "ablative": "тилбилимден"
+      },
+      "pluralForms": {
+        "genitive": "тилбилимдердин",
+        "dative": "тилбилимдерге",
+        "accusative": "тилбилимдерди",
+        "locative": "тилбилимдерде",
+        "ablative": "тилбилимдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковедение",
+    "ky": "лингвистика",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
+    "senses": [
+      "scientific study of language"
+    ],
+    "ruAccented": "языкове'дение",
+    "ruGender": "n",
+    "id": "ru-языковедение-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "лингвистиканын",
+        "dative": "лингвистикага",
+        "accusative": "лингвистиканы",
+        "locative": "лингвистикада",
+        "ablative": "лингвистикадан"
+      },
+      "pluralForms": {
+        "genitive": "лингвистикалардын",
+        "dative": "лингвистикаларга",
+        "accusative": "лингвистикаларды",
+        "locative": "лингвистикаларда",
+        "ablative": "лингвистикалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковой",
+    "ky": "тил",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
+        "ru": "Национальная комиссия по государственному языку при Президенте Кыргызской Республики"
+      },
+      {
+        "ky": "“Кыргыз ССРинин мамлекеттик тили жөнүндө” мыйзам кабыл алынып, кыргыз тилине мамлекеттик тил макамы берилгендигинин 30 жылдыгы Москва шаарында да белгиленди.",
+        "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
+      }
+    ],
+    "ruAccented": "языково'й",
+    "frequency": 1849,
+    "id": "ru-языковой-001"
+  },
+  {
+    "ru": "языковой",
+    "ky": "тилдик",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "ушундай тутум иштелип чыкса, биз жөн гана тилдик маселеден да көп маселени",
+        "ru": "такая система среднего образования, мы решим гораздо больше вопросов, чем"
+      },
+      {
+        "ky": "Эмне үчүн парламенттеги көпчүлүктүн чечими тилдик",
+        "ru": "Почему, например, первым решением нового"
+      }
+    ],
+    "ruAccented": "языково'й",
+    "id": "ru-языковой-002"
+  },
+  {
+    "ru": "языковой",
+    "ky": "лингвистикалык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "Соттук отурумдун жүрүшүндө телеканалдын жана экс-президенттин жактоочулары лингвистикалык анализ өткөрүү тууралуу арыз менен чыгышты.",
+        "ru": "В ходе судебного заседания адвокаты телеканала и экс-президента заявили ходатайство о проведении лингвистической экспертизы."
+      }
+    ],
+    "ruAccented": "языково'й",
+    "frequency": 3,
+    "id": "ru-языковой-003"
+  },
+  {
+    "ru": "язычный",
+    "ky": "тил",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
+        "ru": "Национальная комиссия по государственному языку при Президенте Кыргызской Республики"
+      },
+      {
+        "ky": "“Кыргыз ССРинин мамлекеттик тили жөнүндө” мыйзам кабыл алынып, кыргыз тилине мамлекеттик тил макамы берилгендигинин 30 жылдыгы Москва шаарында да белгиленди.",
+        "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
+      }
+    ],
+    "frequency": 1849,
+    "id": "ru-язычный-001"
+  },
+  {
+    "ru": "язычный",
+    "ky": "тилдик",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "ушундай тутум иштелип чыкса, биз жөн гана тилдик маселеден да көп маселени",
+        "ru": "такая система среднего образования, мы решим гораздо больше вопросов, чем"
+      },
+      {
+        "ky": "Эмне үчүн парламенттеги көпчүлүктүн чечими тилдик",
+        "ru": "Почему, например, первым решением нового"
+      }
+    ],
+    "id": "ru-язычный-002"
+  },
+  {
+    "ru": "язычный",
+    "ky": "лингвистикалык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "Соттук отурумдун жүрүшүндө телеканалдын жана экс-президенттин жактоочулары лингвистикалык анализ өткөрүү тууралуу арыз менен чыгышты.",
+        "ru": "В ходе судебного заседания адвокаты телеканала и экс-президента заявили ходатайство о проведении лингвистической экспертизы."
+      }
+    ],
+    "frequency": 3,
+    "id": "ru-язычный-003"
+  },
+  {
+    "ru": "языковед",
+    "ky": "лингвист",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82",
+    "senses": [
+      "one who studies linguistics"
+    ],
+    "ruAccented": "языкове'д",
+    "ruGender": "m",
+    "id": "ru-языковед-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "лингвисттин",
+        "dative": "лингвистке",
+        "accusative": "лингвистти",
+        "locative": "лингвистте",
+        "ablative": "лингвисттен"
+      },
+      "pluralForms": {
+        "genitive": "лингвисттердин",
+        "dative": "лингвисттерге",
+        "accusative": "лингвисттерди",
+        "locative": "лингвисттерде",
+        "ablative": "лингвисттерден"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яркий",
+    "ky": "жарык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA",
+    "senses": [
+      "emitting much light",
+      "visually dazzling — see also luminous, radiant"
+    ],
+    "examples": [
+      {
+        "ky": "Анын жарык дүйнө менен кош айтышы – дүйнөлүк маданият үчүн чоң жоготуу болгонун белгилешүүдө.",
+        "ru": "Его уход - большая потеря для мировой культуры отмечается в письмах соболезнования.POST1RIGHT Российские кинодеятели, весь коллектив ВГИКа, скорбят вместе с кыргызским народом."
+      },
+      {
+        "ky": "Ошондой эле, фойе жана сахна реставрацияланып, жарык жана үн берүү системалары, жылытуу тутуму, артисттердин грим бөлмөлөрү оңдолот.",
+        "ru": "Были отремонтированы гримерные, репецитионные залы, сцена, фойе, Малахитовый зал, отреставрированы люстры, кресла, уникальная настенная и потолочная роспись.В Кыргызском драматическом театре им."
+      }
+    ],
+    "ruAccented": "я'ркий",
+    "frequency": 457,
+    "id": "ru-яркий-001"
+  },
+  {
+    "ru": "яркий",
+    "ky": "жаркыраган",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "emitting much light",
+      "visually dazzling — see also luminous, radiant"
+    ],
+    "ruAccented": "я'ркий",
+    "id": "ru-яркий-002"
+  },
+  {
+    "ru": "яркий",
+    "ky": "жаркырап турган",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "emitting much light",
+      "visually dazzling — see also luminous, radiant"
+    ],
+    "ruAccented": "я'ркий",
+    "id": "ru-яркий-003"
+  },
+  {
+    "ru": "ясный",
+    "ky": "жарык",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA",
+    "senses": [
+      "emitting much light",
+      "visually dazzling — see also luminous, radiant"
+    ],
+    "examples": [
+      {
+        "ky": "Анын жарык дүйнө менен кош айтышы – дүйнөлүк маданият үчүн чоң жоготуу болгонун белгилешүүдө.",
+        "ru": "Его уход - большая потеря для мировой культуры отмечается в письмах соболезнования.POST1RIGHT Российские кинодеятели, весь коллектив ВГИКа, скорбят вместе с кыргызским народом."
+      },
+      {
+        "ky": "Ошондой эле, фойе жана сахна реставрацияланып, жарык жана үн берүү системалары, жылытуу тутуму, артисттердин грим бөлмөлөрү оңдолот.",
+        "ru": "Были отремонтированы гримерные, репецитионные залы, сцена, фойе, Малахитовый зал, отреставрированы люстры, кресла, уникальная настенная и потолочная роспись.В Кыргызском драматическом театре им."
+      }
+    ],
+    "ruAccented": "я'сный",
+    "frequency": 457,
+    "id": "ru-ясный-001"
+  },
+  {
+    "ru": "ясный",
+    "ky": "жаркыраган",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "emitting much light",
+      "visually dazzling — see also luminous, radiant"
+    ],
+    "ruAccented": "я'сный",
+    "id": "ru-ясный-002"
+  },
+  {
+    "ru": "ясный",
+    "ky": "жаркырап турган",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD",
+    "senses": [
+      "emitting much light",
+      "visually dazzling — see also luminous, radiant"
+    ],
+    "ruAccented": "я'сный",
+    "id": "ru-ясный-003"
+  },
+  {
+    "ru": "ячейка",
+    "ky": "клетка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
+    "senses": [
+      "basic unit of a living organism"
+    ],
+    "ruAccented": "яче'йка",
+    "ruGender": "f",
+    "frequency": 20,
+    "id": "ru-ячейка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "клетканын",
+        "dative": "клеткага",
+        "accusative": "клетканы",
+        "locative": "клеткада",
+        "ablative": "клеткадан"
+      },
+      "pluralForms": {
+        "genitive": "клеткалардын",
+        "dative": "клеткаларга",
+        "accusative": "клеткаларды",
+        "locative": "клеткаларда",
+        "ablative": "клеткалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ячейка",
+    "ky": "көзөнөк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7%D3%A9%D0%BD%D3%A9%D0%BA",
+    "senses": [
+      "basic unit of a living organism"
+    ],
+    "ruAccented": "яче'йка",
+    "ruGender": "f",
+    "id": "ru-ячейка-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "көзөнөктүн",
+        "dative": "көзөнөккө",
+        "accusative": "көзөнөктү",
+        "locative": "көзөнөктө",
+        "ablative": "көзөнөктөн"
+      },
+      "pluralForms": {
+        "genitive": "көзөнөктөрдүн",
+        "dative": "көзөнөктөргө",
+        "accusative": "көзөнөктөрдү",
+        "locative": "көзөнөктөрдө",
+        "ablative": "көзөнөктөрдөн"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящик",
+    "ky": "коробка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0",
+    "senses": [
+      "cuboid space",
+      "container"
+    ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "id": "ru-ящик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "коробканын",
+        "dative": "коробкага",
+        "accusative": "коробканы",
+        "locative": "коробкада",
+        "ablative": "коробкадан"
+      },
+      "pluralForms": {
+        "genitive": "коробкалардын",
+        "dative": "коробкаларга",
+        "accusative": "коробкаларды",
+        "locative": "коробкаларда",
+        "ablative": "коробкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящик",
+    "ky": "куту",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83",
+    "senses": [
+      "cuboid space",
+      "container"
+    ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "frequency": 30,
+    "id": "ru-ящик-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "кутунун",
+        "dative": "кутуго",
+        "accusative": "кутуну",
+        "locative": "кутудо",
+        "ablative": "кутудон"
+      },
+      "pluralForms": {
+        "genitive": "кутулордун",
+        "dative": "кутулорго",
+        "accusative": "кутулорду",
+        "locative": "кутулордо",
+        "ablative": "кутулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящик",
+    "ky": "ящик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA",
+    "senses": [
+      "cuboid space",
+      "container"
+    ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "id": "ru-ящик-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "ящиктин",
+        "dative": "ящикке",
+        "accusative": "ящикти",
+        "locative": "ящикте",
+        "ablative": "ящиктен"
+      },
+      "pluralForms": {
+        "genitive": "ящиктердин",
+        "dative": "ящиктерге",
+        "accusative": "ящиктерди",
+        "locative": "ящиктерде",
+        "ablative": "ящиктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "якорь",
+    "ky": "якорь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BA%D0%BE%D1%80%D1%8C",
+    "senses": [
+      "tool to moor a vessel into sea bottom"
+    ],
+    "ruAccented": "я'корь",
+    "ruGender": "m",
+    "id": "ru-якорь-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "якорьдун",
+        "dative": "якорьго",
+        "accusative": "якорьду",
+        "locative": "якорьдо",
+        "ablative": "якорьдон"
+      },
+      "pluralForms": {
+        "genitive": "якорьдордун",
+        "dative": "якорьдорго",
+        "accusative": "якорьдорду",
+        "locative": "якорьдордо",
+        "ablative": "якорьдордон"
+      },
+      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйцо",
+    "ky": "ташак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
+    "senses": [
+      "testicle — see also testicle"
+    ],
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
+    "pronunciation": "[tɑˈʃɑq]",
+    "ruAccented": "яйцо'",
+    "ruGender": "n",
+    "id": "ru-яйцо-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ташактын",
+        "dative": "ташакка",
+        "accusative": "ташакты",
+        "locative": "ташакта",
+        "ablative": "ташактан"
+      },
+      "pluralForms": {
+        "genitive": "ташактардын",
+        "dative": "ташактарга",
+        "accusative": "ташактарды",
+        "locative": "ташактарда",
+        "ablative": "ташактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйца",
+    "ky": "ташак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
+    "senses": [
+      "testicle — see also testicle"
+    ],
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
+    "pronunciation": "[tɑˈʃɑq]",
+    "id": "ru-яйца-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ташактын",
+        "dative": "ташакка",
+        "accusative": "ташакты",
+        "locative": "ташакта",
+        "ablative": "ташактан"
+      },
+      "pluralForms": {
+        "genitive": "ташактардын",
+        "dative": "ташактарга",
+        "accusative": "ташактарды",
+        "locative": "ташактарда",
+        "ablative": "ташактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яичко",
+    "ky": "ташак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
+    "senses": [
+      "testicle — see also testicle"
+    ],
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
+    "pronunciation": "[tɑˈʃɑq]",
+    "ruAccented": "яи'чко",
+    "ruGender": "n",
+    "id": "ru-яичко-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "ташактын",
+        "dative": "ташакка",
+        "accusative": "ташакты",
+        "locative": "ташакта",
+        "ablative": "ташактан"
+      },
+      "pluralForms": {
+        "genitive": "ташактардын",
+        "dative": "ташактарга",
+        "accusative": "ташактарды",
+        "locative": "ташактарда",
+        "ablative": "ташактардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящик",
+    "ky": "суурма",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%80%D0%BC%D0%B0",
+    "senses": [
+      "open-topped box in a cabinet used for storing"
+    ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "id": "ru-ящик-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "суурманын",
+        "dative": "суурмага",
+        "accusative": "суурманы",
+        "locative": "суурмада",
+        "ablative": "суурмадан"
+      },
+      "pluralForms": {
+        "genitive": "суурмалардын",
+        "dative": "суурмаларга",
+        "accusative": "суурмаларды",
+        "locative": "суурмаларда",
+        "ablative": "суурмалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящик",
+    "ky": "тартма",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%BC%D0%B0",
+    "senses": [
+      "open-topped box in a cabinet used for storing"
+    ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "id": "ru-ящик-005",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "тартманын",
+        "dative": "тартмага",
+        "accusative": "тартманы",
+        "locative": "тартмада",
+        "ablative": "тартмадан"
+      },
+      "pluralForms": {
+        "genitive": "тартмалардын",
+        "dative": "тартмаларга",
+        "accusative": "тартмаларды",
+        "locative": "тартмаларда",
+        "ablative": "тартмалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яичко",
+    "ky": "эн",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD",
+    "senses": [
+      "male sex gland"
+    ],
+    "etymology": "From Proto-Turkic *ēn.",
+    "ruAccented": "яи'чко",
+    "ruGender": "n",
+    "frequency": 131,
+    "id": "ru-яичко-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "эндын",
+        "dative": "энга",
+        "accusative": "энды",
+        "locative": "энда",
+        "ablative": "эндан"
+      },
+      "pluralForms": {
+        "genitive": "эндардын",
+        "dative": "эндарга",
+        "accusative": "эндарды",
+        "locative": "эндарда",
+        "ablative": "эндардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яичко",
+    "ky": "таш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88",
+    "senses": [
+      "male sex gland"
+    ],
+    "etymology": "From Proto-Turkic *tāĺ.",
+    "pronunciation": "/tɑʂ/",
+    "examples": [
+      {
+        "ky": "), бактылуу жана ийгииктүү болуш үчүн биз таш",
+        "ru": "), чтобы быть счастливыми и успешными."
+      },
+      {
+        "ky": "Газда иштеген ЖЭБде түтүндөрдү тазалоо тутумун, таш көмүрдү казанга",
+        "ru": "На газовой ТЭЦ не устанавливается система очистки дымовых газов,"
+      }
+    ],
+    "ruAccented": "яи'чко",
+    "ruGender": "n",
+    "frequency": 1232,
+    "id": "ru-яичко-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "таштын",
+        "dative": "ташка",
+        "accusative": "ташты",
+        "locative": "ташта",
+        "ablative": "таштан"
+      },
+      "pluralForms": {
+        "genitive": "таштардын",
+        "dative": "таштарга",
+        "accusative": "таштарды",
+        "locative": "таштарда",
+        "ablative": "таштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "японский мультфильм",
+    "ky": "аниме",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5",
+    "senses": [
+      "an animated work originated in Japan"
+    ],
+    "id": "ru-японский мультфильм-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "анименин",
+        "dative": "анимеге",
+        "accusative": "анимени",
+        "locative": "анимеде",
+        "ablative": "анимеден"
+      },
+      "pluralForms": {
+        "genitive": "анимелердин",
+        "dative": "анимелерге",
+        "accusative": "анимелерди",
+        "locative": "анимелерде",
+        "ablative": "анимелерден"
+      },
+      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядро",
+    "ky": "өзөк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D3%A9%D0%BA",
+    "senses": [
+      "(computing) central part of many computer operating systems"
+    ],
+    "examples": [
+      {
+        "ky": "Екатеринбург аркылуу Россиянын борборунан Сибирге негизги унаа өзөк жолунун",
+        "ru": "велось строительство основных транспортных магистралей из Центральной России в"
+      }
+    ],
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "frequency": 94,
+    "id": "ru-ядро-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "өзөктүн",
+        "dative": "өзөккө",
+        "accusative": "өзөктү",
+        "locative": "өзөктө",
+        "ablative": "өзөктөн"
+      },
+      "pluralForms": {
+        "genitive": "өзөктөрдүн",
+        "dative": "өзөктөргө",
+        "accusative": "өзөктөрдү",
+        "locative": "өзөктөрдө",
+        "ablative": "өзөктөрдөн"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядро",
+    "ky": "дан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD",
+    "senses": [
+      "(computing) central part of many computer operating systems"
+    ],
+    "examples": [
+      {
+        "ky": "120 дан ашык компаниялардын , кызматтары үчүн төлөө, уюлдук операторлордон тартып коммуналдык кызматтарга чейин;",
+        "ru": "оплачивать услуги более 120 компаний, от мобильных операторов до коммунальных служб;"
+      },
+      {
+        "ky": "АКШда коомдук тамактануу жайларын текшерүү боюнча адистешкен инспекциялык органдар A дан F га чейинки класстардын тамгалык тутумду колдонушат.",
+        "ru": "В США применяют буквенную систему классов от A до F, используемую инспекционными органами, специализирующимися на проверке мест общественного питания."
+      }
+    ],
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "frequency": 101,
+    "id": "ru-ядро-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "дандын",
+        "dative": "данга",
+        "accusative": "данды",
+        "locative": "данда",
+        "ablative": "дандан"
+      },
+      "pluralForms": {
+        "genitive": "дандардын",
+        "dative": "дандарга",
+        "accusative": "дандарды",
+        "locative": "дандарда",
+        "ablative": "дандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яичница-глазунья",
+    "ky": "яичница",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0",
+    "senses": [
+      "egg that has been shallow fried"
+    ],
+    "id": "ru-яичница-глазунья-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "яичницанын",
+        "dative": "яичницага",
+        "accusative": "яичницаны",
+        "locative": "яичницада",
+        "ablative": "яичницадан"
+      },
+      "pluralForms": {
+        "genitive": "яичницалардын",
+        "dative": "яичницаларга",
+        "accusative": "яичницаларды",
+        "locative": "яичницаларда",
+        "ablative": "яичницалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яичница",
+    "ky": "яичница",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0",
+    "senses": [
+      "egg that has been shallow fried"
+    ],
+    "ruAccented": "яи'чница",
+    "ruGender": "f",
+    "id": "ru-яичница-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "яичницанын",
+        "dative": "яичницага",
+        "accusative": "яичницаны",
+        "locative": "яичницада",
+        "ablative": "яичницадан"
+      },
+      "pluralForms": {
+        "genitive": "яичницалардын",
+        "dative": "яичницаларга",
+        "accusative": "яичницаларды",
+        "locative": "яичницаларда",
+        "ablative": "яичницалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядро",
+    "ky": "ядро",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE",
+    "senses": [
+      "physics: massive, positively charged core of an atom"
+    ],
+    "etymology": "Borrowed from Russian ядро́ (jadró).",
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "id": "ru-ядро-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "ядронун",
+        "dative": "ядрого",
+        "accusative": "ядрону",
+        "locative": "ядродо",
+        "ablative": "ядродон"
+      },
+      "pluralForms": {
+        "genitive": "ядролордун",
+        "dative": "ядролорго",
+        "accusative": "ядролорду",
+        "locative": "ядролордо",
+        "ablative": "ядролордон"
+      },
+      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ява",
+    "ky": "Ява",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%B2%D0%B0",
+    "senses": [
+      "island of Indonesia"
+    ],
+    "ruAccented": "Я'ва",
+    "ruGender": "f",
+    "id": "ru-Ява-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Яванын",
+        "dative": "Явага",
+        "accusative": "Яваны",
+        "locative": "Явада",
+        "ablative": "Явадан"
+      },
+      "pluralForms": {
+        "genitive": "Явалардын",
+        "dative": "Яваларга",
+        "accusative": "Яваларды",
+        "locative": "Яваларда",
+        "ablative": "Явалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядерный",
+    "ky": "ядролук",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA",
+    "senses": [
+      "involving nuclear energy"
+    ],
+    "examples": [
+      {
+        "ky": "Семипалатинскидеги ядролук полигонду жапканга жетише алган, кийинчирээк синьцзяндагы",
+        "ru": "ядерный полигон в Семипалатинске, а позже добиться сворачивания работы такого"
+      }
+    ],
+    "ruAccented": "я'дерный",
+    "frequency": 3,
+    "id": "ru-ядерный-001"
+  },
+  {
+    "ru": "ягода",
+    "ky": "жер жемиш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80%20%D0%B6%D0%B5%D0%BC%D0%B8%D1%88",
+    "senses": [
+      "small succulent fruit"
+    ],
+    "ruAccented": "я'года",
+    "ruGender": "f",
+    "id": "ru-ягода-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "жер жемиштин",
+        "dative": "жер жемишке",
+        "accusative": "жер жемишти",
+        "locative": "жер жемиште",
+        "ablative": "жер жемиштен"
+      },
+      "pluralForms": {
+        "genitive": "жер жемиштердин",
+        "dative": "жер жемиштерге",
+        "accusative": "жер жемиштерди",
+        "locative": "жер жемиштерде",
+        "ablative": "жер жемиштерден"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмарка",
+    "ky": "жылбазар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B1%D0%B0%D0%B7%D0%B0%D1%80",
+    "senses": [
+      "market"
+    ],
+    "etymology": "Literal translation from German Jahrmarkt. Jahr (year → жыл) + Markt (market → базар)",
+    "ruAccented": "я'рмарка",
+    "ruGender": "f",
+    "id": "ru-ярмарка-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жылбазардын",
+        "dative": "жылбазарга",
+        "accusative": "жылбазарды",
+        "locative": "жылбазарда",
+        "ablative": "жылбазардан"
+      },
+      "pluralForms": {
+        "genitive": "жылбазардардын",
+        "dative": "жылбазардарга",
+        "accusative": "жылбазардарды",
+        "locative": "жылбазардарда",
+        "ablative": "жылбазардардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящерка f ящер",
+    "ky": "кескелдирик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
+    "senses": [
+      "reptile"
+    ],
+    "id": "ru-ящерка f ящер-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кескелдириктин",
+        "dative": "кескелдирикке",
+        "accusative": "кескелдирикти",
+        "locative": "кескелдирикте",
+        "ablative": "кескелдириктен"
+      },
+      "pluralForms": {
+        "genitive": "кескелдириктердин",
+        "dative": "кескелдириктерге",
+        "accusative": "кескелдириктерди",
+        "locative": "кескелдириктерде",
+        "ablative": "кескелдириктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярлык",
+    "ky": "этикетка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BA%D0%B0",
+    "senses": [
+      "small ticket or sign giving information"
+    ],
+    "ruAccented": "ярлы'к",
+    "ruGender": "m",
+    "id": "ru-ярлык-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "этикетканын",
+        "dative": "этикеткага",
+        "accusative": "этикетканы",
+        "locative": "этикеткада",
+        "ablative": "этикеткадан"
+      },
+      "pluralForms": {
+        "genitive": "этикеткалардын",
+        "dative": "этикеткаларга",
+        "accusative": "этикеткаларды",
+        "locative": "этикеткаларда",
+        "ablative": "этикеткалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярлык",
+    "ky": "наклейка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0",
+    "senses": [
+      "small ticket or sign giving information"
+    ],
+    "ruAccented": "ярлы'к",
+    "ruGender": "m",
+    "id": "ru-ярлык-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "наклейканын",
+        "dative": "наклейкага",
+        "accusative": "наклейканы",
+        "locative": "наклейкада",
+        "ablative": "наклейкадан"
+      },
+      "pluralForms": {
+        "genitive": "наклейкалардын",
+        "dative": "наклейкаларга",
+        "accusative": "наклейкаларды",
+        "locative": "наклейкаларда",
+        "ablative": "наклейкалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язык чероки",
+    "ky": "черокиче",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%BE%D0%BA%D0%B8%D1%87%D0%B5",
+    "senses": [
+      "language"
+    ],
+    "id": "ru-язык чероки-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "черокиченин",
+        "dative": "черокичеге",
+        "accusative": "черокичени",
+        "locative": "черокичеде",
+        "ablative": "черокичеден"
+      },
+      "pluralForms": {
+        "genitive": "черокичелердин",
+        "dative": "черокичелерге",
+        "accusative": "черокичелерди",
+        "locative": "черокичелерде",
+        "ablative": "черокичелерден"
+      },
+      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ящик",
+    "ky": "сандык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
+    "senses": [
+      "strong box"
+    ],
+    "examples": [
+      {
+        "ky": "- Жетекчилик тарабынан белгиленген пайда жана сандык көрсөткүчтөр боюнча максаттарга жетишүү үчүн бардык зарыл аракеттерди көрүү.",
+        "ru": "- Предпринимать все необходимые действия для достижения целей по прибыли и количественным показателям, установленные руководством."
+      },
+      {
+        "ky": "- Жетекчилик тарабынан белгиленген, пайда жана сандык көрсөткүчтөр боюнча максаттарга жетишүү үчүн бардык зарыл чараларды көрүү.",
+        "ru": "- Предпринимать все необходимые действия для достижения целей по прибыли и количественным показателям, установленные руководством."
+      }
+    ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "frequency": 97,
+    "id": "ru-ящик-006",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "сандыктын",
+        "dative": "сандыкка",
+        "accusative": "сандыкты",
+        "locative": "сандыкта",
+        "ablative": "сандыктан"
+      },
+      "pluralForms": {
+        "genitive": "сандыктардын",
+        "dative": "сандыктарга",
+        "accusative": "сандыктарды",
+        "locative": "сандыктарда",
+        "ablative": "сандыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ягодица",
+    "ky": "көчүк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%87%D2%AF%D0%BA",
+    "senses": [
+      "each of the two large fleshy halves of the posterior part of the body"
+    ],
+    "ruAccented": "я'годица",
+    "ruGender": "f",
+    "frequency": 87,
+    "id": "ru-ягодица-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "көчүктүн",
+        "dative": "көчүккө",
+        "accusative": "көчүктү",
+        "locative": "көчүктө",
+        "ablative": "көчүктөн"
+      },
+      "pluralForms": {
+        "genitive": "көчүктөрдүн",
+        "dative": "көчүктөргө",
+        "accusative": "көчүктөрдү",
+        "locative": "көчүктөрдө",
+        "ablative": "көчүктөрдөн"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ягодица",
+    "ky": "жамбаш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%B1%D0%B0%D1%88",
+    "senses": [
+      "each of the two large fleshy halves of the posterior part of the body"
+    ],
+    "etymology": "Ultimately from Proto-Turkic *jān. Cognate to Southern Altai јалмаш (ǰalmaš), Kazakh жанбас (janbas), Karakalpak janbas, Nogai янбас (yanbas), Karaim janbaš, Kumyk янбаш (yanbaş), Bashkir янбаш (yanbaş), Uzbek yonbosh, etc.",
+    "examples": [
+      {
+        "ky": "келбейт, өзүнүн ансыз да толтура ден соолугуна тиешелүү көйгөйлөрүнө аркасынын кыйшайуусу, жамбаш сөөктөрүнүн",
+        "ru": "очень плохо, и ко всем остальным проблемам со здоровьем прибавиться еще"
+      }
+    ],
+    "ruAccented": "я'годица",
+    "ruGender": "f",
+    "frequency": 29,
+    "id": "ru-ягодица-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жамбаштын",
+        "dative": "жамбашка",
+        "accusative": "жамбашты",
+        "locative": "жамбашта",
+        "ablative": "жамбаштан"
+      },
+      "pluralForms": {
+        "genitive": "жамбаштардын",
+        "dative": "жамбаштарга",
+        "accusative": "жамбаштарды",
+        "locative": "жамбаштарда",
+        "ablative": "жамбаштардан"
+      },
+      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яма",
+    "ky": "оюк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BA",
+    "senses": [
+      "sunken area"
+    ],
+    "etymology": "Compare to Southern Altai ойык (oyïk, “hollow”), etc.",
+    "ruAccented": "я'ма",
+    "ruGender": "f",
+    "frequency": 4,
+    "id": "ru-яма-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "оюктун",
+        "dative": "оюкко",
+        "accusative": "оюкту",
+        "locative": "оюкто",
+        "ablative": "оюктон"
+      },
+      "pluralForms": {
+        "genitive": "оюктордун",
+        "dative": "оюкторго",
+        "accusative": "оюкторду",
+        "locative": "оюктордо",
+        "ablative": "оюктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ясли",
+    "ky": "ясли",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%81%D0%BB%D0%B8",
+    "senses": [
+      "place where the pre-school children of working parents are supervised during the day — see also nursery school"
+    ],
+    "ruAccented": "я'сли",
+    "ruGender": "f",
+    "id": "ru-ясли-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "яслинин",
+        "dative": "яслиге",
+        "accusative": "яслини",
+        "locative": "яслиде",
+        "ablative": "яслиден"
+      },
+      "pluralForms": {
+        "genitive": "яслилердин",
+        "dative": "яслилерге",
+        "accusative": "яслилерди",
+        "locative": "яслилерде",
+        "ablative": "яслилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язычник",
+    "ky": "бутпарас",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81",
+    "senses": [
+      "person not adhering to a main world religion"
+    ],
+    "ruAccented": "язы'чник",
+    "ruGender": "m",
+    "id": "ru-язычник-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бутпарастын",
+        "dative": "бутпараска",
+        "accusative": "бутпарасты",
+        "locative": "бутпараста",
+        "ablative": "бутпарастан"
+      },
+      "pluralForms": {
+        "genitive": "бутпарастардын",
+        "dative": "бутпарастарга",
+        "accusative": "бутпарастарды",
+        "locative": "бутпарастарда",
+        "ablative": "бутпарастардан"
+      },
+      "rule": "Основа на глухую согласную -с, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язычник",
+    "ky": "бутка табынуучу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D1%8B%D0%BD%D1%83%D1%83%D1%87%D1%83",
+    "senses": [
+      "person not adhering to a main world religion"
+    ],
+    "ruAccented": "язы'чник",
+    "ruGender": "m",
+    "id": "ru-язычник-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "бутка табынуучунун",
+        "dative": "бутка табынуучуго",
+        "accusative": "бутка табынуучуну",
+        "locative": "бутка табынуучудо",
+        "ablative": "бутка табынуучудон"
+      },
+      "pluralForms": {
+        "genitive": "бутка табынуучулордун",
+        "dative": "бутка табынуучулорго",
+        "accusative": "бутка табынуучулорду",
+        "locative": "бутка табынуучулордо",
+        "ablative": "бутка табынуучулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язычница",
+    "ky": "бутпарас",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81",
+    "senses": [
+      "person not adhering to a main world religion"
+    ],
+    "ruAccented": "язы'чница",
+    "ruGender": "f",
+    "id": "ru-язычница-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "бутпарастын",
+        "dative": "бутпараска",
+        "accusative": "бутпарасты",
+        "locative": "бутпараста",
+        "ablative": "бутпарастан"
+      },
+      "pluralForms": {
+        "genitive": "бутпарастардын",
+        "dative": "бутпарастарга",
+        "accusative": "бутпарастарды",
+        "locative": "бутпарастарда",
+        "ablative": "бутпарастардан"
+      },
+      "rule": "Основа на глухую согласную -с, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язычница",
+    "ky": "бутка табынуучу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D1%8B%D0%BD%D1%83%D1%83%D1%87%D1%83",
+    "senses": [
+      "person not adhering to a main world religion"
+    ],
+    "ruAccented": "язы'чница",
+    "ruGender": "f",
+    "id": "ru-язычница-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "бутка табынуучунун",
+        "dative": "бутка табынуучуго",
+        "accusative": "бутка табынуучуну",
+        "locative": "бутка табынуучудо",
+        "ablative": "бутка табынуучудон"
+      },
+      "pluralForms": {
+        "genitive": "бутка табынуучулордун",
+        "dative": "бутка табынуучулорго",
+        "accusative": "бутка табынуучулорду",
+        "locative": "бутка табынуучулордо",
+        "ablative": "бутка табынуучулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ягодицы",
+    "ky": "сан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD",
+    "senses": [
+      "buttocks"
+    ],
+    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
+    "pronunciation": "/sɑn/",
+    "examples": [
+      {
+        "ky": "адам эмгектенүүдө. Жана бул сан күндөн күнгө өсүүдө.",
+        "ru": "И каждый день эта цифра увеличивается."
+      },
+      {
+        "ky": "бул өтө эле чоң сан дейли, бирок табигый-баланстын минимумун эске алсак өлкөнүн",
+        "ru": "Ладно, пусть это несбыточно, но даже с учетом природно-сбалансированного"
+      }
+    ],
+    "ruAccented": "я'годицы",
+    "ruGender": "f",
+    "frequency": 1298,
+    "id": "ru-ягодицы-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "сандын",
+        "dative": "санга",
+        "accusative": "санды",
+        "locative": "санда",
+        "ablative": "сандан"
+      },
+      "pluralForms": {
+        "genitive": "сандардын",
+        "dative": "сандарга",
+        "accusative": "сандарды",
+        "locative": "сандарда",
+        "ablative": "сандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярус",
+    "ky": "этаж",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%B6",
+    "senses": [
+      "floor, level"
+    ],
+    "ruAccented": "я'рус",
+    "ruGender": "m",
+    "id": "ru-ярус-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "этаждын",
+        "dative": "этажга",
+        "accusative": "этажды",
+        "locative": "этажда",
+        "ablative": "этаждан"
+      },
+      "pluralForms": {
+        "genitive": "этаждардын",
+        "dative": "этаждарга",
+        "accusative": "этаждарды",
+        "locative": "этаждарда",
+        "ablative": "этаждардан"
+      },
+      "rule": "Основа на звонкую согласную -ж, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярус",
+    "ky": "кабат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%82",
+    "senses": [
+      "floor, level"
+    ],
+    "examples": [
+      {
+        "ky": "Көп байкала бербеген бир кабат кенен үй.",
+        "ru": "Неприметный одноэтажный просторный частный дом."
+      },
+      {
+        "ky": "Үч кабат узун юбка – бул бери гана жагы.",
+        "ru": "Длинная юбка в три слоя – это далеко не предел."
+      }
+    ],
+    "ruAccented": "я'рус",
+    "ruGender": "m",
+    "frequency": 94,
+    "id": "ru-ярус-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кабаттын",
+        "dative": "кабатка",
+        "accusative": "кабатты",
+        "locative": "кабатта",
+        "ablative": "кабаттан"
+      },
+      "pluralForms": {
+        "genitive": "кабаттардын",
+        "dative": "кабаттарга",
+        "accusative": "кабаттарды",
+        "locative": "кабаттарда",
+        "ablative": "кабаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярус",
+    "ky": "катар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%80",
+    "senses": [
+      "floor, level"
+    ],
+    "examples": [
+      {
+        "ky": "Бандар Хаджар учурда бир катар биргелешкен долбоорлор кароодо турганын, аларды ишке ашыруу кыргыз тарап менен талкууланарын айтты.",
+        "ru": "Он подчеркнул, что сегодня на рассмотрении имеется ряд совместных проектов, реализация которых будет обсуждена с кыргызской стороной."
+      },
+      {
+        "ky": "Кытайда жааган нөшөрлүу жамгырдан кийин өлкөнүн бир катар аймактарында суу ташкыны жана жер көчкү жүрдү.",
+        "ru": "Он будет предоставлять консультации местным предпринимателем среднего и малого бизнеса, юридические и консалтинговые услуги."
+      }
+    ],
+    "ruAccented": "я'рус",
+    "ruGender": "m",
+    "frequency": 69,
+    "id": "ru-ярус-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "катардын",
+        "dative": "катарга",
+        "accusative": "катарды",
+        "locative": "катарда",
+        "ablative": "катардан"
+      },
+      "pluralForms": {
+        "genitive": "катардардын",
+        "dative": "катардарга",
+        "accusative": "катардарды",
+        "locative": "катардарда",
+        "ablative": "катардардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яр",
+    "ky": "капчыгай",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D1%87%D1%8B%D0%B3%D0%B0%D0%B9",
+    "senses": [
+      "deep, narrow passage with steep, rocky sides"
+    ],
+    "examples": [
+      {
+        "ky": "узундугу беш чакырымды түзгөн капчыгай белгилүү Кытай дубалына (чынында эле,",
+        "ru": "длинная гряда в пять километров, похожая на знаменитую Китайскую стену (правда"
+      }
+    ],
+    "ruAccented": "яр",
+    "id": "ru-яр-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "капчыгайдын",
+        "dative": "капчыгайга",
+        "accusative": "капчыгайды",
+        "locative": "капчыгайда",
+        "ablative": "капчыгайдан"
+      },
+      "pluralForms": {
+        "genitive": "капчыгайдардын",
+        "dative": "капчыгайдарга",
+        "accusative": "капчыгайдарды",
+        "locative": "капчыгайдарда",
+        "ablative": "капчыгайдардан"
+      },
+      "rule": "Основа на звонкую согласную -й, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмо",
+    "ky": "моюнтурук",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BA",
+    "senses": [
+      "bar or frame by which two oxen or other draught animals are joined at their necks enabling them to pull a cart, plough, etc.",
+      "device attached to a single draught animal for the same purpose"
+    ],
+    "ruAccented": "ярмо'",
+    "ruGender": "n",
+    "id": "ru-ярмо-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "моюнтуруктун",
+        "dative": "моюнтурукко",
+        "accusative": "моюнтурукту",
+        "locative": "моюнтурукто",
+        "ablative": "моюнтуруктон"
+      },
+      "pluralForms": {
+        "genitive": "моюнтуруктордун",
+        "dative": "моюнтурукторго",
+        "accusative": "моюнтурукторду",
+        "locative": "моюнтуруктордо",
+        "ablative": "моюнтуруктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмо",
+    "ky": "каамыт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BC%D1%8B%D1%82",
+    "senses": [
+      "bar or frame by which two oxen or other draught animals are joined at their necks enabling them to pull a cart, plough, etc.",
+      "device attached to a single draught animal for the same purpose"
+    ],
+    "ruAccented": "ярмо'",
+    "ruGender": "n",
+    "id": "ru-ярмо-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "каамыттын",
+        "dative": "каамытка",
+        "accusative": "каамытты",
+        "locative": "каамытта",
+        "ablative": "каамыттан"
+      },
+      "pluralForms": {
+        "genitive": "каамыттардын",
+        "dative": "каамыттарга",
+        "accusative": "каамыттарды",
+        "locative": "каамыттарда",
+        "ablative": "каамыттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмарка",
+    "ky": "базар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B0%D1%80",
+    "senses": [
+      "marketplace"
+    ],
+    "etymology": "From Persian بازار (bâzâr).",
+    "pronunciation": "/bazar/",
+    "examples": [
+      {
+        "ky": "Аларга мамлекеттен жардам болушу ыктымалбы?Ажыкулов: Негизи бул базар экономикасына байланыштуу жагдай.",
+        "ru": "Могут ли заемщики рассчитывать на помощь государства? Ажыкулов: Это рыночная экономика."
+      },
+      {
+        "ky": "базалары ачылып, атайын базар менен салыштырганда арзан баадагы көмүрлөр",
+        "ru": "по сравнению с рыночными ценами там стоимость угля гораздо ниже:"
+      }
+    ],
+    "ruAccented": "я'рмарка",
+    "ruGender": "f",
+    "frequency": 352,
+    "id": "ru-ярмарка-003",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "базардын",
+        "dative": "базарга",
+        "accusative": "базарды",
+        "locative": "базарда",
+        "ablative": "базардан"
+      },
+      "pluralForms": {
+        "genitive": "базардардын",
+        "dative": "базардарга",
+        "accusative": "базардарды",
+        "locative": "базардарда",
+        "ablative": "базардардан"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яблочный сок",
+    "ky": "алма ширеси",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D1%88%D0%B8%D1%80%D0%B5%D1%81%D0%B8",
+    "senses": [
+      "the juice of apples, often used as a drink"
+    ],
+    "id": "ru-яблочный сок-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "алма ширесинин",
+        "dative": "алма ширесиге",
+        "accusative": "алма ширесини",
+        "locative": "алма ширесиде",
+        "ablative": "алма ширесиден"
+      },
+      "pluralForms": {
+        "genitive": "алма ширесилердин",
+        "dative": "алма ширесилерге",
+        "accusative": "алма ширесилерди",
+        "locative": "алма ширесилерде",
+        "ablative": "алма ширесилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яр",
+    "ky": "жака",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D0%B0",
+    "senses": [
+      "land adjoining a large body of water"
+    ],
+    "examples": [
+      {
+        "ky": "Кыргызстан менен таанышып кетет да кандай адамдар жашаганын айтып ал жака барганда.",
+        "ru": "Цитирую тумар:Политическое рейдерство произошло в пятницу. Депутаты повели себя неуважительно не только к мэру, но и ко всем избирателям."
+      }
+    ],
+    "ruAccented": "яр",
+    "frequency": 227,
+    "id": "ru-яр-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жаканын",
+        "dative": "жакага",
+        "accusative": "жаканы",
+        "locative": "жакада",
+        "ablative": "жакадан"
+      },
+      "pluralForms": {
+        "genitive": "жакалардын",
+        "dative": "жакаларга",
+        "accusative": "жакаларды",
+        "locative": "жакаларда",
+        "ablative": "жакалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яр",
+    "ky": "жээк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8D%D1%8D%D0%BA",
+    "senses": [
+      "land adjoining a large body of water"
+    ],
+    "examples": [
+      {
+        "ky": "мурун жээк линиялары өлкөнүн ичине карай жылып, азыркы көрүнүшүнө келген, ал",
+        "ru": "страны, приняла современный вид, при этом территория покрылась песком», - гласят"
+      },
+      {
+        "ky": "түштүк жээк үчүн экологиялык туризм өнүгүүгө карай жол ачат.",
+        "ru": "побережья – в экологическом туризме."
+      }
+    ],
+    "ruAccented": "яр",
+    "frequency": 156,
+    "id": "ru-яр-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жээктын",
+        "dative": "жээкка",
+        "accusative": "жээкты",
+        "locative": "жээкта",
+        "ablative": "жээктан"
+      },
+      "pluralForms": {
+        "genitive": "жээктардын",
+        "dative": "жээктарга",
+        "accusative": "жээктарды",
+        "locative": "жээктарда",
+        "ablative": "жээктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яр",
+    "ky": "кашат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88%D0%B0%D1%82",
+    "senses": [
+      "land adjoining a large body of water"
+    ],
+    "ruAccented": "яр",
+    "id": "ru-яр-004",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "кашаттын",
+        "dative": "кашатка",
+        "accusative": "кашатты",
+        "locative": "кашатта",
+        "ablative": "кашаттан"
+      },
+      "pluralForms": {
+        "genitive": "кашаттардын",
+        "dative": "кашаттарга",
+        "accusative": "кашаттарды",
+        "locative": "кашаттарда",
+        "ablative": "кашаттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйцеклетка",
+    "ky": "урук клеткасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%D1%81%D1%8B",
+    "senses": [
+      "gamete"
+    ],
+    "id": "ru-яйцеклетка-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "урук клеткасынын",
+        "dative": "урук клеткасыга",
+        "accusative": "урук клеткасыны",
+        "locative": "урук клеткасыда",
+        "ablative": "урук клеткасыдан"
+      },
+      "pluralForms": {
+        "genitive": "урук клеткасылардын",
+        "dative": "урук клеткасыларга",
+        "accusative": "урук клеткасыларды",
+        "locative": "урук клеткасыларда",
+        "ablative": "урук клеткасылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яйцеклетка",
+    "ky": "энелик клетка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D0%BB%D0%B8%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
+    "senses": [
+      "gamete"
+    ],
+    "id": "ru-яйцеклетка-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "энелик клетканын",
+        "dative": "энелик клеткага",
+        "accusative": "энелик клетканы",
+        "locative": "энелик клеткада",
+        "ablative": "энелик клеткадан"
+      },
+      "pluralForms": {
+        "genitive": "энелик клеткалардын",
+        "dative": "энелик клеткаларга",
+        "accusative": "энелик клеткаларды",
+        "locative": "энелик клеткаларда",
+        "ablative": "энелик клеткалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "яловец",
+    "ky": "арча",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%87%D0%B0",
+    "senses": [
+      "shrub or tree of the genus Juniperus"
+    ],
+    "etymology": "Borrowed from Middle Mongol [Term?] (/⁠arča⁠/), from Proto-Mongolic *arča, from Proto-Turkic *artuč.",
+    "pronunciation": "/ɑrˈt͡ʃɑ/",
+    "frequency": 31,
+    "id": "ru-яловец-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "арчанын",
+        "dative": "арчага",
+        "accusative": "арчаны",
+        "locative": "арчада",
+        "ablative": "арчадан"
+      },
+      "pluralForms": {
+        "genitive": "арчалардын",
+        "dative": "арчаларга",
+        "accusative": "арчаларды",
+        "locative": "арчаларда",
+        "ablative": "арчалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "язва",
+    "ky": "жара",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0",
+    "senses": [
+      "open sore"
+    ],
+    "etymology": "From Proto-Turkic *yara. Compare to Southern Altai јара (ǰara), etc.",
+    "ruAccented": "я'зва",
+    "ruGender": "f",
+    "frequency": 1421,
+    "id": "ru-язва-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жаранын",
+        "dative": "жарага",
+        "accusative": "жараны",
+        "locative": "жарада",
+        "ablative": "жарадан"
+      },
+      "pluralForms": {
+        "genitive": "жаралардын",
+        "dative": "жараларга",
+        "accusative": "жараларды",
+        "locative": "жараларда",
+        "ablative": "жаралардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмарочная площадь",
+    "ky": "жармаңке аянты",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BC%D0%B0%D2%A3%D0%BA%D0%B5%20%D0%B0%D1%8F%D0%BD%D1%82%D1%8B",
+    "senses": [
+      "fair area"
+    ],
+    "id": "ru-ярмарочная площадь-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жармаңке аянтынын",
+        "dative": "жармаңке аянтыга",
+        "accusative": "жармаңке аянтыны",
+        "locative": "жармаңке аянтыда",
+        "ablative": "жармаңке аянтыдан"
+      },
+      "pluralForms": {
+        "genitive": "жармаңке аянтылардын",
+        "dative": "жармаңке аянтыларга",
+        "accusative": "жармаңке аянтыларды",
+        "locative": "жармаңке аянтыларда",
+        "ablative": "жармаңке аянтылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Яванское море",
+    "ky": "Ява деңизи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%B2%D0%B0%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%D0%B8",
+    "senses": [
+      "a sea"
+    ],
+    "id": "ru-Яванское море-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Ява деңизинин",
+        "dative": "Ява деңизиге",
+        "accusative": "Ява деңизини",
+        "locative": "Ява деңизиде",
+        "ablative": "Ява деңизиден"
+      },
+      "pluralForms": {
+        "genitive": "Ява деңизилердин",
+        "dative": "Ява деңизилерге",
+        "accusative": "Ява деңизилерди",
+        "locative": "Ява деңизилерде",
+        "ablative": "Ява деңизилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не знаю",
+    "ky": "билбейм",
+    "pos": "intj",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
+    "senses": [
+      "I don’t know"
+    ],
+    "id": "ru-я не знаю-001"
+  },
+  {
+    "ru": "я не понимаю",
+    "ky": "мен түшүнбөдүм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D0%B1%D3%A9%D0%B4%D2%AF%D0%BC",
+    "senses": [
+      "I don't understand"
+    ],
+    "id": "ru-я не понимаю-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "мен түшүнбөдүмдүн",
+        "dative": "мен түшүнбөдүмгө",
+        "accusative": "мен түшүнбөдүмдү",
+        "locative": "мен түшүнбөдүмдө",
+        "ablative": "мен түшүнбөдүмдөн"
+      },
+      "pluralForms": {
+        "genitive": "мен түшүнбөдүмдөрдүн",
+        "dative": "мен түшүнбөдүмдөргө",
+        "accusative": "мен түшүнбөдүмдөрдү",
+        "locative": "мен түшүнбөдүмдөрдө",
+        "ablative": "мен түшүнбөдүмдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не понимаю",
+    "ky": "түшүнбөдүм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D0%B1%D3%A9%D0%B4%D2%AF%D0%BC",
+    "senses": [
+      "I don't understand"
+    ],
+    "id": "ru-я не понимаю-002",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "түшүнбөдүмдүн",
+        "dative": "түшүнбөдүмгө",
+        "accusative": "түшүнбөдүмдү",
+        "locative": "түшүнбөдүмдө",
+        "ablative": "түшүнбөдүмдөн"
+      },
+      "pluralForms": {
+        "genitive": "түшүнбөдүмдөрдүн",
+        "dative": "түшүнбөдүмдөргө",
+        "accusative": "түшүнбөдүмдөрдү",
+        "locative": "түшүнбөдүмдөрдө",
+        "ablative": "түшүнбөдүмдөрдөн"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Яунде",
+    "ky": "Яунде",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%83%D0%BD%D0%B4%D0%B5",
+    "senses": [
+      "capital of Cameroon"
+    ],
+    "id": "ru-Яунде-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Яунденин",
+        "dative": "Яундеге",
+        "accusative": "Яундени",
+        "locative": "Яундеде",
+        "ablative": "Яундеден"
+      },
+      "pluralForms": {
+        "genitive": "Яунделердин",
+        "dative": "Яунделерге",
+        "accusative": "Яунделерди",
+        "locative": "Яунделерде",
+        "ablative": "Яунделерден"
+      },
+      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Японское море",
+    "ky": "Жапон деңизи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%D0%B8",
+    "senses": [
+      "the sea between Japan and the rest of Asia"
+    ],
+    "id": "ru-Японское море-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Жапон деңизинин",
+        "dative": "Жапон деңизиге",
+        "accusative": "Жапон деңизини",
+        "locative": "Жапон деңизиде",
+        "ablative": "Жапон деңизиден"
+      },
+      "pluralForms": {
+        "genitive": "Жапон деңизилердин",
+        "dative": "Жапон деңизилерге",
+        "accusative": "Жапон деңизилерди",
+        "locative": "Жапон деңизилерде",
+        "ablative": "Жапон деңизилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "якутский",
+    "ky": "саха",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%B0",
+    "senses": [
+      "language"
+    ],
+    "ruAccented": "яку'тский",
+    "id": "ru-якутский-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "саханын",
+        "dative": "сахага",
+        "accusative": "саханы",
+        "locative": "сахада",
+        "ablative": "сахадан"
+      },
+      "pluralForms": {
+        "genitive": "сахалардын",
+        "dative": "сахаларга",
+        "accusative": "сахаларды",
+        "locative": "сахаларда",
+        "ablative": "сахалардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярмарка",
+    "ky": "соода көргөзмөсү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BE%D0%B4%D0%B0%20%D0%BA%D3%A9%D1%80%D0%B3%D3%A9%D0%B7%D0%BC%D3%A9%D1%81%D2%AF",
+    "senses": [
+      "exhibition for a particular field"
+    ],
+    "ruAccented": "я'рмарка",
+    "ruGender": "f",
+    "id": "ru-ярмарка-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "соода көргөзмөсүнүн",
+        "dative": "соода көргөзмөсүгө",
+        "accusative": "соода көргөзмөсүнү",
+        "locative": "соода көргөзмөсүдө",
+        "ablative": "соода көргөзмөсүдөн"
+      },
+      "pluralForms": {
+        "genitive": "соода көргөзмөсүлөрдүн",
+        "dative": "соода көргөзмөсүлөргө",
+        "accusative": "соода көргөзмөсүлөрдү",
+        "locative": "соода көргөзмөсүлөрдө",
+        "ablative": "соода көргөзмөсүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Ялта",
+    "ky": "Ялта",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BB%D1%82%D0%B0",
+    "senses": [
+      "city in Crimea"
+    ],
+    "id": "ru-Ялта-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "Ялтанын",
+        "dative": "Ялтага",
+        "accusative": "Ялтаны",
+        "locative": "Ялтада",
+        "ablative": "Ялтадан"
+      },
+      "pluralForms": {
+        "genitive": "Ялталардын",
+        "dative": "Ялталарга",
+        "accusative": "Ялталарды",
+        "locative": "Ялталарда",
+        "ablative": "Ялталардан"
+      },
+      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ядовитость",
+    "ky": "уулуулук",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
+    "senses": [
+      "state of being poisonous"
+    ],
+    "ruAccented": "ядови'тость",
+    "ruGender": "f",
+    "id": "ru-ядовитость-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "уулуулуктун",
+        "dative": "уулуулукко",
+        "accusative": "уулуулукту",
+        "locative": "уулуулукто",
+        "ablative": "уулуулуктон"
+      },
+      "pluralForms": {
+        "genitive": "уулуулуктордун",
+        "dative": "уулуулукторго",
+        "accusative": "уулуулукторду",
+        "locative": "уулуулуктордо",
+        "ablative": "уулуулуктордон"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не говорю по-английски",
+    "ky": "мен англисче билбейм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
+    "senses": [
+      "I don't speak English (specifically English)"
+    ],
+    "id": "ru-я не говорю по-английски-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "мен англисче билбеймдин",
+        "dative": "мен англисче билбеймге",
+        "accusative": "мен англисче билбеймди",
+        "locative": "мен англисче билбеймде",
+        "ablative": "мен англисче билбеймден"
+      },
+      "pluralForms": {
+        "genitive": "мен англисче билбеймдердин",
+        "dative": "мен англисче билбеймдерге",
+        "accusative": "мен англисче билбеймдерди",
+        "locative": "мен англисче билбеймдерде",
+        "ablative": "мен англисче билбеймдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не разговариваю по-английски",
+    "ky": "мен англисче билбейм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
+    "senses": [
+      "I don't speak English (specifically English)"
+    ],
+    "id": "ru-я не разговариваю по-английски-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "мен англисче билбеймдин",
+        "dative": "мен англисче билбеймге",
+        "accusative": "мен англисче билбеймди",
+        "locative": "мен англисче билбеймде",
+        "ablative": "мен англисче билбеймден"
+      },
+      "pluralForms": {
+        "genitive": "мен англисче билбеймдердин",
+        "dative": "мен англисче билбеймдерге",
+        "accusative": "мен англисче билбеймдерди",
+        "locative": "мен англисче билбеймдерде",
+        "ablative": "мен англисче билбеймдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не говорю по-русски",
+    "ky": "кыргызче билбейм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
+    "senses": [
+      "I don't speak (fill with the name of the current foreign language)"
+    ],
+    "id": "ru-я не говорю по-русски-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кыргызче билбеймдин",
+        "dative": "кыргызче билбеймге",
+        "accusative": "кыргызче билбеймди",
+        "locative": "кыргызче билбеймде",
+        "ablative": "кыргызче билбеймден"
+      },
+      "pluralForms": {
+        "genitive": "кыргызче билбеймдердин",
+        "dative": "кыргызче билбеймдерге",
+        "accusative": "кыргызче билбеймдерди",
+        "locative": "кыргызче билбеймдерде",
+        "ablative": "кыргызче билбеймдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я хочу есть",
+    "ky": "мен ачкамын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm hungry"
+    ],
+    "id": "ru-я хочу есть-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен ачкамындын",
+        "dative": "мен ачкамынга",
+        "accusative": "мен ачкамынды",
+        "locative": "мен ачкамында",
+        "ablative": "мен ачкамындан"
+      },
+      "pluralForms": {
+        "genitive": "мен ачкамындардын",
+        "dative": "мен ачкамындарга",
+        "accusative": "мен ачкамындарды",
+        "locative": "мен ачкамындарда",
+        "ablative": "мен ачкамындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я голоден",
+    "ky": "мен ачкамын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm hungry"
+    ],
+    "id": "ru-я голоден-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен ачкамындын",
+        "dative": "мен ачкамынга",
+        "accusative": "мен ачкамынды",
+        "locative": "мен ачкамында",
+        "ablative": "мен ачкамындан"
+      },
+      "pluralForms": {
+        "genitive": "мен ачкамындардын",
+        "dative": "мен ачкамындарга",
+        "accusative": "мен ачкамындарды",
+        "locative": "мен ачкамындарда",
+        "ablative": "мен ачкамындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я голодна",
+    "ky": "мен ачкамын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm hungry"
+    ],
+    "id": "ru-я голодна-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен ачкамындын",
+        "dative": "мен ачкамынга",
+        "accusative": "мен ачкамынды",
+        "locative": "мен ачкамында",
+        "ablative": "мен ачкамындан"
+      },
+      "pluralForms": {
+        "genitive": "мен ачкамындардын",
+        "dative": "мен ачкамындарга",
+        "accusative": "мен ачкамындарды",
+        "locative": "мен ачкамындарда",
+        "ablative": "мен ачкамындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я голодный",
+    "ky": "мен ачкамын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm hungry"
+    ],
+    "id": "ru-я голодный-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен ачкамындын",
+        "dative": "мен ачкамынга",
+        "accusative": "мен ачкамынды",
+        "locative": "мен ачкамында",
+        "ablative": "мен ачкамындан"
+      },
+      "pluralForms": {
+        "genitive": "мен ачкамындардын",
+        "dative": "мен ачкамындарга",
+        "accusative": "мен ачкамындарды",
+        "locative": "мен ачкамындарда",
+        "ablative": "мен ачкамындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я голодная",
+    "ky": "мен ачкамын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm hungry"
+    ],
+    "id": "ru-я голодная-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен ачкамындын",
+        "dative": "мен ачкамынга",
+        "accusative": "мен ачкамынды",
+        "locative": "мен ачкамында",
+        "ablative": "мен ачкамындан"
+      },
+      "pluralForms": {
+        "genitive": "мен ачкамындардын",
+        "dative": "мен ачкамындарга",
+        "accusative": "мен ачкамындарды",
+        "locative": "мен ачкамындарда",
+        "ablative": "мен ачкамындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я хочу пить",
+    "ky": "мен суусап жатам",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BF%20%D0%B6%D0%B0%D1%82%D0%B0%D0%BC",
+    "senses": [
+      "I need a drink"
+    ],
+    "id": "ru-я хочу пить-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен суусап жатамдын",
+        "dative": "мен суусап жатамга",
+        "accusative": "мен суусап жатамды",
+        "locative": "мен суусап жатамда",
+        "ablative": "мен суусап жатамдан"
+      },
+      "pluralForms": {
+        "genitive": "мен суусап жатамдардын",
+        "dative": "мен суусап жатамдарга",
+        "accusative": "мен суусап жатамдарды",
+        "locative": "мен суусап жатамдарда",
+        "ablative": "мен суусап жатамдардан"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я холост",
+    "ky": "мен бойдокмун",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
+    "senses": [
+      "I'm single"
+    ],
+    "id": "ru-я холост-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "мен бойдокмундун",
+        "dative": "мен бойдокмунго",
+        "accusative": "мен бойдокмунду",
+        "locative": "мен бойдокмундо",
+        "ablative": "мен бойдокмундон"
+      },
+      "pluralForms": {
+        "genitive": "мен бойдокмундордун",
+        "dative": "мен бойдокмундорго",
+        "accusative": "мен бойдокмундорду",
+        "locative": "мен бойдокмундордо",
+        "ablative": "мен бойдокмундордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не женат",
+    "ky": "мен бойдокмун",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
+    "senses": [
+      "I'm single"
+    ],
+    "id": "ru-я не женат-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "мен бойдокмундун",
+        "dative": "мен бойдокмунго",
+        "accusative": "мен бойдокмунду",
+        "locative": "мен бойдокмундо",
+        "ablative": "мен бойдокмундон"
+      },
+      "pluralForms": {
+        "genitive": "мен бойдокмундордун",
+        "dative": "мен бойдокмундорго",
+        "accusative": "мен бойдокмундорду",
+        "locative": "мен бойдокмундордо",
+        "ablative": "мен бойдокмундордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не замужем",
+    "ky": "мен бойдокмун",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
+    "senses": [
+      "I'm single"
+    ],
+    "id": "ru-я не замужем-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "мен бойдокмундун",
+        "dative": "мен бойдокмунго",
+        "accusative": "мен бойдокмунду",
+        "locative": "мен бойдокмундо",
+        "ablative": "мен бойдокмундон"
+      },
+      "pluralForms": {
+        "genitive": "мен бойдокмундордун",
+        "dative": "мен бойдокмундорго",
+        "accusative": "мен бойдокмундорду",
+        "locative": "мен бойдокмундордо",
+        "ablative": "мен бойдокмундордон"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я мусульманин",
+    "ky": "мен мусулманмын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%BC%D1%83%D1%81%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm a Muslim"
+    ],
+    "id": "ru-я мусульманин-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен мусулманмындын",
+        "dative": "мен мусулманмынга",
+        "accusative": "мен мусулманмынды",
+        "locative": "мен мусулманмында",
+        "ablative": "мен мусулманмындан"
+      },
+      "pluralForms": {
+        "genitive": "мен мусулманмындардын",
+        "dative": "мен мусулманмындарга",
+        "accusative": "мен мусулманмындарды",
+        "locative": "мен мусулманмындарда",
+        "ablative": "мен мусулманмындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я мусульманка",
+    "ky": "мен мусулманмын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%BC%D1%83%D1%81%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%BC%D1%8B%D0%BD",
+    "senses": [
+      "I'm a Muslim"
+    ],
+    "id": "ru-я мусульманка-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен мусулманмындын",
+        "dative": "мен мусулманмынга",
+        "accusative": "мен мусулманмынды",
+        "locative": "мен мусулманмында",
+        "ablative": "мен мусулманмындан"
+      },
+      "pluralForms": {
+        "genitive": "мен мусулманмындардын",
+        "dative": "мен мусулманмындарга",
+        "accusative": "мен мусулманмындарды",
+        "locative": "мен мусулманмындарда",
+        "ablative": "мен мусулманмындардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ярлык",
+    "ky": "жарлык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "khan's decree"
+    ],
+    "ruAccented": "ярлы'к",
+    "ruGender": "m",
+    "id": "ru-ярлык-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "жарлыктын",
+        "dative": "жарлыкка",
+        "accusative": "жарлыкты",
+        "locative": "жарлыкта",
+        "ablative": "жарлыктан"
+      },
+      "pluralForms": {
+        "genitive": "жарлыктардын",
+        "dative": "жарлыктарга",
+        "accusative": "жарлыктарды",
+        "locative": "жарлыктарда",
+        "ablative": "жарлыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "Яндекс",
+    "ky": "Яндекс",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81",
+    "senses": [
+      "Yandex (in other scripts, the trademark may also be written in Roman letters)"
+    ],
+    "id": "ru-Яндекс-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "Яндекстин",
+        "dative": "Яндекске",
+        "accusative": "Яндексти",
+        "locative": "Яндексте",
+        "ablative": "Яндекстен"
+      },
+      "pluralForms": {
+        "genitive": "Яндекстердин",
+        "dative": "Яндекстерге",
+        "accusative": "Яндекстерди",
+        "locative": "Яндекстерде",
+        "ablative": "Яндекстерден"
+      },
+      "rule": "Основа на глухую согласную -с, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ямщик",
+    "ky": "кучер",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%87%D0%B5%D1%80",
+    "senses": [
+      "driver of a horse-drawn coach"
+    ],
+    "ruAccented": "ямщи'к",
+    "ruGender": "m",
+    "id": "ru-ямщик-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "кучердин",
+        "dative": "кучерге",
+        "accusative": "кучерди",
+        "locative": "кучерде",
+        "ablative": "кучерден"
+      },
+      "pluralForms": {
+        "genitive": "кучердердин",
+        "dative": "кучердерге",
+        "accusative": "кучердерди",
+        "locative": "кучердерде",
+        "ablative": "кучердерден"
+      },
+      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ямщик",
+    "ky": "ямщик",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D1%89%D0%B8%D0%BA",
+    "senses": [
+      "driver of a horse-drawn coach"
+    ],
+    "ruAccented": "ямщи'к",
+    "ruGender": "m",
+    "id": "ru-ямщик-002",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "ямщиктин",
+        "dative": "ямщикке",
+        "accusative": "ямщикти",
+        "locative": "ямщикте",
+        "ablative": "ямщиктен"
+      },
+      "pluralForms": {
+        "genitive": "ямщиктердин",
+        "dative": "ямщиктерге",
+        "accusative": "ямщиктерди",
+        "locative": "ямщиктерде",
+        "ablative": "ямщиктерден"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "ямщик",
+    "ky": "арабакеч",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA%D0%B5%D1%87",
+    "senses": [
+      "driver of a horse-drawn coach"
+    ],
+    "ruAccented": "ямщи'к",
+    "ruGender": "m",
+    "id": "ru-ямщик-003",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "арабакечтин",
+        "dative": "арабакечке",
+        "accusative": "арабакечти",
+        "locative": "арабакечте",
+        "ablative": "арабакечтен"
+      },
+      "pluralForms": {
+        "genitive": "арабакечтердин",
+        "dative": "арабакечтерге",
+        "accusative": "арабакечтерди",
+        "locative": "арабакечтерде",
+        "ablative": "арабакечтерден"
+      },
+      "rule": "Основа на глухую согласную -ч, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "я не умею плавать",
+    "ky": "мен сүзө албайм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D2%AF%D0%B7%D3%A9%20%D0%B0%D0%BB%D0%B1%D0%B0%D0%B9%D0%BC",
+    "senses": [
+      "I can't swim"
+    ],
+    "id": "ru-я не умею плавать-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "мен сүзө албаймдын",
+        "dative": "мен сүзө албаймга",
+        "accusative": "мен сүзө албаймды",
+        "locative": "мен сүзө албаймда",
+        "ablative": "мен сүзө албаймдан"
+      },
+      "pluralForms": {
+        "genitive": "мен сүзө албаймдардын",
+        "dative": "мен сүзө албаймдарга",
+        "accusative": "мен сүзө албаймдарды",
+        "locative": "мен сүзө албаймдарда",
+        "ablative": "мен сүзө албаймдардан"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "языковая школа",
+    "ky": "тил мектеби",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%B1%D0%B8",
+    "senses": [
+      "school where foreign languages are taught"
+    ],
+    "id": "ru-языковая школа-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "тил мектебинин",
+        "dative": "тил мектебиге",
+        "accusative": "тил мектебини",
+        "locative": "тил мектебиде",
+        "ablative": "тил мектебиден"
+      },
+      "pluralForms": {
+        "genitive": "тил мектебилердин",
+        "dative": "тил мектебилерге",
+        "accusative": "тил мектебилерди",
+        "locative": "тил мектебилерде",
+        "ablative": "тил мектебилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  }
+]

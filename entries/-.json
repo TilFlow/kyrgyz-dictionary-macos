@@ -1,0 +1,2714 @@
+[
+  {
+    "ru": "-ейший",
+    "ky": "эң",
+    "pos": "adv",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D2%A3",
+    "senses": [
+      "forming the superlative"
+    ],
+    "frequency": 1038,
+    "id": "ru--ейший-001"
+  },
+  {
+    "ru": "-логия",
+    "ky": "-логия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+    "senses": [
+      "branch of learning"
+    ],
+    "id": "ru--логия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-логиядин",
+        "dative": "-логияге",
+        "accusative": "-логияди",
+        "locative": "-логияде",
+        "ablative": "-логияден"
+      },
+      "pluralForms": {
+        "genitive": "-логиядердин",
+        "dative": "-логиядерге",
+        "accusative": "-логиядерди",
+        "locative": "-логиядерде",
+        "ablative": "-логиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ведение",
+    "ky": "-логия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+    "senses": [
+      "branch of learning"
+    ],
+    "id": "ru--ведение-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-логиядин",
+        "dative": "-логияге",
+        "accusative": "-логияди",
+        "locative": "-логияде",
+        "ablative": "-логияден"
+      },
+      "pluralForms": {
+        "genitive": "-логиядердин",
+        "dative": "-логиядерге",
+        "accusative": "-логиядерди",
+        "locative": "-логиядерде",
+        "ablative": "-логиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-знание",
+    "ky": "-логия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
+    "senses": [
+      "branch of learning"
+    ],
+    "id": "ru--знание-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-логиядин",
+        "dative": "-логияге",
+        "accusative": "-логияди",
+        "locative": "-логияде",
+        "ablative": "-логияден"
+      },
+      "pluralForms": {
+        "genitive": "-логиядердин",
+        "dative": "-логиядерге",
+        "accusative": "-логиядерди",
+        "locative": "-логиядерде",
+        "ablative": "-логиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ция",
+    "ky": "-ция",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%86%D0%B8%D1%8F",
+    "senses": [
+      "producing a noun meaning the action or effect of a verb"
+    ],
+    "id": "ru--ция-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-циядин",
+        "dative": "-цияге",
+        "accusative": "-цияди",
+        "locative": "-цияде",
+        "ablative": "-цияден"
+      },
+      "pluralForms": {
+        "genitive": "-циядердин",
+        "dative": "-циядерге",
+        "accusative": "-циядерди",
+        "locative": "-циядерде",
+        "ablative": "-циядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-тель",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--тель-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-тель",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--тель-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-тель",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--тель-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-тель",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--тель-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ник",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ник-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ник",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ник-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ник",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ник-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ник",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ник-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-овщик",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--овщик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-овщик",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--овщик-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-овщик",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--овщик-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-овщик",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--овщик-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-щик",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--щик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-щик",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--щик-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-щик",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--щик-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-щик",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--щик-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-чик",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--чик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-чик",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--чик-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-чик",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--чик-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-чик",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--чик-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ик",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ик-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ик",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ик-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ик",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ик-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ик",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ик-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ец",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ец-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ец",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ец-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ец",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ец-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ец",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ец-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-атор",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--атор-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-атор",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--атор-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-атор",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--атор-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-атор",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--атор-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ач",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ач-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ач",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ач-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ач",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ач-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ач",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ач-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ер",
+    "ky": "-чы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%8B",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ер-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-чынын",
+        "dative": "-чыга",
+        "accusative": "-чыны",
+        "locative": "-чыда",
+        "ablative": "-чыдан"
+      },
+      "pluralForms": {
+        "genitive": "-чылардын",
+        "dative": "-чыларга",
+        "accusative": "-чыларды",
+        "locative": "-чыларда",
+        "ablative": "-чылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ер",
+    "ky": "-чи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D0%B8",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ер-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-чинин",
+        "dative": "-чиге",
+        "accusative": "-чини",
+        "locative": "-чиде",
+        "ablative": "-чиден"
+      },
+      "pluralForms": {
+        "genitive": "-чилердин",
+        "dative": "-чилерге",
+        "accusative": "-чилерди",
+        "locative": "-чилерде",
+        "ablative": "-чилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ер",
+    "ky": "-чу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D1%83",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ер-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-чунун",
+        "dative": "-чуго",
+        "accusative": "-чуну",
+        "locative": "-чудо",
+        "ablative": "-чудон"
+      },
+      "pluralForms": {
+        "genitive": "-чулордун",
+        "dative": "-чулорго",
+        "accusative": "-чулорду",
+        "locative": "-чулордо",
+        "ablative": "-чулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ер",
+    "ky": "-чү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%87%D2%AF",
+    "senses": [
+      "(used to form agent nouns) person or thing that does..."
+    ],
+    "id": "ru--ер-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-чүнүн",
+        "dative": "-чүгө",
+        "accusative": "-чүнү",
+        "locative": "-чүдө",
+        "ablative": "-чүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-чүлөрдүн",
+        "dative": "-чүлөргө",
+        "accusative": "-чүлөрдү",
+        "locative": "-чүлөрдө",
+        "ablative": "-чүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-ынчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%8B%D0%BD%D1%87%D1%8B",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-ынчынын",
+        "dative": "-ынчыга",
+        "accusative": "-ынчыны",
+        "locative": "-ынчыда",
+        "ablative": "-ынчыдан"
+      },
+      "pluralForms": {
+        "genitive": "-ынчылардын",
+        "dative": "-ынчыларга",
+        "accusative": "-ынчыларды",
+        "locative": "-ынчыларда",
+        "ablative": "-ынчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-инчи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B8%D0%BD%D1%87%D0%B8",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-инчинин",
+        "dative": "-инчиге",
+        "accusative": "-инчини",
+        "locative": "-инчиде",
+        "ablative": "-инчиден"
+      },
+      "pluralForms": {
+        "genitive": "-инчилердин",
+        "dative": "-инчилерге",
+        "accusative": "-инчилерди",
+        "locative": "-инчилерде",
+        "ablative": "-инчилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-унчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%83%D0%BD%D1%87%D1%83",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-унчунун",
+        "dative": "-унчуго",
+        "accusative": "-унчуну",
+        "locative": "-унчудо",
+        "ablative": "-унчудон"
+      },
+      "pluralForms": {
+        "genitive": "-унчулордун",
+        "dative": "-унчулорго",
+        "accusative": "-унчулорду",
+        "locative": "-унчулордо",
+        "ablative": "-унчулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-үнчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D2%AF%D0%BD%D1%87%D2%AF",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-үнчүнүн",
+        "dative": "-үнчүгө",
+        "accusative": "-үнчүнү",
+        "locative": "-үнчүдө",
+        "ablative": "-үнчүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-үнчүлөрдүн",
+        "dative": "-үнчүлөргө",
+        "accusative": "-үнчүлөрдү",
+        "locative": "-үнчүлөрдө",
+        "ablative": "-үнчүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-нчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D1%8B",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-005",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-нчынын",
+        "dative": "-нчыга",
+        "accusative": "-нчыны",
+        "locative": "-нчыда",
+        "ablative": "-нчыдан"
+      },
+      "pluralForms": {
+        "genitive": "-нчылардын",
+        "dative": "-нчыларга",
+        "accusative": "-нчыларды",
+        "locative": "-нчыларда",
+        "ablative": "-нчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-нчи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D0%B8",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-006",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-нчинин",
+        "dative": "-нчиге",
+        "accusative": "-нчини",
+        "locative": "-нчиде",
+        "ablative": "-нчиден"
+      },
+      "pluralForms": {
+        "genitive": "-нчилердин",
+        "dative": "-нчилерге",
+        "accusative": "-нчилерди",
+        "locative": "-нчилерде",
+        "ablative": "-нчилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-нчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D1%83",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-007",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-нчунун",
+        "dative": "-нчуго",
+        "accusative": "-нчуну",
+        "locative": "-нчудо",
+        "ablative": "-нчудон"
+      },
+      "pluralForms": {
+        "genitive": "-нчулордун",
+        "dative": "-нчулорго",
+        "accusative": "-нчулорду",
+        "locative": "-нчулордо",
+        "ablative": "-нчулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ый",
+    "ky": "-нчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D2%AF",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ый-008",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-нчүнүн",
+        "dative": "-нчүгө",
+        "accusative": "-нчүнү",
+        "locative": "-нчүдө",
+        "ablative": "-нчүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-нчүлөрдүн",
+        "dative": "-нчүлөргө",
+        "accusative": "-нчүлөрдү",
+        "locative": "-нчүлөрдө",
+        "ablative": "-нчүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-ынчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%8B%D0%BD%D1%87%D1%8B",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-ынчынын",
+        "dative": "-ынчыга",
+        "accusative": "-ынчыны",
+        "locative": "-ынчыда",
+        "ablative": "-ынчыдан"
+      },
+      "pluralForms": {
+        "genitive": "-ынчылардын",
+        "dative": "-ынчыларга",
+        "accusative": "-ынчыларды",
+        "locative": "-ынчыларда",
+        "ablative": "-ынчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-инчи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B8%D0%BD%D1%87%D0%B8",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-инчинин",
+        "dative": "-инчиге",
+        "accusative": "-инчини",
+        "locative": "-инчиде",
+        "ablative": "-инчиден"
+      },
+      "pluralForms": {
+        "genitive": "-инчилердин",
+        "dative": "-инчилерге",
+        "accusative": "-инчилерди",
+        "locative": "-инчилерде",
+        "ablative": "-инчилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-унчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%83%D0%BD%D1%87%D1%83",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-унчунун",
+        "dative": "-унчуго",
+        "accusative": "-унчуну",
+        "locative": "-унчудо",
+        "ablative": "-унчудон"
+      },
+      "pluralForms": {
+        "genitive": "-унчулордун",
+        "dative": "-унчулорго",
+        "accusative": "-унчулорду",
+        "locative": "-унчулордо",
+        "ablative": "-унчулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-үнчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D2%AF%D0%BD%D1%87%D2%AF",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-үнчүнүн",
+        "dative": "-үнчүгө",
+        "accusative": "-үнчүнү",
+        "locative": "-үнчүдө",
+        "ablative": "-үнчүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-үнчүлөрдүн",
+        "dative": "-үнчүлөргө",
+        "accusative": "-үнчүлөрдү",
+        "locative": "-үнчүлөрдө",
+        "ablative": "-үнчүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-нчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D1%8B",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-005",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-нчынын",
+        "dative": "-нчыга",
+        "accusative": "-нчыны",
+        "locative": "-нчыда",
+        "ablative": "-нчыдан"
+      },
+      "pluralForms": {
+        "genitive": "-нчылардын",
+        "dative": "-нчыларга",
+        "accusative": "-нчыларды",
+        "locative": "-нчыларда",
+        "ablative": "-нчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-нчи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D0%B8",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-006",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-нчинин",
+        "dative": "-нчиге",
+        "accusative": "-нчини",
+        "locative": "-нчиде",
+        "ablative": "-нчиден"
+      },
+      "pluralForms": {
+        "genitive": "-нчилердин",
+        "dative": "-нчилерге",
+        "accusative": "-нчилерди",
+        "locative": "-нчилерде",
+        "ablative": "-нчилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-нчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D1%83",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-007",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-нчунун",
+        "dative": "-нчуго",
+        "accusative": "-нчуну",
+        "locative": "-нчудо",
+        "ablative": "-нчудон"
+      },
+      "pluralForms": {
+        "genitive": "-нчулордун",
+        "dative": "-нчулорго",
+        "accusative": "-нчулорду",
+        "locative": "-нчулордо",
+        "ablative": "-нчулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ой",
+    "ky": "-нчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D2%AF",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ой-008",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-нчүнүн",
+        "dative": "-нчүгө",
+        "accusative": "-нчүнү",
+        "locative": "-нчүдө",
+        "ablative": "-нчүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-нчүлөрдүн",
+        "dative": "-нчүлөргө",
+        "accusative": "-нчүлөрдү",
+        "locative": "-нчүлөрдө",
+        "ablative": "-нчүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-ынчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%8B%D0%BD%D1%87%D1%8B",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-001",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-ынчынын",
+        "dative": "-ынчыга",
+        "accusative": "-ынчыны",
+        "locative": "-ынчыда",
+        "ablative": "-ынчыдан"
+      },
+      "pluralForms": {
+        "genitive": "-ынчылардын",
+        "dative": "-ынчыларга",
+        "accusative": "-ынчыларды",
+        "locative": "-ынчыларда",
+        "ablative": "-ынчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-инчи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B8%D0%BD%D1%87%D0%B8",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-002",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-инчинин",
+        "dative": "-инчиге",
+        "accusative": "-инчини",
+        "locative": "-инчиде",
+        "ablative": "-инчиден"
+      },
+      "pluralForms": {
+        "genitive": "-инчилердин",
+        "dative": "-инчилерге",
+        "accusative": "-инчилерди",
+        "locative": "-инчилерде",
+        "ablative": "-инчилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-унчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%83%D0%BD%D1%87%D1%83",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-003",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-унчунун",
+        "dative": "-унчуго",
+        "accusative": "-унчуну",
+        "locative": "-унчудо",
+        "ablative": "-унчудон"
+      },
+      "pluralForms": {
+        "genitive": "-унчулордун",
+        "dative": "-унчулорго",
+        "accusative": "-унчулорду",
+        "locative": "-унчулордо",
+        "ablative": "-унчулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-үнчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D2%AF%D0%BD%D1%87%D2%AF",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-004",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-үнчүнүн",
+        "dative": "-үнчүгө",
+        "accusative": "-үнчүнү",
+        "locative": "-үнчүдө",
+        "ablative": "-үнчүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-үнчүлөрдүн",
+        "dative": "-үнчүлөргө",
+        "accusative": "-үнчүлөрдү",
+        "locative": "-үнчүлөрдө",
+        "ablative": "-үнчүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-нчы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D1%8B",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-005",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-нчынын",
+        "dative": "-нчыга",
+        "accusative": "-нчыны",
+        "locative": "-нчыда",
+        "ablative": "-нчыдан"
+      },
+      "pluralForms": {
+        "genitive": "-нчылардын",
+        "dative": "-нчыларга",
+        "accusative": "-нчыларды",
+        "locative": "-нчыларда",
+        "ablative": "-нчылардан"
+      },
+      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-нчи",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D0%B8",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-006",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-нчинин",
+        "dative": "-нчиге",
+        "accusative": "-нчини",
+        "locative": "-нчиде",
+        "ablative": "-нчиден"
+      },
+      "pluralForms": {
+        "genitive": "-нчилердин",
+        "dative": "-нчилерге",
+        "accusative": "-нчилерди",
+        "locative": "-нчилерде",
+        "ablative": "-нчилерден"
+      },
+      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-нчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D1%83",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-007",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-нчунун",
+        "dative": "-нчуго",
+        "accusative": "-нчуну",
+        "locative": "-нчудо",
+        "ablative": "-нчудон"
+      },
+      "pluralForms": {
+        "genitive": "-нчулордун",
+        "dative": "-нчулорго",
+        "accusative": "-нчулорду",
+        "locative": "-нчулордо",
+        "ablative": "-нчулордон"
+      },
+      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ий",
+    "ky": "-нчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D1%87%D2%AF",
+    "senses": [
+      "used to form the ordinal numeral"
+    ],
+    "id": "ru--ий-008",
+    "morphology": {
+      "stemType": "vowel",
+      "vowelGroup": 4,
+      "forms": {
+        "genitive": "-нчүнүн",
+        "dative": "-нчүгө",
+        "accusative": "-нчүнү",
+        "locative": "-нчүдө",
+        "ablative": "-нчүдөн"
+      },
+      "pluralForms": {
+        "genitive": "-нчүлөрдүн",
+        "dative": "-нчүлөргө",
+        "accusative": "-нчүлөрдү",
+        "locative": "-нчүлөрдө",
+        "ablative": "-нчүлөрдөн"
+      },
+      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-педия",
+    "ky": "-педия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F",
+    "senses": [
+      "Translations"
+    ],
+    "id": "ru--педия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-педиядин",
+        "dative": "-педияге",
+        "accusative": "-педияди",
+        "locative": "-педияде",
+        "ablative": "-педияден"
+      },
+      "pluralForms": {
+        "genitive": "-педиядердин",
+        "dative": "-педиядерге",
+        "accusative": "-педиядерди",
+        "locative": "-педиядерде",
+        "ablative": "-педиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-номия",
+    "ky": "-номия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F",
+    "senses": [
+      "system of rules, laws, or knowledge about a particular field"
+    ],
+    "id": "ru--номия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-номиядин",
+        "dative": "-номияге",
+        "accusative": "-номияди",
+        "locative": "-номияде",
+        "ablative": "-номияден"
+      },
+      "pluralForms": {
+        "genitive": "-номиядердин",
+        "dative": "-номиядерге",
+        "accusative": "-номиядерди",
+        "locative": "-номиядерде",
+        "ablative": "-номиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-арх",
+    "ky": "-арх",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B0%D1%80%D1%85",
+    "senses": [
+      "leading, leader"
+    ],
+    "id": "ru--арх-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-архтын",
+        "dative": "-архка",
+        "accusative": "-архты",
+        "locative": "-архта",
+        "ablative": "-архтан"
+      },
+      "pluralForms": {
+        "genitive": "-архтардын",
+        "dative": "-архтарга",
+        "accusative": "-архтарды",
+        "locative": "-архтарда",
+        "ablative": "-архтардан"
+      },
+      "rule": "Основа на глухую согласную -х, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-кратия",
+    "ky": "-кратия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F",
+    "senses": [
+      "rule"
+    ],
+    "id": "ru--кратия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-кратиядин",
+        "dative": "-кратияге",
+        "accusative": "-кратияди",
+        "locative": "-кратияде",
+        "ablative": "-кратияден"
+      },
+      "pluralForms": {
+        "genitive": "-кратиядердин",
+        "dative": "-кратиядерге",
+        "accusative": "-кратиядерди",
+        "locative": "-кратиядерде",
+        "ablative": "-кратиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-скоп",
+    "ky": "-скоп",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D0%BA%D0%BE%D0%BF",
+    "senses": [
+      "suffix to name viewing instruments"
+    ],
+    "id": "ru--скоп-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-скоптун",
+        "dative": "-скопко",
+        "accusative": "-скопту",
+        "locative": "-скопто",
+        "ablative": "-скоптон"
+      },
+      "pluralForms": {
+        "genitive": "-скоптордун",
+        "dative": "-скопторго",
+        "accusative": "-скопторду",
+        "locative": "-скоптордо",
+        "ablative": "-скоптордон"
+      },
+      "rule": "Основа на глухую согласную -п, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-логический",
+    "ky": "-логиялык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "used to form adjectival forms of nouns"
+    ],
+    "id": "ru--логический-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-логиялыктын",
+        "dative": "-логиялыкка",
+        "accusative": "-логиялыкты",
+        "locative": "-логиялыкта",
+        "ablative": "-логиялыктан"
+      },
+      "pluralForms": {
+        "genitive": "-логиялыктардын",
+        "dative": "-логиялыктарга",
+        "accusative": "-логиялыктарды",
+        "locative": "-логиялыктарда",
+        "ablative": "-логиялыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-истан",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "used in actual place names"
+    ],
+    "id": "ru--истан-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-стан",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "used in actual place names"
+    ],
+    "id": "ru--стан-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-морфизм",
+    "ky": "-морфизм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC",
+    "senses": [
+      "Translations"
+    ],
+    "id": "ru--морфизм-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-морфизмдин",
+        "dative": "-морфизмге",
+        "accusative": "-морфизмди",
+        "locative": "-морфизмде",
+        "ablative": "-морфизмден"
+      },
+      "pluralForms": {
+        "genitive": "-морфизмдердин",
+        "dative": "-морфизмдерге",
+        "accusative": "-морфизмдерди",
+        "locative": "-морфизмдерде",
+        "ablative": "-морфизмдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-дром",
+    "ky": "-дром",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B4%D1%80%D0%BE%D0%BC",
+    "senses": [
+      "suffix"
+    ],
+    "id": "ru--дром-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 3,
+      "forms": {
+        "genitive": "-дромдун",
+        "dative": "-дромго",
+        "accusative": "-дромду",
+        "locative": "-дромдо",
+        "ablative": "-дромдон"
+      },
+      "pluralForms": {
+        "genitive": "-дромдордун",
+        "dative": "-дромдорго",
+        "accusative": "-дромдорду",
+        "locative": "-дромдордо",
+        "ablative": "-дромдордон"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-архия",
+    "ky": "-архия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B0%D1%80%D1%85%D0%B8%D1%8F",
+    "senses": [
+      "form of government or rule"
+    ],
+    "id": "ru--архия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-архиядин",
+        "dative": "-архияге",
+        "accusative": "-архияди",
+        "locative": "-архияде",
+        "ablative": "-архияден"
+      },
+      "pluralForms": {
+        "genitive": "-архиядердин",
+        "dative": "-архиядерге",
+        "accusative": "-архиядерди",
+        "locative": "-архиядерде",
+        "ablative": "-архиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-графия",
+    "ky": "-графия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+    "senses": [
+      "Suffix denoting a written or represented in the specified manner, or about a specified subject"
+    ],
+    "id": "ru--графия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-графиядин",
+        "dative": "-графияге",
+        "accusative": "-графияди",
+        "locative": "-графияде",
+        "ablative": "-графияден"
+      },
+      "pluralForms": {
+        "genitive": "-графиядердин",
+        "dative": "-графиядерге",
+        "accusative": "-графиядерди",
+        "locative": "-графиядерде",
+        "ablative": "-графиядерден"
+      },
+      "rule": "Основа на звонкую согласную -я, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-навт",
+    "ky": "-навт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D0%B0%D0%B2%D1%82",
+    "senses": [
+      "forms nouns meaning a voyager, farer or tripper"
+    ],
+    "id": "ru--навт-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-навттын",
+        "dative": "-навтка",
+        "accusative": "-навтты",
+        "locative": "-навтта",
+        "ablative": "-навттан"
+      },
+      "pluralForms": {
+        "genitive": "-навттардын",
+        "dative": "-навттарга",
+        "accusative": "-навттарды",
+        "locative": "-навттарда",
+        "ablative": "-навттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-навтка",
+    "ky": "-навт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%BD%D0%B0%D0%B2%D1%82",
+    "senses": [
+      "forms nouns meaning a voyager, farer or tripper"
+    ],
+    "id": "ru--навтка-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-навттын",
+        "dative": "-навтка",
+        "accusative": "-навтты",
+        "locative": "-навтта",
+        "ablative": "-навттан"
+      },
+      "pluralForms": {
+        "genitive": "-навттардын",
+        "dative": "-навттарга",
+        "accusative": "-навттарды",
+        "locative": "-навттарда",
+        "ablative": "-навттардан"
+      },
+      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-центризм",
+    "ky": "-центризм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D0%B7%D0%BC",
+    "senses": [
+      "Translations"
+    ],
+    "id": "ru--центризм-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 2,
+      "forms": {
+        "genitive": "-центризмдин",
+        "dative": "-центризмге",
+        "accusative": "-центризмди",
+        "locative": "-центризмде",
+        "ablative": "-центризмден"
+      },
+      "pluralForms": {
+        "genitive": "-центризмдердин",
+        "dative": "-центризмдерге",
+        "accusative": "-центризмдерди",
+        "locative": "-центризмдерде",
+        "ablative": "-центризмдерден"
+      },
+      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ландия",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "territory, country or region (suffix)"
+    ],
+    "id": "ru--ландия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ляндия",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "territory, country or region (suffix)"
+    ],
+    "id": "ru--ляндия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-лэнд",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "territory, country or region (suffix)"
+    ],
+    "id": "ru--лэнд-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ланд",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "territory, country or region (suffix)"
+    ],
+    "id": "ru--ланд-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ленд",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "territory, country or region (suffix)"
+    ],
+    "id": "ru--ленд-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-ия",
+    "ky": "-стан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD",
+    "senses": [
+      "territory, country or region (suffix)"
+    ],
+    "id": "ru--ия-001",
+    "morphology": {
+      "stemType": "voiced",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-стандын",
+        "dative": "-станга",
+        "accusative": "-станды",
+        "locative": "-станда",
+        "ablative": "-стандан"
+      },
+      "pluralForms": {
+        "genitive": "-стандардын",
+        "dative": "-стандарга",
+        "accusative": "-стандарды",
+        "locative": "-стандарда",
+        "ablative": "-стандардан"
+      },
+      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
+    }
+  },
+  {
+    "ru": "-графический",
+    "ky": "-графиялык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
+    "senses": [
+      "suffix"
+    ],
+    "id": "ru--графический-001",
+    "morphology": {
+      "stemType": "voiceless",
+      "vowelGroup": 1,
+      "forms": {
+        "genitive": "-графиялыктын",
+        "dative": "-графиялыкка",
+        "accusative": "-графиялыкты",
+        "locative": "-графиялыкта",
+        "ablative": "-графиялыктан"
+      },
+      "pluralForms": {
+        "genitive": "-графиялыктардын",
+        "dative": "-графиялыктарга",
+        "accusative": "-графиялыктарды",
+        "locative": "-графиялыктарда",
+        "ablative": "-графиялыктардан"
+      },
+      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
+    }
+  }
+]
