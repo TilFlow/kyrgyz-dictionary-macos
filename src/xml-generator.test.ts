@@ -63,23 +63,29 @@ describe("generateEntry", () => {
 
   test("includes d:index for ru word, ky word, and all morphological forms", () => {
     const xml = generateEntry(fullEntry);
-    // ru word index
-    expect(xml).toContain('<d:index d:value="книга"/>');
+    // ru word index (d:title = headword "книга" for ru-ky direction)
+    expect(xml).toContain('d:value="книга" d:title="книга"');
     // ky word index
-    expect(xml).toContain('<d:index d:value="китеп"/>');
+    expect(xml).toContain('d:value="китеп" d:title="книга"');
     // singular forms
-    expect(xml).toContain('<d:index d:value="китептин"/>');
-    expect(xml).toContain('<d:index d:value="китепке"/>');
-    expect(xml).toContain('<d:index d:value="китепти"/>');
-    expect(xml).toContain('<d:index d:value="китепте"/>');
-    expect(xml).toContain('<d:index d:value="китептен"/>');
-    // plural forms
-    expect(xml).toContain('<d:index d:value="китептер"/>');
-    expect(xml).toContain('<d:index d:value="китептердин"/>');
-    expect(xml).toContain('<d:index d:value="китептерге"/>');
-    expect(xml).toContain('<d:index d:value="китептерди"/>');
-    expect(xml).toContain('<d:index d:value="китептерде"/>');
-    expect(xml).toContain('<d:index d:value="китептерден"/>');
+    expect(xml).toContain('d:value="китептин"');
+    expect(xml).toContain('d:value="китепке"');
+    expect(xml).toContain('d:value="китепти"');
+    expect(xml).toContain('d:value="китепте"');
+    expect(xml).toContain('d:value="китептен"');
+    // plural nominative
+    expect(xml).toContain('d:value="китептер"');
+    // plural case forms
+    expect(xml).toContain('d:value="китептердин"');
+    expect(xml).toContain('d:value="китептерге"');
+    expect(xml).toContain('d:value="китептерди"');
+    expect(xml).toContain('d:value="китептерде"');
+    expect(xml).toContain('d:value="китептерден"');
+    // all indices have d:title
+    const indexCount = (xml.match(/d:index/g) || []).length;
+    const titleCount = (xml.match(/d:title="/g) || []).length;
+    // Each d:index has d:title, plus d:entry has d:title = indexCount + 1
+    expect(titleCount).toBe(indexCount + 1);
   });
 
   test("has d:priority='1' span with compact view", () => {
@@ -142,8 +148,8 @@ describe("generateEntry", () => {
   test("works for minimal entry without optional fields", () => {
     const xml = generateEntry(minimalEntry);
     expect(xml).toContain('<d:entry id="ru-да-001"');
-    expect(xml).toContain('<d:index d:value="да"/>');
-    expect(xml).toContain('<d:index d:value="ооба"/>');
+    expect(xml).toContain('d:value="да" d:title="да"');
+    expect(xml).toContain('d:value="ооба" d:title="да"');
     expect(xml).toContain("межд.");
     // Should not contain optional sections
     expect(xml).not.toContain("Морфология");
@@ -151,6 +157,26 @@ describe("generateEntry", () => {
     expect(xml).not.toContain("Этимология");
     expect(xml).not.toContain("Словообразование");
     expect(xml).not.toContain("wiktionary-link");
+  });
+
+  test("includes verb conjugation forms in d:index for verb entries", () => {
+    const verbEntry: DictionaryEntry = {
+      id: "ru-идти-001",
+      ru: "идти",
+      ky: "баруу",
+      pos: "verb",
+      source: "wiktionary-en",
+    };
+    const xml = generateEntry(verbEntry);
+    expect(xml).toContain('d:value="идти"');
+    expect(xml).toContain('d:value="баруу"');
+    expect(xml).toContain('d:value="барат"');
+    expect(xml).toContain('d:value="барды"');
+    expect(xml).toContain('d:value="барган"');
+    expect(xml).toContain('d:value="барбайт"');
+    expect(xml).toContain('d:value="барылат"');
+    const indexMatches = xml.match(/d:index/g) || [];
+    expect(indexMatches.length).toBeGreaterThan(10);
   });
 
   test("escapes XML special characters in all text fields", () => {

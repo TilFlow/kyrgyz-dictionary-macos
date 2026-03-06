@@ -8,6 +8,8 @@ import {
   generatePossessiveCaseForms,
   generateRule,
   enrichEntry,
+  extractVerbStem,
+  generateVerbForms,
 } from "./morphology";
 import type { DictionaryEntry } from "./schema";
 
@@ -242,5 +244,127 @@ describe("enrichEntry", () => {
     };
     const enriched = enrichEntry(entry);
     expect(enriched.morphology).toBeUndefined();
+  });
+});
+
+describe("extractVerbStem", () => {
+  test("strips -уу infinitive suffix", () => {
+    expect(extractVerbStem("баруу")).toBe("бар");
+    expect(extractVerbStem("алуу")).toBe("ал");
+  });
+
+  test("strips -үү infinitive suffix", () => {
+    expect(extractVerbStem("берүү")).toBe("бер");
+    expect(extractVerbStem("билүү")).toBe("бил");
+  });
+
+  test("strips -оо/-өө infinitive suffix", () => {
+    expect(extractVerbStem("суроо")).toBe("сура");
+    expect(extractVerbStem("иштөө")).toBe("иште");
+  });
+
+  test("returns word as-is if no infinitive suffix", () => {
+    expect(extractVerbStem("бар")).toBe("бар");
+    expect(extractVerbStem("кел")).toBe("кел");
+  });
+
+  test("strips trailing hyphens", () => {
+    expect(extractVerbStem("кеч-")).toBe("кеч");
+  });
+
+  test("handles compound verbs", () => {
+    expect(extractVerbStem("забастовка чыгаруу")).toBe("забастовка чыгар");
+    expect(extractVerbStem("иш ташто")).toBe("иш ташто");
+  });
+});
+
+describe("generateVerbForms", () => {
+  test("бар (voiced, group 1): present aorist forms", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("барам");
+    expect(forms).toContain("барасың");
+    expect(forms).toContain("барат");
+    expect(forms).toContain("барабыз");
+    expect(forms).toContain("барасыңар");
+  });
+
+  test("бар: definite past forms", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("бардым");
+    expect(forms).toContain("бардың");
+    expect(forms).toContain("барды");
+    expect(forms).toContain("бардык");
+    expect(forms).toContain("бардыңар");
+  });
+
+  test("бар: general past (participle)", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("барган");
+  });
+
+  test("бар: future and conditional", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("барар");
+    expect(forms).toContain("барса");
+    expect(forms).toContain("барсам");
+  });
+
+  test("бер (voiced, group 2): vowel harmony", () => {
+    const forms = generateVerbForms("берүү");
+    expect(forms).toContain("берет");
+    expect(forms).toContain("берди");
+    expect(forms).toContain("берген");
+    expect(forms).toContain("берер");
+    expect(forms).toContain("берсе");
+  });
+
+  test("өткөр: passive forms (the original failing lookup)", () => {
+    const forms = generateVerbForms("өткөрүү");
+    expect(forms).toContain("өткөрүлөт");
+    expect(forms).toContain("өткөрүлдү");
+    expect(forms).toContain("өткөрүлгөн");
+  });
+
+  test("negation forms", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("барбайт");
+    expect(forms).toContain("барбады");
+    expect(forms).toContain("барбаган");
+  });
+
+  test("causative forms", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("бардырат");
+    expect(forms).toContain("бардырды");
+  });
+
+  test("non-finite forms", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("барып");
+    expect(forms).toContain("барганча");
+  });
+
+  test("compound verb conjugation", () => {
+    const forms = generateVerbForms("иш таштоо");
+    expect(forms).toContain("иш таштайт");
+    expect(forms).toContain("иш таштады");
+  });
+
+  test("irregular verb: де → дейт", () => {
+    const forms = generateVerbForms("деуу");
+    expect(forms).toContain("дейт");
+    expect(forms).toContain("деди");
+    expect(forms).toContain("деген");
+  });
+
+  test("bare stem verb works", () => {
+    const forms = generateVerbForms("бар");
+    expect(forms).toContain("барат");
+    expect(forms).toContain("барды");
+  });
+
+  test("generates 80+ unique forms per simple verb", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms.length).toBeGreaterThanOrEqual(80);
   });
 });

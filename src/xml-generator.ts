@@ -1,5 +1,5 @@
 import type { DictionaryEntry } from "./schema";
-import { classifyStem, generatePossessiveCaseForms } from "./morphology";
+import { classifyStem, generatePlural, generatePossessiveCaseForms, generateVerbForms } from "./morphology";
 
 export type DictDirection = "ru-ky" | "ky-ru" | "en-ky" | "ky-en";
 
@@ -60,7 +60,7 @@ function escapeXml(text: string): string {
     .replace(/'/g, "&apos;");
 }
 
-function generateIndexElements(entry: DictionaryEntry): string {
+function generateIndexElements(entry: DictionaryEntry, direction: DictDirection = "ru-ky"): string {
   const indices = new Set<string>();
   indices.add(entry.ru);
   indices.add(entry.ky);
@@ -76,16 +76,25 @@ function generateIndexElements(entry: DictionaryEntry): string {
     }
   }
 
-  // Generate possessive + case forms at build time for indexing
+  // Generate plural nominative + possessive + case forms at build time for indexing
   if (entry.pos === "noun") {
     const stem = classifyStem(entry.ky);
+    indices.add(generatePlural(entry.ky, stem));
     for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
       indices.add(form);
     }
   }
 
+  // Generate verb conjugation forms at build time for indexing
+  if (entry.pos === "verb") {
+    for (const form of generateVerbForms(entry.ky)) {
+      indices.add(form);
+    }
+  }
+
+  const title = direction === "ky-ru" ? entry.ky : entry.ru;
   return Array.from(indices)
-    .map((v) => `<d:index d:value="${escapeXml(v)}"/>`)
+    .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(title)}"/>`)
     .join("\n");
 }
 
@@ -263,7 +272,7 @@ ${rows.join("\n")}
 }
 
 export function generateEntry(entry: DictionaryEntry, direction: DictDirection = "ru-ky"): string {
-  const indices = generateIndexElements(entry);
+  const indices = generateIndexElements(entry, direction);
   const compact = generateCompactView(entry, direction);
   const full = generateFullView(entry, direction);
   const title = direction === "ky-ru" ? entry.ky : entry.ru;
@@ -358,12 +367,18 @@ function generateEnKyEntryXml(entry: EnKyEntry, index: number): string {
   const indexSet = new Set<string>([entry.en, entry.ky]);
   if (entry.pos === "noun") {
     const stem = classifyStem(entry.ky);
+    indexSet.add(generatePlural(entry.ky, stem));
     for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
       indexSet.add(form);
     }
   }
+  if (entry.pos === "verb") {
+    for (const form of generateVerbForms(entry.ky)) {
+      indexSet.add(form);
+    }
+  }
   const indices = Array.from(indexSet)
-    .map((v) => `<d:index d:value="${escapeXml(v)}"/>`)
+    .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(entry.en)}"/>`)
     .join("\n");
 
   // Compact view
@@ -456,12 +471,18 @@ function generateKyEnEntryXml(entry: EnKyEntry, index: number): string {
   const indexSet = new Set<string>([entry.ky, entry.en]);
   if (entry.pos === "noun") {
     const stem = classifyStem(entry.ky);
+    indexSet.add(generatePlural(entry.ky, stem));
     for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
       indexSet.add(form);
     }
   }
+  if (entry.pos === "verb") {
+    for (const form of generateVerbForms(entry.ky)) {
+      indexSet.add(form);
+    }
+  }
   const indices = Array.from(indexSet)
-    .map((v) => `<d:index d:value="${escapeXml(v)}"/>`)
+    .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(entry.ky)}"/>`)
     .join("\n");
 
   // Compact view — Kyrgyz headword, English translation

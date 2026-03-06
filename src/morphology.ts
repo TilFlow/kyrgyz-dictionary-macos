@@ -301,6 +301,236 @@ export function generateRule(
   );
 }
 
+// ── Verb morphology ────────────────────────────────────────────────
+
+const INFINITIVE_ENDINGS = ["уу", "үү", "оо", "өө"];
+
+const IRREGULAR_VERBS: Record<string, { stem: string; presentStem: string }> = {
+  "де":  { stem: "де",  presentStem: "дей" },
+  "же":  { stem: "же",  presentStem: "жей" },
+};
+
+/**
+ * Extract the verb stem from a Kyrgyz verb.
+ * Infinitives end in -уу/-үү/-оо/-өө; stem = strip last 2 chars.
+ * Compound verbs: operate on the last word only.
+ * Bare stems (e.g. "бар", "кеч-") returned cleaned of trailing hyphens.
+ */
+export function extractVerbStem(word: string): string {
+  const cleaned = word.replace(/-$/, "");
+  const spaceIdx = cleaned.lastIndexOf(" ");
+
+  function stripInfinitive(w: string): string {
+    // -оо → stem originally ended in -а; -өө → stem ended in -е
+    if (w.endsWith("оо") && w.length > 2) return w.slice(0, -2) + "а";
+    if (w.endsWith("өө") && w.length > 2) return w.slice(0, -2) + "е";
+    // -уу/-үү → consonant-final stem, just strip
+    if (w.endsWith("уу") && w.length > 2) return w.slice(0, -2);
+    if (w.endsWith("үү") && w.length > 2) return w.slice(0, -2);
+    return w;
+  }
+
+  if (spaceIdx === -1) {
+    return stripInfinitive(cleaned);
+  }
+
+  const prefix = cleaned.slice(0, spaceIdx + 1);
+  const lastWord = cleaned.slice(spaceIdx + 1);
+  return prefix + stripInfinitive(lastWord);
+}
+
+// Verb suffix tables
+
+// Definite past: stem + {D}{I}
+const V_PAST: Record<StemType, string[]> = {
+  vowel:     ["ды", "ди", "ду", "дү"],
+  voiced:    ["ды", "ди", "ду", "дү"],
+  voiceless: ["ты", "ти", "ту", "тү"],
+};
+
+// General past / participle: stem + {G}{A}н
+const V_PARTICIPLE: Record<StemType, string[]> = {
+  vowel:     ["ган", "ген", "гон", "гөн"],
+  voiced:    ["ган", "ген", "гон", "гөн"],
+  voiceless: ["кан", "кен", "кон", "көн"],
+};
+
+// Future: stem + {A}р
+const V_FUTURE: Record<StemType, string[]> = {
+  vowel:     ["р", "р", "р", "р"],
+  voiced:    ["ар", "ер", "ор", "өр"],
+  voiceless: ["ар", "ер", "ор", "өр"],
+};
+
+// Conditional: stem + с{A}
+const V_CONDITIONAL: Record<StemType, string[]> = {
+  vowel:     ["са", "се", "со", "сө"],
+  voiced:    ["са", "се", "со", "сө"],
+  voiceless: ["са", "се", "со", "сө"],
+};
+
+// Negation: stem + {B}{A}
+const V_NEGATION: Record<StemType, string[]> = {
+  vowel:     ["ба", "бе", "бо", "бө"],
+  voiced:    ["ба", "бе", "бо", "бө"],
+  voiceless: ["па", "пе", "по", "пө"],
+};
+
+// Gerund: stem + {I}п
+const V_GERUND: Record<StemType, string[]> = {
+  vowel:     ["п", "п", "п", "п"],
+  voiced:    ["ып", "ип", "уп", "үп"],
+  voiceless: ["ып", "ип", "уп", "үп"],
+};
+
+// Passive: stem + {I}л
+const V_PASSIVE: Record<StemType, string[]> = {
+  vowel:     ["л", "л", "л", "л"],
+  voiced:    ["ыл", "ил", "ул", "үл"],
+  voiceless: ["ыл", "ил", "ул", "үл"],
+};
+
+// Causative: stem + {D}{I}р
+const V_CAUSATIVE: Record<StemType, string[]> = {
+  vowel:     ["тыр", "тир", "тур", "түр"],
+  voiced:    ["дыр", "дир", "дур", "дүр"],
+  voiceless: ["тыр", "тир", "тур", "түр"],
+};
+
+// Link vowels by vowel group (used for present tense stem)
+const LINK_VOWELS = ["а", "е", "о", "ө"];
+
+function addPresentForms(
+  forms: Set<string>,
+  stem: string,
+  stemInfo: StemInfo,
+  prefix: string,
+): void {
+  const irregular = IRREGULAR_VERBS[stem];
+  let base: string;
+
+  if (irregular?.presentStem) {
+    base = prefix + irregular.presentStem;
+  } else if (stemInfo.stemType === "vowel") {
+    // Vowel-final stems use -й- link: ташта+й+т, иште+й+т
+    base = prefix + stem + "й";
+  } else {
+    base = prefix + stem + LINK_VOWELS[stemInfo.vowelGroup - 1];
+  }
+
+  forms.add(base + "м");
+  forms.add(base + "сың");
+  forms.add(base + "т");
+  forms.add(base + "быз");
+  forms.add(base + "сыңар");
+}
+
+function addPastForms(
+  forms: Set<string>,
+  stem: string,
+  stemInfo: StemInfo,
+  prefix: string,
+): void {
+  const pastSuffix = getSuffix(V_PAST, stemInfo);
+  const base = prefix + stem + pastSuffix;
+  // Person: 1sg -м, 2sg -ң, 3sg ∅, 1pl -к, 2pl -ңар
+  forms.add(base + "м");
+  forms.add(base + "ң");
+  forms.add(base);
+  forms.add(base + "к");
+  forms.add(base + "ңар");
+}
+
+function conjugateAll(
+  forms: Set<string>,
+  stem: string,
+  stemInfo: StemInfo,
+  prefix: string,
+): void {
+  addPresentForms(forms, stem, stemInfo, prefix);
+  addPastForms(forms, stem, stemInfo, prefix);
+
+  // General past / participle
+  const participle = prefix + stem + getSuffix(V_PARTICIPLE, stemInfo);
+  forms.add(participle);
+
+  // Future
+  forms.add(prefix + stem + getSuffix(V_FUTURE, stemInfo));
+
+  // Conditional + person
+  const cond = prefix + stem + getSuffix(V_CONDITIONAL, stemInfo);
+  forms.add(cond);
+  forms.add(cond + "м");
+  forms.add(cond + "ң");
+  forms.add(cond + "к");
+  forms.add(cond + "ңар");
+
+  // Gerund
+  forms.add(prefix + stem + getSuffix(V_GERUND, stemInfo));
+
+  // Until-gerund: participle + ча/че
+  const untilV = ["а", "е", "о", "ө"];
+  forms.add(participle + "ч" + untilV[stemInfo.vowelGroup - 1]);
+}
+
+/**
+ * Generate all conjugated forms of a Kyrgyz verb for indexing.
+ * Covers: active/passive/causative × 5 tenses × 5 persons + negation + non-finite forms.
+ */
+export function generateVerbForms(word: string): string[] {
+  const forms = new Set<string>();
+  const fullStem = extractVerbStem(word);
+
+  const spaceIdx = fullStem.lastIndexOf(" ");
+  const prefix = spaceIdx === -1 ? "" : fullStem.slice(0, spaceIdx + 1);
+  const stem = spaceIdx === -1 ? fullStem : fullStem.slice(spaceIdx + 1);
+  const stemInfo = classifyStem(stem);
+
+  // Active voice
+  conjugateAll(forms, stem, stemInfo, prefix);
+
+  // Passive voice: stem + {I}л
+  const passiveStem = stem + getSuffix(V_PASSIVE, stemInfo);
+  const passiveInfo = classifyStem(passiveStem);
+  conjugateAll(forms, passiveStem, passiveInfo, prefix);
+
+  // Causative voice: stem + {D}{I}р
+  const causativeStem = stem + getSuffix(V_CAUSATIVE, stemInfo);
+  const causativeInfo = classifyStem(causativeStem);
+  conjugateAll(forms, causativeStem, causativeInfo, prefix);
+
+  // Negation (active): stem + {B}{A} + й + person (special present)
+  const negSuffix = getSuffix(V_NEGATION, stemInfo);
+  const negStem = stem + negSuffix;
+  const negInfo = classifyStem(negStem);
+  // Neg present: -байт/-бейт etc.
+  const negPresBase = prefix + negStem + "й";
+  forms.add(negPresBase + "м");
+  forms.add(negPresBase + "сың");
+  forms.add(negPresBase + "т");
+  forms.add(negPresBase + "быз");
+  forms.add(negPresBase + "сыңар");
+  // Neg past/participle/future/conditional
+  addPastForms(forms, negStem, negInfo, prefix);
+  forms.add(prefix + negStem + getSuffix(V_PARTICIPLE, negInfo));
+  forms.add(prefix + negStem + getSuffix(V_FUTURE, negInfo));
+  const negCond = prefix + negStem + getSuffix(V_CONDITIONAL, negInfo);
+  forms.add(negCond);
+  forms.add(negCond + "м");
+  forms.add(negCond + "ң");
+  forms.add(prefix + negStem + getSuffix(V_GERUND, negInfo));
+
+  // Negation (passive)
+  const negPassiveStem = passiveStem + getSuffix(V_NEGATION, passiveInfo);
+  const negPassiveInfo = classifyStem(negPassiveStem);
+  const negPassPresBase = prefix + negPassiveStem + "й";
+  forms.add(negPassPresBase + "т");
+  addPastForms(forms, negPassiveStem, negPassiveInfo, prefix);
+  forms.add(prefix + negPassiveStem + getSuffix(V_PARTICIPLE, negPassiveInfo));
+
+  return Array.from(forms);
+}
+
 /**
  * Enrich a DictionaryEntry with morphological data if it's a noun without morphology.
  */
