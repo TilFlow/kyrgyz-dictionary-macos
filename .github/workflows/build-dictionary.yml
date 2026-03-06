@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: bun install
 
-      - name: Build XML (both dictionaries)
+      - name: Build XML (all dictionaries)
         run: bun run build
 
       - name: Clone Dictionary Development Kit
@@ -38,12 +38,14 @@ jobs:
           ls -lh objects/
 
       - name: Compile en-ky dictionary
+        if: hashFiles('dist/en-ky/MyDictionary.xml') != ''
         run: |
           cd dist/en-ky
           /tmp/DictionaryDevelopmentKit/bin/build_dict.sh "English-Kyrgyz Dictionary" MyDictionary.xml dictionary.css Info.plist
           ls -lh objects/
 
       - name: Compile ky-en dictionary
+        if: hashFiles('dist/ky-en/MyDictionary.xml') != ''
         run: |
           cd dist/ky-en
           /tmp/DictionaryDevelopmentKit/bin/build_dict.sh "Kyrgyz-English Dictionary" MyDictionary.xml dictionary.css Info.plist
@@ -53,10 +55,12 @@ jobs:
         run: |
           mkdir -p release
           for dir in ru-ky ky-ru en-ky ky-en; do
-            cd dist/$dir/objects
-            DICT_DIR=$(ls -d *.dictionary)
-            zip -r ../../../release/$dir-dictionary-macos.zip "$DICT_DIR"
-            cd ../../..
+            if [ -d "dist/$dir/objects" ]; then
+              cd dist/$dir/objects
+              DICT_DIR=$(ls -d *.dictionary)
+              zip -r ../../../release/$dir-dictionary-macos.zip "$DICT_DIR"
+              cd ../../..
+            fi
           done
 
       - name: Upload artifacts

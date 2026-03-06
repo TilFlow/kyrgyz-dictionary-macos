@@ -34,7 +34,8 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .DS_Store
 
 # data (downloaded and extracted by `bun run update`)
-data/
+data/*
+!data/en-ky-pairs.json
 
 # compiled dictionary
 *.dictionary
