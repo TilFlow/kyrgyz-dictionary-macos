@@ -472,6 +472,13 @@ const V_CAUSATIVE: Record<StemType, string[]> = {
   voiceless: ["тыр", "тир", "тур", "түр"],
 };
 
+// Reciprocal/collective: stem + {I}ш
+const V_RECIPROCAL: Record<StemType, string[]> = {
+  vowel:     ["ш", "ш", "ш", "ш"],
+  voiced:    ["ыш", "иш", "уш", "үш"],
+  voiceless: ["ыш", "иш", "уш", "үш"],
+};
+
 // Link vowels by vowel group (used for present tense stem)
 const LINK_VOWELS = ["а", "е", "о", "ө"];
 
@@ -550,7 +557,7 @@ function conjugateAll(
 
 /**
  * Generate all conjugated forms of a Kyrgyz verb for indexing.
- * Covers: active/passive/causative × 5 tenses × 5 persons + negation + non-finite forms.
+ * Covers: active/passive/causative/reciprocal × 5 tenses × 5 persons + negation + non-finite forms.
  */
 export function generateVerbForms(word: string): string[] {
   const forms = new Set<string>();
@@ -573,6 +580,11 @@ export function generateVerbForms(word: string): string[] {
   const causativeStem = stem + getSuffix(V_CAUSATIVE, stemInfo);
   const causativeInfo = classifyStem(causativeStem);
   conjugateAll(forms, causativeStem, causativeInfo, prefix);
+
+  // Reciprocal/collective voice: stem + {I}ш
+  const reciprocalStem = stem + getSuffix(V_RECIPROCAL, stemInfo);
+  const reciprocalInfo = classifyStem(reciprocalStem);
+  conjugateAll(forms, reciprocalStem, reciprocalInfo, prefix);
 
   // Negation (active): stem + {B}{A} + й + person (special present)
   const negSuffix = getSuffix(V_NEGATION, stemInfo);

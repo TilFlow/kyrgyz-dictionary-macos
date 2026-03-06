@@ -432,6 +432,25 @@ describe("generateVerbForms", () => {
     expect(forms).toContain("барды");
   });
 
+  test("күтүү: collective voice forms (күтүшөт, күтүштү)", () => {
+    const forms = generateVerbForms("күтүү");
+    expect(forms).toContain("күтүшөт");    // collective present 3sg
+    expect(forms).toContain("күтүштү");    // collective past 3sg
+    expect(forms).toContain("күтүшкөн");   // collective participle
+  });
+
+  test("баруу: collective voice forms (барышат)", () => {
+    const forms = generateVerbForms("баруу");
+    expect(forms).toContain("барышат");     // collective present 3sg
+    expect(forms).toContain("барышты");     // collective past 3sg
+  });
+
+  test("иштөө: collective voice forms (vowel stem)", () => {
+    const forms = generateVerbForms("иштөө");
+    expect(forms).toContain("иштешет");     // collective present 3sg
+    expect(forms).toContain("иштешти");     // collective past 3sg
+  });
+
   test("generates 80+ unique forms per simple verb", () => {
     const forms = generateVerbForms("баруу");
     expect(forms.length).toBeGreaterThanOrEqual(80);
