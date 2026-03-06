@@ -1,38 +1,27 @@
 /*
- * Kyrgyz Dictionary — Apple Dictionary.app Stylesheet
+ * TilFlow Kyrgyz Dictionary — Apple Dictionary.app Stylesheet
  *
- * Supports compact popup (d:priority="1") and full view (d:priority="2").
- * Dark mode via Apple's prefers-dark-interface (popup/panel) and
- * standard prefers-color-scheme (full Dictionary.app window).
+ * Dark mode approach: disable apple-color-filter, use prefers-color-scheme
+ * instead. Inspired by wayneclub/Apple-Dictionary (MIT license).
  */
 
-/* ── Apple Dictionary.app dark mode (popup & panel) ──────────────── */
-/* This is the primary dark mode mechanism for Dictionary.app.
-   prefers-color-scheme does NOT work in the popup/panel view.
-   apple-invert-lightness() automatically inverts all lightness values. */
+@namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
 
-@media (prefers-dark-interface) {
-  html {
-    -apple-color-filter: apple-invert-lightness();
-  }
-  a:link {
-    -apple-color-filter: none;
-    color: #2997ff;
-  }
+/* ── Reset Apple's auto-inversion ────────────────────────────────── */
+
+html {
+  background: transparent !important;
+  -apple-color-filter: none !important;
 }
 
 /* ── Base ─────────────────────────────────────────────────────────── */
 
-:root {
-  color-scheme: light dark;
-}
-
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.55;
   color: #1d1d1f;
-  background-color: transparent;
+  padding: 8px 0;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -41,11 +30,21 @@ body {
   }
 }
 
+/* Panel (three-finger tap popup) adjustments */
+html.apple_client-panel body {
+  padding: 0 4px;
+}
+
+a {
+  text-decoration: none;
+}
+
 /* ── Headword ─────────────────────────────────────────────────────── */
 
 h1.hw {
   font-size: 1.6em;
   font-weight: 700;
+  line-height: 1.3;
   margin: 0 0 2px;
   display: inline;
   color: #1d1d1f;
@@ -57,11 +56,16 @@ h1.hw {
   }
 }
 
+html.apple_client-panel h1.hw {
+  font-size: 1.35em;
+  line-height: 1.2;
+}
+
 /* ── Pronunciation ────────────────────────────────────────────────── */
 
 .pronunciation {
-  font-style: italic;
-  color: #6e6e73;
+  font-size: 0.95em;
+  color: #636366;
   margin-left: 6px;
 }
 
@@ -75,40 +79,66 @@ h1.hw {
 
 .pos {
   display: inline-block;
-  font-size: 0.78em;
-  font-weight: 500;
-  color: #86868b;
-  background: #f5f5f7;
-  border-radius: 4px;
-  padding: 1px 6px;
+  font-size: 0.72em;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+  background: #636366;
+  border-radius: 3px;
+  padding: 1px 5px;
   margin-left: 6px;
   vertical-align: middle;
+  letter-spacing: 0.02em;
 }
 
 @media (prefers-color-scheme: dark) {
   .pos {
-    color: #a1a1a6;
-    background: #38383a;
+    color: #fff;
+    background: #636366;
   }
 }
 
-/* ── Compact popup (priority 1) ───────────────────────────────────── */
+html.apple_client-panel .pos {
+  font-size: 0.68em;
+}
+
+/* ── Senses (numbered definitions) ───────────────────────────────── */
+
+ol.senses {
+  margin: 6px 0 6px 20px;
+  padding: 0;
+  color: #1d1d1f;
+}
+
+ol.senses li {
+  margin-bottom: 3px;
+  padding-left: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  ol.senses {
+    color: #f5f5f7;
+  }
+}
+
+/* ── Compact popup (d:priority="1") ──────────────────────────────── */
 
 .forms-brief {
-  color: #6e6e73;
-  font-size: 0.9em;
+  color: #636366;
+  font-size: 0.88em;
   margin-left: 4px;
 }
 
 .brief-morph {
   font-size: 0.85em;
-  color: #6e6e73;
+  color: #636366;
   margin: 4px 0 0;
 }
 
 .brief-rule {
   font-size: 0.82em;
-  color: #86868b;
+  color: #8e8e93;
+  font-style: italic;
   margin: 2px 0 0;
 }
 
@@ -122,30 +152,12 @@ h1.hw {
   }
 }
 
-/* ── Senses list (shared) ─────────────────────────────────────────── */
-
-ol.senses {
-  margin: 4px 0 4px 18px;
-  padding: 0;
-  color: #1d1d1f;
-}
-
-ol.senses li {
-  margin-bottom: 2px;
-}
-
-@media (prefers-color-scheme: dark) {
-  ol.senses {
-    color: #f5f5f7;
-  }
-}
-
-/* ── Full view (priority 2) ───────────────────────────────────────── */
+/* ── Full entry (d:priority="2") ─────────────────────────────────── */
 
 .full-entry {
   margin-top: 10px;
   border-top: 1px solid #d2d2d7;
-  padding-top: 8px;
+  padding-top: 10px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -154,19 +166,19 @@ ol.senses li {
   }
 }
 
-/* ── Sections ─────────────────────────────────────────────────────── */
+/* ── Section headers ─────────────────────────────────────────────── */
 
 .section {
-  margin-bottom: 12px;
+  margin-bottom: 14px;
 }
 
 .section-header {
-  font-size: 0.85em;
+  font-size: 0.82em;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
-  color: #86868b;
-  margin: 0 0 4px;
+  letter-spacing: 0.04em;
+  color: #8e8e93;
+  margin: 0 0 6px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -178,7 +190,7 @@ ol.senses li {
 /* ── Sense description ───────────────────────────────────────────── */
 
 .sense {
-  color: #6e6e73;
+  color: #636366;
   font-size: 0.92em;
   margin: 2px 0 8px;
 }
@@ -193,7 +205,7 @@ ol.senses li {
 
 .frequency {
   font-size: 0.85em;
-  color: #86868b;
+  color: #8e8e93;
   margin: 4px 0;
 }
 
@@ -206,34 +218,35 @@ ol.senses li {
 /* ── Examples ─────────────────────────────────────────────────────── */
 
 .example {
-  margin: 3px 0;
-  font-size: 0.95em;
+  margin: 5px 0;
+  font-size: 0.93em;
+  line-height: 1.45;
 }
 
 .example .ky {
-  font-weight: 500;
+  font-style: italic;
   color: #1d1d1f;
 }
 
 .example .ru {
-  color: #6e6e73;
+  color: #636366;
 }
 
 @media (prefers-color-scheme: dark) {
   .example .ky {
-    color: #f5f5f7;
+    color: #e5e5ea;
   }
   .example .ru {
     color: #a1a1a6;
   }
 }
 
-/* ── Morphology table ─────────────────────────────────────────────── */
+/* ── Morphology table ────────────────────────────────────────────── */
 
 .morph-table {
   border-collapse: collapse;
-  font-size: 0.9em;
-  margin: 4px 0 6px;
+  font-size: 0.88em;
+  margin: 6px 0 8px;
   width: 100%;
   max-width: 420px;
 }
@@ -241,37 +254,40 @@ ol.senses li {
 .morph-table th,
 .morph-table td {
   border: 1px solid #d2d2d7;
-  padding: 3px 8px;
+  padding: 4px 8px;
   text-align: left;
   color: #1d1d1f;
 }
 
 .morph-table th {
-  background: #f5f5f7;
+  background: #f2f2f7;
   font-weight: 600;
-  font-size: 0.92em;
+  font-size: 0.9em;
+  color: #636366;
 }
 
 @media (prefers-color-scheme: dark) {
   .morph-table th,
   .morph-table td {
     border-color: #48484a;
-    color: #f5f5f7;
+    color: #e5e5ea;
   }
   .morph-table th {
     background: #2c2c2e;
+    color: #a1a1a6;
   }
 }
 
 .morph-rule {
-  font-size: 0.85em;
-  color: #6e6e73;
-  margin: 2px 0 0;
+  font-size: 0.83em;
+  color: #8e8e93;
+  font-style: italic;
+  margin: 4px 0 0;
 }
 
 @media (prefers-color-scheme: dark) {
   .morph-rule {
-    color: #a1a1a6;
+    color: #8e8e93;
   }
 }
 
@@ -283,19 +299,27 @@ ul.derivations {
 }
 
 ul.derivations li {
-  margin-bottom: 2px;
+  margin-bottom: 3px;
+  color: #1d1d1f;
+}
+
+@media (prefers-color-scheme: dark) {
+  ul.derivations li {
+    color: #e5e5ea;
+  }
 }
 
 /* ── Etymology ────────────────────────────────────────────────────── */
 
 .etymology {
-  font-size: 0.93em;
-  color: #3a3a3c;
+  font-size: 0.91em;
+  color: #48484a;
+  font-style: italic;
 }
 
 @media (prefers-color-scheme: dark) {
   .etymology {
-    color: #d1d1d6;
+    color: #c7c7cc;
   }
 }
 
@@ -303,9 +327,9 @@ ul.derivations li {
 
 .wiktionary-link {
   display: inline-block;
-  margin-top: 8px;
+  margin-top: 10px;
   font-size: 0.85em;
-  color: #0071e3;
+  color: #007aff;
   text-decoration: none;
 }
 
@@ -315,6 +339,6 @@ ul.derivations li {
 
 @media (prefers-color-scheme: dark) {
   .wiktionary-link {
-    color: #2997ff;
+    color: #0a84ff;
   }
 }
