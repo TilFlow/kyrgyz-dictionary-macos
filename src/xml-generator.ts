@@ -498,7 +498,16 @@ export function generateDictionary(entries: DictionaryEntry[], direction: DictDi
       .map((group) => generateMergedEntry(group, direction))
       .join("\n");
   } else {
-    entryXml = entries.map((e) => generateEntry(e, direction)).join("\n");
+    // ru-ky: group by Russian headword
+    const groups = new Map<string, DictionaryEntry[]>();
+    for (const entry of entries) {
+      const key = entry.ru.toLowerCase();
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key)!.push(entry);
+    }
+    entryXml = [...groups.values()]
+      .map((group) => generateMergedEntry(group, direction))
+      .join("\n");
   }
 
   const footer = "</d:dictionary>";
@@ -726,14 +735,160 @@ ${full}
 </d:entry>`;
 }
 
+/**
+ * Generate a merged d:entry for a group of EnKyEntry sharing the same headword.
+ * direction determines which field is the headword (en for en-ky, ky for ky-en).
+ */
+function generateMergedEnKyEntry(
+  group: EnKyEntry[],
+  direction: "en-ky" | "ky-en",
+  startIndex: number,
+): string {
+  const primary = group[0];
+  const id = direction === "en-ky"
+    ? `en-ky-${startIndex.toString().padStart(6, "0")}`
+    : `ky-en-${startIndex.toString().padStart(6, "0")}`;
+
+  const headword = direction === "en-ky" ? primary.en : primary.ky;
+  const titleField = headword;
+
+  // Collect all indices from all entries
+  const allIndexValues = new Set<string>();
+  for (const entry of group) {
+    allIndexValues.add(entry.en);
+    allIndexValues.add(entry.ky);
+    if (entry.pos === "noun") {
+      const stem = classifyStem(entry.ky);
+      allIndexValues.add(generatePlural(entry.ky, stem));
+      for (const form of generatePossessiveCaseForms(entry.ky, stem)) allIndexValues.add(form);
+      for (const form of generateAttributiveForms(entry.ky, stem)) allIndexValues.add(form);
+      for (const form of generatePluralCaseForms(entry.ky, stem)) allIndexValues.add(form);
+      for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) allIndexValues.add(form);
+    }
+    if (entry.pos === "verb") {
+      for (const form of generateVerbForms(entry.ky)) allIndexValues.add(form);
+    }
+  }
+  const indices = Array.from(allIndexValues)
+    .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(titleField)}"/>`)
+    .join("\n");
+
+  // Collect unique POS labels
+  const posLabels = [...new Set(group.map((e) => e.pos ? (POS_LABELS_EN[e.pos] ?? e.pos) : "").filter(Boolean))];
+
+  // Compact view
+  const compactParts: string[] = [];
+  compactParts.push(`<h1 class="hw">${escapeXml(headword)}</h1>`);
+  if (primary.pronunciation) {
+    compactParts.push(`<span class="pronunciation">${escapeXml(primary.pronunciation)}</span>`);
+  }
+  if (posLabels.length > 0) {
+    compactParts.push(`<span class="pos">${escapeXml(posLabels.join(", "))}</span>`);
+  }
+
+  // Merged translations
+  const translations = direction === "en-ky"
+    ? [...new Set(group.map((e) => e.ky))]
+    : [...new Set(group.map((e) => e.en))];
+  compactParts.push(`<ol class="senses">${translations.map((t) => `<li>${escapeXml(t)}</li>`).join("")}</ol>`);
+
+  const compact = `<span d:priority="1">\n${compactParts.join("\n")}\n</span>`;
+
+  // Full view
+  const sections: string[] = [];
+
+  // Translation section
+  sections.push(
+    `<div class="section">
+<h3 class="section-header">Translation</h3>
+<ol class="senses">${translations.map((t) => `<li>${escapeXml(t)}</li>`).join("")}</ol>
+</div>`
+  );
+
+  // Senses from all entries
+  const allSenses = [...new Set(group.map((e) => e.sense).filter(Boolean))];
+  if (allSenses.length > 0) {
+    sections.push(`<p class="sense"><em>${allSenses.map((s) => escapeXml(s)).join("; ")}</em></p>`);
+  }
+
+  // Pronunciation
+  if (primary.pronunciation) {
+    sections.push(
+      `<div class="section">
+<h3 class="section-header">Pronunciation</h3>
+<p class="pronunciation">${escapeXml(primary.pronunciation)}</p>
+</div>`
+    );
+  }
+
+  // Examples from all entries
+  const allExamples = group.flatMap((e) => e.examples ?? []);
+  if (allExamples.length > 0) {
+    const exItems = allExamples
+      .map((ex) => `<div class="example"><span class="ky">${escapeXml(ex.ky)}</span> — <span class="ru">${escapeXml(ex.ru)}</span></div>`)
+      .join("\n");
+    sections.push(
+      `<div class="section">
+<h3 class="section-header">Examples</h3>
+${exItems}
+</div>`
+    );
+  }
+
+  // Frequency — max from group
+  const maxFreq = Math.max(...group.map((e) => e.frequency ?? 0));
+  if (maxFreq > 0) {
+    sections.push(`<p class="frequency">Corpus frequency: ${maxFreq}</p>`);
+  }
+
+  // Etymology — first available
+  const etymEntry = group.find((e) => e.etymology);
+  if (etymEntry) {
+    sections.push(
+      `<div class="section">
+<h3 class="section-header">Etymology</h3>
+<p class="etymology">${escapeXml(etymEntry.etymology!)}</p>
+</div>`
+    );
+  }
+
+  // Wiktionary link
+  if (primary.wiktionaryUrl) {
+    sections.push(`<a class="wiktionary-link" href="${escapeXml(primary.wiktionaryUrl)}">Wiktionary ↗</a>`);
+  }
+
+  const full = `<div d:priority="2" class="full-entry">\n${sections.join("\n")}\n</div>`;
+
+  return `<d:entry id="${escapeXml(id)}" d:title="${escapeXml(titleField)}">
+${indices}
+${compact}
+${full}
+</d:entry>`;
+}
+
 export function generateKyEnDictionary(entries: EnKyEntry[]): string {
   const header = `<?xml version="1.0" encoding="UTF-8"?>
 <d:dictionary xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" xmlns="http://www.w3.org/1999/xhtml">`;
 
   const frontMatter = generateFrontMatter("ky-en");
-  const entryXml = entries.map((e, i) => generateKyEnEntryXml(e, i)).join("\n");
-  const footer = "</d:dictionary>";
 
+  // Group by Kyrgyz headword
+  const groups = new Map<string, EnKyEntry[]>();
+  for (const entry of entries) {
+    const key = entry.ky.toLowerCase();
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key)!.push(entry);
+  }
+  let idx = 0;
+  const entryXml = [...groups.values()]
+    .map((group) => {
+      const xml = generateMergedEnKyEntry(group, "ky-en", idx);
+      idx++;
+      return xml;
+    })
+    .join("\n");
+
+  const footer = "</d:dictionary>";
   return `${header}\n${frontMatter}\n${entryXml}\n${footer}\n`;
 }
 
@@ -742,8 +897,23 @@ export function generateEnKyDictionary(entries: EnKyEntry[]): string {
 <d:dictionary xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" xmlns="http://www.w3.org/1999/xhtml">`;
 
   const frontMatter = generateFrontMatter("en-ky");
-  const entryXml = entries.map((e, i) => generateEnKyEntryXml(e, i)).join("\n");
-  const footer = "</d:dictionary>";
 
+  // Group by English headword
+  const groups = new Map<string, EnKyEntry[]>();
+  for (const entry of entries) {
+    const key = entry.en.toLowerCase();
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key)!.push(entry);
+  }
+  let idx = 0;
+  const entryXml = [...groups.values()]
+    .map((group) => {
+      const xml = generateMergedEnKyEntry(group, "en-ky", idx);
+      idx++;
+      return xml;
+    })
+    .join("\n");
+
+  const footer = "</d:dictionary>";
   return `${header}\n${frontMatter}\n${entryXml}\n${footer}\n`;
 }
