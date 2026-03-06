@@ -89,10 +89,17 @@ function getSuffix(table: Record<StemType, string[]>, stem: { stemType: string; 
   return table[stem.stemType as StemType][(stem.vowelGroup as number) - 1];
 }
 
+// Irregular plural forms (the final vowel drops before the suffix)
+const IRREGULAR_PLURALS: Record<string, string> = {
+  "бала": "балдар",
+};
+
 /**
  * Generate the plural form of a Kyrgyz noun.
  */
 export function generatePlural(word: string, stem: { stemType: string; vowelGroup: number }): string {
+  if (IRREGULAR_PLURALS[word]) return IRREGULAR_PLURALS[word];
+
   // Sonant consonants р and й take vowel-type plural suffix (-лар) in Kyrgyz
   const lastChar = word[word.length - 1];
   if (lastChar === "р" || lastChar === "й") {

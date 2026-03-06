@@ -519,13 +519,19 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
     const sensesHtml = translations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
     compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
   } else {
-    // Multiple POS — separate group per POS, each with own label and list
+    // Multiple POS — inline layout: "сущ. выбор · гл. 1. выбрать 2. выбирать"
+    const groups: string[] = [];
     for (const [pos, translations] of posEntries) {
       const posLabel = POS_LABELS[pos] ?? pos;
-      compactParts.push(`<span class="pos">${escapeXml(posLabel)}</span>`);
-      const sensesHtml = translations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
-      compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
+      let senses: string;
+      if (translations.length === 1) {
+        senses = escapeXml(translations[0]);
+      } else {
+        senses = translations.map((s, i) => `${i + 1}. ${escapeXml(s)}`).join(" ");
+      }
+      groups.push(`<span class="pos-inline">${escapeXml(posLabel)}</span> ${senses}`);
     }
+    compactParts.push(`<p class="pos-groups">${groups.join(' <span class="pos-sep">▪</span> ')}</p>`);
   }
 
   const compact = `<span d:priority="1">\n${compactParts.join("\n")}\n</span>`;

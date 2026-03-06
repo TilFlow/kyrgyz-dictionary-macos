@@ -102,6 +102,39 @@ html.apple_client-panel .pos {
   font-size: 0.68em;
 }
 
+/* ── Inline POS (multi-POS compact view) ─────────────────────────── */
+
+.pos-inline {
+  font-style: italic;
+  font-size: 0.88em;
+  color: #636366;
+  font-weight: 500;
+}
+
+@media (prefers-color-scheme: dark) {
+  .pos-inline {
+    color: #a1a1a6;
+  }
+}
+
+.pos-groups {
+  margin: 4px 0 2px;
+  line-height: 1.5;
+}
+
+.pos-sep {
+  color: #c7c7cc;
+  font-size: 0.7em;
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .pos-sep {
+    color: #636366;
+  }
+}
+
 /* ── Senses (numbered definitions) ───────────────────────────────── */
 
 ol.senses {
