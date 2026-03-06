@@ -151,10 +151,10 @@ function scoreAndDedupTranslations(
     return a.text.length - b.text.length;
   });
 
-  // Stem dedup: keep first of each stem cluster
+  // Stem dedup: keep first of each stem cluster, within each POS group
   const result: ScoredTranslation[] = [];
   for (const item of scored) {
-    if (!result.some((r) => areStemRelated(r.text, item.text))) {
+    if (!result.some((r) => r.pos === item.pos && areStemRelated(r.text, item.text))) {
       result.push(item);
     }
   }
@@ -519,15 +519,13 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
     const sensesHtml = translations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
     compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
   } else {
-    // Multiple POS — group with labels
-    const posLabels = posEntries.map(([p]) => POS_LABELS[p] ?? p);
-    compactParts.push(`<span class="pos">${escapeXml(posLabels.join(", "))}</span>`);
-    const parts: string[] = [];
+    // Multiple POS — separate group per POS, each with own label and list
     for (const [pos, translations] of posEntries) {
       const posLabel = POS_LABELS[pos] ?? pos;
-      parts.push(`<li class="pos-group"><span class="pos-inline">${escapeXml(posLabel)}</span> ${translations.map((t) => escapeXml(t)).join(", ")}</li>`);
+      compactParts.push(`<span class="pos">${escapeXml(posLabel)}</span>`);
+      const sensesHtml = translations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
+      compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
     }
-    compactParts.push(`<ol class="senses">${parts.join("")}</ol>`);
   }
 
   const compact = `<span d:priority="1">\n${compactParts.join("\n")}\n</span>`;
