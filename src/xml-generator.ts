@@ -60,6 +60,20 @@ function escapeXml(text: string): string {
     .replace(/'/g, "&apos;");
 }
 
+function capitalize(s: string): string {
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+function deduplicateCI(items: string[]): string[] {
+  const seen = new Set<string>();
+  return items.filter((t) => {
+    const key = t.toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  }).map(capitalize);
+}
+
 function collectIndexValues(entry: DictionaryEntry): Set<string> {
   const indices = new Set<string>();
   indices.add(entry.ru);
@@ -389,41 +403,87 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
     compactParts.push(`<span class="pronunciation">${escapeXml(primary.pronunciation)}</span>`);
   }
 
-  // Collect unique POS labels
-  const posLabels = [...new Set(group.map((e) => POS_LABELS[e.pos] ?? e.pos))];
-  compactParts.push(`<span class="pos">${escapeXml(posLabels.join(", "))}</span>`);
-
   if (primary.morphology?.pluralForms?.nominative) {
     compactParts.push(
       `<span class="forms-brief">(мн. ${escapeXml(primary.morphology.pluralForms.nominative)})</span>`
     );
   }
 
-  // Merge all translations into one numbered list
-  const allTranslations = direction === "ky-ru"
-    ? group.map((e) => e.ru)
-    : group.map((e) => e.ky);
-  const uniqueTranslations = [...new Set(allTranslations)];
-  const sensesHtml = uniqueTranslations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
-  compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
+  // Group entries by POS, deduplicate translations case-insensitively, capitalize
+  const byPos = new Map<string, string[]>();
+  for (const entry of group) {
+    const pos = entry.pos;
+    if (!byPos.has(pos)) byPos.set(pos, []);
+    const translation = direction === "ky-ru" ? entry.ru : entry.ky;
+    byPos.get(pos)!.push(translation);
+  }
+  for (const [pos, translations] of byPos) {
+    byPos.set(pos, deduplicateCI(translations));
+  }
+
+  // Render grouped by POS
+  const posEntries = [...byPos.entries()];
+  if (posEntries.length === 1) {
+    // Single POS — simple list
+    const [pos, translations] = posEntries[0];
+    const posLabel = POS_LABELS[pos] ?? pos;
+    compactParts.push(`<span class="pos">${escapeXml(posLabel)}</span>`);
+    const sensesHtml = translations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
+    compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
+  } else {
+    // Multiple POS — group with labels
+    const posLabels = posEntries.map(([p]) => POS_LABELS[p] ?? p);
+    compactParts.push(`<span class="pos">${escapeXml(posLabels.join(", "))}</span>`);
+    let senseNum = 1;
+    const parts: string[] = [];
+    for (const [pos, translations] of posEntries) {
+      const posLabel = POS_LABELS[pos] ?? pos;
+      parts.push(`<li class="pos-group"><span class="pos-inline">${escapeXml(posLabel)}</span> ${translations.map((t) => escapeXml(t)).join(", ")}</li>`);
+    }
+    compactParts.push(`<ol class="senses">${parts.join("")}</ol>`);
+  }
 
   const compact = `<span d:priority="1">\n${compactParts.join("\n")}\n</span>`;
 
   // Full view: merged sections
   const fullSections: string[] = [];
 
-  // Translation section — all unique translations
-  const header = direction === "ky-ru" ? "Перевод" : "Перевод";
-  const allItems = direction === "ky-ru"
-    ? group.flatMap((e) => [e.ru, ...(e.senses ?? [])])
-    : group.flatMap((e) => [e.ky, ...(e.senses ?? [])]);
-  const uniqueItems = [...new Set(allItems)];
-  fullSections.push(
-    `<div class="section">
-<h3 class="section-header">${header}</h3>
-<ol class="senses">${uniqueItems.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>
+  // Translation section — grouped by POS, case-insensitive dedup
+  const fullByPos = new Map<string, string[]>();
+  for (const entry of group) {
+    const pos = entry.pos;
+    if (!fullByPos.has(pos)) fullByPos.set(pos, []);
+    const items = direction === "ky-ru"
+      ? [entry.ru, ...(entry.senses ?? [])]
+      : [entry.ky, ...(entry.senses ?? [])];
+    fullByPos.get(pos)!.push(...items);
+  }
+  for (const [pos, items] of fullByPos) {
+    fullByPos.set(pos, deduplicateCI(items));
+  }
+  const fullPosEntries = [...fullByPos.entries()];
+  if (fullPosEntries.length === 1) {
+    const [, items] = fullPosEntries[0];
+    fullSections.push(
+      `<div class="section">
+<h3 class="section-header">Перевод</h3>
+<ol class="senses">${items.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>
 </div>`
-  );
+    );
+  } else {
+    const parts: string[] = [];
+    for (const [pos, items] of fullPosEntries) {
+      const posLabel = POS_LABELS[pos] ?? pos;
+      parts.push(`<p class="pos-label">${escapeXml(posLabel)}</p>
+<ol class="senses">${items.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>`);
+    }
+    fullSections.push(
+      `<div class="section">
+<h3 class="section-header">Перевод</h3>
+${parts.join("\n")}
+</div>`
+    );
+  }
 
   // Examples — collect from all entries
   const allExamples = group.flatMap((e) => e.examples ?? []);
