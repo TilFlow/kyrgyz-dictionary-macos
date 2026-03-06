@@ -85,3 +85,15 @@ jobs:
             2. Unzip
             3. Copy `.dictionary` to `~/Library/Dictionaries/`
             4. Open Dictionary.app → Preferences → Enable the dictionary
+
+            ### Установка
+            1. Скачайте архив
+            2. Распакуйте
+            3. Скопируйте `.dictionary` в `~/Library/Dictionaries/`
+            4. Откройте Dictionary.app → Настройки → Включите словарь
+
+            ### Орнотуу
+            1. Архивди жүктөп алыңыз
+            2. Архивди ачыңыз
+            3. `.dictionary` файлын `~/Library/Dictionaries/` папкасына көчүрүңүз
+            4. Dictionary.app → Preferences → Сөздүктү иштетиңиз
