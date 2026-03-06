@@ -7,6 +7,7 @@ import {
   generatePossessiveForms,
   generatePossessiveCaseForms,
   generateAttributiveForms,
+  generatePluralPossessiveCaseForms,
   generateRule,
   enrichEntry,
   extractVerbStem,
@@ -222,6 +223,39 @@ describe("generateAttributiveForms", () => {
     const forms = generateAttributiveForms("китеп", { stemType: "voiceless", vowelGroup: 2 });
     expect(forms).toContain("китептеги");
     expect(forms).toContain("китептердеги");
+  });
+});
+
+describe("generatePluralPossessiveCaseForms", () => {
+  test("мусулман (voiced, group 1): plural+3sg poss+cases", () => {
+    const stem = classifyStem("мусулман");
+    const forms = generatePluralPossessiveCaseForms("мусулман", stem);
+    expect(forms).toContain("мусулмандары");       // pl+3sg poss nom
+    expect(forms).toContain("мусулмандарынын");    // pl+3sg poss gen
+    expect(forms).toContain("мусулмандарына");     // pl+3sg poss dat
+    expect(forms).toContain("мусулмандарын");      // pl+3sg poss acc
+    expect(forms).toContain("мусулмандарында");    // pl+3sg poss loc
+    expect(forms).toContain("мусулмандарынан");    // pl+3sg poss abl
+  });
+
+  test("иш (voiced, group 2): plural+3sg poss", () => {
+    const stem = classifyStem("иш");
+    const forms = generatePluralPossessiveCaseForms("иш", stem);
+    expect(forms).toContain("иштери");             // pl+3sg poss nom
+    expect(forms).toContain("иштеринин");          // pl+3sg poss gen
+  });
+
+  test("тармак (voiceless, group 1): plural+3sg poss+loc", () => {
+    const stem = classifyStem("тармак");
+    const forms = generatePluralPossessiveCaseForms("тармак", stem);
+    expect(forms).toContain("тармактары");         // pl+3sg poss nom
+    expect(forms).toContain("тармактарында");      // pl+3sg poss loc
+  });
+
+  test("generates 7+ forms (nom + 5 cases + attributive)", () => {
+    const stem = classifyStem("мусулман");
+    const forms = generatePluralPossessiveCaseForms("мусулман", stem);
+    expect(forms.length).toBeGreaterThanOrEqual(7);
   });
 });
 

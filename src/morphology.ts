@@ -302,6 +302,43 @@ export function generateAttributiveForms(
   return Array.from(forms);
 }
 
+/**
+ * Generate plural + 3sg possessive + case chain forms.
+ * E.g., мусулман → мусулмандар+ы (nom), мусулмандар+ы+нын (gen), etc.
+ * Also includes attributive on the poss+locative form.
+ */
+export function generatePluralPossessiveCaseForms(
+  word: string,
+  stem: StemInfo,
+): string[] {
+  const forms = new Set<string>();
+  const vgIdx = stem.vowelGroup - 1;
+
+  // 1. Generate plural form (always ends in р = voiced)
+  const plural = generatePlural(word, stem);
+  const pluralStem: StemInfo = {
+    stemType: "voiced",
+    vowelGroup: stem.vowelGroup as VowelGroup,
+  };
+
+  // 2. Add 3sg possessive on plural stem: voiced → -ы/-и/-у/-ү
+  const poss3sg = plural + getSuffix(POSS_3SG, pluralStem);
+  forms.add(poss3sg);
+
+  // 3. Poss3sg is vowel-final, so linking-н case suffixes apply
+  forms.add(poss3sg + POSS3_GENITIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_DATIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_ACCUSATIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_LOCATIVE[vgIdx]);
+  forms.add(poss3sg + POSS3_ABLATIVE[vgIdx]);
+
+  // 4. Attributive on poss+locative form
+  const poss3Locative = poss3sg + POSS3_LOCATIVE[vgIdx];
+  forms.add(poss3Locative + ATTRIBUTIVE_SUFFIX[vgIdx]);
+
+  return Array.from(forms);
+}
+
 const STEM_TYPE_LABELS: Record<StemType, string> = {
   vowel: "гласную",
   voiced: "звонкую согласную",
