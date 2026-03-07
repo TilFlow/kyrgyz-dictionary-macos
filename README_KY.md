@@ -51,6 +51,10 @@ macOS Dictionary.app учун ачык маалыматтардан курулг
 | [OpenRussian.org](https://github.com/Badestrand/russian-dictionary) | CC BY-SA 4.0 |
 | [Manas-UdS Kyrgyz Corpus](https://fedora.clarin-d.uni-saarland.de/kyrgyz/) | CC BY-NC-SA 4.0 |
 
+## Ыраазычылык
+
+Маалыматтарды изилдөө, пайплайн архитектурасы жана код [Claude](https://claude.ai) (Anthropic) жардамы менен иштелип чыкты.
+
 ## Лицензия
 
 CC BY-NC-SA 4.0 (Manas-UdS корпусу талап кылат). [LICENSE](LICENSE) караңыз.

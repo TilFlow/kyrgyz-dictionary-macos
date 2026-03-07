@@ -51,6 +51,10 @@ Features:
 | [OpenRussian.org](https://github.com/Badestrand/russian-dictionary) | CC BY-SA 4.0 |
 | [Manas-UdS Kyrgyz Corpus](https://fedora.clarin-d.uni-saarland.de/kyrgyz/) | CC BY-NC-SA 4.0 |
 
+## Acknowledgements
+
+Data research, pipeline architecture, and code were developed with the help of [Claude](https://claude.ai) (Anthropic).
+
 ## License
 
 CC BY-NC-SA 4.0 (required by Manas-UdS corpus). See [LICENSE](LICENSE).

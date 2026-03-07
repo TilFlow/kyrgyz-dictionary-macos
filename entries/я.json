@@ -2148,5 +2148,16 @@
       "school where foreign languages are taught"
     ],
     "id": "ru-языковая школа-001"
+  },
+  {
+    "ru": "ярмарка",
+    "ky": "жарманке",
+    "pos": "noun",
+    "source": "manual",
+    "senses": [
+      "периодически устраиваемый торг"
+    ],
+    "ruGender": "f",
+    "id": "ru-ярмарка-005"
   }
 ]

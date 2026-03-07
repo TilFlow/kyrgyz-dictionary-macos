@@ -51,6 +51,10 @@
 | [OpenRussian.org](https://github.com/Badestrand/russian-dictionary) | CC BY-SA 4.0 |
 | [Manas-UdS Kyrgyz Corpus](https://fedora.clarin-d.uni-saarland.de/kyrgyz/) | CC BY-NC-SA 4.0 |
 
+## Благодарности
+
+Исследование данных, архитектура пайплайна и код разработаны при помощи [Claude](https://claude.ai) (Anthropic).
+
 ## Лицензия
 
 CC BY-NC-SA 4.0 (требуется корпусом Manas-UdS). См. [LICENSE](LICENSE).
