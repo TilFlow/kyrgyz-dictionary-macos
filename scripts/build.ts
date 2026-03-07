@@ -2,10 +2,12 @@ import { Glob } from "bun";
 import { readdir, mkdir, copyFile, exists } from "node:fs/promises";
 import { join } from "node:path";
 import { DictionaryEntrySchema, type DictionaryEntry } from "../src/schema";
+import { EnKyEntrySchema, type EnKyEntry as SchemaEnKyEntry } from "../src/schema-en";
 import { generateDictionary, generateEnKyDictionary, generateKyEnDictionary, type DictDirection, type EnKyEntry } from "../src/xml-generator";
 
 const ROOT = import.meta.dir.replace(/\/scripts$/, "");
 const ENTRIES_DIR = join(ROOT, "entries");
+const ENTRIES_EN_DIR = join(ROOT, "entries-en");
 const TEMPLATES_DIR = join(ROOT, "templates");
 
 async function loadEntries(): Promise<DictionaryEntry[]> {
@@ -150,136 +152,75 @@ async function buildDictionary(
   printStats(entries, label);
 }
 
-interface KyEnrichmentEntry {
-  word: string;
-  pos: string;
-  etymology?: string;
-  pronunciation?: string;
-}
-
-interface FrequencyEntry {
-  lemma: string;
-  pos: string;
-  count: number;
-}
-
-interface GoURMETExample {
-  ky: string;
-  ru: string;
-}
-
-async function loadJsonSafe<T>(path: string, fallback: T): Promise<T> {
-  try {
-    return await Bun.file(path).json();
-  } catch {
-    return fallback;
-  }
-}
-
-function enrichEnKyPairs(
-  pairs: EnKyEntry[],
-  kyEnrichment: Record<string, KyEnrichmentEntry>,
-  frequency: FrequencyEntry[],
-  gourmetExamples: GoURMETExample[]
-): { entries: EnKyEntry[]; stats: Record<string, number> } {
-  // Build frequency lookup
-  const freqMap = new Map<string, number>();
-  for (const f of frequency) {
-    const existing = freqMap.get(f.lemma) ?? 0;
-    freqMap.set(f.lemma, existing + f.count);
-  }
-
-  // Build GoURMET example index: ky word → examples
-  const exampleIndex = new Map<string, { ky: string; ru: string }[]>();
-  for (const ex of gourmetExamples) {
-    const words = ex.ky.toLowerCase().split(/\s+/);
-    const seen = new Set<string>();
-    for (const w of words) {
-      if (w.length < 3 || seen.has(w)) continue;
-      seen.add(w);
-      let arr = exampleIndex.get(w);
-      if (!arr) {
-        arr = [];
-        exampleIndex.set(w, arr);
-      }
-      if (arr.length < 3) {
-        arr.push({ ky: ex.ky, ru: ex.ru });
-      }
-    }
-  }
-
-  const stats = {
-    withPronunciation: 0,
-    withEtymology: 0,
-    withFrequency: 0,
-    withExamples: 0,
+function toXmlEnKyEntry(entry: SchemaEnKyEntry): EnKyEntry & { senses?: string[]; source: string } {
+  return {
+    en: entry.en,
+    ky: entry.ky,
+    sense: entry.senses?.join("; ") ?? "",
+    pos: entry.pos,
+    pronunciation: entry.pronunciation,
+    etymology: entry.etymology,
+    frequency: entry.frequency,
+    examples: entry.examples?.map((ex) => ({ ky: ex.ky, ru: ex.en })),
+    wiktionaryUrl: entry.wiktionaryUrl,
+    senses: entry.senses,
+    source: entry.source,
   };
-
-  const entries = pairs.map((pair) => {
-    const enriched: EnKyEntry = { ...pair };
-    const kyLower = pair.ky.toLowerCase();
-
-    // Kyrgyz enrichment (pronunciation, etymology)
-    const enrichKey = `${pair.ky}:${pair.pos ?? "noun"}`;
-    const enrichData = kyEnrichment[enrichKey];
-    if (enrichData?.pronunciation) {
-      enriched.pronunciation = enrichData.pronunciation;
-      stats.withPronunciation++;
-    }
-    if (enrichData?.etymology) {
-      enriched.etymology = enrichData.etymology;
-      stats.withEtymology++;
-    }
-
-    // Frequency
-    const freq = freqMap.get(kyLower);
-    if (freq) {
-      enriched.frequency = freq;
-      stats.withFrequency++;
-    }
-
-    // Examples
-    const examples = exampleIndex.get(kyLower);
-    if (examples?.length) {
-      enriched.examples = examples.slice(0, 2);
-      stats.withExamples++;
-    }
-
-    // Wiktionary URL
-    enriched.wiktionaryUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(pair.ky)}`;
-
-    return enriched;
-  });
-
-  return { entries, stats };
 }
 
-async function loadEnrichedEnKyPairs(): Promise<{ pairs: EnKyEntry[]; stats: Record<string, number> } | null> {
-  const enKyPath = join(ROOT, "data/en-ky-pairs.json");
-
-  let rawPairs: EnKyEntry[];
-  try {
-    rawPairs = await Bun.file(enKyPath).json();
-  } catch {
-    console.log("  Skipping en-ky/ky-en: data/en-ky-pairs.json not found. Run the extraction first.");
+async function loadEnKyEntries(): Promise<EnKyEntry[] | null> {
+  if (!(await exists(ENTRIES_EN_DIR))) {
+    console.log("  Skipping en-ky/ky-en: entries-en/ directory not found. Run sync-en-ky first.");
     return null;
   }
 
-  console.log(`  Loaded ${rawPairs.length} en-ky pairs`);
+  const glob = new Glob("*.json");
+  const files: string[] = [];
+  for await (const file of glob.scan(ENTRIES_EN_DIR)) {
+    files.push(file);
+  }
 
-  const [kyEnrichment, frequency, gourmetExamples] = await Promise.all([
-    loadJsonSafe<Record<string, KyEnrichmentEntry>>(join(ROOT, "data/ky-enrichment.json"), {}),
-    loadJsonSafe<FrequencyEntry[]>(join(ROOT, "data/manas-frequency.json"), []),
-    loadJsonSafe<GoURMETExample[]>(join(ROOT, "data/gourmet-examples.json"), []),
-  ]);
+  if (files.length === 0) {
+    console.log("  Skipping en-ky/ky-en: no entry files found in entries-en/.");
+    return null;
+  }
 
-  console.log(`  Enrichment: ${Object.keys(kyEnrichment).length} ky entries, ${frequency.length} freq entries, ${gourmetExamples.length} examples`);
+  files.sort();
 
-  const { entries: pairs, stats } = enrichEnKyPairs(
-    rawPairs, kyEnrichment, frequency, gourmetExamples
-  );
+  const allEntries: EnKyEntry[] = [];
+  const errors: string[] = [];
 
-  return { pairs, stats };
+  for (const file of files) {
+    const path = join(ENTRIES_EN_DIR, file);
+    const raw = await Bun.file(path).json();
+
+    if (!Array.isArray(raw)) {
+      errors.push(`${file}: expected array, got ${typeof raw}`);
+      continue;
+    }
+
+    for (let i = 0; i < raw.length; i++) {
+      const result = EnKyEntrySchema.safeParse(raw[i]);
+      if (!result.success) {
+        errors.push(
+          `${file}[${i}]: ${result.error.issues.map((e) => e.message).join("; ")}`
+        );
+      } else {
+        allEntries.push(toXmlEnKyEntry(result.data));
+      }
+    }
+  }
+
+  if (errors.length > 0) {
+    console.error("en-ky validation errors:");
+    for (const err of errors) {
+      console.error(`  - ${err}`);
+    }
+    process.exit(1);
+  }
+
+  console.log(`  Loaded ${allEntries.length} en-ky entries from entries-en/`);
+  return allEntries;
 }
 
 async function writeDistFiles(
@@ -308,23 +249,31 @@ async function writeDistFiles(
   await Bun.write(join(distDir, "Makefile"), generateMakefile(makefileLabel));
 }
 
-function printEnKyStats(pairs: EnKyEntry[], stats: Record<string, number>, label: string): void {
+function printEnKyStats(pairs: EnKyEntry[], label: string): void {
   console.log(`\n${label} stats:`);
   console.log(`  Total pairs: ${pairs.length}`);
   const byPos: Record<string, number> = {};
+  let withPronunciation = 0;
+  let withEtymology = 0;
+  let withFrequency = 0;
+  let withExamples = 0;
   for (const p of pairs) {
     const pos = p.pos ?? "unknown";
     byPos[pos] = (byPos[pos] ?? 0) + 1;
+    if (p.pronunciation) withPronunciation++;
+    if (p.etymology) withEtymology++;
+    if (p.frequency != null) withFrequency++;
+    if (p.examples?.length) withExamples++;
   }
   console.log(`  By POS:`);
   for (const [pos, count] of Object.entries(byPos).sort((a, b) => b[1] - a[1])) {
     console.log(`    ${pos}: ${count}`);
   }
   console.log(`  Enrichment:`);
-  console.log(`    With pronunciation: ${stats.withPronunciation}`);
-  console.log(`    With etymology: ${stats.withEtymology}`);
-  console.log(`    With frequency: ${stats.withFrequency}`);
-  console.log(`    With examples: ${stats.withExamples}`);
+  console.log(`    With pronunciation: ${withPronunciation}`);
+  console.log(`    With etymology: ${withEtymology}`);
+  console.log(`    With frequency: ${withFrequency}`);
+  console.log(`    With examples: ${withExamples}`);
 }
 
 interface MergedEntry {
@@ -426,28 +375,26 @@ async function main(): Promise<void> {
   // Build ky→ru
   await buildDictionary(entries, "ky-ru", join(ROOT, "dist/ky-ru"));
 
-  // Build en→ky and ky→en from same enriched data
-  const enKyData = await loadEnrichedEnKyPairs();
-  if (enKyData) {
-    const { pairs, stats } = enKyData;
-
+  // Build en→ky and ky→en from entries-en/
+  const enKyPairs = await loadEnKyEntries();
+  if (enKyPairs) {
     console.log("\nBuilding English-Kyrgyz dictionary...");
     await writeDistFiles(
       join(ROOT, "dist/en-ky"),
-      generateEnKyDictionary(pairs),
+      generateEnKyDictionary(enKyPairs),
       "Info-en-ky.plist",
       "English-Kyrgyz Dictionary"
     );
-    printEnKyStats(pairs, stats, "English-Kyrgyz");
+    printEnKyStats(enKyPairs, "English-Kyrgyz");
 
     console.log("\nBuilding Kyrgyz-English dictionary...");
     await writeDistFiles(
       join(ROOT, "dist/ky-en"),
-      generateKyEnDictionary(pairs),
+      generateKyEnDictionary(enKyPairs),
       "Info-ky-en.plist",
       "Kyrgyz-English Dictionary"
     );
-    printEnKyStats(pairs, stats, "Kyrgyz-English");
+    printEnKyStats(enKyPairs, "Kyrgyz-English");
   }
 
   // Build JSON if requested
@@ -478,28 +425,28 @@ async function main(): Promise<void> {
     await Bun.write(join(jsonDir, "ky-ru.json"), JSON.stringify(kyRuMerged, null, 2));
     console.log(`  ky-ru.json: ${kyRuMerged.length} entries (from ${entries.length})`);
 
-    if (enKyData) {
+    if (enKyPairs) {
       // en-ky: group by English headword + POS
       const enKyGroups = new Map<string, EnKyEntry[]>();
-      for (const entry of enKyData.pairs) {
+      for (const entry of enKyPairs) {
         const key = entry.en.toLowerCase().replace(/-+$/, "") + "\0" + (entry.pos ?? "");
         if (!enKyGroups.has(key)) enKyGroups.set(key, []);
         enKyGroups.get(key)!.push(entry);
       }
       const enKyMerged = [...enKyGroups.values()].map((group) => mergeEnKyGroup(group, "en"));
       await Bun.write(join(jsonDir, "en-ky.json"), JSON.stringify(enKyMerged, null, 2));
-      console.log(`  en-ky.json: ${enKyMerged.length} entries (from ${enKyData.pairs.length})`);
+      console.log(`  en-ky.json: ${enKyMerged.length} entries (from ${enKyPairs.length})`);
 
       // ky-en: group by Kyrgyz headword + POS
       const kyEnGroups = new Map<string, EnKyEntry[]>();
-      for (const entry of enKyData.pairs) {
+      for (const entry of enKyPairs) {
         const key = entry.ky.toLowerCase().replace(/-+$/, "") + "\0" + (entry.pos ?? "");
         if (!kyEnGroups.has(key)) kyEnGroups.set(key, []);
         kyEnGroups.get(key)!.push(entry);
       }
       const kyEnMerged = [...kyEnGroups.values()].map((group) => mergeEnKyGroup(group, "ky"));
       await Bun.write(join(jsonDir, "ky-en.json"), JSON.stringify(kyEnMerged, null, 2));
-      console.log(`  ky-en.json: ${kyEnMerged.length} entries (from ${enKyData.pairs.length})`);
+      console.log(`  ky-en.json: ${kyEnMerged.length} entries (from ${enKyPairs.length})`);
     }
   }
 
