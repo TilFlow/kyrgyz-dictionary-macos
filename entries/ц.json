@@ -1,13 +1,47 @@
 [
   {
+    "ru": "цветочный",
+    "ky": "гүлдүү",
+    "pos": "adj",
+    "senses": [
+      "относящийся к цветам, состоящий из цветов"
+    ],
+    "source": "manual",
+    "id": "ru-цветочный-001"
+  },
+  {
+    "ru": "ценность",
+    "ky": "барк",
+    "pos": "noun",
+    "senses": [
+      "важность, значимость"
+    ],
+    "ruGender": "f",
+    "source": "manual",
+    "id": "ru-ценность-001"
+  },
+  {
+    "ru": "целостность",
+    "ky": "бүтүндүк",
+    "pos": "noun",
+    "senses": [
+      "нераздельность, единство"
+    ],
+    "ruGender": "f",
+    "source": "manual",
+    "id": "ru-целостность-001"
+  },
+  {
     "ru": "цель",
     "ky": "максат",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82",
     "senses": [
       "намерение"
     ],
+    "ruAccented": "цель",
+    "ruGender": "f",
+    "frequency": 1451,
     "examples": [
       {
         "ky": "Биз кошкон социал-экономикалык салымын жогорулатууну максат кылабыз толугураак",
@@ -18,9 +52,7 @@
         "ru": "е) Разработка ключевых показателей эффективности для сотрудников отдела снабжения, которые будут поддерживать цели и задачи организации"
       }
     ],
-    "ruAccented": "цель",
-    "ruGender": "f",
-    "frequency": 1451,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82",
     "id": "ru-цель-001"
   },
   {
@@ -28,12 +60,12 @@
     "ky": "цинк",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA",
     "senses": [
       "химический элемент"
     ],
     "ruAccented": "цинк",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA",
     "id": "ru-цинк-001"
   },
   {
@@ -49,11 +81,13 @@
     "ky": "түс",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81",
     "senses": [
       "окраска, световой тон, спектральный состав света"
     ],
     "etymology": "From Proto-Turkic *tǖs (“colour”).\nCognate to Bashkir төҫ (töś), Nogai туьс (tüs), Tatar төс (tös), Uzbek tus, Kazakh түс (tüs), Uyghur تۈس (tüs) and Crimean Tatar tüs (“dye, color”).",
+    "ruAccented": "цвет",
+    "ruGender": "m",
+    "frequency": 78,
     "examples": [
       {
         "ky": "Эң жаркын, позитивдүү түс болуп кызгыл сары түс эсептелет.",
@@ -64,9 +98,7 @@
         "ru": "Из цветов самый модный – «синий пион», глубокий синий."
       }
     ],
-    "ruAccented": "цвет",
-    "ruGender": "m",
-    "frequency": 78,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81",
     "id": "ru-цвет-001"
   },
   {
@@ -74,12 +106,13 @@
     "ky": "гүл",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
     "senses": [
       "орган растения"
     ],
-    "etymology": "Borrowed from Classical Persian گُل (gul).",
     "pronunciation": "/ɡyl/",
+    "etymology": "Borrowed from Classical Persian گُل (gul).",
+    "ruAccented": "цвето'к",
+    "frequency": 248,
     "examples": [
       {
         "ky": "Гүл ич ооруларды айыктыра алат деген ишеним бар, жана да ал 1978-жылы эле Кызыл китепке киргизилгени менен анын кооздугуна суктанып бул гүлдү үзүп, өзү менен алып кеткиси келгендер да кезигет.",
@@ -90,8 +123,7 @@
         "ru": "и производилась разбивка первых кварталов и скверов."
       }
     ],
-    "ruAccented": "цвето'к",
-    "frequency": 248,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
     "id": "ru-цветок-001"
   },
   {
@@ -99,12 +131,14 @@
     "ky": "баа",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0",
     "senses": [
       "денежное или иное количественное выражение стоимости товара или услуги"
     ],
-    "etymology": "From Classical Persian بَها (bahā). Cognate with Kazakh баға (bağa), Southern Altai баа (baa), Karachay-Balkar багъа (bağa), Kumyk багьа (baha), Tatar бәя (bäyä), Azerbaijani baha, Turkish paha, Turkmen baha, Uzbek baho, Uyghur باھا (baha),\nShor паа, etc.",
     "pronunciation": "/bɑː/",
+    "etymology": "From Classical Persian بَها (bahā). Cognate with Kazakh баға (bağa), Southern Altai баа (baa), Karachay-Balkar багъа (bağa), Kumyk багьа (baha), Tatar бәя (bäyä), Azerbaijani baha, Turkish paha, Turkmen baha, Uzbek baho, Uyghur باھا (baha),\nShor паа, etc.",
+    "ruAccented": "цена'",
+    "ruGender": "f",
+    "frequency": 641,
     "examples": [
       {
         "ky": "- Баа берүүнүн эл аралык стандарттарды жана улуттук стандарттарын билүү",
@@ -115,9 +149,7 @@
         "ru": "- Участие в оценке фактического соблюдения требований банковского законодательства Подготовка отчетов, связанных с кредитной деятельностью, находящихся в компетенции Кредитного отдела;"
       }
     ],
-    "ruAccented": "цена'",
-    "ruGender": "f",
-    "frequency": 641,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0",
     "id": "ru-цена-001"
   },
   {
@@ -125,13 +157,13 @@
     "ky": "нарк",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BA",
     "senses": [
       "денежное или иное количественное выражение стоимости товара или услуги"
     ],
     "ruAccented": "цена'",
     "ruGender": "f",
     "frequency": 160,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BA",
     "id": "ru-цена-002"
   },
   {
@@ -139,13 +171,13 @@
     "ky": "цивилизация",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
     "senses": [
       "уровень общественного развития"
     ],
     "ruAccented": "цивилиза'ция",
     "ruGender": "f",
     "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%B2%D0%B8%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
     "id": "ru-цивилизация-001"
   },
   {
@@ -177,12 +209,12 @@
     "ky": "циклон",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD",
     "senses": [
       "атмосферный вихрь"
     ],
     "ruAccented": "цикло'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD",
     "id": "ru-циклон-001"
   },
   {
@@ -190,7 +222,6 @@
     "ky": "чынжыр",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B6%D1%8B%D1%80",
     "senses": [
       "ряд звеньев"
     ],
@@ -198,6 +229,7 @@
     "ruAccented": "цепь",
     "ruGender": "f",
     "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B6%D1%8B%D1%80",
     "id": "ru-цепь-001"
   },
   {
@@ -205,21 +237,21 @@
     "ky": "санарип",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
     "senses": [
       "знак"
     ],
-    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
     "pronunciation": "/sanaˈrip/",
+    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
+    "ruAccented": "ци'фра",
+    "ruGender": "f",
+    "frequency": 28,
     "examples": [
       {
         "ky": "Заманбап маалыматтык технологияларды — акылдуу эсептегичтерди, санарип технологияларын киргизүүнү, энергетикалык эсеп борборун өнүктүрүүнү колго алгыла.",
         "ru": "Вам следует наладить работу по внедрению современных технологий — умных счетчиков, современных цифровых технологий, развитию центра энергетического расчета."
       }
     ],
-    "ruAccented": "ци'фра",
-    "ruGender": "f",
-    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
     "id": "ru-цифра-001"
   },
   {
@@ -235,20 +267,20 @@
     "ky": "цемент",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82",
     "senses": [
       "порошкообразный строительный материал"
     ],
     "etymology": "From Russian.",
+    "ruAccented": "цеме'нт",
+    "ruGender": "m",
+    "frequency": 9,
     "examples": [
       {
         "ky": "цемент менен морт айнектин, керамикалык плита менен металлопластиктин, черепица",
         "ru": "тяжелая арматура, ни цемент с хрупким стеклом, ни керамическая плитка с"
       }
     ],
-    "ruAccented": "цеме'нт",
-    "ruGender": "m",
-    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82",
     "id": "ru-цемент-001"
   },
   {
@@ -256,7 +288,8 @@
     "ky": "салтанаттуу",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BB%D1%82%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D1%83%D1%83",
+    "ruAccented": "церемониа'льный",
+    "frequency": 33,
     "examples": [
       {
         "ky": "конок тосо турган салтанаттуу боз үйдү, же жүрүштөрдө өзүң менен ала жүргөн",
@@ -267,8 +300,7 @@
         "ru": "На сценической площадке показали свои концертные номера молодые творческие группы, прошел торжественный парад ремесленников и гостей фестиваля."
       }
     ],
-    "ruAccented": "церемониа'льный",
-    "frequency": 33,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BB%D1%82%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D1%83%D1%83",
     "id": "ru-церемониальный-001"
   },
   {
@@ -276,10 +308,10 @@
     "ky": "цезура",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B7%D1%83%D1%80%D0%B0",
     "senses": [
       "внутристиховая ритмическая пауза на постоянном месте в стихотворной строке"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B7%D1%83%D1%80%D0%B0",
     "id": "ru-цезура-001"
   },
   {
@@ -287,17 +319,17 @@
     "ky": "санарип",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
-    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
     "pronunciation": "/sanaˈrip/",
+    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
+    "ruAccented": "цифрово'й",
+    "frequency": 28,
     "examples": [
       {
         "ky": "Заманбап маалыматтык технологияларды — акылдуу эсептегичтерди, санарип технологияларын киргизүүнү, энергетикалык эсеп борборун өнүктүрүүнү колго алгыла.",
         "ru": "Вам следует наладить работу по внедрению современных технологий — умных счетчиков, современных цифровых технологий, развитию центра энергетического расчета."
       }
     ],
-    "ruAccented": "цифрово'й",
-    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
     "id": "ru-цифровой-001"
   },
   {
@@ -313,13 +345,13 @@
     "ky": "цирк",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA",
     "senses": [
       "вид искусства"
     ],
     "etymology": "Borrowed from Russian цирк (cirk).",
     "ruAccented": "цирк",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA",
     "id": "ru-цирк-001"
   },
   {
@@ -327,9 +359,9 @@
     "ky": "циркуль",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8C",
     "ruAccented": "ци'ркуль",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8C",
     "id": "ru-циркуль-001"
   },
   {
@@ -337,18 +369,18 @@
     "ky": "айлануу",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D1%83%D1%83",
     "senses": [
       "движение по замкнутому маршруту, замкнутой траектории"
     ],
+    "ruAccented": "циркуля'ция",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Биз бай, өнүккөн, бактылуу өлкөгө айлануу үчүн ар тараптуу кеңешиңиз барбы?",
         "ru": "У вас есть универсальный совет, как нам стать богатой, счастливой, развитой страной?"
       }
     ],
-    "ruAccented": "циркуля'ция",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D1%83%D1%83",
     "id": "ru-циркуляция-001"
   },
   {
@@ -356,8 +388,8 @@
     "ky": "цирроз",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D1%80%D0%BE%D0%B7",
     "ruAccented": "цирро'з",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D1%80%D0%BE%D0%B7",
     "id": "ru-цирроз-001"
   },
   {
@@ -365,15 +397,15 @@
     "ky": "цитата",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B0",
+    "ruAccented": "цита'та",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "- Кимдер мени ушул темага аралаштыгысы келгенин мен билем, - дегенин цитата келтирди Турдукулов.",
         "ru": "- Мы обратились к ЮСАИД и ведущим американским учебным заведениям с просьбой о помощи в реализации нашей идеи, - рассказал Лахдир."
       }
     ],
-    "ruAccented": "цита'та",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B0",
     "id": "ru-цитата-001"
   },
   {
@@ -397,8 +429,8 @@
     "ky": "цинга",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%B3%D0%B0",
     "ruAccented": "цинга'",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%B3%D0%B0",
     "id": "ru-цинга-001"
   },
   {
@@ -406,10 +438,10 @@
     "ky": "цинкография",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
     "senses": [
       "способ изготовления цинковых клише"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
     "id": "ru-цинкография-001"
   },
   {
@@ -425,13 +457,13 @@
     "ky": "централизм",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
     "examples": [
       {
         "ky": "централизм – бул башкаруунун эң эле бекем формасы.",
         "ru": "демократический централизм – это устойчивая форма правления."
       }
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC",
     "id": "ru-централизм-001"
   },
   {
@@ -455,9 +487,9 @@
     "ky": "Цюрих",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85",
     "ruAccented": "Цю'рих",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85",
     "id": "ru-Цюрих-001"
   },
   {
@@ -481,12 +513,12 @@
     "ky": "центнер",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D0%B5%D1%80",
     "senses": [
       "100 кг"
     ],
     "ruAccented": "це'нтнер",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D0%B5%D1%80",
     "id": "ru-центнер-001"
   },
   {
@@ -502,7 +534,6 @@
     "ky": "өң",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D2%A3",
     "senses": [
       "spectral composition of visible light"
     ],
@@ -510,6 +541,7 @@
     "ruAccented": "цвет",
     "ruGender": "m",
     "frequency": 183,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D2%A3",
     "id": "ru-цвет-002"
   },
   {
@@ -517,12 +549,14 @@
     "ky": "сан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD",
     "senses": [
       "non-word symbol that represents a number"
     ],
-    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
     "pronunciation": "/sɑn/",
+    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
+    "ruAccented": "ци'фра",
+    "ruGender": "f",
+    "frequency": 1298,
     "examples": [
       {
         "ky": "адам эмгектенүүдө. Жана бул сан күндөн күнгө өсүүдө.",
@@ -533,9 +567,7 @@
         "ru": "Ладно, пусть это несбыточно, но даже с учетом природно-сбалансированного"
       }
     ],
-    "ruAccented": "ци'фра",
-    "ruGender": "f",
-    "frequency": 1298,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD",
     "id": "ru-цифра-002"
   },
   {
@@ -543,10 +575,10 @@
     "ky": "санариптик",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%BA",
     "senses": [
       "of or relating to computers"
     ],
+    "ruAccented": "цифрово'й",
     "examples": [
       {
         "ky": "санариптик өнүктүрүү, коргонуу жана аэрокосмостук өнөр жай министрлигинин",
@@ -557,7 +589,7 @@
         "ru": "цифровое будущее ждет соседний Казахстан и нас?"
       }
     ],
-    "ruAccented": "цифрово'й",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%BA",
     "id": "ru-цифровой-002"
   },
   {
@@ -565,10 +597,10 @@
     "ky": "Борбордук Африка Республикасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
     "senses": [
       "country in Central Africa"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
     "id": "ru-Центрально-Африканская Республика-001"
   },
   {
@@ -576,10 +608,10 @@
     "ky": "Борбордук Африка Республикасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
     "senses": [
       "country in Central Africa"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
     "id": "ru-ЦАР-001"
   },
   {
@@ -587,20 +619,20 @@
     "ky": "чиркөө",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D3%A9%D3%A9",
     "senses": [
       "house of worship"
     ],
     "etymology": "Borrowed from Russian це́рковь (cérkovʹ). Cognate with Bashkir сиркәү (sirkəw), Kildin Sami цэ̄ркав (cērkav), Kazakh шіркеу (şırkeu), Skolt Sami ceerkav, etc.",
+    "ruAccented": "це'рковь",
+    "ruGender": "f",
+    "frequency": 11,
     "examples": [
       {
         "ky": "болгон эмес, азыркы иштеп жаткан чиркөө коомдору Орусия Православдык",
         "ru": "никогда не было, приходы, действующие в стране, подчиняются Московской"
       }
     ],
-    "ruAccented": "це'рковь",
-    "ruGender": "f",
-    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D3%A9%D3%A9",
     "id": "ru-церковь-001"
   },
   {
@@ -608,13 +640,13 @@
     "ky": "король",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C",
     "senses": [
       "a male of a royal family who is the supreme ruler of his nation"
     ],
     "etymology": "Borrowed from Russian коро́ль (korólʹ).",
     "ruAccented": "царь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C",
     "id": "ru-царь-001"
   },
   {
@@ -622,15 +654,15 @@
     "ky": "падыша",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0",
     "senses": [
       "a male of a royal family who is the supreme ruler of his nation"
     ],
-    "etymology": "Borrowed from Persian پادشاه.",
     "pronunciation": "/pɑdɯˈʃɑ/",
+    "etymology": "Borrowed from Persian پادشاه.",
     "ruAccented": "царь",
     "ruGender": "m",
     "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0",
     "id": "ru-царь-002"
   },
   {
@@ -638,11 +670,13 @@
     "ky": "кан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD",
     "senses": [
       "a male of a royal family who is the supreme ruler of his nation"
     ],
     "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "frequency": 6011,
     "examples": [
       {
         "ky": "Бирок, Кудайга шүгүр, кан төгүлгөн жок.",
@@ -653,9 +687,7 @@
         "ru": "понимании – ровно по всему диапазону. Природные данные, разумеется, желательны"
       }
     ],
-    "ruAccented": "царь",
-    "ruGender": "m",
-    "frequency": 6011,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD",
     "id": "ru-царь-003"
   },
   {
@@ -663,18 +695,18 @@
     "ky": "королева",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0",
     "senses": [
       "female monarch"
     ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Акимович, королева жөнүндө сизден жүз ирет сурагандай болушту.",
         "ru": "Султан Акимович, про королеву вас уже сто раз расспрашивали."
       }
     ],
-    "ruAccented": "цари'ца",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0",
     "id": "ru-царица-001"
   },
   {
@@ -682,12 +714,12 @@
     "ky": "каныш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88",
     "senses": [
       "female monarch"
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88",
     "id": "ru-царица-002"
   },
   {
@@ -695,12 +727,12 @@
     "ky": "ханыша",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD%D1%8B%D1%88%D0%B0",
     "senses": [
       "female monarch"
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD%D1%8B%D1%88%D0%B0",
     "id": "ru-царица-003"
   },
   {
@@ -708,12 +740,12 @@
     "ky": "гүл",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
     "senses": [
       "reproductive structure in angiosperms"
     ],
-    "etymology": "Borrowed from Classical Persian گُل (gul).",
     "pronunciation": "/ɡyl/",
+    "etymology": "Borrowed from Classical Persian گُل (gul).",
+    "frequency": 248,
     "examples": [
       {
         "ky": "Гүл ич ооруларды айыктыра алат деген ишеним бар, жана да ал 1978-жылы эле Кызыл китепке киргизилгени менен анын кооздугуна суктанып бул гүлдү үзүп, өзү менен алып кеткиси келгендер да кезигет.",
@@ -724,7 +756,7 @@
         "ru": "и производилась разбивка первых кварталов и скверов."
       }
     ],
-    "frequency": 248,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
     "id": "ru-цветы-001"
   },
   {
@@ -732,12 +764,12 @@
     "ky": "королевство",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE",
     "senses": [
       "realm having as supreme ruler a king or queen"
     ],
     "ruAccented": "ца'рство",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE",
     "id": "ru-царство-001"
   },
   {
@@ -745,15 +777,15 @@
     "ky": "падышалык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "realm having as supreme ruler a king or queen"
     ],
-    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
     "pronunciation": "/pɑˈdɯˈʃɑˈlɯq/",
+    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
     "ruAccented": "ца'рство",
     "ruGender": "n",
     "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-царство-002"
   },
   {
@@ -761,10 +793,10 @@
     "ky": "индиго",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE",
     "senses": [
       "colour"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE",
     "id": "ru-цвета индиго-001"
   },
   {
@@ -772,18 +804,18 @@
     "ky": "тизмек",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D0%BA",
     "senses": [
       "series of interconnected rings or links"
     ],
+    "ruAccented": "цепь",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "байкагандай, силердеги бардык баалуу буюмдарды биз тизмек жана акт боюнча сизге",
         "ru": "Плюс вы заметили, что мы принимаем и сдаем ваши ценные вещи по"
       }
     ],
-    "ruAccented": "цепь",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D0%BA",
     "id": "ru-цепь-002"
   },
   {
@@ -791,7 +823,6 @@
     "ky": "чынжыр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B6%D1%8B%D1%80",
     "senses": [
       "series of interconnected rings or links"
     ],
@@ -799,6 +830,7 @@
     "ruAccented": "цепо'чка",
     "ruGender": "f",
     "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B6%D1%8B%D1%80",
     "id": "ru-цепочка-001"
   },
   {
@@ -806,18 +838,18 @@
     "ky": "тизмек",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D0%BA",
     "senses": [
       "series of interconnected rings or links"
     ],
+    "ruAccented": "цепо'чка",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "байкагандай, силердеги бардык баалуу буюмдарды биз тизмек жана акт боюнча сизге",
         "ru": "Плюс вы заметили, что мы принимаем и сдаем ваши ценные вещи по"
       }
     ],
-    "ruAccented": "цепо'чка",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%BC%D0%B5%D0%BA",
     "id": "ru-цепочка-002"
   },
   {
@@ -825,12 +857,13 @@
     "ky": "жарандык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "related to people and government office as opposed to military or religion"
     ],
-    "etymology": "From жаран (jaran, “citizen”) + -дык (-dık, noun-forming suffix).",
     "pronunciation": "/d͡ʒɑrɑndɯq/",
+    "etymology": "From жаран (jaran, “citizen”) + -дык (-dık, noun-forming suffix).",
+    "ruAccented": "циви'льный",
+    "frequency": 915,
     "examples": [
       {
         "ky": "Бул иш чарага ар кайсы өлкөлөрдүн өкмөттөрүнүн лидерлери, эл аралык өнүгүү институттарынын, жеке сектордун, жарандык коомчулуктун жана илимий чөйрөнүн өкүлдөрү катышты.",
@@ -841,8 +874,7 @@
         "ru": "В процессе разработки документа были проведены масштабные консультации с представителями общественности и гражданского сектора, по обсуждению идей и мнений развития главного канала страны."
       }
     ],
-    "ruAccented": "циви'льный",
-    "frequency": 915,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-цивильный-001"
   },
   {
@@ -850,10 +882,11 @@
     "ky": "граждандык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "related to people and government office as opposed to military or religion"
     ],
+    "ruAccented": "циви'льный",
+    "frequency": 30,
     "examples": [
       {
         "ky": "б) Кыргыз Республикасынын Граждандык кодексинде белгиленген доонун эскирүү мөөнөтү аяктагандыгына байланыштуу милдеттенмелерди эсептен чыгаруудан;",
@@ -864,8 +897,7 @@
         "ru": "- участникам ликвидации последствий аварии на Чернобыльской АЭС и других атомных объектах гражданского или военного назначения."
       }
     ],
-    "ruAccented": "циви'льный",
-    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-цивильный-002"
   },
   {
@@ -873,12 +905,12 @@
     "ky": "изгилик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B7%D0%B3%D0%B8%D0%BB%D0%B8%D0%BA",
     "senses": [
       "excellence in morals"
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B7%D0%B3%D0%B8%D0%BB%D0%B8%D0%BA",
     "id": "ru-целомудрие-001"
   },
   {
@@ -886,13 +918,13 @@
     "ky": "кайрымдуу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D1%8B%D0%BC%D0%B4%D1%83%D1%83",
     "senses": [
       "excellence in morals"
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
     "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D1%8B%D0%BC%D0%B4%D1%83%D1%83",
     "id": "ru-целомудрие-002"
   },
   {
@@ -900,11 +932,11 @@
     "ky": "башкы мунара",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D1%8B%20%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0",
     "senses": [
       "main tower"
     ],
     "ruAccented": "цитаде'ль",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D1%8B%20%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0",
     "id": "ru-цитадель-001"
   },
   {
@@ -912,10 +944,11 @@
     "ky": "борбордук",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA",
     "senses": [
       "being in the centre"
     ],
+    "ruAccented": "центра'льный",
+    "frequency": 1854,
     "examples": [
       {
         "ky": "Борбордук карьерде жардыруу иштерин жүргүзүү укугуна уруксат",
@@ -926,8 +959,7 @@
         "ru": "Demirbank предоставляет возможность получить высшее образование и оплатить обучение в Американском университете Центральной Азии."
       }
     ],
-    "ruAccented": "центра'льный",
-    "frequency": 1854,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA",
     "id": "ru-центральный-001"
   },
   {
@@ -935,12 +967,12 @@
     "ky": "кытан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%82%D0%B0%D0%BD",
     "senses": [
       "bird"
     ],
     "ruAccented": "ца'пля",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%82%D0%B0%D0%BD",
     "id": "ru-цапля-001"
   },
   {
@@ -948,11 +980,13 @@
     "ky": "тоок",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BE%D0%BA",
     "senses": [
       "bird"
     ],
     "etymology": "From Proto-Turkic *tiakïgu (“hen, fowl”).\nCognate with\nOld Uyghur 𐾀𐽰𐽲𐾄𐽶𐽲𐽳 (takïgu),\nBashkir тауыҡ (tawıq),\nTatar тавык (tawıq),\nKazakh тауық (tauyq),\nSouthern Altai таак (taak), така (taka),\nKumyk тавукъ (tawuq),\nUzbek tovuq,\nTurkish tavuk (“hen”), Turkmen towuk,\netc.",
+    "ruAccented": "цыплёнок",
+    "ruGender": "m",
+    "frequency": 83,
     "examples": [
       {
         "ky": "өзгөчө ыкма менен даярдалып, мешке какталып башырылган тоок эти болчу.",
@@ -963,9 +997,7 @@
         "ru": "Например, тем, кто украл велосипед, телевизор, курицу предусмотрены наложение денежного штрафа, общественные и исправительные работы."
       }
     ],
-    "ruAccented": "цыплёнок",
-    "ruGender": "m",
-    "frequency": 83,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BE%D0%BA",
     "id": "ru-цыплёнок-001"
   },
   {
@@ -973,11 +1005,11 @@
     "ky": "лык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D1%8B%D0%BA",
     "senses": [
       "total, entire"
     ],
     "ruAccented": "це'лый",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D1%8B%D0%BA",
     "id": "ru-целый-001"
   },
   {
@@ -985,12 +1017,12 @@
     "ky": "канзада",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D0%B4%D0%B0",
     "senses": [
       "son or male-line grandson of a reigning monarch"
     ],
     "ruAccented": "царе'вич",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D0%B4%D0%B0",
     "id": "ru-царевич-001"
   },
   {
@@ -998,14 +1030,14 @@
     "ky": "канзаада",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D0%B0%D0%B4%D0%B0",
     "senses": [
       "son or male-line grandson of a reigning monarch"
     ],
-    "etymology": "From кан (kan) + заада (zaada)",
     "pronunciation": "/qɑnˈzɑːˈdɑ/",
+    "etymology": "From кан (kan) + заада (zaada)",
     "ruAccented": "царе'вич",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D0%B0%D0%B4%D0%B0",
     "id": "ru-царевич-002"
   },
   {
@@ -1013,12 +1045,12 @@
     "ky": "падышазада",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%B7%D0%B0%D0%B4%D0%B0",
     "senses": [
       "son or male-line grandson of a reigning monarch"
     ],
     "ruAccented": "царе'вич",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%B7%D0%B0%D0%B4%D0%B0",
     "id": "ru-царевич-003"
   },
   {
@@ -1026,14 +1058,14 @@
     "ky": "канбийке",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B1%D0%B8%D0%B9%D0%BA%D0%B5",
     "senses": [
       "female member of royal family"
     ],
-    "etymology": "From кан (kan) + бийке (biyke)",
     "pronunciation": "/qɑnˈbijˈcɛ/",
+    "etymology": "From кан (kan) + бийке (biyke)",
     "ruAccented": "царе'вна",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B1%D0%B8%D0%B9%D0%BA%D0%B5",
     "id": "ru-царевна-001"
   },
   {
@@ -1041,12 +1073,12 @@
     "ky": "принцесса",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0",
     "senses": [
       "female member of royal family"
     ],
     "ruAccented": "царе'вна",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0",
     "id": "ru-царевна-002"
   },
   {
@@ -1054,13 +1086,13 @@
     "ky": "император",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80",
     "senses": [
       "ruler of an empire"
     ],
     "ruAccented": "царь",
     "ruGender": "m",
     "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80",
     "id": "ru-царь-004"
   },
   {
@@ -1068,12 +1100,12 @@
     "ky": "императрица",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0",
     "senses": [
       "female monarch of an empire"
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0",
     "id": "ru-царица-004"
   },
   {
@@ -1081,12 +1113,12 @@
     "ky": "император аял",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%D0%B0%D1%8F%D0%BB",
     "senses": [
       "female monarch of an empire"
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%D0%B0%D1%8F%D0%BB",
     "id": "ru-царица-005"
   },
   {
@@ -1094,13 +1126,13 @@
     "ky": "империя",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F",
     "senses": [
       "political unit, having numerous or extensive territories"
     ],
     "ruAccented": "ца'рство",
     "ruGender": "n",
     "frequency": 90,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F",
     "id": "ru-царство-003"
   },
   {
@@ -1108,13 +1140,13 @@
     "ky": "цилиндр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80",
     "senses": [
       "geometry: surface"
     ],
     "ruAccented": "цили'ндр",
     "ruGender": "m",
     "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80",
     "id": "ru-цилиндр-001"
   },
   {
@@ -1122,12 +1154,12 @@
     "ky": "мастерская",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F",
     "senses": [
       "small manufacturing room"
     ],
     "ruAccented": "цех",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F",
     "id": "ru-цех-001"
   },
   {
@@ -1135,13 +1167,13 @@
     "ky": "устакана",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D0%B0",
     "senses": [
       "small manufacturing room"
     ],
     "ruAccented": "цех",
     "ruGender": "m",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD%D0%B0",
     "id": "ru-цех-002"
   },
   {
@@ -1149,10 +1181,12 @@
     "ky": "цех",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D1%85",
     "senses": [
       "small manufacturing room"
     ],
+    "ruAccented": "цех",
+    "ruGender": "m",
+    "frequency": 31,
     "examples": [
       {
         "ky": "аткаруучу жетекчиси Гүлнара Розыбаева дагы «Тигүүчү цех бул жаңы жөндөмдөр, ал",
@@ -1163,9 +1197,7 @@
         "ru": "Для этого мы и открыли швейный цех, в котором обучим"
       }
     ],
-    "ruAccented": "цех",
-    "ruGender": "m",
-    "frequency": 31,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D1%85",
     "id": "ru-цех-003"
   },
   {
@@ -1173,12 +1205,14 @@
     "ky": "маданият",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%D1%82",
     "senses": [
       "organized culture"
     ],
-    "etymology": "Borrowed from Classical Persian مَدَنِیَّت (madaniyyat).",
     "pronunciation": "/mɑdɑniˈjɑt/",
+    "etymology": "Borrowed from Classical Persian مَدَنِیَّت (madaniyyat).",
+    "ruAccented": "цивилиза'ция",
+    "ruGender": "f",
+    "frequency": 462,
     "examples": [
       {
         "ky": "Маданият жана Билим",
@@ -1189,9 +1223,7 @@
         "ru": "Оно будет следить за исправностью водопроводной линии, обеспечивать бесперебойную подачу воды и собирать оплату за воду."
       }
     ],
-    "ruAccented": "цивилиза'ция",
-    "ruGender": "f",
-    "frequency": 462,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%D1%82",
     "id": "ru-цивилизация-002"
   },
   {
@@ -1199,12 +1231,14 @@
     "ky": "бак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA",
     "senses": [
       "closed container for fluids"
     ],
-    "etymology": "From Persian باغ (“garden”).",
     "pronunciation": "/bɑq/",
+    "etymology": "From Persian باغ (“garden”).",
+    "ruAccented": "цисте'рна",
+    "ruGender": "f",
+    "frequency": 1140,
     "examples": [
       {
         "ky": "Калгандарына алма бак",
@@ -1215,9 +1249,7 @@
         "ru": "общественно-значимую работу – посадить деревья в парке, почистить канал,"
       }
     ],
-    "ruAccented": "цисте'рна",
-    "ruGender": "f",
-    "frequency": 1140,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA",
     "id": "ru-цистерна-001"
   },
   {
@@ -1225,10 +1257,10 @@
     "ky": "цирконий",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9",
     "senses": [
       "chemical element"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9",
     "id": "ru-цирконий-001"
   },
   {
@@ -1236,12 +1268,12 @@
     "ky": "өбүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF",
     "senses": [
       "to touch with the lips"
     ],
     "etymology": "From Proto-Turkic *öp-. Compare to Southern Altai ӧбӧр (öbör), etc.",
     "ruAccented": "целова'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF",
     "id": "ru-целовать-001"
   },
   {
@@ -1249,11 +1281,11 @@
     "ky": "өөп коюу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83",
     "senses": [
       "to touch with the lips"
     ],
     "ruAccented": "целова'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83",
     "id": "ru-целовать-002"
   },
   {
@@ -1261,12 +1293,12 @@
     "ky": "өбүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF",
     "senses": [
       "to touch with the lips"
     ],
     "etymology": "From Proto-Turkic *öp-. Compare to Southern Altai ӧбӧр (öbör), etc.",
     "ruAccented": "целова'ться",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF",
     "id": "ru-целоваться-001"
   },
   {
@@ -1274,11 +1306,11 @@
     "ky": "өөп коюу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83",
     "senses": [
       "to touch with the lips"
     ],
     "ruAccented": "целова'ться",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83",
     "id": "ru-целоваться-002"
   },
   {
@@ -1286,10 +1318,12 @@
     "ky": "борбор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80",
     "senses": [
       "point equidistant from all points on the perimeter of a circle"
     ],
+    "ruAccented": "центр",
+    "ruGender": "m",
+    "frequency": 686,
     "examples": [
       {
         "ky": "БУУ Борбор Азия өлкөлөрүнө курал жеткирүүнүн алдын алуу боюнча программа иштеп чыкты - КТРК",
@@ -1300,9 +1334,7 @@
         "ru": "Большая часть из них находится в Москве и Московской области.В конце прошлой недели делегация во главе с председателем ЦИКа провела встречу с соотечественниками в Москве."
       }
     ],
-    "ruAccented": "центр",
-    "ruGender": "m",
-    "frequency": 686,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80",
     "id": "ru-центр-001"
   },
   {
@@ -1310,11 +1342,13 @@
     "ky": "орто",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%82%D0%BE",
     "senses": [
       "point equidistant from all points on the perimeter of a circle"
     ],
     "etymology": "From Proto-Turkic *or- (“middle”). Kazakh орта (orta), Southern Altai орто (orto), Crimean Tatar orta, Kumyk орта (orta), Azerbaijani orta, Turkish orta, Turkmen orta, Uzbek o'rta,\nShor орта, Tuvan орту (ortu), Western Yugur orta, etc.",
+    "ruAccented": "центр",
+    "ruGender": "m",
+    "frequency": 1348,
     "examples": [
       {
         "ky": "Сокулук районунун Орок айылынын орто мектебине жана Бишкек шаарындагы №12 мектеп-гимназиясына кошумча имараттар салына баштады.",
@@ -1325,9 +1359,7 @@
         "ru": "- Знание английского языка – не ниже среднего уровня"
       }
     ],
-    "ruAccented": "центр",
-    "ruGender": "m",
-    "frequency": 1348,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%82%D0%BE",
     "id": "ru-центр-002"
   },
   {
@@ -1335,12 +1367,12 @@
     "ky": "центр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D1%80",
     "senses": [
       "point equidistant from all points on the perimeter of a circle"
     ],
     "ruAccented": "центр",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82%D1%80",
     "id": "ru-центр-003"
   },
   {
@@ -1348,12 +1380,12 @@
     "ky": "Цүрих",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D2%AF%D1%80%D0%B8%D1%85",
     "senses": [
       "city"
     ],
     "ruAccented": "Цю'рих",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D2%AF%D1%80%D0%B8%D1%85",
     "id": "ru-Цюрих-002"
   },
   {
@@ -1361,13 +1393,13 @@
     "ky": "бута",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0",
     "senses": [
       "result one is attempting to achieve"
     ],
     "ruAccented": "цель",
     "ruGender": "f",
     "frequency": 54,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0",
     "id": "ru-цель-002"
   },
   {
@@ -1375,12 +1407,12 @@
     "ky": "чачтарач",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
     "senses": [
       "person whose profession is cutting (usually male) customers' hair and beards"
     ],
     "ruAccented": "цирю'льник",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
     "id": "ru-цирюльник-001"
   },
   {
@@ -1388,12 +1420,12 @@
     "ky": "парикмахер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80",
     "senses": [
       "person whose profession is cutting (usually male) customers' hair and beards"
     ],
     "ruAccented": "цирю'льник",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80",
     "id": "ru-цирюльник-002"
   },
   {
@@ -1401,10 +1433,10 @@
     "ky": "чачтарач",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
     "senses": [
       "person whose profession is cutting (usually male) customers' hair and beards"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
     "id": "ru-цирюльница-001"
   },
   {
@@ -1412,10 +1444,10 @@
     "ky": "парикмахер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80",
     "senses": [
       "person whose profession is cutting (usually male) customers' hair and beards"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80",
     "id": "ru-цирюльница-002"
   },
   {
@@ -1423,12 +1455,12 @@
     "ky": "цент",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82",
     "senses": [
       "subunit of currency in US and elsewhere"
     ],
     "ruAccented": "цент",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D1%82",
     "id": "ru-цент-001"
   },
   {
@@ -1436,12 +1468,12 @@
     "ky": "царь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D1%8C",
     "senses": [
       "an emperor"
     ],
     "ruAccented": "царь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D1%8C",
     "id": "ru-царь-005"
   },
   {
@@ -1449,12 +1481,12 @@
     "ky": "каныша",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88%D0%B0",
     "senses": [
       "empress or wife of a tsar"
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88%D0%B0",
     "id": "ru-царица-006"
   },
   {
@@ -1462,12 +1494,12 @@
     "ky": "царица",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0",
     "senses": [
       "empress or wife of a tsar"
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0",
     "id": "ru-царица-007"
   },
   {
@@ -1475,32 +1507,34 @@
     "ky": "баалуулук",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
     "senses": [
       "quality that renders something desirable or valuable"
     ],
-    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
     "pronunciation": "/baːˈluːˈluq/",
+    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
+    "ruAccented": "це'нность",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Супер-держава – бул элдин, улуттун жыргалчылыгын эң башкы баалуулук",
         "ru": "Супер-держава – это когда благосостояние народа, нации является"
       }
     ],
-    "ruAccented": "це'нность",
-    "ruGender": "f",
-    "id": "ru-ценность-001"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
+    "id": "ru-ценность-002"
   },
   {
     "ru": "ценность",
     "ky": "маани",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8",
     "senses": [
       "quality that renders something desirable or valuable"
     ],
     "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
+    "ruAccented": "це'нность",
+    "ruGender": "f",
+    "frequency": 685,
     "examples": [
       {
         "ky": "DemirBank өз кызматкерлеринин өнүгүүсүнө жана профессионалдык жактан өсүүсүнө зор маани берет.",
@@ -1511,22 +1545,21 @@
         "ru": "значение качеству используемых ножей."
       }
     ],
-    "ruAccented": "це'нность",
-    "ruGender": "f",
-    "frequency": 685,
-    "id": "ru-ценность-002"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8",
+    "id": "ru-ценность-003"
   },
   {
     "ru": "ценный",
     "ky": "баалуу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83",
     "senses": [
       "having a great value"
     ],
-    "etymology": "From баа (baa) + -луу (-luu). Compare to Southern Altai баалу (baalu, “valuable, precious”), etc.",
     "pronunciation": "/baːˈluː/",
+    "etymology": "From баа (baa) + -луу (-luu). Compare to Southern Altai баалу (baalu, “valuable, precious”), etc.",
+    "ruAccented": "це'нный",
+    "frequency": 176,
     "examples": [
       {
         "ky": "Инвестициялар жана мамлекеттик баалуу кагаздар (МБК)",
@@ -1537,8 +1570,7 @@
         "ru": "Инвестиции в государственные ценные бумаги"
       }
     ],
-    "ruAccented": "це'нный",
-    "frequency": 176,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83",
     "id": "ru-ценный-001"
   },
   {
@@ -1546,12 +1578,12 @@
     "ky": "гүлдөп турган маал",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
     "senses": [
       "state or season for such flowers"
     ],
     "ruAccented": "цвете'ние",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
     "id": "ru-цветение-001"
   },
   {
@@ -1559,12 +1591,12 @@
     "ky": "гүлдөп турган маал",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
     "senses": [
       "state or season for such flowers"
     ],
     "ruAccented": "цвет",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
     "id": "ru-цвет-003"
   },
   {
@@ -1572,12 +1604,12 @@
     "ky": "гүлдө",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9",
     "senses": [
       "have or open into blossoms"
     ],
     "ruAccented": "цвести'",
     "frequency": 72,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9",
     "id": "ru-цвести-001"
   },
   {
@@ -1585,11 +1617,11 @@
     "ky": "гүлдөө",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D3%A9",
     "senses": [
       "have or open into blossoms"
     ],
     "ruAccented": "цвести'",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D3%A9",
     "id": "ru-цвести-002"
   },
   {
@@ -1597,13 +1629,13 @@
     "ky": "цензура",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D0%B7%D1%83%D1%80%D0%B0",
     "senses": [
       "use of state or group power to control freedom of expression"
     ],
     "ruAccented": "цензу'ра",
     "ruGender": "f",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BD%D0%B7%D1%83%D1%80%D0%B0",
     "id": "ru-цензура-001"
   },
   {
@@ -1611,17 +1643,17 @@
     "ky": "жоокер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BA%D0%B5%D1%80",
     "senses": [
       "member of an army"
     ],
+    "frequency": 58,
     "examples": [
       {
         "ky": "билбеген мергенчи, жоокер жана малчы көчмөн элдин материалдык маданиятынын",
         "ru": "материальной культуры различных сообществ вечно колобродящих охотников, воинов"
       }
     ],
-    "frequency": 58,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BA%D0%B5%D1%80",
     "id": "ru-цирик-001"
   },
   {
@@ -1629,11 +1661,11 @@
     "ky": "черүү",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D2%AF%D2%AF",
     "senses": [
       "member of an army"
     ],
     "etymology": "From Proto-Turkic *čerig. Cognate to Southern Altai черӱ (čerü), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D2%AF%D2%AF",
     "id": "ru-цирик-002"
   },
   {
@@ -1641,10 +1673,10 @@
     "ky": "черик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B8%D0%BA",
     "senses": [
       "member of an army"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B8%D0%BA",
     "id": "ru-цирик-003"
   },
   {
@@ -1652,11 +1684,11 @@
     "ky": "солдат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82",
     "senses": [
       "member of an army"
     ],
     "frequency": 123,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82",
     "id": "ru-цирик-004"
   },
   {
@@ -1664,10 +1696,10 @@
     "ky": "аскер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D0%BA%D0%B5%D1%80",
     "senses": [
       "member of an army"
     ],
+    "frequency": 1097,
     "examples": [
       {
         "ky": "пенсияга келип такалганда, адам- аскер кызматчысыбы же дыйканбы, айырмасы жок.",
@@ -1678,7 +1710,7 @@
         "ru": "Новые военные базы в Кыргызстане: невозможное возможно?"
       }
     ],
-    "frequency": 1097,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D0%BA%D0%B5%D1%80",
     "id": "ru-цирик-005"
   },
   {
@@ -1686,13 +1718,13 @@
     "ky": "сүннөт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%BD%D0%BD%D3%A9%D1%82",
     "senses": [
       "removal of foreskin from penis"
     ],
-    "etymology": "From Arabic سُنَّة (sunna). Cognates with Kazakh сүннет (sünnet), Turkish sünnet.",
     "pronunciation": "/synˈnøt/",
+    "etymology": "From Arabic سُنَّة (sunna). Cognates with Kazakh сүннет (sünnet), Turkish sünnet.",
     "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%BD%D0%BD%D3%A9%D1%82",
     "id": "ru-циркумцизия-001"
   },
   {
@@ -1700,13 +1732,13 @@
     "ky": "азем",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B5%D0%BC",
     "senses": [
       "ritual with religious significance"
     ],
     "ruAccented": "церемо'ния",
     "ruGender": "f",
     "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B5%D0%BC",
     "id": "ru-церемония-001"
   },
   {
@@ -1714,10 +1746,10 @@
     "ky": "теократия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F",
     "senses": [
       "government under the control of a Church"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F",
     "id": "ru-церковное государство-001"
   },
   {
@@ -1725,11 +1757,12 @@
     "ky": "сом",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BC",
     "senses": [
       "Russian monetary unit"
     ],
     "etymology": "As a unit of currency, the Turkic root *som literally means pure, implying pure gold.",
+    "ruAccented": "целко'вый",
+    "frequency": 546,
     "examples": [
       {
         "ky": "сом бөлүнүп берилди",
@@ -1740,8 +1773,7 @@
         "ru": "Фитосанитарный сертификат на груз, не превышающий двух тонн, стоит 200 сомов, а в случае превышения этой нормы нужно оплатить 492 сома."
       }
     ],
-    "ruAccented": "целко'вый",
-    "frequency": 546,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BC",
     "id": "ru-целковый-001"
   },
   {
@@ -1749,17 +1781,17 @@
     "ky": "рубль",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%B1%D0%BB%D1%8C",
     "senses": [
       "Russian monetary unit"
     ],
+    "ruAccented": "целко'вый",
     "examples": [
       {
         "ky": "Сом, доллар же рубль менен шашылыш түрдө депозиттерди ачуу мүмкүнчүлүгү",
         "ru": "Возможность открытия срочных депозитов в сомах, долларах США и российских рублях."
       }
     ],
-    "ruAccented": "целко'вый",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%B1%D0%BB%D1%8C",
     "id": "ru-целковый-002"
   },
   {
@@ -1767,15 +1799,15 @@
     "ky": "падышалык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "the exercise of sovereign power"
     ],
-    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
     "pronunciation": "/pɑˈdɯˈʃɑˈlɯq/",
+    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
     "ruAccented": "ца'рствование",
     "ruGender": "n",
     "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-царствование-001"
   },
   {
@@ -1783,11 +1815,11 @@
     "ky": "падышалык кылуу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA%20%D0%BA%D1%8B%D0%BB%D1%83%D1%83",
     "senses": [
       "exercise sovereign power"
     ],
     "ruAccented": "ца'рствовать",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA%20%D0%BA%D1%8B%D0%BB%D1%83%D1%83",
     "id": "ru-царствовать-001"
   },
   {
@@ -1795,19 +1827,19 @@
     "ky": "Стамбул",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB",
     "senses": [
       "largest city of Turkey and last capital of the Ottoman Empire"
     ],
+    "ruAccented": "Царьгра'д",
+    "ruGender": "m",
+    "frequency": 10,
     "examples": [
       {
         "ky": "Негизгиси туура тандоо керек: «кайнаган Стамбул эмес», үп, аба",
         "ru": "Главное, правильно выбрать направление: не «знойный Истамбул», не"
       }
     ],
-    "ruAccented": "Царьгра'д",
-    "ruGender": "m",
-    "frequency": 10,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%B1%D1%83%D0%BB",
     "id": "ru-Царьград-001"
   },
   {
@@ -1815,12 +1847,12 @@
     "ky": "Ыстанбул",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AB%D1%81%D1%82%D0%B0%D0%BD%D0%B1%D1%83%D0%BB",
     "senses": [
       "largest city of Turkey and last capital of the Ottoman Empire"
     ],
     "ruAccented": "Царьгра'д",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AB%D1%81%D1%82%D0%B0%D0%BD%D0%B1%D1%83%D0%BB",
     "id": "ru-Царьград-002"
   },
   {
@@ -1828,10 +1860,11 @@
     "ky": "сандык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "of or pertaining to numbers"
     ],
+    "ruAccented": "цифрово'й",
+    "frequency": 97,
     "examples": [
       {
         "ky": "- Жетекчилик тарабынан белгиленген пайда жана сандык көрсөткүчтөр боюнча максаттарга жетишүү үчүн бардык зарыл аракеттерди көрүү.",
@@ -1842,8 +1875,7 @@
         "ru": "- Предпринимать все необходимые действия для достижения целей по прибыли и количественным показателям, установленные руководством."
       }
     ],
-    "ruAccented": "цифрово'й",
-    "frequency": 97,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-цифровой-003"
   },
   {
@@ -1851,10 +1883,11 @@
     "ky": "кымбаттуу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BC%D0%B1%D0%B0%D1%82%D1%82%D1%83%D1%83",
     "senses": [
       "of high value or worth"
     ],
+    "ruAccented": "це'нный",
+    "frequency": 30,
     "examples": [
       {
         "ky": "Жок, кымбаттуу түркмөн бир туугандарыбыз.",
@@ -1865,8 +1898,7 @@
         "ru": "страна свободы и демократии, страна романтических грез всех постсоветских"
       }
     ],
-    "ruAccented": "це'нный",
-    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BC%D0%B1%D0%B0%D1%82%D1%82%D1%83%D1%83",
     "id": "ru-ценный-002"
   },
   {
@@ -1874,10 +1906,11 @@
     "ky": "асыл",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB",
     "senses": [
       "of high value or worth"
     ],
+    "ruAccented": "це'нный",
+    "frequency": 352,
     "examples": [
       {
         "ky": "Фермердик чарба малдын асыл тукумдуулугун арттыруу үчүн алты жылдык мөөнөт менен банктан насыя алган.",
@@ -1888,8 +1921,7 @@
         "ru": "Необходимо, чтобы в Кыргызстане один из вице-премьер-министров курировал только сферу сельского хозяйства."
       }
     ],
-    "ruAccented": "це'нный",
-    "frequency": 352,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB",
     "id": "ru-ценный-003"
   },
   {
@@ -1897,13 +1929,13 @@
     "ky": "кыруу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D1%83%D1%83",
     "senses": [
       "draw an object along while exerting pressure"
     ],
     "etymology": "From Proto-Turkic *kïr-. Cognate to Southern Altai кырар (kïrar), etc.",
     "ruAccented": "цара'пать",
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D1%83%D1%83",
     "id": "ru-царапать-001"
   },
   {
@@ -1911,10 +1943,10 @@
     "ky": "дальтонизм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC",
     "senses": [
       "condition in which the ability to see colors is impaired"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC",
     "id": "ru-цветовая слепота-001"
   },
   {
@@ -1922,10 +1954,10 @@
     "ky": "түс тааныбоо",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81%20%D1%82%D0%B0%D0%B0%D0%BD%D1%8B%D0%B1%D0%BE%D0%BE",
     "senses": [
       "condition in which the ability to see colors is impaired"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81%20%D1%82%D0%B0%D0%B0%D0%BD%D1%8B%D0%B1%D0%BE%D0%BE",
     "id": "ru-цветовая слепота-002"
   },
   {
@@ -1933,12 +1965,12 @@
     "ky": "сыган",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B3%D0%B0%D0%BD",
     "senses": [
       "a member of the Romani people or another nomadic group"
     ],
     "ruAccented": "цыга'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B3%D0%B0%D0%BD",
     "id": "ru-цыган-001"
   },
   {
@@ -1946,12 +1978,12 @@
     "ky": "цыган",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD",
     "senses": [
       "a member of the Romani people or another nomadic group"
     ],
     "ruAccented": "цыга'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD",
     "id": "ru-цыган-002"
   },
   {
@@ -1959,12 +1991,12 @@
     "ky": "сыган",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B3%D0%B0%D0%BD",
     "senses": [
       "a member of the Romani people or another nomadic group"
     ],
     "ruAccented": "цыга'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B3%D0%B0%D0%BD",
     "id": "ru-цыганка-001"
   },
   {
@@ -1972,12 +2004,12 @@
     "ky": "цыган",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD",
     "senses": [
       "a member of the Romani people or another nomadic group"
     ],
     "ruAccented": "цыга'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD",
     "id": "ru-цыганка-002"
   },
   {
@@ -1985,10 +2017,10 @@
     "ky": "Цезарь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8C",
     "senses": [
       "ancient Roman family name"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B5%D0%B7%D0%B0%D1%80%D1%8C",
     "id": "ru-Цезарь-001"
   },
   {
@@ -1996,10 +2028,10 @@
     "ky": "Церера",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B5%D1%80%D0%B5%D1%80%D0%B0",
     "senses": [
       "asteroid"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B5%D1%80%D0%B5%D1%80%D0%B0",
     "id": "ru-Церера-001"
   },
   {
@@ -2007,10 +2039,10 @@
     "ky": "цистеин",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD",
     "senses": [
       "nonessential amino acid"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%81%D1%82%D0%B5%D0%B8%D0%BD",
     "id": "ru-цистеин-001"
   },
   {
@@ -2018,12 +2050,12 @@
     "ky": "цистерна",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0",
     "senses": [
       "reservoir for holding water"
     ],
     "ruAccented": "цисте'рна",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0",
     "id": "ru-цистерна-002"
   },
   {
@@ -2031,10 +2063,10 @@
     "ky": "Цицерон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%BD",
     "senses": [
       "Roman statesman and orator"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D0%B8%D1%86%D0%B5%D1%80%D0%BE%D0%BD",
     "id": "ru-Цицерон-001"
   },
   {
@@ -2042,12 +2074,12 @@
     "ky": "пакизалык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BA%D0%B8%D0%B7%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "abstaining from sexual activity"
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BA%D0%B8%D0%B7%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-целомудрие-003"
   },
   {
@@ -2055,19 +2087,19 @@
     "ky": "тазалык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B7%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "abstaining from sexual activity"
     ],
+    "ruAccented": "целому'дрие",
+    "ruGender": "n",
+    "frequency": 28,
     "examples": [
       {
         "ky": "турат, өнөр-жай иштеп жатат, жумушсуздук дээрлик жок, бир гана борбордо тазалык",
         "ru": "промышленность, практически отсутствует безработица, чистота не только в"
       }
     ],
-    "ruAccented": "целому'дрие",
-    "ruGender": "n",
-    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B7%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-целомудрие-004"
   },
   {
@@ -2075,12 +2107,12 @@
     "ky": "кыздык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D0%B4%D1%8B%D0%BA",
     "senses": [
       "abstaining from sexual activity"
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D0%B4%D1%8B%D0%BA",
     "id": "ru-целомудрие-005"
   },
   {
@@ -2088,12 +2120,12 @@
     "ky": "гүлзар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B7%D0%B0%D1%80",
     "senses": [
       "place where flowers are grown"
     ],
     "ruAccented": "цветни'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B7%D0%B0%D1%80",
     "id": "ru-цветник-001"
   },
   {
@@ -2101,12 +2133,12 @@
     "ky": "циферблат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%84%D0%B5%D1%80%D0%B1%D0%BB%D0%B0%D1%82",
     "senses": [
       "the surface of a clock that contains the dial and hands"
     ],
     "ruAccented": "цифербла'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%84%D0%B5%D1%80%D0%B1%D0%BB%D0%B0%D1%82",
     "id": "ru-циферблат-001"
   },
   {
@@ -2114,10 +2146,10 @@
     "ky": "балдардын церебралдык шалы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D0%B4%D1%8B%D0%BD%20%D1%86%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%20%D1%88%D0%B0%D0%BB%D1%8B",
     "senses": [
       "group of non-contagious conditions"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%D0%B4%D1%8B%D0%BD%20%D1%86%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA%20%D1%88%D0%B0%D0%BB%D1%8B",
     "id": "ru-церебральный паралич-001"
   },
   {
@@ -2125,10 +2157,10 @@
     "ky": "кумура",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%83%D1%80%D0%B0",
     "senses": [
       "container in which plants are grown"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%83%D1%80%D0%B0",
     "id": "ru-цветочный горшок-001"
   },
   {
@@ -2136,10 +2168,10 @@
     "ky": "карапа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D0%BF%D0%B0",
     "senses": [
       "container in which plants are grown"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D0%BF%D0%B0",
     "id": "ru-цветочный горшок-002"
   },
   {
@@ -2147,10 +2179,10 @@
     "ky": "Борбордук Европа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0",
     "senses": [
       "geographical region in the center of Europe"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0",
     "id": "ru-Центральная Европа-001"
   },
   {
@@ -2158,50 +2190,752 @@
     "ky": "дың",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%8B%D2%A3",
     "senses": [
       "virgin lands in Russia and Kazakhstan"
     ],
+    "ruAccented": "целина'",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "сыртынан жылтыраган, бирок чындап киргенде кан менен терден улам жаралуучу, дың",
         "ru": "понимании – ровно по всему диапазону. Природные данные, разумеется, желательны"
       }
     ],
-    "ruAccented": "целина'",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%8B%D2%A3",
     "id": "ru-целина-001"
   },
   {
-    "ru": "цветочный",
-    "ky": "гүлдүү",
+    "ru": "цветень",
+    "ky": "апрель",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "April",
+    "senses": [
+      "fourth month of the Gregorian calendar"
+    ],
+    "frequency": 272,
+    "examples": [
+      {
+        "ky": "Январь, март жана апрель – келечеги жок иштер, адамдар ортосундагы мамилелер менен коштошуунун маалы.",
+        "ru": "Январь, март и апрель – время отказа от неудавшихся начинаний и отношений. Иллюзии развеются, и появится решимость для проведения кардинальных перемен."
+      },
+      {
+        "ky": "- 2010-жыл боюнча, апрель революциясынын принциптерин карманган партиялардын бийликке келиши мен үчүн маанилүү болчу.",
+        "ru": "- Что касается 2010-го года, то для меня было важно, чтобы партии, которые разделяют принципы апрельской революции, прошли во власть."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8C",
+    "id": "ru-цветень-001"
+  },
+  {
+    "ru": "цевка",
+    "ky": "сөөк",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "bone",
+    "senses": [
+      "material"
+    ],
+    "etymology": "Etymology tree\nProto-Turkic *süŋük\nKyrgyz сөөк\nInherited from Proto-Turkic *süŋük.",
+    "frequency": 445,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D3%A9%D0%BA",
+    "id": "ru-цевка-001"
+  },
+  {
+    "ru": "Цеевропа",
+    "ky": "Украина",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Ukraine",
+    "senses": [
+      "country in Eastern Europe"
+    ],
+    "frequency": 5,
+    "examples": [
+      {
+        "ky": "Гоузия, Молдова, Украина жана Орусиянын кээ бир региондору сыяктуу мурунку советтер",
+        "ru": "некоторые регионы Украины и России полностью ликвидировали детские дома, и"
+      },
+      {
+        "ky": "анда Украина – орусия агрессиясынын",
+        "ru": "сохранить свою версию реальности, в которой Украина – жертва российской"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0",
+    "id": "ru-Цеевропа-001"
+  },
+  {
+    "ru": "церква",
+    "ky": "чиркөө",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "church",
+    "senses": [
+      "house of worship"
+    ],
+    "etymology": "Borrowed from Russian це́рковь (cérkovʹ). Cognate with Bashkir сиркәү (sirkəw), Kildin Sami цэ̄ркав (cērkav), Kazakh шіркеу (şırkeu), Skolt Sami ceerkav, etc.",
+    "frequency": 11,
+    "examples": [
+      {
+        "ky": "болгон эмес, азыркы иштеп жаткан чиркөө коомдору Орусия Православдык",
+        "ru": "никогда не было, приходы, действующие в стране, подчиняются Московской"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D3%A9%D3%A9",
+    "id": "ru-церква-001"
+  },
+  {
+    "ru": "целка",
+    "ky": "чие",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "cherry",
+    "senses": [
+      "fruit"
+    ],
+    "pronunciation": "/t͡ʃiˈje/",
+    "etymology": "Relate to Bashkir сейә (seyə), Kazakh шие (şie), Kumyk жие (jiye), Tatar чия (çiyä) etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D0%B5",
+    "id": "ru-целка-001"
+  },
+  {
+    "ru": "целка",
+    "ky": "алча",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "cherry",
+    "senses": [
+      "fruit"
+    ],
+    "examples": [
+      {
+        "ky": "каттаттырып, ал жакта эки мекемени куруп, алча бакчасын жайылтышат.",
+        "ru": "землю в частную собственность, построили там два капитальных строения и разбили"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%87%D0%B0",
+    "id": "ru-целка-002"
+  },
+  {
+    "ru": "царь",
+    "ky": "дамке",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "king",
+    "senses": [
+      "(draughts, checkers) a piece that reached the farthest row forward"
+    ],
+    "ruAccented": "царь",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BC%D0%BA%D0%B5",
+    "id": "ru-царь-006"
+  },
+  {
+    "ru": "царица",
+    "ky": "ферзь",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "queen",
+    "senses": [
+      "chess piece"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D1%80%D0%B7%D1%8C",
+    "id": "ru-царица-008"
+  },
+  {
+    "ru": "царица",
+    "ky": "ферзди",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "queen",
+    "senses": [
+      "chess piece"
+    ],
+    "ruAccented": "цари'ца",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D1%80%D0%B7%D0%B4%D0%B8",
+    "id": "ru-царица-009"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "негиз",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "pronunciation": "/neˈɡiz/",
+    "frequency": 1434,
+    "examples": [
+      {
+        "ky": "Ошондуктан, бул көз караштын ээлеринин өз позицияларына бекем экендиктерине карабастан туруп, толугу менен жаӊылыш пикир деп жыйынтык чыгарууга негиз бар.",
+        "ru": "Они дали отставание и по налогам и объему промышленности.— В высокогорных районах медицинское обслуживание плохое, не хватает квалифицированных врачей."
+      },
+      {
+        "ky": "Негиз катары болот же жыгач конструкциялар колдонулат.",
+        "ru": "В качестве основания используют стальные или деревянные конструкции."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7",
+    "id": "ru-цоколь-001"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "түп",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "etymology": "From Proto-Turkic *tǖp.",
+    "frequency": 1072,
+    "examples": [
+      {
+        "ky": "окуп жаткан окуу жайынан (мектеп/лицей) берилген тактаманын же өспүрүмдүн сүрөтү менен жашаган жеринен тактаманын түп нускасы.",
+        "ru": "оригинал справки с места учебы (школа/лицей) или места жительства с фотографией несовершеннолетнего."
+      },
+      {
+        "ky": "Бул көрүнүштү түп тамыры менен жок кылуунун жолун азырынча таба элекпиз.",
+        "ru": "Пока мы не нашли действенных механизмов, чтобы искоренить это явление."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BF",
+    "id": "ru-цоколь-002"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "база",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "frequency": 201,
+    "examples": [
+      {
+        "ky": "Жана жаңы база",
+        "ru": "Вот новая база и"
+      },
+      {
+        "ky": "жагынан аксоодо, анткени илимий-техникалык база жок.",
+        "ru": "потому что нет достойной научно-технической базы."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B0",
+    "id": "ru-цоколь-003"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "себеп",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "pronunciation": "/seˈbep/",
+    "etymology": "From Arabic سَبَب (sabab, “cause; reason”).\nCognate with Azerbaijani səbəb,\nBashkir сәбәп (səbəp), Crimean Tatar sebep, Georgian საბაბი (sababi),\nIndonesian sebab, Kazakh себеп (sebep),\nTajik сабаб (sabab), Tatar сәбәп (säbäp),\nTurkish sebep, Turkmen sebäp,\nUyghur سەۋەب (seweb), Urdu سبب (sabab),\nUzbek sabab, etc.",
+    "frequency": 392,
+    "examples": [
+      {
+        "ky": "жаңжалдарга эмне себеп болууда?",
+        "ru": "чем причина таких стычек?"
+      },
+      {
+        "ky": "себеп – начар тамактануу жана начар",
+        "ru": "– плохое питание и отвратительные социальные условия в целом."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D0%B5%D0%BF",
+    "id": "ru-цоколь-004"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "базис",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B8%D1%81",
+    "id": "ru-цоколь-005"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "байыр",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9%D1%8B%D1%80",
+    "id": "ru-цоколь-006"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "цоколь",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C",
+    "id": "ru-цоколь-007"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "фундамент",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82",
+    "id": "ru-цоколь-008"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "таман",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "frequency": 129,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BD",
+    "id": "ru-цоколь-009"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "негиздөө",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "examples": [
+      {
+        "ky": "турган Ислам академиясын негиздөө керек»,-деп билдирген Сооронбай",
+        "ru": "необходимо создать Исламскую академию, деятельность которой будет под контролем"
+      },
+      {
+        "ky": "келип түшкөн сунуштар тууралу аларды ченемдик укуктук актынын долбооруна киргизүүнүн же киргизбөөнүн себептерин негиздөө менен, коомдук талкуулоонун жыйынтыктары боюнча жыйынтык маалыматты даярдоо.",
+        "ru": "подготовки по результатам общественного обсуждения итоговой информации о поступивших предложениях с обоснованием причин включения либо невключения их в проект нормативного правового акта."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%D0%B4%D3%A9%D3%A9",
+    "id": "ru-цоколь-010"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "негизделүү",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D2%AF%D2%AF",
+    "id": "ru-цоколь-011"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "негиз салуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%20%D1%81%D0%B0%D0%BB%D1%83%D1%83",
+    "id": "ru-цоколь-012"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "жайлашуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B9%D0%BB%D0%B0%D1%88%D1%83%D1%83",
+    "id": "ru-цоколь-013"
+  },
+  {
+    "ru": "цоколь",
+    "ky": "таянуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "examples": [
+      {
+        "ky": "Өткөн кылымдын соңку он жылдыгында бир катар европа өлкөлөрү өздөрүнүн салык системасын экологиялык салыктарга таянуу менен аларды экологиялаштыруу багытында реформалап алышкан.",
+        "ru": "В последнем десятилетии прошлого века ряд европейских государств реформировали свои налоговые системы в направлении их экологизации, опираясь при этом на экологические налоги."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%8F%D0%BD%D1%83%D1%83",
+    "id": "ru-цоколь-014"
+  },
+  {
+    "ru": "цыпа",
+    "ky": "тоок",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "chicken",
+    "senses": [
+      "bird"
+    ],
+    "etymology": "From Proto-Turkic *tiakïgu (“hen, fowl”).\nCognate with\nOld Uyghur 𐾀𐽰𐽲𐾄𐽶𐽲𐽳 (takïgu),\nBashkir тауыҡ (tawıq),\nTatar тавык (tawıq),\nKazakh тауық (tauyq),\nSouthern Altai таак (taak), така (taka),\nKumyk тавукъ (tawuq),\nUzbek tovuq,\nTurkish tavuk (“hen”), Turkmen towuk,\netc.",
+    "frequency": 83,
+    "examples": [
+      {
+        "ky": "өзгөчө ыкма менен даярдалып, мешке какталып башырылган тоок эти болчу.",
+        "ru": "Это была курица, как-то по-особенному запеченная в кокосовой стружке."
+      },
+      {
+        "ky": "Мисалы, велосипед, телевизор, тоок уурдагандарга айып пул, коомдук жана түзөтүү иштери каралган.",
+        "ru": "Например, тем, кто украл велосипед, телевизор, курицу предусмотрены наложение денежного штрафа, общественные и исправительные работы."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BE%D0%BA",
+    "id": "ru-цыпа-001"
+  },
+  {
+    "ru": "цигарка",
+    "ky": "тамеки",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "cigarette",
+    "senses": [
+      "tobacco or other substances, in a thin roll wrapped with paper, intended to be smoked"
+    ],
+    "etymology": "From Persian تنباکو (tanbâko, “tobacco”), from Arabic طَبَاق (ṭabāq, “a type of medicinal herb”) and طُبَاق (ṭubāq, “(same)”). Cognate with Bashkir тәмәке (təməke), Kazakh темекі (temekı), Uzbek tamaki, Turkmen temmäki, Azerbaijani tənbəki, etc.",
+    "ruAccented": "цига'рка",
+    "ruGender": "f",
+    "frequency": 857,
+    "examples": [
+      {
+        "ky": "жайларда тамеки чегүүгө болот экен.",
+        "ru": "почти во всех) заведениях можно курить."
+      },
+      {
+        "ky": "Тамеки чекпейт, спорт менен машыгат, мыкты чабандес.",
+        "ru": "Не курит, спортом занимается, хороший наездник."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B5%D0%BA%D0%B8",
+    "id": "ru-цигарка-001"
+  },
+  {
+    "ru": "цигарка",
+    "ky": "сигарет",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "cigarette",
+    "senses": [
+      "tobacco or other substances, in a thin roll wrapped with paper, intended to be smoked"
+    ],
+    "ruAccented": "цига'рка",
+    "ruGender": "f",
+    "examples": [
+      {
+        "ky": "Ошондуктан кальянга көнүп алган, бирок тамеки тартпаган адамдар бат эле сигарет тартууга өтүп кетээри анык.",
+        "ru": "Но вы же и сами понимаете, что принцип добровольности может перерасти в обязательное условие."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82",
+    "id": "ru-цигарка-002"
+  },
+  {
+    "ru": "целость",
+    "ky": "коопсуздук",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "safety",
+    "senses": [
+      "condition or feeling of being safe"
+    ],
+    "pronunciation": "/qoːpˈsuzˈduq/",
+    "etymology": "From кооп (koop) + -суз (-suz) + -дык (-dık)",
+    "ruAccented": "це'лость",
+    "frequency": 703,
+    "examples": [
+      {
+        "ky": "Коргонуу жана коопсуздук",
+        "ru": "Оборона и безопасность"
+      },
+      {
+        "ky": "Интернет-операциялардын коопсуз өтүшү үчүн, төлөмдөрдү 3D-Secure коопсуздук технологиясын колдогон сайттар аркылуу өткөрүүнү сунуштайбыз.",
+        "ru": "Для обеспечения безопасного проведения интернет - операций рекомендуем проводить платежи на сайтах, поддерживающих технологию безопасности 3D - Secure."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BF%D1%81%D1%83%D0%B7%D0%B4%D1%83%D0%BA",
+    "id": "ru-целость-001"
+  },
+  {
+    "ru": "цена",
+    "ky": "баалуулук",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "value",
+    "senses": [
+      "quality that renders something desirable or valuable"
+    ],
+    "pronunciation": "/baːˈluːˈluq/",
+    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
+    "ruAccented": "цена'",
+    "ruGender": "f",
+    "examples": [
+      {
+        "ky": "Супер-держава – бул элдин, улуттун жыргалчылыгын эң башкы баалуулук",
+        "ru": "Супер-держава – это когда благосостояние народа, нации является"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
+    "id": "ru-цена-003"
+  },
+  {
+    "ru": "цена",
+    "ky": "маани",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "value",
+    "senses": [
+      "quality that renders something desirable or valuable"
+    ],
+    "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
+    "ruAccented": "цена'",
+    "ruGender": "f",
+    "frequency": 685,
+    "examples": [
+      {
+        "ky": "DemirBank өз кызматкерлеринин өнүгүүсүнө жана профессионалдык жактан өсүүсүнө зор маани берет.",
+        "ru": "Значительное внимание в Demir Bank уделяется развитию и профессиональному росту своих сотрудников."
+      },
+      {
+        "ky": "сапатына анчалык деле маани бербегенибизди түшүндүм.",
+        "ru": "значение качеству используемых ножей."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8",
+    "id": "ru-цена-004"
+  },
+  {
+    "ru": "цыпка",
+    "ky": "балапан",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "chick",
+    "senses": [
+      "young bird"
+    ],
+    "frequency": 57,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BF%D0%B0%D0%BD",
+    "id": "ru-цыпка-001"
+  },
+  {
+    "ru": "цветь",
+    "ky": "гүл",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "blossom",
+    "senses": [
+      "flowers on trees"
+    ],
+    "pronunciation": "/ɡyl/",
+    "etymology": "Borrowed from Classical Persian گُل (gul).",
+    "frequency": 248,
+    "examples": [
+      {
+        "ky": "Гүл ич ооруларды айыктыра алат деген ишеним бар, жана да ал 1978-жылы эле Кызыл китепке киргизилгени менен анын кооздугуна суктанып бул гүлдү үзүп, өзү менен алып кеткиси келгендер да кезигет.",
+        "ru": "Легенда об Айгуль цветку приписывают благотворное действие при болезнях ЖКТ, да и ради красоты все еще находятся желающие оборвать цветы, занесенные в Красную Книгу еще в 1978 году."
+      },
+      {
+        "ky": "биринчи кварталдар жана гүл бакчалар пландаштырыла баштайт.",
+        "ru": "и производилась разбивка первых кварталов и скверов."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB",
+    "id": "ru-цветь-001"
+  },
+  {
+    "ru": "цветь",
+    "ky": "гүлдөп турган маал",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "blossom",
+    "senses": [
+      "state or season for such flowers"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D2%AF%D0%BB%D0%B4%D3%A9%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD%20%D0%BC%D0%B0%D0%B0%D0%BB",
+    "id": "ru-цветь-002"
+  },
+  {
+    "ru": "царство",
+    "ky": "эреже",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "rule",
+    "senses": [
+      "regulation"
+    ],
+    "ruAccented": "ца'рство",
+    "ruGender": "n",
+    "frequency": 728,
+    "examples": [
+      {
+        "ky": "Анан жазасыз калуу эреже болбошу керек.",
+        "ru": "безнаказанность не должна быть правилом."
+      },
+      {
+        "ky": "чыгармачыл, башкалардан өзгөчө инсанды чагылдыруу эреже катары, оңой ишке",
+        "ru": "человека – личность творческую, неординарную – как правило, легко реализовывалось."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B5%D0%B6%D0%B5",
+    "id": "ru-царство-004"
+  },
+  {
+    "ru": "царство",
+    "ky": "тартип",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "rule",
+    "senses": [
+      "regulation"
+    ],
+    "pronunciation": "/tarˈtip/",
+    "etymology": "From Arabic تَرْتِيب (tartīb, “order; sequence; arrangement”).",
+    "ruAccented": "ца'рство",
+    "ruGender": "n",
+    "frequency": 2738,
+    "examples": [
+      {
+        "ky": "калгандай... Бул тазалык, кооздук, тартип – эл үчүн эмес сыяктуу.",
+        "ru": "Будто вся эта чистота, красота, порядок – не для людей."
+      },
+      {
+        "ky": "Бул түшүнүктө тартип себеп, ыкма, туура",
+        "ru": "В таком понимании дисциплина есть не причина, не"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%B8%D0%BF",
+    "id": "ru-царство-005"
+  },
+  {
+    "ru": "цацка",
+    "ky": "оюнчук",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "toy",
+    "senses": [
+      "something to play with"
+    ],
+    "etymology": "From Proto-Turkic *oy- +-чук (-cuk).",
+    "frequency": 12,
+    "examples": [
+      {
+        "ky": "Эми минтип 20-жылдан кийин, советтик чиновниктер азыркы чиновниктерге салыштырмалуу оюнчук",
+        "ru": "А спустя 20 лет оказалось, что советские чиновники по части коррупции – просто дети по сравнению с чиновниками"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD%D1%87%D1%83%D0%BA",
+    "id": "ru-цацка-001"
+  },
+  {
+    "ru": "цикавый",
+    "ky": "кызык",
     "pos": "adj",
-    "source": "manual",
+    "source": "pivot-en",
+    "enPivot": "interesting",
     "senses": [
-      "относящийся к цветам, состоящий из цветов"
+      "arousing or holding the attention"
     ],
-    "id": "ru-цветочный-001"
+    "frequency": 782,
+    "examples": [
+      {
+        "ky": "Эң бир кызык тапшырма,",
+        "ru": "Странное само по себе поручение, как если бы"
+      },
+      {
+        "ky": "синтаксисти үйрөтүп башташат. Анан аларга кызык болбой калат.",
+        "ru": "изучать морфологию, синтаксис и т.д., им становится просто неинтересно."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D1%8B%D0%BA",
+    "id": "ru-цикавый-001"
   },
   {
-    "ru": "ценность",
-    "ky": "барк",
-    "pos": "noun",
-    "source": "manual",
-    "id": "ru-ценность-003",
+    "ru": "цикавый",
+    "ky": "кызыкты",
+    "pos": "adj",
+    "source": "pivot-en",
+    "enPivot": "interesting",
     "senses": [
-      "важность, значимость"
+      "arousing or holding the attention"
     ],
-    "ruGender": "f"
+    "examples": [
+      {
+        "ky": "Карамат Орозова Баткендеги биофабриканын качан бүткөрүлөрүнө кызыкты",
+        "ru": "Карамат Орозова поинтересовалась, когда будет завершено строительство Баткенской биофабрики"
+      },
+      {
+        "ky": "Карамат Орозова Баткендеги биофабриканын качан бүткөрүлөрүнө кызыкты |",
+        "ru": "Карамат Орозова поинтересовалась, когда будет завершено строительство Баткенской биофабрики |"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D1%8B%D0%BA%D1%82%D1%8B",
+    "id": "ru-цикавый-002"
   },
   {
-    "ru": "целостность",
-    "ky": "бүтүндүк",
+    "ru": "ценз",
+    "ky": "эл каттоо",
     "pos": "noun",
-    "source": "manual",
-    "id": "ru-целостность-001",
+    "source": "pivot-en",
+    "enPivot": "census",
     "senses": [
-      "нераздельность, единство"
+      "official count of members of a population"
     ],
-    "ruGender": "f"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%20%D0%BA%D0%B0%D1%82%D1%82%D0%BE%D0%BE",
+    "id": "ru-ценз-001"
+  },
+  {
+    "ru": "цирюльня",
+    "ky": "чачтарач",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "barbershop",
+    "senses": [
+      "barber’s shop"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%82%D0%B0%D1%80%D0%B0%D1%87",
+    "id": "ru-цирюльня-001"
+  },
+  {
+    "ru": "цирюльня",
+    "ky": "парикмахерская",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "barbershop",
+    "senses": [
+      "barber’s shop"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F",
+    "id": "ru-цирюльня-002"
   }
 ]

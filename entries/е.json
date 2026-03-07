@@ -1,15 +1,26 @@
 [
   {
+    "ru": "единство",
+    "ky": "биримдик",
+    "pos": "noun",
+    "senses": [
+      "общность, сплочённость"
+    ],
+    "ruGender": "n",
+    "source": "manual",
+    "id": "ru-единство-001"
+  },
+  {
     "ru": "ебать",
     "ky": "тыгуу",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
     "senses": [
       "инициативно совершать половой акт"
     ],
     "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
     "ruAccented": "еба'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
     "id": "ru-ебать-001"
   },
   {
@@ -49,12 +60,12 @@
     "ky": "жеш",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%88",
     "senses": [
       "принимать пищу, питаться"
     ],
     "ruAccented": "есть",
     "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%88",
     "id": "ru-есть-001"
   },
   {
@@ -70,12 +81,12 @@
     "ky": "эгер",
     "pos": "conj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
     "senses": [
       "ввод придаточного предложения, выражающего потенциально возможное условие"
     ],
-    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
     "pronunciation": "/eˈɡer/",
+    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
+    "frequency": 15,
     "examples": [
       {
         "ky": "*ВК лимити жана Сиздин кредиттик картаңыздын лимити өз ара байланышкан: эгер Сиз алардын бирөөсүнүн лимитин колдонсоңуз, экинчисинин лимити төмөндөйт.",
@@ -86,7 +97,7 @@
         "ru": "Если государство в силах, оно может помочь."
       }
     ],
-    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
     "id": "ru-если-001"
   },
   {
@@ -94,7 +105,8 @@
     "ky": "европалык",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
+    "ruAccented": "европе'йский",
+    "frequency": 20,
     "examples": [
       {
         "ky": "Совет мезгилинде саясат башкача эле, бизге жалпы европалык баалулуктарды киргизе башташты, ал жашоонун баардык тармактарына, анын ичинде маданият жана спротко да тиешелүү эле.",
@@ -105,8 +117,7 @@
         "ru": "Я хочу, чтобы Россия стала развитой европейской страной."
       }
     ],
-    "ruAccented": "европе'йский",
-    "frequency": 20,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-европейский-001"
   },
   {
@@ -114,10 +125,12 @@
     "ky": "европалык",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "уроженец или житель Европы"
     ],
+    "ruAccented": "европе'ец",
+    "ruGender": "m",
+    "frequency": 20,
     "examples": [
       {
         "ky": "Совет мезгилинде саясат башкача эле, бизге жалпы европалык баалулуктарды киргизе башташты, ал жашоонун баардык тармактарына, анын ичинде маданият жана спротко да тиешелүү эле.",
@@ -128,9 +141,7 @@
         "ru": "Я хочу, чтобы Россия стала развитой европейской страной."
       }
     ],
-    "ruAccented": "европе'ец",
-    "ruGender": "m",
-    "frequency": 20,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-европеец-001"
   },
   {
@@ -138,10 +149,12 @@
     "ky": "Европа",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0",
     "senses": [
       "часть света"
     ],
+    "ruAccented": "Евро'па",
+    "ruGender": "f",
+    "frequency": 91,
     "examples": [
       {
         "ky": "Саммит Африка өнүктүрүү банкы (АӨБ) тарабынан Руанда өкмөтүнүн жана башка эл аралык уюмдардын, Европа реконструкциялоо жана өнүктүрүү банкынын (ЕРӨБ) кошо колдоосу менен уюшулган.",
@@ -152,9 +165,7 @@
         "ru": "европейское турне Алмазбека Атамбаева как посредническую миссию, попытку дать"
       }
     ],
-    "ruAccented": "Евро'па",
-    "ruGender": "f",
-    "frequency": 91,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0",
     "id": "ru-Европа-001"
   },
   {
@@ -162,10 +173,10 @@
     "ky": "жөөт",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
     "pronunciation": "/d͡ʒøːt/",
     "ruAccented": "евре'й",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
     "id": "ru-еврей-001"
   },
   {
@@ -181,8 +192,8 @@
     "ky": "жума сайын",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D0%B0%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
     "ruAccented": "еженеде'льный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D0%B0%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
     "id": "ru-еженедельный-001"
   },
   {
@@ -190,8 +201,8 @@
     "ky": "апта сайын",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D1%82%D0%B0%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
     "ruAccented": "еженеде'льный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D1%82%D0%B0%20%D1%81%D0%B0%D0%B9%D1%8B%D0%BD",
     "id": "ru-еженедельный-002"
   },
   {
@@ -207,15 +218,15 @@
     "ky": "Екатеринбург",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3",
+    "ruAccented": "Екатеринбу'рг",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Екатеринбург аркылуу Россиянын борборунан Сибирге негизги унаа өзөк жолунун",
         "ru": "велось строительство основных транспортных магистралей из Центральной России в"
       }
     ],
-    "ruAccented": "Екатеринбу'рг",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3",
     "id": "ru-Екатеринбург-001"
   },
   {
@@ -223,12 +234,12 @@
     "ky": "бүлдүркөн",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D2%AF%D0%BB%D0%B4%D2%AF%D1%80%D0%BA%D3%A9%D0%BD",
     "senses": [
       "кустарник"
     ],
     "ruAccented": "ежеви'ка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D2%AF%D0%BB%D0%B4%D2%AF%D1%80%D0%BA%D3%A9%D0%BD",
     "id": "ru-ежевика-001"
   },
   {
@@ -236,9 +247,9 @@
     "ky": "табигыйлык",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%D0%BB%D1%8B%D0%BA",
     "ruAccented": "есте'ственность",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%D0%BB%D1%8B%D0%BA",
     "id": "ru-естественность-001"
   },
   {
@@ -246,9 +257,9 @@
     "ky": "европий",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B8%D0%B9",
     "ruAccented": "евро'пий",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B8%D0%B9",
     "id": "ru-европий-001"
   },
   {
@@ -264,11 +275,11 @@
     "ky": "үрпөйтүү",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D1%80%D0%BF%D3%A9%D0%B9%D1%82%D2%AF%D2%AF",
     "senses": [
       "теребя, взлохмачивать, приводить в беспорядок"
     ],
     "ruAccented": "еро'шить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D1%80%D0%BF%D3%A9%D0%B9%D1%82%D2%AF%D2%AF",
     "id": "ru-ерошить-001"
   },
   {
@@ -276,11 +287,11 @@
     "ky": "уйпалоо",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B9%D0%BF%D0%B0%D0%BB%D0%BE%D0%BE",
     "senses": [
       "теребя, взлохмачивать, приводить в беспорядок"
     ],
     "ruAccented": "еро'шить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B9%D0%BF%D0%B0%D0%BB%D0%BE%D0%BE",
     "id": "ru-ерошить-002"
   },
   {
@@ -288,11 +299,11 @@
     "ky": "түктүйтү",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BA%D1%82%D2%AF%D0%B9%D1%82%D2%AF",
     "senses": [
       "теребя, взлохмачивать, приводить в беспорядок"
     ],
     "ruAccented": "еро'шить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BA%D1%82%D2%AF%D0%B9%D1%82%D2%AF",
     "id": "ru-ерошить-003"
   },
   {
@@ -300,12 +311,12 @@
     "ky": "единорог",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3",
     "senses": [
       "мифологическое животное с рогом на лбу"
     ],
     "ruAccented": "единоро'г",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D1%80%D0%BE%D0%B3",
     "id": "ru-единорог-001"
   },
   {
@@ -313,11 +324,11 @@
     "ky": "инжил",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B6%D0%B8%D0%BB",
     "senses": [
       "Евангелие, часть Библии (Нового Завета)"
     ],
     "ruAccented": "ева'нгелие",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B6%D0%B8%D0%BB",
     "id": "ru-евангелие-001"
   },
   {
@@ -325,10 +336,10 @@
     "ky": "Ереван",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD",
     "ruAccented": "Ерева'н",
     "ruGender": "m",
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD",
     "id": "ru-Ереван-001"
   },
   {
@@ -352,13 +363,13 @@
     "ky": "кычкыл",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "pronunciation": "/qɯt͡ʃˈqɯɫ/",
     "ruAccented": "е'дкий",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB",
     "id": "ru-едкий-001"
   },
   {
@@ -366,11 +377,11 @@
     "ky": "кычкылдык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA",
     "id": "ru-едкий-002"
   },
   {
@@ -378,11 +389,11 @@
     "ky": "кычкыл нерсе",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB%20%D0%BD%D0%B5%D1%80%D1%81%D0%B5",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%87%D0%BA%D1%8B%D0%BB%20%D0%BD%D0%B5%D1%80%D1%81%D0%B5",
     "id": "ru-едкий-003"
   },
   {
@@ -390,11 +401,11 @@
     "ky": "кислота",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
     "id": "ru-едкий-004"
   },
   {
@@ -402,11 +413,11 @@
     "ky": "жегич",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%B3%D0%B8%D1%87",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%B3%D0%B8%D1%87",
     "id": "ru-едкий-005"
   },
   {
@@ -414,11 +425,11 @@
     "ky": "ачыштыргыч",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D1%88%D1%82%D1%8B%D1%80%D0%B3%D1%8B%D1%87",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D1%88%D1%82%D1%8B%D1%80%D0%B3%D1%8B%D1%87",
     "id": "ru-едкий-006"
   },
   {
@@ -426,11 +437,12 @@
     "ky": "курч",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%87",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "etymology": "From Proto-Turkic *kurč (“hard, firm, stout”).\nCognate with\nOld Uyghur qurč (“firm, stout”);\nSouthern Altai курч (kurč, “steel; sharp”),\nTatar корыч (qorıç, “steel”),\nBashkir ҡорос (qoros, “steel”),\nKarachay-Balkar къурч (qurç, “steel”),\nKumyk къурч (qurç, “brisk, vigorous”), etc.",
+    "ruAccented": "е'дкий",
+    "frequency": 160,
     "examples": [
       {
         "ky": "карабай уйгур каламтороштору ушундай курч болгондуктан, аны менен этти да кессе",
@@ -441,8 +453,7 @@
         "ru": "академии в Кыргызстане вызвана острой нехваткой кадров, специализирующихся в"
       }
     ],
-    "ruAccented": "е'дкий",
-    "frequency": 160,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%87",
     "id": "ru-едкий-007"
   },
   {
@@ -450,11 +461,11 @@
     "ky": "күйгүзүүчү",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B9%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B9%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
     "id": "ru-едкий-008"
   },
   {
@@ -462,18 +473,18 @@
     "ky": "шылдың",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BB%D0%B4%D1%8B%D2%A3",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
+    "ruAccented": "е'дкий",
+    "frequency": 33,
     "examples": [
       {
         "ky": "Президенттен баштап, катардагы жарандарга чейин, шылдың кылып, кемсинтип же",
         "ru": "журналисты получили право оскорбить, унизить и оклеветать любого кыргызстанца, от"
       }
     ],
-    "ruAccented": "е'дкий",
-    "frequency": 33,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BB%D0%B4%D1%8B%D2%A3",
     "id": "ru-едкий-009"
   },
   {
@@ -481,11 +492,11 @@
     "ky": "какшык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BA%D1%88%D1%8B%D0%BA",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BA%D1%88%D1%8B%D0%BA",
     "id": "ru-едкий-010"
   },
   {
@@ -493,11 +504,11 @@
     "ky": "кекээр",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BA%D1%8D%D1%8D%D1%80",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BA%D1%8D%D1%8D%D1%80",
     "id": "ru-едкий-011"
   },
   {
@@ -505,11 +516,11 @@
     "ky": "кыжырлантуучу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B6%D1%8B%D1%80%D0%BB%D0%B0%D0%BD%D1%82%D1%83%D1%83%D1%87%D1%83",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B6%D1%8B%D1%80%D0%BB%D0%B0%D0%BD%D1%82%D1%83%D1%83%D1%87%D1%83",
     "id": "ru-едкий-012"
   },
   {
@@ -517,11 +528,11 @@
     "ky": "сайгылаган",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B9%D0%B3%D1%8B%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B9%D0%B3%D1%8B%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD",
     "id": "ru-едкий-013"
   },
   {
@@ -529,12 +540,13 @@
     "ky": "ачуу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%83%D1%83",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
-    "etymology": "From Proto-Turkic *ač-.",
     "pronunciation": "/ɑˈt͡ʃuː/",
+    "etymology": "From Proto-Turkic *ač-.",
+    "ruAccented": "е'дкий",
+    "frequency": 224,
     "examples": [
       {
         "ky": "3D Secureтехнологиясын колдобогон сайттарда операцияларды жүргүзүү үчүн, интернет аркылуу товарлар/кызматтар үчүн төлөмдөрдү жүргүзүүгө жеткилик ачуу зарыл.",
@@ -545,8 +557,7 @@
         "ru": "- обратиться в Банк для подписания заявления на открытие доступа."
       }
     ],
-    "ruAccented": "е'дкий",
-    "frequency": 224,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%83%D1%83",
     "id": "ru-едкий-014"
   },
   {
@@ -554,10 +565,11 @@
     "ky": "уулуу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D0%BB%D1%83%D1%83",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
+    "ruAccented": "е'дкий",
+    "frequency": 21,
     "examples": [
       {
         "ky": "Сатылып алынган балдардын буюмдарын, алардагы уулуу заттардын камтылышын текшерүү үчүн Бишкек жана Ош шаарындагы лабораториялык изилдөөгө жана санэпидемстанцияга бердик.",
@@ -568,8 +580,7 @@
         "ru": "При использовании этих емкостей для горячей пищи выделение токсичных веществ увеличивается в разы."
       }
     ],
-    "ruAccented": "е'дкий",
-    "frequency": 21,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D0%BB%D1%83%D1%83",
     "id": "ru-едкий-015"
   },
   {
@@ -577,11 +588,11 @@
     "ky": "заардуу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B0%D1%80%D0%B4%D1%83%D1%83",
     "senses": [
       "sour, sharp, or biting to the taste"
     ],
     "ruAccented": "е'дкий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B0%D1%80%D0%B4%D1%83%D1%83",
     "id": "ru-едкий-016"
   },
   {
@@ -589,12 +600,13 @@
     "ky": "бир",
     "pos": "num",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80",
     "senses": [
       "cardinal number 1"
     ],
-    "etymology": "From Proto-Turkic *bīr (“one”).",
     "pronunciation": "/bir/",
+    "etymology": "From Proto-Turkic *bīr (“one”).",
+    "ruAccented": "едини'ца",
+    "frequency": 18551,
     "examples": [
       {
         "ky": "бир түстүү фотография 3х4,",
@@ -605,8 +617,7 @@
         "ru": "Полагаю, что именно поэтому в настоящее время по индексу гендерного неравенства Руанда находится в лучшем положении, чем некоторые страны Европы, например Швейцария и Франция."
       }
     ],
-    "ruAccented": "едини'ца",
-    "frequency": 18551,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80",
     "id": "ru-единица-001"
   },
   {
@@ -614,14 +625,14 @@
     "ky": "биркудайчылык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BA%D1%83%D0%B4%D0%B0%D0%B9%D1%87%D1%8B%D0%BB%D1%8B%D0%BA",
     "senses": [
       "belief in one God"
     ],
-    "etymology": "From бир (bir, “one”) + кудай (kuday, “god”) + -чы (-cı) + -лык (-lık).",
     "pronunciation": "/birqudɑjt͡ʃɯˈlɯq/",
+    "etymology": "From бир (bir, “one”) + кудай (kuday, “god”) + -чы (-cı) + -лык (-lık).",
     "ruAccented": "единобо'жие",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BA%D1%83%D0%B4%D0%B0%D0%B9%D1%87%D1%8B%D0%BB%D1%8B%D0%BA",
     "id": "ru-единобожие-001"
   },
   {
@@ -629,12 +640,12 @@
     "ky": "биртеңирчилик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D1%82%D0%B5%D2%A3%D0%B8%D1%80%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "senses": [
       "belief in one God"
     ],
     "ruAccented": "единобо'жие",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D1%82%D0%B5%D2%A3%D0%B8%D1%80%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "id": "ru-единобожие-002"
   },
   {
@@ -642,12 +653,12 @@
     "ky": "эвро",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%80%D0%BE",
     "senses": [
       "currency unit of the European Monetary Union"
     ],
     "ruAccented": "е'вро",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%80%D0%BE",
     "id": "ru-евро-001"
   },
   {
@@ -655,10 +666,12 @@
     "ky": "европалык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "person"
     ],
+    "ruAccented": "европе'йка",
+    "ruGender": "f",
+    "frequency": 20,
     "examples": [
       {
         "ky": "Совет мезгилинде саясат башкача эле, бизге жалпы европалык баалулуктарды киргизе башташты, ал жашоонун баардык тармактарына, анын ичинде маданият жана спротко да тиешелүү эле.",
@@ -669,9 +682,7 @@
         "ru": "Я хочу, чтобы Россия стала развитой европейской страной."
       }
     ],
-    "ruAccented": "европе'йка",
-    "ruGender": "f",
-    "frequency": 20,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-европейка-001"
   },
   {
@@ -679,11 +690,11 @@
     "ky": "Мысыр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9C%D1%8B%D1%81%D1%8B%D1%80",
     "senses": [
       "country in North Africa"
     ],
     "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9C%D1%8B%D1%81%D1%8B%D1%80",
     "id": "ru-Египет-002"
   },
   {
@@ -691,10 +702,10 @@
     "ky": "Эгипет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
     "senses": [
       "country in North Africa"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
     "id": "ru-Египет-003"
   },
   {
@@ -702,11 +713,11 @@
     "ky": "Египет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
     "senses": [
       "country in North Africa"
     ],
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
     "id": "ru-Египет-004"
   },
   {
@@ -714,13 +725,13 @@
     "ky": "аш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88",
     "senses": [
       "any substance consumed by living organisms to sustain life"
     ],
     "ruAccented": "еда'",
     "ruGender": "f",
     "frequency": 1758,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88",
     "id": "ru-еда-001"
   },
   {
@@ -728,12 +739,14 @@
     "ky": "тамак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA",
     "senses": [
       "any substance consumed by living organisms to sustain life"
     ],
-    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
     "pronunciation": "[tɑˈmɑq]",
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "ruAccented": "еда'",
+    "ruGender": "f",
+    "frequency": 429,
     "examples": [
       {
         "ky": "жумуштардын, жүктөгүчтөрдүн, реализаторлордун, тамак ташгычтардын,таштанды",
@@ -744,9 +757,7 @@
         "ru": "приходится всю жизнь батрачить за угол и тарелку супа."
       }
     ],
-    "ruAccented": "еда'",
-    "ruGender": "f",
-    "frequency": 429,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA",
     "id": "ru-еда-002"
   },
   {
@@ -754,10 +765,11 @@
     "ky": "тамак-аш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA-%D0%B0%D1%88",
     "senses": [
       "any substance consumed by living organisms to sustain life"
     ],
+    "ruAccented": "еда'",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "көрсөтүп, балдардын рационун жакшыртуу үчүн тамак-аш азыктарын алып келип,",
@@ -768,8 +780,7 @@
         "ru": "готовки пищи, стенды для посетителей, юрта для проведения ритуалов…"
       }
     ],
-    "ruAccented": "еда'",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA-%D0%B0%D1%88",
     "id": "ru-еда-003"
   },
   {
@@ -777,13 +788,13 @@
     "ky": "сигүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
     "senses": [
       "to have sexual intercourse—obscene or vulgar"
     ],
-    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
     "pronunciation": "/siɡyː/",
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
     "ruAccented": "еба'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
     "id": "ru-ебать-002"
   },
   {
@@ -791,11 +802,11 @@
     "ky": "тыгуу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
     "senses": [
       "to have sexual intercourse—obscene or vulgar"
     ],
     "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
     "id": "ru-ебаться-001"
   },
   {
@@ -803,12 +814,12 @@
     "ky": "сигүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
     "senses": [
       "to have sexual intercourse—obscene or vulgar"
     ],
-    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
     "pronunciation": "/siɡyː/",
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
     "id": "ru-ебаться-002"
   },
   {
@@ -816,11 +827,11 @@
     "ky": "тыгуу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
     "senses": [
       "to have sexual intercourse—obscene or vulgar"
     ],
     "etymology": "From Proto-Turkic *tïk-. Cognate to Southern Altai тыгар (tïgar), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B3%D1%83%D1%83",
     "id": "ru-ети-001"
   },
   {
@@ -828,12 +839,12 @@
     "ky": "сигүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
     "senses": [
       "to have sexual intercourse—obscene or vulgar"
     ],
-    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
     "pronunciation": "/siɡyː/",
+    "etymology": "Inherited from Proto-Turkic *sik-mek (“to copulate”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D2%AF%D2%AF",
     "id": "ru-ети-002"
   },
   {
@@ -841,12 +852,12 @@
     "ky": "жанат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%82",
     "senses": [
       "nocturnal omnivore living in North America, Procyon lotor"
     ],
     "ruAccented": "ено'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%82",
     "id": "ru-енот-001"
   },
   {
@@ -854,10 +865,10 @@
     "ky": "жанат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%82",
     "senses": [
       "nocturnal omnivore living in North America, Procyon lotor"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%82",
     "id": "ru-енот-полоскун-001"
   },
   {
@@ -865,7 +876,6 @@
     "ky": "анын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D1%8B%D0%BD",
     "senses": [
       "attributive: belonging to him"
     ],
@@ -879,6 +889,7 @@
         "ru": "В частности, в Ала-Букинский район выезжала, чтобы провести разъяснительные работы."
       }
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D1%8B%D0%BD",
     "id": "ru-его-001"
   },
   {
@@ -886,12 +897,12 @@
     "ky": "дагы",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B3%D1%8B",
     "senses": [
       "another time"
     ],
-    "etymology": "From Proto-Turkic *takï (“again, once more; additionally, plus”).\nCognate with Old Uyghur [script needed] (taqï, “more”); Tatar тагын (tağın), Kazakh тағы (tağy), Bashkir тағы (tağı), Southern Altai таа (taa), Uzbek tagʻin, Uzbek تېگى, Uyghur تېخى (tëxi), Turkmen dagy, Azerbaijani daha, Turkish daha (“more, in addition”).",
     "pronunciation": "/dɑˈʁɯ/",
+    "etymology": "From Proto-Turkic *takï (“again, once more; additionally, plus”).\nCognate with Old Uyghur [script needed] (taqï, “more”); Tatar тагын (tağın), Kazakh тағы (tağy), Bashkir тағы (tağı), Southern Altai таа (taa), Uzbek tagʻin, Uzbek تېگى, Uyghur تېخى (tëxi), Turkmen dagy, Azerbaijani daha, Turkish daha (“more, in addition”).",
+    "frequency": 2824,
     "examples": [
       {
         "ky": "Анын үстүнө бул реформаларда аялдардын өлкөдөгү саясий дагы, экономикалык дагы турмушундагы ролун күчөтүүгө көбүрөөк көңүл бурулган.",
@@ -902,7 +913,7 @@
         "ru": "Как сказал президент Африканского банка развития (основной организатор саммита) Акинвуми Адесина: «Ни одна птица не летает на одном крыле."
       }
     ],
-    "frequency": 2824,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B3%D1%8B",
     "id": "ru-ещё раз-001"
   },
   {
@@ -910,11 +921,11 @@
     "ky": "кайтадан",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%82%D0%B0%D0%B4%D0%B0%D0%BD",
     "senses": [
       "another time"
     ],
     "frequency": 37,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%82%D0%B0%D0%B4%D0%B0%D0%BD",
     "id": "ru-ещё раз-002"
   },
   {
@@ -922,10 +933,10 @@
     "ky": "жаңыдан",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%B4%D0%B0%D0%BD",
     "senses": [
       "another time"
     ],
+    "frequency": 34,
     "examples": [
       {
         "ky": "Жаңыдан балык чарбачылыгын өздөштүргөндөр да болду.",
@@ -936,7 +947,7 @@
         "ru": "автомобильная дорога, которую фактически заново проложили российские инвесторы."
       }
     ],
-    "frequency": 34,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%B4%D0%B0%D0%BD",
     "id": "ru-ещё раз-003"
   },
   {
@@ -944,11 +955,11 @@
     "ky": "саякаттоо",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D0%BA%D0%B0%D1%82%D1%82%D0%BE%D0%BE",
     "senses": [
       "be on a journey"
     ],
     "ruAccented": "е'здить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D0%BA%D0%B0%D1%82%D1%82%D0%BE%D0%BE",
     "id": "ru-ездить-001"
   },
   {
@@ -956,12 +967,14 @@
     "ky": "бет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "senses": [
       "anatomy: front part of head"
     ],
-    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
     "pronunciation": "/bet/",
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "ruAccented": "еба'ло",
+    "ruGender": "n",
+    "frequency": 1486,
     "examples": [
       {
         "ky": "Биз, журналисттер, саясий элитанын бет",
@@ -972,9 +985,7 @@
         "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
       }
     ],
-    "ruAccented": "еба'ло",
-    "ruGender": "n",
-    "frequency": 1486,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "id": "ru-ебало-001"
   },
   {
@@ -982,12 +993,12 @@
     "ky": "бет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "senses": [
       "anatomy: front part of head"
     ],
-    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
     "pronunciation": "/bet/",
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "frequency": 1486,
     "examples": [
       {
         "ky": "Биз, журналисттер, саясий элитанын бет",
@@ -998,7 +1009,7 @@
         "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
       }
     ],
-    "frequency": 1486,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "id": "ru-ебло-001"
   },
   {
@@ -1006,12 +1017,14 @@
     "ky": "бет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "senses": [
       "anatomy: front part of head"
     ],
-    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
     "pronunciation": "/bet/",
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "ruAccented": "еба'льник",
+    "ruGender": "m",
+    "frequency": 1486,
     "examples": [
       {
         "ky": "Биз, журналисттер, саясий элитанын бет",
@@ -1022,9 +1035,7 @@
         "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
       }
     ],
-    "ruAccented": "еба'льник",
-    "ruGender": "m",
-    "frequency": 1486,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "id": "ru-ебальник-001"
   },
   {
@@ -1032,11 +1043,11 @@
     "ky": "баруу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D1%83%D1%83",
     "senses": [
       "to move through space (especially from one place to another)"
     ],
     "etymology": "From Proto-Turkic *bar-, compare Yakut бар (bar).",
+    "ruAccented": "е'здить",
     "examples": [
       {
         "ky": "ишкерликти алып баруу үчүн либералдуу мыйзамдарды кабыл алганга аракет кылып,",
@@ -1047,7 +1058,7 @@
         "ru": "фотографий, прогулки на лошадях или походы в зоопарк."
       }
     ],
-    "ruAccented": "е'здить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D1%83%D1%83",
     "id": "ru-ездить-002"
   },
   {
@@ -1055,11 +1066,11 @@
     "ky": "жүрүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
     "senses": [
       "to move through space (especially from one place to another)"
     ],
     "etymology": "From Proto-Turkic *yüri- (“to walk”), compare Southern Altai јӱрер (ǰürer), Turkish yürümek.",
+    "ruAccented": "е'здить",
     "examples": [
       {
         "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
@@ -1070,7 +1081,7 @@
         "ru": "6% - группа риска по агрессивному поведению, импульсивные, которые"
       }
     ],
-    "ruAccented": "е'здить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
     "id": "ru-ездить-003"
   },
   {
@@ -1078,11 +1089,11 @@
     "ky": "баруу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D1%83%D1%83",
     "senses": [
       "to move through space (especially from one place to another)"
     ],
     "etymology": "From Proto-Turkic *bar-, compare Yakut бар (bar).",
+    "ruAccented": "е'хать",
     "examples": [
       {
         "ky": "ишкерликти алып баруу үчүн либералдуу мыйзамдарды кабыл алганга аракет кылып,",
@@ -1093,7 +1104,7 @@
         "ru": "фотографий, прогулки на лошадях или походы в зоопарк."
       }
     ],
-    "ruAccented": "е'хать",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D1%83%D1%83",
     "id": "ru-ехать-001"
   },
   {
@@ -1101,11 +1112,11 @@
     "ky": "жүрүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
     "senses": [
       "to move through space (especially from one place to another)"
     ],
     "etymology": "From Proto-Turkic *yüri- (“to walk”), compare Southern Altai јӱрер (ǰürer), Turkish yürümek.",
+    "ruAccented": "е'хать",
     "examples": [
       {
         "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
@@ -1116,7 +1127,7 @@
         "ru": "6% - группа риска по агрессивному поведению, импульсивные, которые"
       }
     ],
-    "ruAccented": "е'хать",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
     "id": "ru-ехать-002"
   },
   {
@@ -1124,11 +1135,11 @@
     "ky": "мин-",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD-",
     "senses": [
       "to transport oneself by sitting on and directing a horse, bicycle etc."
     ],
     "ruAccented": "е'хать",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD-",
     "id": "ru-ехать-003"
   },
   {
@@ -1136,11 +1147,11 @@
     "ky": "мин-",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD-",
     "senses": [
       "to transport oneself by sitting on and directing a horse, bicycle etc."
     ],
     "ruAccented": "е'здить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD-",
     "id": "ru-ездить-004"
   },
   {
@@ -1148,7 +1159,6 @@
     "ky": "кирпи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
     "senses": [
       "animal"
     ],
@@ -1156,6 +1166,7 @@
     "ruAccented": "ежи'ха",
     "ruGender": "f",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
     "id": "ru-ежиха-001"
   },
   {
@@ -1163,12 +1174,12 @@
     "ky": "кирпи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
     "senses": [
       "animal"
     ],
     "etymology": "From Proto-Turkic *kirpi",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8",
     "id": "ru-ежак-001"
   },
   {
@@ -1176,12 +1187,12 @@
     "ky": "эгер",
     "pos": "conj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
     "senses": [
       "supposing that"
     ],
-    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
     "pronunciation": "/eˈɡer/",
+    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
+    "frequency": 15,
     "examples": [
       {
         "ky": "*ВК лимити жана Сиздин кредиттик картаңыздын лимити өз ара байланышкан: эгер Сиз алардын бирөөсүнүн лимитин колдонсоңуз, экинчисинин лимити төмөндөйт.",
@@ -1192,7 +1203,7 @@
         "ru": "Если государство в силах, оно может помочь."
       }
     ],
-    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
     "id": "ru-ежели-001"
   },
   {
@@ -1200,10 +1211,10 @@
     "ky": "Европа Биримдиги",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%D0%91%D0%B8%D1%80%D0%B8%D0%BC%D0%B4%D0%B8%D0%B3%D0%B8",
     "senses": [
       "European supranational organisation"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%D0%91%D0%B8%D1%80%D0%B8%D0%BC%D0%B4%D0%B8%D0%B3%D0%B8",
     "id": "ru-Европейский союз-001"
   },
   {
@@ -1211,10 +1222,10 @@
     "ky": "Европа Биримдиги",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%D0%91%D0%B8%D1%80%D0%B8%D0%BC%D0%B4%D0%B8%D0%B3%D0%B8",
     "senses": [
       "European supranational organisation"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0%20%D0%91%D0%B8%D1%80%D0%B8%D0%BC%D0%B4%D0%B8%D0%B3%D0%B8",
     "id": "ru-Евросоюз-001"
   },
   {
@@ -1222,13 +1233,13 @@
     "ky": "еврей",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
     "senses": [
       "person of the Jewish faith"
     ],
     "ruAccented": "евре'й",
     "ruGender": "m",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
     "id": "ru-еврей-002"
   },
   {
@@ -1236,13 +1247,13 @@
     "ky": "жөөт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
     "senses": [
       "person of the Jewish faith"
     ],
     "pronunciation": "/d͡ʒøːt/",
     "ruAccented": "евре'йка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
     "id": "ru-еврейка-001"
   },
   {
@@ -1250,13 +1261,13 @@
     "ky": "еврей",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
     "senses": [
       "person of the Jewish faith"
     ],
     "ruAccented": "евре'йка",
     "ruGender": "f",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
     "id": "ru-еврейка-002"
   },
   {
@@ -1264,19 +1275,19 @@
     "ky": "жуу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
     "senses": [
       "member or descendant of the Jewish people"
     ],
+    "ruAccented": "евре'й",
+    "ruGender": "m",
+    "frequency": 170,
     "examples": [
       {
         "ky": "Ысык сууга же кайнатылган сууга жуу менен, уулуу заттардан кутула албайсыңар.",
         "ru": "Промыв в горячей воде или же путем кипячения, вы не избавитесь от токсичных веществ."
       }
     ],
-    "ruAccented": "евре'й",
-    "ruGender": "m",
-    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
     "id": "ru-еврей-003"
   },
   {
@@ -1284,19 +1295,19 @@
     "ky": "жуу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
     "senses": [
       "member or descendant of the Jewish people"
     ],
+    "ruAccented": "евре'йка",
+    "ruGender": "f",
+    "frequency": 170,
     "examples": [
       {
         "ky": "Ысык сууга же кайнатылган сууга жуу менен, уулуу заттардан кутула албайсыңар.",
         "ru": "Промыв в горячей воде или же путем кипячения, вы не избавитесь от токсичных веществ."
       }
     ],
-    "ruAccented": "евре'йка",
-    "ruGender": "f",
-    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
     "id": "ru-еврейка-003"
   },
   {
@@ -1304,10 +1315,10 @@
     "ky": "ар күн",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%20%D0%BA%D2%AF%D0%BD",
     "senses": [
       "every day"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%20%D0%BA%D2%AF%D0%BD",
     "id": "ru-ежедневно-001"
   },
   {
@@ -1315,12 +1326,12 @@
     "ky": "епископ",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF",
     "senses": [
       "church official, supervisor of priests and congregations"
     ],
     "ruAccented": "епи'скоп",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%BF",
     "id": "ru-епископ-001"
   },
   {
@@ -1328,11 +1339,11 @@
     "ky": "египеттик",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%82%D0%B8%D0%BA",
     "senses": [
       "of, from, or pertaining to Egypt"
     ],
     "ruAccented": "еги'петский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%82%D0%B8%D0%BA",
     "id": "ru-египетский-001"
   },
   {
@@ -1340,12 +1351,12 @@
     "ky": "египет",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
     "senses": [
       "of, from, or pertaining to Egypt"
     ],
     "ruAccented": "еги'петский",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B3%D0%B8%D0%BF%D0%B5%D1%82",
     "id": "ru-египетский-002"
   },
   {
@@ -1353,11 +1364,11 @@
     "ky": "бидъатчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82%D1%87%D1%8B",
     "senses": [
       "someone who believes contrary to fundamentals. of a religion"
     ],
     "ruAccented": "ерети'к",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82%D1%87%D1%8B",
     "id": "ru-еретик-001"
   },
   {
@@ -1365,11 +1376,11 @@
     "ky": "еретик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%82%D0%B8%D0%BA",
     "senses": [
       "someone who believes contrary to fundamentals. of a religion"
     ],
     "ruAccented": "ерети'к",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%82%D0%B8%D0%BA",
     "id": "ru-еретик-002"
   },
   {
@@ -1377,10 +1388,10 @@
     "ky": "бидъатчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82%D1%87%D1%8B",
     "senses": [
       "someone who believes contrary to fundamentals. of a religion"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82%D1%87%D1%8B",
     "id": "ru-еретичка-001"
   },
   {
@@ -1388,10 +1399,10 @@
     "ky": "еретик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%82%D0%B8%D0%BA",
     "senses": [
       "someone who believes contrary to fundamentals. of a religion"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%82%D0%B8%D0%BA",
     "id": "ru-еретичка-002"
   },
   {
@@ -1399,11 +1410,11 @@
     "ky": "да",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0",
     "senses": [
       "implying extreme example"
     ],
     "frequency": 4436,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0",
     "id": "ru-ещё и-001"
   },
   {
@@ -1411,10 +1422,10 @@
     "ky": "жадаганда",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0",
     "senses": [
       "implying extreme example"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0",
     "id": "ru-ещё и-002"
   },
   {
@@ -1422,12 +1433,12 @@
     "ky": "ёлка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%91%D0%BB%D0%BA%D0%B0",
     "senses": [
       "tree from the genus Picea"
     ],
     "ruAccented": "ель",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%91%D0%BB%D0%BA%D0%B0",
     "id": "ru-ель-001"
   },
   {
@@ -1435,10 +1446,11 @@
     "ky": "сейрек",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D1%80%D0%B5%D0%BA",
     "senses": [
       "one of a kind"
     ],
+    "ruAccented": "еди'нственный",
+    "frequency": 40,
     "examples": [
       {
         "ky": "Мындай кооздуктагы гүл өтө сейрек кездешет.",
@@ -1449,8 +1461,7 @@
         "ru": "Пока каких-то серьезных проектов по части самого редкого цветка в Азии не работает, что странно."
       }
     ],
-    "ruAccented": "еди'нственный",
-    "frequency": 40,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D1%80%D0%B5%D0%BA",
     "id": "ru-единственный-001"
   },
   {
@@ -1458,12 +1469,12 @@
     "ky": "албетте",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B1%D0%B5%D1%82%D1%82%D0%B5",
     "senses": [
       "naturally"
     ],
-    "etymology": "Borrowed from Classical Persian اَلْبَتَّه (albatta, “of course”), from Arabic الْبَتَّة (al-batta).",
     "pronunciation": "/ɑl.betˈte/",
+    "etymology": "Borrowed from Classical Persian اَلْبَتَّه (albatta, “of course”), from Arabic الْبَتَّة (al-batta).",
+    "frequency": 262,
     "examples": [
       {
         "ky": "Бул албетте кубанаарлык иш.",
@@ -1474,7 +1485,7 @@
         "ru": "Конечно, все упирается в нехватку денег."
       }
     ],
-    "frequency": 262,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B1%D0%B5%D1%82%D1%82%D0%B5",
     "id": "ru-ещё бы-001"
   },
   {
@@ -1482,12 +1493,12 @@
     "ky": "албетте",
     "pos": "adv",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B1%D0%B5%D1%82%D1%82%D0%B5",
     "senses": [
       "naturally"
     ],
-    "etymology": "Borrowed from Classical Persian اَلْبَتَّه (albatta, “of course”), from Arabic الْبَتَّة (al-batta).",
     "pronunciation": "/ɑl.betˈte/",
+    "etymology": "Borrowed from Classical Persian اَلْبَتَّه (albatta, “of course”), from Arabic الْبَتَّة (al-batta).",
+    "frequency": 262,
     "examples": [
       {
         "ky": "Бул албетте кубанаарлык иш.",
@@ -1498,7 +1509,7 @@
         "ru": "Конечно, все упирается в нехватку денег."
       }
     ],
-    "frequency": 262,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B1%D0%B5%D1%82%D1%82%D0%B5",
     "id": "ru-естественно-001"
   },
   {
@@ -1506,12 +1517,12 @@
     "ky": "кара бүлдүркөн",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%20%D0%B1%D2%AF%D0%BB%D0%B4%D2%AF%D1%80%D0%BA%D3%A9%D0%BD",
     "senses": [
       "fruit"
     ],
     "ruAccented": "ежеви'ка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%20%D0%B1%D2%AF%D0%BB%D0%B4%D2%AF%D1%80%D0%BA%D3%A9%D0%BD",
     "id": "ru-ежевика-002"
   },
   {
@@ -1519,13 +1530,13 @@
     "ky": "атчан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%87%D0%B0%D0%BD",
     "senses": [
       "one who rides — see also cyclist, driver"
     ],
     "ruAccented": "ездо'к",
     "ruGender": "m",
     "frequency": 311,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%87%D0%B0%D0%BD",
     "id": "ru-ездок-001"
   },
   {
@@ -1533,12 +1544,12 @@
     "ky": "эвгеника",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0",
     "senses": [
       "social philosophy"
     ],
     "ruAccented": "евге'ника",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0",
     "id": "ru-евгеника-001"
   },
   {
@@ -1546,12 +1557,12 @@
     "ky": "еврей",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
     "senses": [
       "of or relating to a Jew or Jews, their ethnicity, religion or culture"
     ],
     "ruAccented": "евре'йский",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9",
     "id": "ru-еврейский-001"
   },
   {
@@ -1559,12 +1570,12 @@
     "ky": "жөөт",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
     "senses": [
       "of or relating to a Jew or Jews, their ethnicity, religion or culture"
     ],
     "pronunciation": "/d͡ʒøːt/",
     "ruAccented": "евре'йский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82",
     "id": "ru-еврейский-002"
   },
   {
@@ -1572,18 +1583,18 @@
     "ky": "жуу",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
     "senses": [
       "of or relating to a Jew or Jews, their ethnicity, religion or culture"
     ],
+    "ruAccented": "евре'йский",
+    "frequency": 170,
     "examples": [
       {
         "ky": "Ысык сууга же кайнатылган сууга жуу менен, уулуу заттардан кутула албайсыңар.",
         "ru": "Промыв в горячей воде или же путем кипячения, вы не избавитесь от токсичных веществ."
       }
     ],
-    "ruAccented": "евре'йский",
-    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83",
     "id": "ru-еврейский-003"
   },
   {
@@ -1591,12 +1602,12 @@
     "ky": "күндөлүк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D0%B4%D3%A9%D0%BB%D2%AF%D0%BA",
     "senses": [
       "daily log of experiences"
     ],
-    "etymology": "From күн (kün, “day”) + -дө (-dö) + -лүк (-lük).",
     "pronunciation": "/kyndølyk/",
+    "etymology": "From күн (kün, “day”) + -дө (-dö) + -лүк (-lük).",
+    "frequency": 106,
     "examples": [
       {
         "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
@@ -1607,7 +1618,7 @@
         "ru": "Казначейство разрабатывает рабочий механизм осуществления банками-агентами ежедневных операций по доходам и расходам государства."
       }
     ],
-    "frequency": 106,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D0%B4%D3%A9%D0%BB%D2%AF%D0%BA",
     "id": "ru-ежедневник-001"
   },
   {
@@ -1615,10 +1626,10 @@
     "ky": "дневник",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA",
     "senses": [
       "daily log of experiences"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA",
     "id": "ru-ежедневник-002"
   },
   {
@@ -1626,12 +1637,12 @@
     "ky": "ересь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%81%D1%8C",
     "senses": [
       "dissension from religious dogma"
     ],
     "ruAccented": "е'ресь",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%81%D1%8C",
     "id": "ru-ересь-001"
   },
   {
@@ -1639,12 +1650,12 @@
     "ky": "бидъат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82",
     "senses": [
       "dissension from religious dogma"
     ],
     "ruAccented": "е'ресь",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82",
     "id": "ru-ересь-002"
   },
   {
@@ -1652,12 +1663,12 @@
     "ky": "ехидна",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%85%D0%B8%D0%B4%D0%BD%D0%B0",
     "senses": [
       "any of the four species of small spined monotremes"
     ],
     "ruAccented": "ехи'дна",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%85%D0%B8%D0%B4%D0%BD%D0%B0",
     "id": "ru-ехидна-001"
   },
   {
@@ -1665,10 +1676,11 @@
     "ky": "бар",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80",
     "senses": [
       "third-person singular simple present indicative form of there be"
     ],
+    "ruAccented": "есть",
+    "frequency": 10968,
     "examples": [
       {
         "ky": "Анын ушул чөйрөдө, Жамыйладай, Сейиттей жаркын адамдардын жанында жүрүүгө мүмкүнчүлүгү бар болучу, бирок, ал аны көрө алган, тааный алган жок.",
@@ -1679,8 +1691,7 @@
         "ru": "В состав комиссии при собеседовании входят: представитель отдела кадров, представитель отдела, инструктор производственного обучения и иностранный специалист."
       }
     ],
-    "ruAccented": "есть",
-    "frequency": 10968,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80",
     "id": "ru-есть-002"
   },
   {
@@ -1688,11 +1699,11 @@
     "ky": "Обо",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D0%B1%D0%BE",
     "senses": [
       "the first woman"
     ],
     "frequency": 67,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D0%B1%D0%BE",
     "id": "ru-Ева-001"
   },
   {
@@ -1700,10 +1711,12 @@
     "ky": "Евразия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F",
     "senses": [
       "the largest landmass on Earth, consisting of Europe and Asia"
     ],
+    "ruAccented": "Евра'зия",
+    "ruGender": "f",
+    "frequency": 138,
     "examples": [
       {
         "ky": "Евразия аборигендеринин принциби: бардыгын өзүм менен алып жүрөм!",
@@ -1714,9 +1727,7 @@
         "ru": "культурного единения не только Евразийского континента, но и всего мира."
       }
     ],
-    "ruAccented": "Евра'зия",
-    "ruGender": "f",
-    "frequency": 138,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F",
     "id": "ru-Евразия-001"
   },
   {
@@ -1724,23 +1735,691 @@
     "ky": "ефрейтор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%84%D1%80%D0%B5%D0%B9%D1%82%D0%BE%D1%80",
     "senses": [
       "lance corporal"
     ],
     "ruAccented": "ефре'йтор",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%84%D1%80%D0%B5%D0%B9%D1%82%D0%BE%D1%80",
     "id": "ru-ефрейтор-001"
   },
   {
-    "ru": "единство",
-    "ky": "биримдик",
+    "ru": "ебальце",
+    "ky": "баш",
     "pos": "noun",
-    "source": "manual",
-    "id": "ru-единство-001",
+    "source": "pivot-en",
+    "enPivot": "head",
     "senses": [
-      "общность, сплочённость"
+      "part of the body"
     ],
-    "ruGender": "n"
+    "pronunciation": "/bɑʃ/",
+    "etymology": "From Proto-Turkic *baĺč (“head”).",
+    "frequency": 7780,
+    "examples": [
+      {
+        "ky": "Бул берене өлкөнү камактагы адамдын укугун кароого милдеттендирет. Мындай “миналар” өлкөнүн баш мыйзамында аз эмес дешет конституциялык реформанын демилгечилери.",
+        "ru": "Депутаты парламента тем временем напомнили, что предыдущее вмешательство в судебные процессы в Кыргызстане привело к денонсации соглашения о сотрудничестве с США."
+      },
+      {
+        "ky": "Батукаев боюнча сотко келүүдөн Атамбаев экинчи ирет баш тартты",
+        "ru": "Атамбаев отказывается участвовать в суде по делу Батукаева"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88",
+    "id": "ru-ебальце-001"
+  },
+  {
+    "ru": "ебальце",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "head",
+    "senses": [
+      "leader, chief, mastermind"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "examples": [
+      {
+        "ky": "Эске салсак, мамлекет башчы коррупция менен күрөшүүдөн түшкөн каражатка Чүй облусундагы жана Бишкек, Ош шаарларындагы мектептерде 15 жаңы корпустар курула турганын билдирген.",
+        "ru": "815 тысяч 287 сомов.Напомним, средства, которые перечисляются на счёт от борьбы с коррупцией, будут использованы для строительства 15 школ в Чуйской области, Оше и Бишкеке."
+      },
+      {
+        "ky": "Мамлекет башчы убадаланган өсүштү",
+        "ru": "Глава государства, скорее всего, ждет обещанного"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B",
+    "id": "ru-ебальце-002"
+  },
+  {
+    "ru": "езык",
+    "ky": "тил",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "language",
+    "senses": [
+      "body of words used as a form of communication"
+    ],
+    "pronunciation": "/til/",
+    "etymology": "From Proto-Turkic *til, *tïl (“tongue; language”).",
+    "frequency": 1849,
+    "examples": [
+      {
+        "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
+        "ru": "Национальная комиссия по государственному языку при Президенте Кыргызской Республики"
+      },
+      {
+        "ky": "“Кыргыз ССРинин мамлекеттик тили жөнүндө” мыйзам кабыл алынып, кыргыз тилине мамлекеттик тил макамы берилгендигинин 30 жылдыгы Москва шаарында да белгиленди.",
+        "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
+    "id": "ru-езык-001"
+  },
+  {
+    "ru": "Ебларусь",
+    "ky": "Беларусь",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Belarus",
+    "senses": [
+      "country"
+    ],
+    "examples": [
+      {
+        "ky": "Президент Сооронбай Жээнбеков Беларусь Президенти Александр Лукашенко менен жолугушту.",
+        "ru": "Действующий глава Беларуси Александр Лукашенко заявил, что намерен принять участие в предстоящих президентских выборах."
+      },
+      {
+        "ky": "Маселен, Беларусь мамлекетине акыркы жылдары жасалган кибер чабуулдар тууралуу Александр Лукашенко маалымат берди.",
+        "ru": "Отметим, Указ об учреждении юбилейной медали президент Беларуси Александр Лукашенко подписал в апреле этого года."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C",
+    "id": "ru-Ебларусь-001"
+  },
+  {
+    "ru": "Ебларусь",
+    "ky": "Белоруссия",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Belarus",
+    "senses": [
+      "country"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F",
+    "id": "ru-Ебларусь-002"
+  },
+  {
+    "ru": "едва ли не",
+    "ky": "дээрлик",
+    "pos": "adv",
+    "source": "pivot-en",
+    "enPivot": "almost",
+    "senses": [
+      "very close to"
+    ],
+    "frequency": 89,
+    "examples": [
+      {
+        "ky": "Demir Bank туруктуу өнүгүүнү ишенимдүү сактоо менен, дээрлик 20 жыл ичинде өзүнүн кардарларына эл аралык стандарттарга толук жооп берген кесипкөй тейлөөнү сунуштап келет.",
+        "ru": "DemirBank с уверенностью сохраняет стабильный темп развития и на протяжении 20 лет предоставляет своим клиентам профессиональный сервис в полном соответствии с международными стандартами."
+      },
+      {
+        "ky": "Биз дээрлик канча болбосун бүтүндөй орчундуу кендер боюнча финансылык моделди эсептеп жатканда, бизде өтө кыска жашаган кендердин алтын тобу бар экендиги билинди.",
+        "ru": "Когда мы просчитали финансовые модели практически по всем сколько-нибудь значительным месторождениям, получилось, что у нас есть группа золотых очень короткоживущих месторождений."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%8D%D1%8D%D1%80%D0%BB%D0%B8%D0%BA",
+    "id": "ru-едва ли не-001"
+  },
+  {
+    "ru": "ебальник",
+    "ky": "мурун",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "nose",
+    "senses": [
+      "protuberance on the face"
+    ],
+    "etymology": "From Proto-Turkic *burun (*burïn). Cognate with Kazakh мұрын (mūryn), Bashkir морон (moron), Crimean Tatar burun, Kumyk бурун (burun), Southern Altai мурун (murun), Azerbaijani burun, Turkish burun, Turkmen burun, Uzbek burun, Khakas пурун (purun), Shor пурун, Western Yugur pïrïn (“before”), etc.",
+    "ruAccented": "еба'льник",
+    "ruGender": "m",
+    "frequency": 571,
+    "examples": [
+      {
+        "ky": "Банкка мөөнөтүнөн мурда жоюу тууралуу 30 күн мурун маалымдаган учурда",
+        "ru": "при условии предварительного уведомления о досрочном погашении за 30 дней"
+      },
+      {
+        "ky": "Ошонда мындан бир нече жыл мурун Улуттук фтизиатрия",
+        "ru": "Первый сигнал получил о том, что несколько лет назад"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D1%80%D1%83%D0%BD",
+    "id": "ru-ебальник-002"
+  },
+  {
+    "ru": "ебало",
+    "ky": "ооз",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "mouth",
+    "senses": [
+      "the opening of a creature through which food is ingested — see also lip, face"
+    ],
+    "etymology": "From Proto-Turkic *āgïŕ. Cognate with\nOld Turkic 𐰍𐰕 (ǧz /⁠aɣïz⁠/, “mouth”),\nKhakas, Shor, Tuvan аас (aas),\nSouthern Altai оос (oos),\nKazakh ауыз (auyz),\nBashkir ауыҙ (awıź),\nKarachay-Balkar аууз (awuz),\nKumyk авуз (awuz),\nNogai, Tatar авыз (awız),\nUzbek ogʻiz,\nAzerbaijani, Crimean Tatar, Turkish ağız,\nGagauz aaz, Turkmen agyz (“mouth”), etc.",
+    "ruAccented": "еба'ло",
+    "ruGender": "n",
+    "frequency": 1532,
+    "examples": [
+      {
+        "ky": "Келгиле, анда Кыргызстанды сүйсөк, коррупция туурасында ооз",
+        "ru": "Давайте тогда не будем говорить о коррупции, если любим"
+      },
+      {
+        "ky": "Бирок, аларга тирүү кайтпай калуу коркунучу жөнүндө эч ким ооз ачпайт...",
+        "ru": "Но мало кто рассказывает, что есть вероятность не вернуться живым…"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D0%B7",
+    "id": "ru-ебало-002"
+  },
+  {
+    "ru": "ебальце",
+    "ky": "бет",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "face",
+    "senses": [
+      "anatomy: front part of head"
+    ],
+    "pronunciation": "/bet/",
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "frequency": 1486,
+    "examples": [
+      {
+        "ky": "Биз, журналисттер, саясий элитанын бет",
+        "ru": "Мы, журналисты, сидели напротив политэлиты и, пристально"
+      },
+      {
+        "ky": "кандайдыр бир бет кабын, көшөгөсүн сыйрып салгандай болду.",
+        "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
+    "id": "ru-ебальце-003"
+  },
+  {
+    "ru": "еблет",
+    "ky": "бет",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "face",
+    "senses": [
+      "anatomy: front part of head"
+    ],
+    "pronunciation": "/bet/",
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "frequency": 1486,
+    "examples": [
+      {
+        "ky": "Биз, журналисттер, саясий элитанын бет",
+        "ru": "Мы, журналисты, сидели напротив политэлиты и, пристально"
+      },
+      {
+        "ky": "кандайдыр бир бет кабын, көшөгөсүн сыйрып салгандай болду.",
+        "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
+    "id": "ru-еблет-001"
+  },
+  {
+    "ru": "если бы",
+    "ky": "эгер",
+    "pos": "conj",
+    "source": "pivot-en",
+    "enPivot": "if",
+    "senses": [
+      "supposing that"
+    ],
+    "pronunciation": "/eˈɡer/",
+    "etymology": "Borrowed from Classical Persian اگر (agar, “if”).",
+    "frequency": 15,
+    "examples": [
+      {
+        "ky": "*ВК лимити жана Сиздин кредиттик картаңыздын лимити өз ара байланышкан: эгер Сиз алардын бирөөсүнүн лимитин колдонсоңуз, экинчисинин лимити төмөндөйт.",
+        "ru": "*Лимит ВК и лимит Вашей кредитной карты связаны между собой: если Вы использовали лимит одной из них, то лимит другой карты уменьшится."
+      },
+      {
+        "ky": "Мамлекет эгер колунан келсе, күч-кубаты жетсе жардам берсе болот.",
+        "ru": "Если государство в силах, оно может помочь."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80",
+    "id": "ru-если бы-001"
+  },
+  {
+    "ru": "единение",
+    "ky": "ынтымак",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "solidarity",
+    "senses": [
+      "unifying bond between individuals with common goal or enemy"
+    ],
+    "ruAccented": "едине'ние",
+    "ruGender": "n",
+    "frequency": 257,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D1%82%D1%8B%D0%BC%D0%B0%D0%BA",
+    "id": "ru-единение-001"
+  },
+  {
+    "ru": "единение",
+    "ky": "тиренишме",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "solidarity",
+    "senses": [
+      "unifying bond between individuals with common goal or enemy"
+    ],
+    "ruAccented": "едине'ние",
+    "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%88%D0%BC%D0%B5",
+    "id": "ru-единение-002"
+  },
+  {
+    "ru": "единение",
+    "ky": "тилектештик",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "solidarity",
+    "senses": [
+      "unifying bond between individuals with common goal or enemy"
+    ],
+    "ruAccented": "едине'ние",
+    "ruGender": "n",
+    "examples": [
+      {
+        "ky": "этика жана тилектештик тууралуу сөз кылышканда менин күлкүм келет.",
+        "ru": "свободе слова, о демократии, о журналистской этике и солидарности."
+      },
+      {
+        "ky": "бул майрам башында Эмгекчилердин эл аралык тилектештик күнү деп аталчу.",
+        "ru": "многих странах мира отмечается международный праздник — День труда (Праздник"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B5%D0%BA%D1%82%D0%B5%D1%88%D1%82%D0%B8%D0%BA",
+    "id": "ru-единение-003"
+  },
+  {
+    "ru": "епископ",
+    "ky": "слон",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "bishop",
+    "senses": [
+      "chess piece"
+    ],
+    "ruAccented": "епи'скоп",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BB%D0%BE%D0%BD",
+    "id": "ru-епископ-002"
+  },
+  {
+    "ru": "епископ",
+    "ky": "пил",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "bishop",
+    "senses": [
+      "chess piece"
+    ],
+    "pronunciation": "/pil/",
+    "etymology": "Borrowed from Arabic فِيل (fīl).",
+    "ruAccented": "епи'скоп",
+    "ruGender": "m",
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BB",
+    "id": "ru-епископ-003"
+  },
+  {
+    "ru": "единение",
+    "ky": "союз",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "union",
+    "senses": [
+      "the act of uniting or the state of being united"
+    ],
+    "ruAccented": "едине'ние",
+    "ruGender": "n",
+    "frequency": 127,
+    "examples": [
+      {
+        "ky": "Бирок Союз тарагандан кийин кээ бир өлкөлөрдө,",
+        "ru": "Однако после развала Союза во многих республиках детские дома были"
+      },
+      {
+        "ky": "Союз учурунда урууга таандыктыкты аташкан, бирок",
+        "ru": "При Союзе принадлежность к роду называли, но"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%8E%D0%B7",
+    "id": "ru-единение-004"
+  },
+  {
+    "ru": "единение",
+    "ky": "бирлик",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "union",
+    "senses": [
+      "the act of uniting or the state of being united"
+    ],
+    "ruAccented": "едине'ние",
+    "ruGender": "n",
+    "frequency": 19,
+    "examples": [
+      {
+        "ky": "Бирлик өлкөсүнүн протоколу күчүнө киргенден тартып Кыргызстандан келүүчү жүктөр үчүн бирдейлештирилгенден бир кыйла жогору транзиттик тарифтер колдонулуп калды.",
+        "ru": "Со вступлением в силу протокола страны союза стали применяться для грузов, следующих из Кыргызстана, транзитные тарифы в разы выше унифицированного."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BB%D0%B8%D0%BA",
+    "id": "ru-единение-005"
+  },
+  {
+    "ru": "Ершалаим",
+    "ky": "Иерусалим",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Jerusalem",
+    "senses": [
+      "city in the Holy Land"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC",
+    "id": "ru-Ершалаим-001"
+  },
+  {
+    "ru": "Ершалаим",
+    "ky": "Кудус",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Jerusalem",
+    "senses": [
+      "city in the Holy Land"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%83%D0%B4%D1%83%D1%81",
+    "id": "ru-Ершалаим-002"
+  },
+  {
+    "ru": "ещё",
+    "ky": "да",
+    "pos": "adv",
+    "source": "pivot-en",
+    "enPivot": "even",
+    "senses": [
+      "implying extreme example"
+    ],
+    "frequency": 4436,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0",
+    "id": "ru-ещё-001"
+  },
+  {
+    "ru": "ещё",
+    "ky": "жадаганда",
+    "pos": "adv",
+    "source": "pivot-en",
+    "enPivot": "even",
+    "senses": [
+      "implying extreme example"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0",
+    "id": "ru-ещё-002"
+  },
+  {
+    "ru": "егерь",
+    "ky": "аңчы",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "hunter",
+    "senses": [
+      "person who hunts game"
+    ],
+    "etymology": "Compare to Southern Altai аҥчы (aŋčï), Kazakh аңшы (añşy), etc.",
+    "ruAccented": "е'герь",
+    "ruGender": "m",
+    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%D1%87%D1%8B",
+    "id": "ru-егерь-001"
+  },
+  {
+    "ru": "едва ли не",
+    "ky": "балким",
+    "pos": "adv",
+    "source": "pivot-en",
+    "enPivot": "perhaps",
+    "senses": [
+      "indicating a lack of certainty"
+    ],
+    "etymology": "Partially borrowed from Classical Persian بَلْکِه (balki).",
+    "frequency": 75,
+    "examples": [
+      {
+        "ky": "Балким ошондуктан Бакиев маалында",
+        "ru": "Наверное, поэтому начались на нее"
+      },
+      {
+        "ky": "Мисалы, Орусия балким көгүлтүр отту Түркмөнстандан КЭРна экспорттоого катышы",
+        "ru": "Китай. Например, Россия может быть задействована в экспорте газа из Туркмении в"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8%D0%BC",
+    "id": "ru-едва ли не-002"
+  },
+  {
+    "ru": "едва ли не",
+    "ky": "мүмкүн",
+    "pos": "adv",
+    "source": "pivot-en",
+    "enPivot": "perhaps",
+    "senses": [
+      "indicating a lack of certainty"
+    ],
+    "etymology": "From Persian ممکن, from Arabic مُمْكِن (mumkin, “possible”).",
+    "frequency": 1503,
+    "examples": [
+      {
+        "ky": "Өзбекстанда Түркиянын өзгөчө өнөр-жай аймагынын өкүлчүлүгү ачылышы мүмкүн",
+        "ru": "Турция может открыть филиал особой промышленной зоны в Узбекистане"
+      },
+      {
+        "ky": "Өзбекстанда ишке орноштуруу боюнча жеке агенттиктер жабылышы мүмкүн - КТРК",
+        "ru": "В Узбекистане могут закрыть все частные агентства по трудоустройству - КТРК"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD",
+    "id": "ru-едва ли не-003"
+  },
+  {
+    "ru": "ездок",
+    "ky": "жүргүзүүчү",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "driver",
+    "senses": [
+      "person who drives a motorized vehicle, such as a car or a bus"
+    ],
+    "ruAccented": "ездо'к",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "Бир кычкачтын баасы 640 доллар, бир видеобайкоо жүргүзүүчү камеранын баасы 14500 доллардан документтештирилгенин коомчулук билди.",
+        "ru": "Самат Бесполезные НПО на подсосе иностранных государств: ОФ «Бир дуйно Кыргызстан» Давно известно, что в Кыргызстане работают неправительственные организации по различным направлениям."
+      },
+      {
+        "ky": "Казыналык мамлекеттин кирешелери жана чыгашалары боюнча банк-агенттер жүргүзүүчү күндөлүк операцияларды жүзөгө ашыруунун жумушчу механизмин иштеп чыгат.",
+        "ru": "Казначейство разрабатывает рабочий механизм осуществления банками-агентами ежедневных операций по доходам и расходам государства."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
+    "id": "ru-ездок-002"
+  },
+  {
+    "ru": "ездок",
+    "ky": "айдоочу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "driver",
+    "senses": [
+      "person who drives a motorized vehicle, such as a car or a bus"
+    ],
+    "ruAccented": "ездо'к",
+    "ruGender": "m",
+    "frequency": 94,
+    "examples": [
+      {
+        "ky": "Бүгүн, DemirBankтын төлөм жана POS-терминалдары аркылуу төлөө мүмкүнчүлүгү менен, ар бир өз убакытын баалаган айдоочу ЖКК айыптарын тез жана оңой төлөй алат.",
+        "ru": "Сегодня, благодаря возможности оплаты штрафов ДПС через платежные POS терминалы DemirBank, каждый автовладелец, ценящий свое время, может оплатить штрафы ДПС быстро и легко."
+      },
+      {
+        "ky": "Врач же айдоочу болосуңбу, баары бир математика ой жүгүртүүнү, ойлонууну, туура чечим кабыл алууну өрчүтөт.",
+        "ru": "Математика учит мыслить, думать, принимать правильные решения, независимо от того, будете ли вы врачом или водителем."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B4%D0%BE%D0%BE%D1%87%D1%83",
+    "id": "ru-ездок-003"
+  },
+  {
+    "ru": "ездок",
+    "ky": "шофёр",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "driver",
+    "senses": [
+      "person who drives a motorized vehicle, such as a car or a bus"
+    ],
+    "ruAccented": "ездо'к",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%84%D1%91%D1%80",
+    "id": "ru-ездок-004"
+  },
+  {
+    "ru": "ездок",
+    "ky": "драйвер",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "driver",
+    "senses": [
+      "program acting as interface between an application and hardware"
+    ],
+    "ruAccented": "ездо'к",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80",
+    "id": "ru-ездок-005"
+  },
+  {
+    "ru": "ежедневный",
+    "ky": "күнүмдүк",
+    "pos": "adj",
+    "source": "pivot-en",
+    "enPivot": "everyday",
+    "senses": [
+      "commonplace, ordinary"
+    ],
+    "pronunciation": "/kynymˈdyk/",
+    "etymology": "From күн (kün) + -үм (-üm) + -дүк (-dük).",
+    "ruAccented": "ежедне'вный",
+    "examples": [
+      {
+        "ky": "- Банктын колдонуучулары менен күнүмдүк ишке байланыштуу көйгөйлөрдү четтетүү.",
+        "ru": "- Устранение проблем, связанных с ежедневной работой пользователей Банка."
+      },
+      {
+        "ky": "ААКнын күнүмдүк иштерине кийлигишүүнү эмес, стратегиялык",
+        "ru": "«Электрические станции», направлена на решение стратегических целей, не"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D2%AF%D0%BC%D0%B4%D2%AF%D0%BA",
+    "id": "ru-ежедневный-001"
+  },
+  {
+    "ru": "единодержавие",
+    "ky": "автократия",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "autocracy",
+    "senses": [
+      "form of government"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F",
+    "id": "ru-единодержавие-001"
+  },
+  {
+    "ru": "единодержавие",
+    "ky": "жекебийлик",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "autocracy",
+    "senses": [
+      "form of government"
+    ],
+    "pronunciation": "[d͡ʒeˈkeˈbijˈlik]",
+    "etymology": "жеке (jeke, “private”) + бий (biy, “mister”) + -лик (-lik).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BA%D0%B5%D0%B1%D0%B8%D0%B9%D0%BB%D0%B8%D0%BA",
+    "id": "ru-единодержавие-002"
+  },
+  {
+    "ru": "единодержавие",
+    "ky": "өзүмбийлик",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "autocracy",
+    "senses": [
+      "form of government"
+    ],
+    "pronunciation": "[øˈzymˈbijˈlik]",
+    "etymology": "өз (öz, “self”) + -үм (-üm) + бий (biy, “ruler”) + -лик (-lik).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BC%D0%B1%D0%B8%D0%B9%D0%BB%D0%B8%D0%BA",
+    "id": "ru-единодержавие-003"
+  },
+  {
+    "ru": "единодержавие",
+    "ky": "самодержавие",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "autocracy",
+    "senses": [
+      "form of government"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%D0%B5",
+    "id": "ru-единодержавие-004"
+  },
+  {
+    "ru": "единица",
+    "ky": "санарип",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "digit",
+    "senses": [
+      "numeral"
+    ],
+    "pronunciation": "/sanaˈrip/",
+    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
+    "ruAccented": "едини'ца",
+    "ruGender": "f",
+    "frequency": 28,
+    "examples": [
+      {
+        "ky": "Заманбап маалыматтык технологияларды — акылдуу эсептегичтерди, санарип технологияларын киргизүүнү, энергетикалык эсеп борборун өнүктүрүүнү колго алгыла.",
+        "ru": "Вам следует наладить работу по внедрению современных технологий — умных счетчиков, современных цифровых технологий, развитию центра энергетического расчета."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF",
+    "id": "ru-единица-002"
   }
 ]

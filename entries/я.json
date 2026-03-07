@@ -1,13 +1,24 @@
 [
   {
+    "ru": "ярмарка",
+    "ky": "жарманке",
+    "pos": "noun",
+    "senses": [
+      "периодически устраиваемый торг"
+    ],
+    "ruGender": "f",
+    "source": "manual",
+    "id": "ru-ярмарка-001"
+  },
+  {
     "ru": "я",
     "ky": "мен",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD",
     "senses": [
       "личное местоимение"
     ],
+    "frequency": 5517,
     "examples": [
       {
         "ky": "Таластыктардан мен муну байкаган жагдайым бар.",
@@ -18,7 +29,7 @@
         "ru": "Это была большая честь и большая ответственность."
       }
     ],
-    "frequency": 5517,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD",
     "id": "ru-я-001"
   },
   {
@@ -26,16 +37,16 @@
     "ky": "жумуртка",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%80%D1%82%D0%BA%D0%B0",
     "senses": [
       "вместилище, в котором образуется и развивается зародыш птиц, пресмыкающихся и клоачных",
       "совокупность белка и желтка в оболочке (обычно овальной формы в твёрдой и хрупкой скорлупе)"
     ],
-    "etymology": "From Proto-Turkic *yumurtka.",
     "pronunciation": "/d͡ʒumurtˈqɑ/",
+    "etymology": "From Proto-Turkic *yumurtka.",
     "ruAccented": "яйцо'",
     "ruGender": "n",
     "frequency": 63,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%80%D1%82%D0%BA%D0%B0",
     "id": "ru-яйцо-001"
   },
   {
@@ -43,12 +54,14 @@
     "ky": "тил",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
     "senses": [
       "мышечный орган"
     ],
-    "etymology": "From Proto-Turkic *til, *tïl (“tongue; language”).",
     "pronunciation": "/til/",
+    "etymology": "From Proto-Turkic *til, *tïl (“tongue; language”).",
+    "ruAccented": "язы'к",
+    "ruGender": "m",
+    "frequency": 1849,
     "examples": [
       {
         "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
@@ -59,9 +72,7 @@
         "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
       }
     ],
-    "ruAccented": "язы'к",
-    "ruGender": "m",
-    "frequency": 1849,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
     "id": "ru-язык-001"
   },
   {
@@ -69,9 +80,9 @@
     "ky": "бирдин айы",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B8%D0%BD%20%D0%B0%D0%B9%D1%8B",
     "ruAccented": "янва'рь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B8%D0%BD%20%D0%B0%D0%B9%D1%8B",
     "id": "ru-январь-001"
   },
   {
@@ -79,12 +90,14 @@
     "ky": "алма",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0",
     "senses": [
       "плод яблони"
     ],
-    "etymology": "From Proto-Common Turkic *alma (“apple”).",
     "pronunciation": "/ɑlˈmɑ/",
+    "etymology": "From Proto-Common Turkic *alma (“apple”).",
+    "ruAccented": "я'блоко",
+    "ruGender": "n",
+    "frequency": 406,
     "examples": [
       {
         "ky": "Компаньон региондо багбанчылыкты өнүктүрүүгө багытталган онунчу алма фестивалын өткөрдү.",
@@ -95,9 +108,7 @@
         "ru": "что россияне последние годы жили мечтами о местной картошке и яблоках."
       }
     ],
-    "ruAccented": "я'блоко",
-    "ruGender": "n",
-    "frequency": 406,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0",
     "id": "ru-яблоко-001"
   },
   {
@@ -105,15 +116,15 @@
     "ky": "уу",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83",
     "senses": [
       "вещество"
     ],
-    "etymology": "From Proto-Turkic *āgu (“poison”).\nCognate with\nOld Uyghur [script needed]|[Term?] (ağu, “poison”);\nBashkir ағыу (ağıw),\nTatar агу (ağu),\nUzbek og'i,\nTurkish ağı,\nTurkmen awy (“poison, toxin”).",
     "pronunciation": "/uː/",
+    "etymology": "From Proto-Turkic *āgu (“poison”).\nCognate with\nOld Uyghur [script needed]|[Term?] (ağu, “poison”);\nBashkir ағыу (ağıw),\nTatar агу (ağu),\nUzbek og'i,\nTurkish ağı,\nTurkmen awy (“poison, toxin”).",
     "ruAccented": "яд",
     "ruGender": "m",
     "frequency": 186,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83",
     "id": "ru-яд-001"
   },
   {
@@ -121,11 +132,11 @@
     "ky": "жемиш",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC%D0%B8%D1%88",
     "etymology": "From Common Turkic *yemiš (“fruit”), from Proto-Turkic *yẹ̄miĺč (“fruit”).\nCognate with\nOld Uyghur [script needed] (jemiš, “fruit”);\nTatar җимеш (cimeş),\nBashkir емеш (yemeş)\nSouthern Altai јемиш (ǰemiš),\nKazakh жеміс (jemıs),\nKhakas ниміс (nimìs),\nAzerbaijani, Crimean Tatar, Turkish yemiş,\nChuvash ҫимӗҫ (śimĕś, “fruit”).\nCompare also Hungarian gyümölcs (“fruit”), a Turkic borrowing.",
     "ruAccented": "я'года",
     "ruGender": "f",
     "frequency": 87,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC%D0%B8%D1%88",
     "id": "ru-ягода-001"
   },
   {
@@ -133,16 +144,16 @@
     "ky": "Жапония",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F",
+    "ruAccented": "Япо'ния",
+    "ruGender": "f",
+    "frequency": 2,
     "examples": [
       {
         "ky": "Жапония императорунун такка отуруу аземи",
         "ru": "С.Жээнбеков примет участие в церемонии интронизации императора Японии"
       }
     ],
-    "ruAccented": "Япо'ния",
-    "ruGender": "f",
-    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F",
     "id": "ru-Япония-001"
   },
   {
@@ -150,9 +161,9 @@
     "ky": "алма жыгачы",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D0%B6%D1%8B%D0%B3%D0%B0%D1%87%D1%8B",
     "ruAccented": "я'блоня",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D0%B6%D1%8B%D0%B3%D0%B0%D1%87%D1%8B",
     "id": "ru-яблоня-001"
   },
   {
@@ -160,9 +171,9 @@
     "ky": "японец",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BF%D0%BE%D0%BD%D0%B5%D1%86",
     "ruAccented": "япо'нец",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BF%D0%BE%D0%BD%D0%B5%D1%86",
     "id": "ru-японец-001"
   },
   {
@@ -170,21 +181,21 @@
     "ky": "жармаңке",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BC%D0%B0%D2%A3%D0%BA%D0%B5",
     "etymology": "From Russian ярмарка (jarmarka), from Polish jarmark, from German Jahrmarkt (“fair”).",
     "ruAccented": "я'рмарка",
     "ruGender": "f",
-    "id": "ru-ярмарка-001"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BC%D0%B0%D2%A3%D0%BA%D0%B5",
+    "id": "ru-ярмарка-002"
   },
   {
     "ru": "ястреб",
     "ky": "карчыга",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%87%D1%8B%D0%B3%D0%B0",
     "etymology": "From *qarčïğa(y) (“hawk”), from a Mongolic source.",
     "ruAccented": "я'стреб",
     "frequency": 78,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%87%D1%8B%D0%B3%D0%B0",
     "id": "ru-ястреб-001"
   },
   {
@@ -192,9 +203,9 @@
     "ky": "кескелдирик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
     "ruAccented": "я'щерица",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
     "id": "ru-ящерица-001"
   },
   {
@@ -218,9 +229,9 @@
     "ky": "ятаган",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D0%B0%D0%B3%D0%B0%D0%BD",
     "ruAccented": "ятага'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D0%B0%D0%B3%D0%B0%D0%BD",
     "id": "ru-ятаган-001"
   },
   {
@@ -228,7 +239,6 @@
     "ky": "арпа",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%BF%D0%B0",
     "senses": [
       "злак"
     ],
@@ -236,6 +246,7 @@
     "ruAccented": "ячме'нь",
     "ruGender": "m",
     "frequency": 44,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%BF%D0%B0",
     "id": "ru-ячмень-001"
   },
   {
@@ -243,14 +254,14 @@
     "ky": "шарп",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BF",
+    "frequency": 8,
     "examples": [
       {
         "ky": "Нарын облусунун Жумгал районундагы шарп (ящур) ылаңы менен ылаңдаган малдар жөнүндө Ветеринардык жана фитосанитардык коопсуздук боюнча Мамлекеттик инспекциянын маалыматы жөнүндө (Маалымат иретинде).",
         "ru": "Об информации Государственной инспекции по ветеринарной и фитосанитарной безопасности о заболевании ящуром животных в Джумгальском районе Нарынской области (в порядке информации)."
       }
     ],
-    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BF",
     "id": "ru-ящур-001"
   },
   {
@@ -258,8 +269,8 @@
     "ky": "ямб",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D0%B1",
     "ruAccented": "ямб",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D0%B1",
     "id": "ru-ямб-001"
   },
   {
@@ -283,9 +294,9 @@
     "ky": "бутпарастык",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D1%82%D1%8B%D0%BA",
     "ruAccented": "язы'чество",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D1%82%D1%8B%D0%BA",
     "id": "ru-язычество-001"
   },
   {
@@ -293,9 +304,9 @@
     "ky": "Ярославль",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
     "ruAccented": "Яросла'вль",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
     "id": "ru-Ярославль-001"
   },
   {
@@ -415,13 +426,13 @@
     "ky": "январь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C",
     "senses": [
       "first month of the Gregorian calendar"
     ],
     "ruAccented": "янва'рь",
     "ruGender": "m",
     "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C",
     "id": "ru-январь-002"
   },
   {
@@ -429,10 +440,10 @@
     "ky": "мен сени сүйөм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
     "senses": [
       "affirmation of affection or deep caring"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
     "id": "ru-я тебя люблю-001"
   },
   {
@@ -440,10 +451,10 @@
     "ky": "мен сени сүйөм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
     "senses": [
       "affirmation of romantic feeling"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
     "id": "ru-я вас люблю-001"
   },
   {
@@ -451,10 +462,10 @@
     "ky": "мен сени сүйөм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
     "senses": [
       "affirmation of romantic feeling"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
     "id": "ru-я люблю тебя я тебя люблю-001"
   },
   {
@@ -462,10 +473,12 @@
     "ky": "чындык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "state of being actual or real"
     ],
+    "ruAccented": "явь",
+    "ruGender": "f",
+    "frequency": 184,
     "examples": [
       {
         "ky": "- Чындык бурмалоолордун тереңинде чөгүп кетпеши үчүн бул кырдаалды кантип оңдоо керек?",
@@ -476,9 +489,7 @@
         "ru": "- Но ведь публика принимает происходящее на экране за чистую монету."
       }
     ],
-    "ruAccented": "явь",
-    "ruGender": "f",
-    "frequency": 184,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-явь-001"
   },
   {
@@ -486,11 +497,13 @@
     "ky": "акыйкат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82",
     "senses": [
       "state of being actual or real"
     ],
     "etymology": "Borrowed from Classical Persian حَقِیقَت (haqīqat), from Arabic حَقِيقَة (ḥaqīqa).",
+    "ruAccented": "явь",
+    "ruGender": "f",
+    "frequency": 111,
     "examples": [
       {
         "ky": "Биз бардыгына социалдык эсептөөлөрдү жүргүзөбүз, акыйкат пенсияга ишенебиз,",
@@ -501,9 +514,7 @@
         "ru": "мы требуем обеспечить справедливое судебное решение, а не решение, которое"
       }
     ],
-    "ruAccented": "явь",
-    "ruGender": "f",
-    "frequency": 111,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82",
     "id": "ru-явь-002"
   },
   {
@@ -511,10 +522,10 @@
     "ky": "Жамайка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0",
     "senses": [
       "country in the Caribbean"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0",
     "id": "ru-Ямайка-002"
   },
   {
@@ -522,12 +533,12 @@
     "ky": "жапон",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
     "senses": [
       "of or relating to Japan"
     ],
-    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
     "pronunciation": "/d͡ʒɑˈpon/",
+    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
+    "ruAccented": "япо'нский",
     "examples": [
       {
         "ky": "популярдуу жапон оюнчугун көрсөттү, ал жапон тилинен которгондо “кылыч” же",
@@ -538,7 +549,7 @@
         "ru": "известных японских игрушек в мире."
       }
     ],
-    "ruAccented": "япо'нский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
     "id": "ru-японский-001"
   },
   {
@@ -546,12 +557,13 @@
     "ky": "жапон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
     "senses": [
       "person of Japan"
     ],
-    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
     "pronunciation": "/d͡ʒɑˈpon/",
+    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
+    "ruAccented": "япо'нец",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "популярдуу жапон оюнчугун көрсөттү, ал жапон тилинен которгондо “кылыч” же",
@@ -562,8 +574,7 @@
         "ru": "известных японских игрушек в мире."
       }
     ],
-    "ruAccented": "япо'нец",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
     "id": "ru-японец-002"
   },
   {
@@ -571,12 +582,13 @@
     "ky": "жапон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
     "senses": [
       "person of Japan"
     ],
-    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
     "pronunciation": "/d͡ʒɑˈpon/",
+    "etymology": "From Russian Япония (Japonija) or японец (japonec).",
+    "ruAccented": "япо'нка",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "популярдуу жапон оюнчугун көрсөттү, ал жапон тилинен которгондо “кылыч” же",
@@ -587,8 +599,7 @@
         "ru": "известных японских игрушек в мире."
       }
     ],
-    "ruAccented": "япо'нка",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD",
     "id": "ru-японка-001"
   },
   {
@@ -596,10 +607,10 @@
     "ky": "жапон тили",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD%20%D1%82%D0%B8%D0%BB%D0%B8",
     "senses": [
       "Japanese language"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD%20%D1%82%D0%B8%D0%BB%D0%B8",
     "id": "ru-японский язык-001"
   },
   {
@@ -607,12 +618,12 @@
     "ky": "жапон тили",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD%20%D1%82%D0%B8%D0%BB%D0%B8",
     "senses": [
       "Japanese language"
     ],
     "ruAccented": "япо'нский",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%BE%D0%BD%20%D1%82%D0%B8%D0%BB%D0%B8",
     "id": "ru-японский-002"
   },
   {
@@ -620,13 +631,13 @@
     "ky": "топоз",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF%D0%BE%D0%B7",
     "senses": [
       "ox-like mammal"
     ],
     "ruAccented": "як",
     "ruGender": "m",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF%D0%BE%D0%B7",
     "id": "ru-як-001"
   },
   {
@@ -634,12 +645,12 @@
     "ky": "яхта",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%85%D1%82%D0%B0",
     "senses": [
       "slick and light ship"
     ],
     "ruAccented": "я'хта",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%85%D1%82%D0%B0",
     "id": "ru-яхта-001"
   },
   {
@@ -647,7 +658,6 @@
     "ky": "тешик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%88%D0%B8%D0%BA",
     "senses": [
       "hollow in some surface"
     ],
@@ -655,6 +665,7 @@
     "ruAccented": "я'ма",
     "ruGender": "f",
     "frequency": 37,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%88%D0%B8%D0%BA",
     "id": "ru-яма-001"
   },
   {
@@ -662,12 +673,12 @@
     "ky": "янтарь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BD%D1%82%D0%B0%D1%80%D1%8C",
     "senses": [
       "fossil resin"
     ],
     "ruAccented": "янта'рь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BD%D1%82%D0%B0%D1%80%D1%8C",
     "id": "ru-янтарь-001"
   },
   {
@@ -675,12 +686,12 @@
     "ky": "омлет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BC%D0%BB%D0%B5%D1%82",
     "senses": [
       "dish made with beaten eggs"
     ],
     "ruAccented": "яи'чница",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BC%D0%BB%D0%B5%D1%82",
     "id": "ru-яичница-001"
   },
   {
@@ -688,14 +699,14 @@
     "ky": "тилбилим",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC",
     "senses": [
       "scientific study of language"
     ],
-    "etymology": "From тил (til, “language”) + билим (bilim, “knowledge”). Cognates with Turkish dilbilim.",
     "pronunciation": "[til.bi.lim]",
+    "etymology": "From тил (til, “language”) + билим (bilim, “knowledge”). Cognates with Turkish dilbilim.",
     "ruAccented": "языкозна'ние",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC",
     "id": "ru-языкознание-001"
   },
   {
@@ -703,12 +714,12 @@
     "ky": "лингвистика",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
     "senses": [
       "scientific study of language"
     ],
     "ruAccented": "языкозна'ние",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
     "id": "ru-языкознание-002"
   },
   {
@@ -716,14 +727,14 @@
     "ky": "тилбилим",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC",
     "senses": [
       "scientific study of language"
     ],
-    "etymology": "From тил (til, “language”) + билим (bilim, “knowledge”). Cognates with Turkish dilbilim.",
     "pronunciation": "[til.bi.lim]",
+    "etymology": "From тил (til, “language”) + билим (bilim, “knowledge”). Cognates with Turkish dilbilim.",
     "ruAccented": "языкове'дение",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC",
     "id": "ru-языковедение-001"
   },
   {
@@ -731,12 +742,12 @@
     "ky": "лингвистика",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
     "senses": [
       "scientific study of language"
     ],
     "ruAccented": "языкове'дение",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0",
     "id": "ru-языковедение-002"
   },
   {
@@ -744,10 +755,11 @@
     "ky": "тил",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
     "senses": [
       "of or relating to language"
     ],
+    "ruAccented": "языково'й",
+    "frequency": 1849,
     "examples": [
       {
         "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
@@ -758,8 +770,7 @@
         "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
       }
     ],
-    "ruAccented": "языково'й",
-    "frequency": 1849,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
     "id": "ru-языковой-001"
   },
   {
@@ -767,10 +778,10 @@
     "ky": "тилдик",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
     "senses": [
       "of or relating to language"
     ],
+    "ruAccented": "языково'й",
     "examples": [
       {
         "ky": "ушундай тутум иштелип чыкса, биз жөн гана тилдик маселеден да көп маселени",
@@ -781,7 +792,7 @@
         "ru": "Почему, например, первым решением нового"
       }
     ],
-    "ruAccented": "языково'й",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
     "id": "ru-языковой-002"
   },
   {
@@ -789,18 +800,18 @@
     "ky": "лингвистикалык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "of or relating to language"
     ],
+    "ruAccented": "языково'й",
+    "frequency": 3,
     "examples": [
       {
         "ky": "Соттук отурумдун жүрүшүндө телеканалдын жана экс-президенттин жактоочулары лингвистикалык анализ өткөрүү тууралуу арыз менен чыгышты.",
         "ru": "В ходе судебного заседания адвокаты телеканала и экс-президента заявили ходатайство о проведении лингвистической экспертизы."
       }
     ],
-    "ruAccented": "языково'й",
-    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-языковой-003"
   },
   {
@@ -808,10 +819,10 @@
     "ky": "тил",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
     "senses": [
       "of or relating to language"
     ],
+    "frequency": 1849,
     "examples": [
       {
         "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
@@ -822,7 +833,7 @@
         "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
       }
     ],
-    "frequency": 1849,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
     "id": "ru-язычный-001"
   },
   {
@@ -830,7 +841,6 @@
     "ky": "тилдик",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
     "senses": [
       "of or relating to language"
     ],
@@ -844,6 +854,7 @@
         "ru": "Почему, например, первым решением нового"
       }
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
     "id": "ru-язычный-002"
   },
   {
@@ -851,17 +862,17 @@
     "ky": "лингвистикалык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "of or relating to language"
     ],
+    "frequency": 3,
     "examples": [
       {
         "ky": "Соттук отурумдун жүрүшүндө телеканалдын жана экс-президенттин жактоочулары лингвистикалык анализ өткөрүү тууралуу арыз менен чыгышты.",
         "ru": "В ходе судебного заседания адвокаты телеканала и экс-президента заявили ходатайство о проведении лингвистической экспертизы."
       }
     ],
-    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-язычный-003"
   },
   {
@@ -869,12 +880,12 @@
     "ky": "лингвист",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82",
     "senses": [
       "one who studies linguistics"
     ],
     "ruAccented": "языкове'д",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82",
     "id": "ru-языковед-001"
   },
   {
@@ -882,11 +893,12 @@
     "ky": "жарык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA",
     "senses": [
       "emitting much light",
       "visually dazzling — see also luminous, radiant"
     ],
+    "ruAccented": "я'ркий",
+    "frequency": 457,
     "examples": [
       {
         "ky": "Анын жарык дүйнө менен кош айтышы – дүйнөлүк маданият үчүн чоң жоготуу болгонун белгилешүүдө.",
@@ -897,8 +909,7 @@
         "ru": "Были отремонтированы гримерные, репецитионные залы, сцена, фойе, Малахитовый зал, отреставрированы люстры, кресла, уникальная настенная и потолочная роспись.В Кыргызском драматическом театре им."
       }
     ],
-    "ruAccented": "я'ркий",
-    "frequency": 457,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA",
     "id": "ru-яркий-001"
   },
   {
@@ -906,12 +917,12 @@
     "ky": "жаркыраган",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
     "senses": [
       "emitting much light",
       "visually dazzling — see also luminous, radiant"
     ],
     "ruAccented": "я'ркий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
     "id": "ru-яркий-002"
   },
   {
@@ -919,12 +930,12 @@
     "ky": "жаркырап турган",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD",
     "senses": [
       "emitting much light",
       "visually dazzling — see also luminous, radiant"
     ],
     "ruAccented": "я'ркий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD",
     "id": "ru-яркий-003"
   },
   {
@@ -932,11 +943,12 @@
     "ky": "жарык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA",
     "senses": [
       "emitting much light",
       "visually dazzling — see also luminous, radiant"
     ],
+    "ruAccented": "я'сный",
+    "frequency": 457,
     "examples": [
       {
         "ky": "Анын жарык дүйнө менен кош айтышы – дүйнөлүк маданият үчүн чоң жоготуу болгонун белгилешүүдө.",
@@ -947,8 +959,7 @@
         "ru": "Были отремонтированы гримерные, репецитионные залы, сцена, фойе, Малахитовый зал, отреставрированы люстры, кресла, уникальная настенная и потолочная роспись.В Кыргызском драматическом театре им."
       }
     ],
-    "ruAccented": "я'сный",
-    "frequency": 457,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA",
     "id": "ru-ясный-001"
   },
   {
@@ -956,12 +967,12 @@
     "ky": "жаркыраган",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
     "senses": [
       "emitting much light",
       "visually dazzling — see also luminous, radiant"
     ],
     "ruAccented": "я'сный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD",
     "id": "ru-ясный-002"
   },
   {
@@ -969,12 +980,12 @@
     "ky": "жаркырап турган",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD",
     "senses": [
       "emitting much light",
       "visually dazzling — see also luminous, radiant"
     ],
     "ruAccented": "я'сный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD",
     "id": "ru-ясный-003"
   },
   {
@@ -982,13 +993,13 @@
     "ky": "клетка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
     "senses": [
       "basic unit of a living organism"
     ],
     "ruAccented": "яче'йка",
     "ruGender": "f",
     "frequency": 20,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
     "id": "ru-ячейка-001"
   },
   {
@@ -996,12 +1007,12 @@
     "ky": "көзөнөк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7%D3%A9%D0%BD%D3%A9%D0%BA",
     "senses": [
       "basic unit of a living organism"
     ],
     "ruAccented": "яче'йка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7%D3%A9%D0%BD%D3%A9%D0%BA",
     "id": "ru-ячейка-002"
   },
   {
@@ -1009,13 +1020,13 @@
     "ky": "коробка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0",
     "senses": [
       "cuboid space",
       "container"
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0",
     "id": "ru-ящик-001"
   },
   {
@@ -1023,7 +1034,6 @@
     "ky": "куту",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83",
     "senses": [
       "cuboid space",
       "container"
@@ -1031,6 +1041,7 @@
     "ruAccented": "я'щик",
     "ruGender": "m",
     "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83",
     "id": "ru-ящик-002"
   },
   {
@@ -1038,13 +1049,13 @@
     "ky": "ящик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA",
     "senses": [
       "cuboid space",
       "container"
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA",
     "id": "ru-ящик-003"
   },
   {
@@ -1052,12 +1063,12 @@
     "ky": "якорь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BA%D0%BE%D1%80%D1%8C",
     "senses": [
       "tool to moor a vessel into sea bottom"
     ],
     "ruAccented": "я'корь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BA%D0%BE%D1%80%D1%8C",
     "id": "ru-якорь-001"
   },
   {
@@ -1065,14 +1076,14 @@
     "ky": "ташак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
     "senses": [
       "testicle — see also testicle"
     ],
-    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
     "pronunciation": "[tɑˈʃɑq]",
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
     "ruAccented": "яйцо'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
     "id": "ru-яйцо-002"
   },
   {
@@ -1080,12 +1091,12 @@
     "ky": "ташак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
     "senses": [
       "testicle — see also testicle"
     ],
-    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
     "pronunciation": "[tɑˈʃɑq]",
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
     "id": "ru-яйца-001"
   },
   {
@@ -1093,14 +1104,14 @@
     "ky": "ташак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
     "senses": [
       "testicle — see also testicle"
     ],
-    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
     "pronunciation": "[tɑˈʃɑq]",
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
     "ruAccented": "яи'чко",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
     "id": "ru-яичко-001"
   },
   {
@@ -1108,12 +1119,12 @@
     "ky": "суурма",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%80%D0%BC%D0%B0",
     "senses": [
       "open-topped box in a cabinet used for storing"
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%80%D0%BC%D0%B0",
     "id": "ru-ящик-004"
   },
   {
@@ -1121,12 +1132,12 @@
     "ky": "тартма",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%BC%D0%B0",
     "senses": [
       "open-topped box in a cabinet used for storing"
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%BC%D0%B0",
     "id": "ru-ящик-005"
   },
   {
@@ -1134,7 +1145,6 @@
     "ky": "эн",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD",
     "senses": [
       "male sex gland"
     ],
@@ -1142,6 +1152,7 @@
     "ruAccented": "яи'чко",
     "ruGender": "n",
     "frequency": 131,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD",
     "id": "ru-яичко-002"
   },
   {
@@ -1149,12 +1160,14 @@
     "ky": "таш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88",
     "senses": [
       "male sex gland"
     ],
-    "etymology": "From Proto-Turkic *tāĺ.",
     "pronunciation": "/tɑʂ/",
+    "etymology": "From Proto-Turkic *tāĺ.",
+    "ruAccented": "яи'чко",
+    "ruGender": "n",
+    "frequency": 1232,
     "examples": [
       {
         "ky": "), бактылуу жана ийгииктүү болуш үчүн биз таш",
@@ -1165,9 +1178,7 @@
         "ru": "На газовой ТЭЦ не устанавливается система очистки дымовых газов,"
       }
     ],
-    "ruAccented": "яи'чко",
-    "ruGender": "n",
-    "frequency": 1232,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88",
     "id": "ru-яичко-003"
   },
   {
@@ -1175,10 +1186,10 @@
     "ky": "аниме",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5",
     "senses": [
       "an animated work originated in Japan"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B8%D0%BC%D0%B5",
     "id": "ru-японский мультфильм-001"
   },
   {
@@ -1186,19 +1197,19 @@
     "ky": "өзөк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D3%A9%D0%BA",
     "senses": [
       "(computing) central part of many computer operating systems"
     ],
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "frequency": 94,
     "examples": [
       {
         "ky": "Екатеринбург аркылуу Россиянын борборунан Сибирге негизги унаа өзөк жолунун",
         "ru": "велось строительство основных транспортных магистралей из Центральной России в"
       }
     ],
-    "ruAccented": "ядро'",
-    "ruGender": "n",
-    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D3%A9%D0%BA",
     "id": "ru-ядро-001"
   },
   {
@@ -1206,10 +1217,12 @@
     "ky": "дан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD",
     "senses": [
       "(computing) central part of many computer operating systems"
     ],
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "frequency": 101,
     "examples": [
       {
         "ky": "120 дан ашык компаниялардын , кызматтары үчүн төлөө, уюлдук операторлордон тартып коммуналдык кызматтарга чейин;",
@@ -1220,9 +1233,7 @@
         "ru": "В США применяют буквенную систему классов от A до F, используемую инспекционными органами, специализирующимися на проверке мест общественного питания."
       }
     ],
-    "ruAccented": "ядро'",
-    "ruGender": "n",
-    "frequency": 101,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD",
     "id": "ru-ядро-002"
   },
   {
@@ -1230,10 +1241,10 @@
     "ky": "яичница",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0",
     "senses": [
       "egg that has been shallow fried"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0",
     "id": "ru-яичница-глазунья-001"
   },
   {
@@ -1241,12 +1252,12 @@
     "ky": "яичница",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0",
     "senses": [
       "egg that has been shallow fried"
     ],
     "ruAccented": "яи'чница",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B8%D1%87%D0%BD%D0%B8%D1%86%D0%B0",
     "id": "ru-яичница-002"
   },
   {
@@ -1254,13 +1265,13 @@
     "ky": "ядро",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE",
     "senses": [
       "physics: massive, positively charged core of an atom"
     ],
     "etymology": "Borrowed from Russian ядро́ (jadró).",
     "ruAccented": "ядро'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE",
     "id": "ru-ядро-003"
   },
   {
@@ -1268,12 +1279,12 @@
     "ky": "Ява",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%B2%D0%B0",
     "senses": [
       "island of Indonesia"
     ],
     "ruAccented": "Я'ва",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%B2%D0%B0",
     "id": "ru-Ява-001"
   },
   {
@@ -1281,18 +1292,18 @@
     "ky": "ядролук",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA",
     "senses": [
       "involving nuclear energy"
     ],
+    "ruAccented": "я'дерный",
+    "frequency": 3,
     "examples": [
       {
         "ky": "Семипалатинскидеги ядролук полигонду жапканга жетише алган, кийинчирээк синьцзяндагы",
         "ru": "ядерный полигон в Семипалатинске, а позже добиться сворачивания работы такого"
       }
     ],
-    "ruAccented": "я'дерный",
-    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA",
     "id": "ru-ядерный-001"
   },
   {
@@ -1300,12 +1311,12 @@
     "ky": "жер жемиш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80%20%D0%B6%D0%B5%D0%BC%D0%B8%D1%88",
     "senses": [
       "small succulent fruit"
     ],
     "ruAccented": "я'года",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80%20%D0%B6%D0%B5%D0%BC%D0%B8%D1%88",
     "id": "ru-ягода-002"
   },
   {
@@ -1313,24 +1324,24 @@
     "ky": "жылбазар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B1%D0%B0%D0%B7%D0%B0%D1%80",
     "senses": [
       "market"
     ],
     "etymology": "Literal translation from German Jahrmarkt. Jahr (year → жыл) + Markt (market → базар)",
     "ruAccented": "я'рмарка",
     "ruGender": "f",
-    "id": "ru-ярмарка-002"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B1%D0%B0%D0%B7%D0%B0%D1%80",
+    "id": "ru-ярмарка-003"
   },
   {
     "ru": "ящерка f ящер",
     "ky": "кескелдирик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
     "senses": [
       "reptile"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
     "id": "ru-ящерка f ящер-001"
   },
   {
@@ -1338,12 +1349,12 @@
     "ky": "этикетка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BA%D0%B0",
     "senses": [
       "small ticket or sign giving information"
     ],
     "ruAccented": "ярлы'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BA%D0%B0",
     "id": "ru-ярлык-001"
   },
   {
@@ -1351,12 +1362,12 @@
     "ky": "наклейка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0",
     "senses": [
       "small ticket or sign giving information"
     ],
     "ruAccented": "ярлы'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0",
     "id": "ru-ярлык-002"
   },
   {
@@ -1364,10 +1375,10 @@
     "ky": "черокиче",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%BE%D0%BA%D0%B8%D1%87%D0%B5",
     "senses": [
       "language"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%BE%D0%BA%D0%B8%D1%87%D0%B5",
     "id": "ru-язык чероки-001"
   },
   {
@@ -1375,10 +1386,12 @@
     "ky": "сандык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "strong box"
     ],
+    "ruAccented": "я'щик",
+    "ruGender": "m",
+    "frequency": 97,
     "examples": [
       {
         "ky": "- Жетекчилик тарабынан белгиленген пайда жана сандык көрсөткүчтөр боюнча максаттарга жетишүү үчүн бардык зарыл аракеттерди көрүү.",
@@ -1389,9 +1402,7 @@
         "ru": "- Предпринимать все необходимые действия для достижения целей по прибыли и количественным показателям, установленные руководством."
       }
     ],
-    "ruAccented": "я'щик",
-    "ruGender": "m",
-    "frequency": 97,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-ящик-006"
   },
   {
@@ -1399,13 +1410,13 @@
     "ky": "көчүк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%87%D2%AF%D0%BA",
     "senses": [
       "each of the two large fleshy halves of the posterior part of the body"
     ],
     "ruAccented": "я'годица",
     "ruGender": "f",
     "frequency": 87,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%87%D2%AF%D0%BA",
     "id": "ru-ягодица-001"
   },
   {
@@ -1413,20 +1424,20 @@
     "ky": "жамбаш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%B1%D0%B0%D1%88",
     "senses": [
       "each of the two large fleshy halves of the posterior part of the body"
     ],
     "etymology": "Ultimately from Proto-Turkic *jān. Cognate to Southern Altai јалмаш (ǰalmaš), Kazakh жанбас (janbas), Karakalpak janbas, Nogai янбас (yanbas), Karaim janbaš, Kumyk янбаш (yanbaş), Bashkir янбаш (yanbaş), Uzbek yonbosh, etc.",
+    "ruAccented": "я'годица",
+    "ruGender": "f",
+    "frequency": 29,
     "examples": [
       {
         "ky": "келбейт, өзүнүн ансыз да толтура ден соолугуна тиешелүү көйгөйлөрүнө аркасынын кыйшайуусу, жамбаш сөөктөрүнүн",
         "ru": "очень плохо, и ко всем остальным проблемам со здоровьем прибавиться еще"
       }
     ],
-    "ruAccented": "я'годица",
-    "ruGender": "f",
-    "frequency": 29,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%B1%D0%B0%D1%88",
     "id": "ru-ягодица-002"
   },
   {
@@ -1434,7 +1445,6 @@
     "ky": "оюк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BA",
     "senses": [
       "sunken area"
     ],
@@ -1442,6 +1452,7 @@
     "ruAccented": "я'ма",
     "ruGender": "f",
     "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BA",
     "id": "ru-яма-002"
   },
   {
@@ -1449,12 +1460,12 @@
     "ky": "ясли",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%81%D0%BB%D0%B8",
     "senses": [
       "place where the pre-school children of working parents are supervised during the day — see also nursery school"
     ],
     "ruAccented": "я'сли",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%81%D0%BB%D0%B8",
     "id": "ru-ясли-001"
   },
   {
@@ -1462,12 +1473,12 @@
     "ky": "бутпарас",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81",
     "senses": [
       "person not adhering to a main world religion"
     ],
     "ruAccented": "язы'чник",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81",
     "id": "ru-язычник-001"
   },
   {
@@ -1475,12 +1486,12 @@
     "ky": "бутка табынуучу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D1%8B%D0%BD%D1%83%D1%83%D1%87%D1%83",
     "senses": [
       "person not adhering to a main world religion"
     ],
     "ruAccented": "язы'чник",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D1%8B%D0%BD%D1%83%D1%83%D1%87%D1%83",
     "id": "ru-язычник-002"
   },
   {
@@ -1488,12 +1499,12 @@
     "ky": "бутпарас",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81",
     "senses": [
       "person not adhering to a main world religion"
     ],
     "ruAccented": "язы'чница",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81",
     "id": "ru-язычница-001"
   },
   {
@@ -1501,12 +1512,12 @@
     "ky": "бутка табынуучу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D1%8B%D0%BD%D1%83%D1%83%D1%87%D1%83",
     "senses": [
       "person not adhering to a main world religion"
     ],
     "ruAccented": "язы'чница",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D1%8B%D0%BD%D1%83%D1%83%D1%87%D1%83",
     "id": "ru-язычница-002"
   },
   {
@@ -1514,12 +1525,14 @@
     "ky": "сан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD",
     "senses": [
       "buttocks"
     ],
-    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
     "pronunciation": "/sɑn/",
+    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
+    "ruAccented": "я'годицы",
+    "ruGender": "f",
+    "frequency": 1298,
     "examples": [
       {
         "ky": "адам эмгектенүүдө. Жана бул сан күндөн күнгө өсүүдө.",
@@ -1530,9 +1543,7 @@
         "ru": "Ладно, пусть это несбыточно, но даже с учетом природно-сбалансированного"
       }
     ],
-    "ruAccented": "я'годицы",
-    "ruGender": "f",
-    "frequency": 1298,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD",
     "id": "ru-ягодицы-001"
   },
   {
@@ -1540,12 +1551,12 @@
     "ky": "этаж",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%B6",
     "senses": [
       "floor, level"
     ],
     "ruAccented": "я'рус",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%B6",
     "id": "ru-ярус-001"
   },
   {
@@ -1553,10 +1564,12 @@
     "ky": "кабат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%82",
     "senses": [
       "floor, level"
     ],
+    "ruAccented": "я'рус",
+    "ruGender": "m",
+    "frequency": 94,
     "examples": [
       {
         "ky": "Көп байкала бербеген бир кабат кенен үй.",
@@ -1567,9 +1580,7 @@
         "ru": "Длинная юбка в три слоя – это далеко не предел."
       }
     ],
-    "ruAccented": "я'рус",
-    "ruGender": "m",
-    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%82",
     "id": "ru-ярус-002"
   },
   {
@@ -1577,10 +1588,12 @@
     "ky": "катар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%80",
     "senses": [
       "floor, level"
     ],
+    "ruAccented": "я'рус",
+    "ruGender": "m",
+    "frequency": 69,
     "examples": [
       {
         "ky": "Бандар Хаджар учурда бир катар биргелешкен долбоорлор кароодо турганын, аларды ишке ашыруу кыргыз тарап менен талкууланарын айтты.",
@@ -1591,9 +1604,7 @@
         "ru": "Он будет предоставлять консультации местным предпринимателем среднего и малого бизнеса, юридические и консалтинговые услуги."
       }
     ],
-    "ruAccented": "я'рус",
-    "ruGender": "m",
-    "frequency": 69,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%80",
     "id": "ru-ярус-003"
   },
   {
@@ -1601,17 +1612,17 @@
     "ky": "капчыгай",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D1%87%D1%8B%D0%B3%D0%B0%D0%B9",
     "senses": [
       "deep, narrow passage with steep, rocky sides"
     ],
+    "ruAccented": "яр",
     "examples": [
       {
         "ky": "узундугу беш чакырымды түзгөн капчыгай белгилүү Кытай дубалына (чынында эле,",
         "ru": "длинная гряда в пять километров, похожая на знаменитую Китайскую стену (правда"
       }
     ],
-    "ruAccented": "яр",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D1%87%D1%8B%D0%B3%D0%B0%D0%B9",
     "id": "ru-яр-001"
   },
   {
@@ -1619,13 +1630,13 @@
     "ky": "моюнтурук",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BA",
     "senses": [
       "bar or frame by which two oxen or other draught animals are joined at their necks enabling them to pull a cart, plough, etc.",
       "device attached to a single draught animal for the same purpose"
     ],
     "ruAccented": "ярмо'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BA",
     "id": "ru-ярмо-001"
   },
   {
@@ -1633,13 +1644,13 @@
     "ky": "каамыт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BC%D1%8B%D1%82",
     "senses": [
       "bar or frame by which two oxen or other draught animals are joined at their necks enabling them to pull a cart, plough, etc.",
       "device attached to a single draught animal for the same purpose"
     ],
     "ruAccented": "ярмо'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BC%D1%8B%D1%82",
     "id": "ru-ярмо-002"
   },
   {
@@ -1647,12 +1658,14 @@
     "ky": "базар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B0%D1%80",
     "senses": [
       "marketplace"
     ],
-    "etymology": "From Persian بازار (bâzâr).",
     "pronunciation": "/bazar/",
+    "etymology": "From Persian بازار (bâzâr).",
+    "ruAccented": "я'рмарка",
+    "ruGender": "f",
+    "frequency": 352,
     "examples": [
       {
         "ky": "Аларга мамлекеттен жардам болушу ыктымалбы?Ажыкулов: Негизи бул базар экономикасына байланыштуу жагдай.",
@@ -1663,20 +1676,18 @@
         "ru": "по сравнению с рыночными ценами там стоимость угля гораздо ниже:"
       }
     ],
-    "ruAccented": "я'рмарка",
-    "ruGender": "f",
-    "frequency": 352,
-    "id": "ru-ярмарка-003"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B0%D1%80",
+    "id": "ru-ярмарка-004"
   },
   {
     "ru": "яблочный сок",
     "ky": "алма ширеси",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D1%88%D0%B8%D1%80%D0%B5%D1%81%D0%B8",
     "senses": [
       "the juice of apples, often used as a drink"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D1%88%D0%B8%D1%80%D0%B5%D1%81%D0%B8",
     "id": "ru-яблочный сок-001"
   },
   {
@@ -1684,18 +1695,18 @@
     "ky": "жака",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D0%B0",
     "senses": [
       "land adjoining a large body of water"
     ],
+    "ruAccented": "яр",
+    "frequency": 227,
     "examples": [
       {
         "ky": "Кыргызстан менен таанышып кетет да кандай адамдар жашаганын айтып ал жака барганда.",
         "ru": "Цитирую тумар:Политическое рейдерство произошло в пятницу. Депутаты повели себя неуважительно не только к мэру, но и ко всем избирателям."
       }
     ],
-    "ruAccented": "яр",
-    "frequency": 227,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D0%B0",
     "id": "ru-яр-002"
   },
   {
@@ -1703,10 +1714,11 @@
     "ky": "жээк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8D%D1%8D%D0%BA",
     "senses": [
       "land adjoining a large body of water"
     ],
+    "ruAccented": "яр",
+    "frequency": 156,
     "examples": [
       {
         "ky": "мурун жээк линиялары өлкөнүн ичине карай жылып, азыркы көрүнүшүнө келген, ал",
@@ -1717,8 +1729,7 @@
         "ru": "побережья – в экологическом туризме."
       }
     ],
-    "ruAccented": "яр",
-    "frequency": 156,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8D%D1%8D%D0%BA",
     "id": "ru-яр-003"
   },
   {
@@ -1726,11 +1737,11 @@
     "ky": "кашат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88%D0%B0%D1%82",
     "senses": [
       "land adjoining a large body of water"
     ],
     "ruAccented": "яр",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88%D0%B0%D1%82",
     "id": "ru-яр-004"
   },
   {
@@ -1738,10 +1749,10 @@
     "ky": "урук клеткасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%D1%81%D1%8B",
     "senses": [
       "gamete"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%D1%81%D1%8B",
     "id": "ru-яйцеклетка-001"
   },
   {
@@ -1749,10 +1760,10 @@
     "ky": "энелик клетка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D0%BB%D0%B8%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
     "senses": [
       "gamete"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D0%BB%D0%B8%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
     "id": "ru-яйцеклетка-002"
   },
   {
@@ -1760,13 +1771,13 @@
     "ky": "арча",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%87%D0%B0",
     "senses": [
       "shrub or tree of the genus Juniperus"
     ],
-    "etymology": "Borrowed from Middle Mongol [Term?] (/⁠arča⁠/), from Proto-Mongolic *arča, from Proto-Turkic *artuč.",
     "pronunciation": "/ɑrˈt͡ʃɑ/",
+    "etymology": "Borrowed from Middle Mongol [Term?] (/⁠arča⁠/), from Proto-Mongolic *arča, from Proto-Turkic *artuč.",
     "frequency": 31,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%87%D0%B0",
     "id": "ru-яловец-001"
   },
   {
@@ -1774,7 +1785,6 @@
     "ky": "жара",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0",
     "senses": [
       "open sore"
     ],
@@ -1782,6 +1792,7 @@
     "ruAccented": "я'зва",
     "ruGender": "f",
     "frequency": 1421,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0",
     "id": "ru-язва-001"
   },
   {
@@ -1789,10 +1800,10 @@
     "ky": "жармаңке аянты",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BC%D0%B0%D2%A3%D0%BA%D0%B5%20%D0%B0%D1%8F%D0%BD%D1%82%D1%8B",
     "senses": [
       "fair area"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BC%D0%B0%D2%A3%D0%BA%D0%B5%20%D0%B0%D1%8F%D0%BD%D1%82%D1%8B",
     "id": "ru-ярмарочная площадь-001"
   },
   {
@@ -1800,10 +1811,10 @@
     "ky": "Ява деңизи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%B2%D0%B0%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%D0%B8",
     "senses": [
       "a sea"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%B2%D0%B0%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%D0%B8",
     "id": "ru-Яванское море-001"
   },
   {
@@ -1811,10 +1822,10 @@
     "ky": "билбейм",
     "pos": "intj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "senses": [
       "I don’t know"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "id": "ru-я не знаю-001"
   },
   {
@@ -1822,10 +1833,10 @@
     "ky": "мен түшүнбөдүм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D0%B1%D3%A9%D0%B4%D2%AF%D0%BC",
     "senses": [
       "I don't understand"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D0%B1%D3%A9%D0%B4%D2%AF%D0%BC",
     "id": "ru-я не понимаю-001"
   },
   {
@@ -1833,10 +1844,10 @@
     "ky": "түшүнбөдүм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D0%B1%D3%A9%D0%B4%D2%AF%D0%BC",
     "senses": [
       "I don't understand"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D0%B1%D3%A9%D0%B4%D2%AF%D0%BC",
     "id": "ru-я не понимаю-002"
   },
   {
@@ -1844,10 +1855,10 @@
     "ky": "Яунде",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%83%D0%BD%D0%B4%D0%B5",
     "senses": [
       "capital of Cameroon"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%83%D0%BD%D0%B4%D0%B5",
     "id": "ru-Яунде-001"
   },
   {
@@ -1855,10 +1866,10 @@
     "ky": "Жапон деңизи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%D0%B8",
     "senses": [
       "the sea between Japan and the rest of Asia"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D0%BF%D0%BE%D0%BD%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%D0%B8",
     "id": "ru-Японское море-001"
   },
   {
@@ -1866,11 +1877,11 @@
     "ky": "саха",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%B0",
     "senses": [
       "language"
     ],
     "ruAccented": "яку'тский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%B0",
     "id": "ru-якутский-001"
   },
   {
@@ -1878,23 +1889,23 @@
     "ky": "соода көргөзмөсү",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BE%D0%B4%D0%B0%20%D0%BA%D3%A9%D1%80%D0%B3%D3%A9%D0%B7%D0%BC%D3%A9%D1%81%D2%AF",
     "senses": [
       "exhibition for a particular field"
     ],
     "ruAccented": "я'рмарка",
     "ruGender": "f",
-    "id": "ru-ярмарка-004"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BE%D0%B4%D0%B0%20%D0%BA%D3%A9%D1%80%D0%B3%D3%A9%D0%B7%D0%BC%D3%A9%D1%81%D2%AF",
+    "id": "ru-ярмарка-005"
   },
   {
     "ru": "Ялта",
     "ky": "Ялта",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BB%D1%82%D0%B0",
     "senses": [
       "city in Crimea"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BB%D1%82%D0%B0",
     "id": "ru-Ялта-001"
   },
   {
@@ -1902,12 +1913,12 @@
     "ky": "уулуулук",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
     "senses": [
       "state of being poisonous"
     ],
     "ruAccented": "ядови'тость",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA",
     "id": "ru-ядовитость-001"
   },
   {
@@ -1915,10 +1926,10 @@
     "ky": "мен англисче билбейм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "senses": [
       "I don't speak English (specifically English)"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "id": "ru-я не говорю по-английски-001"
   },
   {
@@ -1926,10 +1937,10 @@
     "ky": "мен англисче билбейм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "senses": [
       "I don't speak English (specifically English)"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "id": "ru-я не разговариваю по-английски-001"
   },
   {
@@ -1937,10 +1948,10 @@
     "ky": "кыргызче билбейм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "senses": [
       "I don't speak (fill with the name of the current foreign language)"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%87%D0%B5%20%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D0%B9%D0%BC",
     "id": "ru-я не говорю по-русски-001"
   },
   {
@@ -1948,10 +1959,10 @@
     "ky": "мен ачкамын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm hungry"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "id": "ru-я хочу есть-001"
   },
   {
@@ -1959,10 +1970,10 @@
     "ky": "мен ачкамын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm hungry"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "id": "ru-я голоден-001"
   },
   {
@@ -1970,10 +1981,10 @@
     "ky": "мен ачкамын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm hungry"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "id": "ru-я голодна-001"
   },
   {
@@ -1981,10 +1992,10 @@
     "ky": "мен ачкамын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm hungry"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "id": "ru-я голодный-001"
   },
   {
@@ -1992,10 +2003,10 @@
     "ky": "мен ачкамын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm hungry"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B0%D1%87%D0%BA%D0%B0%D0%BC%D1%8B%D0%BD",
     "id": "ru-я голодная-001"
   },
   {
@@ -2003,10 +2014,10 @@
     "ky": "мен суусап жатам",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BF%20%D0%B6%D0%B0%D1%82%D0%B0%D0%BC",
     "senses": [
       "I need a drink"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BF%20%D0%B6%D0%B0%D1%82%D0%B0%D0%BC",
     "id": "ru-я хочу пить-001"
   },
   {
@@ -2014,10 +2025,10 @@
     "ky": "мен бойдокмун",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
     "senses": [
       "I'm single"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
     "id": "ru-я холост-001"
   },
   {
@@ -2025,10 +2036,10 @@
     "ky": "мен бойдокмун",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
     "senses": [
       "I'm single"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
     "id": "ru-я не женат-001"
   },
   {
@@ -2036,10 +2047,10 @@
     "ky": "мен бойдокмун",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
     "senses": [
       "I'm single"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%B1%D0%BE%D0%B9%D0%B4%D0%BE%D0%BA%D0%BC%D1%83%D0%BD",
     "id": "ru-я не замужем-001"
   },
   {
@@ -2047,10 +2058,10 @@
     "ky": "мен мусулманмын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%BC%D1%83%D1%81%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm a Muslim"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%BC%D1%83%D1%81%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%BC%D1%8B%D0%BD",
     "id": "ru-я мусульманин-001"
   },
   {
@@ -2058,10 +2069,10 @@
     "ky": "мен мусулманмын",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%BC%D1%83%D1%81%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%BC%D1%8B%D0%BD",
     "senses": [
       "I'm a Muslim"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D0%BC%D1%83%D1%81%D1%83%D0%BB%D0%BC%D0%B0%D0%BD%D0%BC%D1%8B%D0%BD",
     "id": "ru-я мусульманка-001"
   },
   {
@@ -2069,12 +2080,12 @@
     "ky": "жарлык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BB%D1%8B%D0%BA",
     "senses": [
       "khan's decree"
     ],
     "ruAccented": "ярлы'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BB%D1%8B%D0%BA",
     "id": "ru-ярлык-003"
   },
   {
@@ -2082,10 +2093,10 @@
     "ky": "Яндекс",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81",
     "senses": [
       "Yandex (in other scripts, the trademark may also be written in Roman letters)"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81",
     "id": "ru-Яндекс-001"
   },
   {
@@ -2093,12 +2104,12 @@
     "ky": "кучер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%87%D0%B5%D1%80",
     "senses": [
       "driver of a horse-drawn coach"
     ],
     "ruAccented": "ямщи'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%87%D0%B5%D1%80",
     "id": "ru-ямщик-001"
   },
   {
@@ -2106,12 +2117,12 @@
     "ky": "ямщик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D1%89%D0%B8%D0%BA",
     "senses": [
       "driver of a horse-drawn coach"
     ],
     "ruAccented": "ямщи'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D1%89%D0%B8%D0%BA",
     "id": "ru-ямщик-002"
   },
   {
@@ -2119,12 +2130,12 @@
     "ky": "арабакеч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA%D0%B5%D1%87",
     "senses": [
       "driver of a horse-drawn coach"
     ],
     "ruAccented": "ямщи'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA%D0%B5%D1%87",
     "id": "ru-ямщик-003"
   },
   {
@@ -2132,10 +2143,10 @@
     "ky": "мен сүзө албайм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D2%AF%D0%B7%D3%A9%20%D0%B0%D0%BB%D0%B1%D0%B0%D0%B9%D0%BC",
     "senses": [
       "I can't swim"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D2%AF%D0%B7%D3%A9%20%D0%B0%D0%BB%D0%B1%D0%B0%D0%B9%D0%BC",
     "id": "ru-я не умею плавать-001"
   },
   {
@@ -2143,21 +2154,335 @@
     "ky": "тил мектеби",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%B1%D0%B8",
     "senses": [
       "school where foreign languages are taught"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%B1%D0%B8",
     "id": "ru-языковая школа-001"
   },
   {
-    "ru": "ярмарка",
-    "ky": "жарманке",
-    "pos": "noun",
-    "source": "manual",
+    "ru": "языковедческий",
+    "ky": "тил",
+    "pos": "adj",
+    "source": "pivot-en",
+    "enPivot": "linguistic",
     "senses": [
-      "периодически устраиваемый торг"
+      "of or relating to language"
     ],
+    "frequency": 1849,
+    "examples": [
+      {
+        "ky": "Кыргыз Республикасынын Президентине караштуу Мамлекеттик тил боюнча улуттук комиссия",
+        "ru": "Национальная комиссия по государственному языку при Президенте Кыргызской Республики"
+      },
+      {
+        "ky": "“Кыргыз ССРинин мамлекеттик тили жөнүндө” мыйзам кабыл алынып, кыргыз тилине мамлекеттик тил макамы берилгендигинин 30 жылдыгы Москва шаарында да белгиленди.",
+        "ru": "В Москве соотечественники отметили 30-летие принятия закона “О государственном языке”."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB",
+    "id": "ru-языковедческий-001"
+  },
+  {
+    "ru": "языковедческий",
+    "ky": "тилдик",
+    "pos": "adj",
+    "source": "pivot-en",
+    "enPivot": "linguistic",
+    "senses": [
+      "of or relating to language"
+    ],
+    "examples": [
+      {
+        "ky": "ушундай тутум иштелип чыкса, биз жөн гана тилдик маселеден да көп маселени",
+        "ru": "такая система среднего образования, мы решим гораздо больше вопросов, чем"
+      },
+      {
+        "ky": "Эмне үчүн парламенттеги көпчүлүктүн чечими тилдик",
+        "ru": "Почему, например, первым решением нового"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA",
+    "id": "ru-языковедческий-002"
+  },
+  {
+    "ru": "языковедческий",
+    "ky": "лингвистикалык",
+    "pos": "adj",
+    "source": "pivot-en",
+    "enPivot": "linguistic",
+    "senses": [
+      "of or relating to language"
+    ],
+    "frequency": 3,
+    "examples": [
+      {
+        "ky": "Соттук отурумдун жүрүшүндө телеканалдын жана экс-президенттин жактоочулары лингвистикалык анализ өткөрүү тууралуу арыз менен чыгышты.",
+        "ru": "В ходе судебного заседания адвокаты телеканала и экс-президента заявили ходатайство о проведении лингвистической экспертизы."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
+    "id": "ru-языковедческий-003"
+  },
+  {
+    "ru": "ярус",
+    "ky": "тегерек",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "circle",
+    "senses": [
+      "geometry: set of points that are equally distant from a center"
+    ],
+    "etymology": "From Proto-Turkic *teker, compare Turkish tekerlek (“wheel”), Southern Altai тегерик (tegerik, “circle, round”), Kumyk дёгерек (dögerek), Yakut төгүрүк (tögürük, “round”).",
+    "ruAccented": "я'рус",
+    "ruGender": "m",
+    "frequency": 176,
+    "examples": [
+      {
+        "ky": "Тегерек столдун катышуучулары 2015-2020-жылдарга Кыргыз Республикасынын диний чөйрөдөгү мамлекеттик саясатынын Концепциясын ишке ашыруу боюнча иш-аракеттер Планын аткаруу маселелерин талкуулоодо.",
+        "ru": "Участники круглого стола обсуждают вопросы исполнения Плана действий по реализации Концепции государственной политики Кыргызской Республики в религиозной сфере на 2015-2020 годы."
+      },
+      {
+        "ky": "Бул туурасында Бишкекте өткөн “Кыргызстан менен Россия: маалыматтык кызматташтыктын негизги векторлору” аттуу тегерек столдо сөз болду.",
+        "ru": "Такое мнение прозвучало на круглом столе «Кыргызстан и Россия: основные векторы информационного пространства»."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B3%D0%B5%D1%80%D0%B5%D0%BA",
+    "id": "ru-ярус-004"
+  },
+  {
+    "ru": "якорь",
+    "ky": "диктор",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "anchor",
+    "senses": [
+      "(TV) anchorman or anchorwoman"
+    ],
+    "ruAccented": "я'корь",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D0%BA%D1%82%D0%BE%D1%80",
+    "id": "ru-якорь-002"
+  },
+  {
+    "ru": "явление",
+    "ky": "натыйжа",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "effect",
+    "senses": [
+      "result of an action"
+    ],
+    "ruAccented": "явле'ние",
+    "ruGender": "n",
+    "frequency": 1137,
+    "examples": [
+      {
+        "ky": "Ал, Украинада жарым жартылай киргизип жаткандыгын, азырынча жакшы натыйжа боло электигин айтып, чынын жооп берди.",
+        "ru": "Он честно ответил, что частично было внедрено на Украине и положительных результатов не дало."
+      },
+      {
+        "ky": "курал-жаракка уруксат алчу болсо, кийин кандай натыйжа болоорун элестетүү да",
+        "ru": "получит доступ к оружию, даже сложно предположить, какие последствия нас"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%82%D1%8B%D0%B9%D0%B6%D0%B0",
+    "id": "ru-явление-001"
+  },
+  {
+    "ru": "явление",
+    "ky": "эффект",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "effect",
+    "senses": [
+      "result of an action"
+    ],
+    "ruAccented": "явле'ние",
+    "ruGender": "n",
+    "examples": [
+      {
+        "ky": "Мамлекет салык жана төлөмдөр түрүндөгү түз жана региондорду өнүктүрүү менен мультипликативдик эффект жүзүндөгү тике кирешелерди алат.",
+        "ru": "Государство получит как прямые поступления в виде налогов и отчислений, так и косвенные, в виде развития региона и мультипликативного эффекта."
+      },
+      {
+        "ky": "эффект жүзүндөгү тике кирешелерди алат. Биздин эсептөөлөргө карата, биздин",
+        "ru": "так и косвенные, в виде развития региона и мультипликативного эффекта. По нашим"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82",
+    "id": "ru-явление-002"
+  },
+  {
+    "ru": "ясень",
+    "ky": "күл",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ash",
+    "senses": [
+      "solid remains of a fire"
+    ],
+    "etymology": "From Proto-Turkic *kül (“ashes”).",
+    "ruAccented": "я'сень",
+    "ruGender": "m",
+    "frequency": 712,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BB",
+    "id": "ru-ясень-001"
+  },
+  {
+    "ru": "язык",
+    "ky": "котормочу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "interpreter",
+    "senses": [
+      "one who interprets a language — see also dragoman"
+    ],
+    "ruAccented": "язы'к",
+    "ruGender": "m",
+    "frequency": 58,
+    "examples": [
+      {
+        "ky": "Соттун жүрүшүндө 8 котормочу жана 4 катчы алмашты.",
+        "ru": "ходе судебного заседания сменилось 8 переводчиков и 4 секретаря."
+      },
+      {
+        "ky": "Процесстин жүрүшүндө 8 котормочу",
+        "ru": "В течение процесса сменилось 8 переводчиков: то"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BC%D0%BE%D1%87%D1%83",
+    "id": "ru-язык-002"
+  },
+  {
+    "ru": "язык",
+    "ky": "тилмеч",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "interpreter",
+    "senses": [
+      "one who interprets a language — see also dragoman"
+    ],
+    "etymology": "From Proto-Turkic *tilmač. Azerbaijani dilmanc, Southern Altai тилмеш (tilmeš).",
+    "ruAccented": "язы'к",
+    "ruGender": "m",
+    "frequency": 267,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%BC%D0%B5%D1%87",
+    "id": "ru-язык-003"
+  },
+  {
+    "ru": "ягодица",
+    "ky": "эмчек",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "nipple",
+    "senses": [
+      "projection of mammary gland"
+    ],
+    "etymology": "From Proto-Turkic *em-ček (“breast; nipple”). Cognate with Bashkir имсәк (imsək), Kazakh емшек (emşek), Southern Altai эмчек (emček), Crimean Tatar emçek, Kumyk эмчек (emçek), Uzbek emchak, Turkmen emjek, etc.",
+    "ruAccented": "я'годица",
     "ruGender": "f",
-    "id": "ru-ярмарка-005"
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D1%87%D0%B5%D0%BA",
+    "id": "ru-ягодица-003"
+  },
+  {
+    "ru": "ящерка",
+    "ky": "кескелдирик",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "lizard",
+    "senses": [
+      "reptile"
+    ],
+    "ruAccented": "я'щерка",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
+    "id": "ru-ящерка-001"
+  },
+  {
+    "ru": "якорь",
+    "ky": "камыш",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "reed",
+    "senses": [
+      "grass-like plant"
+    ],
+    "etymology": "From Proto-Turkic *kamïĺ (“reed”), cognate with Turkish kamış.",
+    "ruAccented": "я'корь",
+    "ruGender": "m",
+    "frequency": 180,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D1%8B%D1%88",
+    "id": "ru-якорь-003"
+  },
+  {
+    "ru": "ядро",
+    "ky": "конус",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "cone",
+    "senses": [
+      "surface of revolution"
+    ],
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%83%D1%81",
+    "id": "ru-ядро-004"
+  },
+  {
+    "ru": "ядро",
+    "ky": "тобурчак",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "cone",
+    "senses": [
+      "fruit of conifers"
+    ],
+    "etymology": "From Proto-Turkic *tomurčuk. Cognate to Southern Altai тоорчык (toorčïk), Bashkir тубырсыҡ (tubırsıq), Tatar тубырчык (tubırçıq), Kazakh тобыршақ (tobyrşaq) etc.",
+    "ruAccented": "ядро'",
+    "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B1%D1%83%D1%80%D1%87%D0%B0%D0%BA",
+    "id": "ru-ядро-005"
+  },
+  {
+    "ru": "яйцо",
+    "ky": "урук клеткасы",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ovum",
+    "senses": [
+      "gamete"
+    ],
+    "ruAccented": "яйцо'",
+    "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0%D1%81%D1%8B",
+    "id": "ru-яйцо-003"
+  },
+  {
+    "ru": "яйцо",
+    "ky": "энелик клетка",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ovum",
+    "senses": [
+      "gamete"
+    ],
+    "ruAccented": "яйцо'",
+    "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D0%BB%D0%B8%D0%BA%20%D0%BA%D0%BB%D0%B5%D1%82%D0%BA%D0%B0",
+    "id": "ru-яйцо-004"
+  },
+  {
+    "ru": "якут",
+    "ky": "саха",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Yakut",
+    "senses": [
+      "language"
+    ],
+    "ruAccented": "яку'т",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%B0",
+    "id": "ru-якут-001"
   }
 ]

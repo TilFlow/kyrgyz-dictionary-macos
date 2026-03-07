@@ -4,12 +4,12 @@
     "ky": "күчүк",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87%D2%AF%D0%BA",
     "senses": [
       "детёныш животного"
     ],
     "ruAccented": "щено'к",
     "frequency": 71,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87%D2%AF%D0%BA",
     "id": "ru-щенок-001"
   },
   {
@@ -17,12 +17,13 @@
     "ky": "бет",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "senses": [
       "боковая часть лица"
     ],
-    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
     "pronunciation": "/bet/",
+    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
+    "ruAccented": "щека'",
+    "frequency": 1486,
     "examples": [
       {
         "ky": "Биз, журналисттер, саясий элитанын бет",
@@ -33,8 +34,7 @@
         "ru": "нас наших российских друзей, родственников, бывших однокурсников, сослуживцев,"
       }
     ],
-    "ruAccented": "щека'",
-    "frequency": 1486,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82",
     "id": "ru-щека-001"
   },
   {
@@ -42,10 +42,10 @@
     "ky": "сава",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B2%D0%B0",
     "senses": [
       "певчая птица семейства вьюрковых отряда воробьиных с ярким пёстрым оперением"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B2%D0%B0",
     "id": "ru-щегол-001"
   },
   {
@@ -61,18 +61,18 @@
     "ky": "щетка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%89%D0%B5%D1%82%D0%BA%D0%B0",
     "senses": [
       "implement"
     ],
+    "ruAccented": "щётка",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "көөп чыгып, щетка сымал ичегилерди тазалап чыгат.",
         "ru": "разбухают и, как щетка, очищают его. Есть так"
       }
     ],
-    "ruAccented": "щётка",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%89%D0%B5%D1%82%D0%BA%D0%B0",
     "id": "ru-щётка-001"
   },
   {
@@ -80,10 +80,10 @@
     "ky": "аттиш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D0%B8%D1%88",
     "senses": [
       "gripping tool which multiplies the strength of the user's hand"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D0%B8%D1%88",
     "id": "ru-щипцы-001"
   },
   {
@@ -91,13 +91,13 @@
     "ky": "шыпыргы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF%D1%8B%D1%80%D0%B3%D1%8B",
     "senses": [
       "domestic utensil"
     ],
     "ruAccented": "щётка",
     "ruGender": "f",
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF%D1%8B%D1%80%D0%B3%D1%8B",
     "id": "ru-щётка-002"
   },
   {
@@ -105,13 +105,13 @@
     "ky": "калкан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD",
     "senses": [
       "armor"
     ],
     "etymology": "Possibly from Proto-Turkic *kalkan.",
     "ruAccented": "щит",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD",
     "id": "ru-щит-001"
   },
   {
@@ -119,13 +119,13 @@
     "ky": "жаак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B0%D0%BA",
     "senses": [
       "part of face"
     ],
     "etymology": "From Proto-Turkic *yayŋak. Cognate with Kazakh жақ (jaq), Southern Altai јаак (ǰaak, “jaw”), Crimean Tatar yanaq, Karachay-Balkar жыякъ (jıyaq), Kumyk яякъ (yayaq), Bashkir яңаҡ (yañaq), Tatar яңак (yañaq), Azerbaijani yanaq, Turkish yanak, Turkmen ýaňak, Shor наақ, Western Yugur yïnaq/ yinaq, etc.",
     "ruAccented": "щека'",
     "frequency": 180,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B0%D0%BA",
     "id": "ru-щека-002"
   },
   {
@@ -133,11 +133,11 @@
     "ky": "жаңак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D0%B0%D0%BA",
     "senses": [
       "part of face"
     ],
     "ruAccented": "щека'",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D0%B0%D0%BA",
     "id": "ru-щека-003"
   },
   {
@@ -145,11 +145,11 @@
     "ky": "кытыгылоо",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%82%D1%8B%D0%B3%D1%8B%D0%BB%D0%BE%D0%BE",
     "senses": [
       "to touch in a manner that causes tingling sensation"
     ],
     "ruAccented": "щекота'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%82%D1%8B%D0%B3%D1%8B%D0%BB%D0%BE%D0%BE",
     "id": "ru-щекотать-001"
   },
   {
@@ -157,13 +157,13 @@
     "ky": "чортон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%80%D1%82%D0%BE%D0%BD",
     "senses": [
       "fish of the genus Esox"
     ],
     "etymology": "From Proto-Turkic *čortan. Kazakh шортан (şortan), Nogai шортан (şortan), Southern Altai чортон (čorton) , Bashkir суртан (surtan), Kumyk чортан (çortan), Uzbek choʻrtan, Uyghur چورتان (chortan), Khakas сортан (sortan), Shor шортан, Tuvan шортан (şortan), etc.",
     "ruAccented": "щу'ка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%80%D1%82%D0%BE%D0%BD",
     "id": "ru-щука-001"
   },
   {
@@ -171,12 +171,12 @@
     "ky": "ат кулак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%20%D0%BA%D1%83%D0%BB%D0%B0%D0%BA",
     "senses": [
       "plant of genus Rumex"
     ],
     "ruAccented": "щаве'ль",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%20%D0%BA%D1%83%D0%BB%D0%B0%D0%BA",
     "id": "ru-щавель-001"
   },
   {
@@ -184,12 +184,12 @@
     "ky": "козу кулак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B7%D1%83%20%D0%BA%D1%83%D0%BB%D0%B0%D0%BA",
     "senses": [
       "plant of genus Rumex"
     ],
     "ruAccented": "щаве'ль",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B7%D1%83%20%D0%BA%D1%83%D0%BB%D0%B0%D0%BA",
     "id": "ru-щавель-002"
   },
   {
@@ -197,10 +197,10 @@
     "ky": "пинцет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82",
     "senses": [
       "small pincer-like instrument, usually made of metal, used for handling small objects"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82",
     "id": "ru-щипцы-002"
   },
   {
@@ -208,10 +208,10 @@
     "ky": "искек",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA",
     "senses": [
       "small pincer-like instrument, usually made of metal, used for handling small objects"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA",
     "id": "ru-щипцы-003"
   },
   {
@@ -219,10 +219,10 @@
     "ky": "пинцет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82",
     "senses": [
       "small pincer-like instrument, usually made of metal, used for handling small objects"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82",
     "id": "ru-щипчики-001"
   },
   {
@@ -230,10 +230,10 @@
     "ky": "искек",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA",
     "senses": [
       "small pincer-like instrument, usually made of metal, used for handling small objects"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA",
     "id": "ru-щипчики-002"
   },
   {
@@ -241,12 +241,12 @@
     "ky": "щи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%89%D0%B8",
     "senses": [
       "a type of Russian soup"
     ],
     "ruAccented": "щи",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%89%D0%B8",
     "id": "ru-щи-001"
   }
 ]

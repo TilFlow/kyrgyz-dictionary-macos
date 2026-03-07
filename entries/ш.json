@@ -1,5 +1,26 @@
 [
   {
+    "ru": "широко",
+    "ky": "кеңири",
+    "pos": "adv",
+    "senses": [
+      "на большом пространстве, в большом масштабе"
+    ],
+    "source": "manual",
+    "id": "ru-широко-001"
+  },
+  {
+    "ru": "шум",
+    "ky": "ызы-чуу",
+    "pos": "noun",
+    "senses": [
+      "громкие, беспорядочные звуки"
+    ],
+    "ruGender": "m",
+    "source": "manual",
+    "id": "ru-шум-001"
+  },
+  {
     "ru": "штангенциркуль",
     "ky": "штангенциркуль",
     "pos": "noun",
@@ -12,11 +33,11 @@
     "ky": "суусамын",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BC%D1%8B%D0%BD",
-    "etymology": "суу (suu, “water”) + самын (samın, “soap”).",
     "pronunciation": "[suː.sɑ.mɯn]",
+    "etymology": "суу (suu, “water”) + самын (samın, “soap”).",
     "ruAccented": "шампу'нь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%81%D0%B0%D0%BC%D1%8B%D0%BD",
     "id": "ru-шампунь-001"
   },
   {
@@ -24,16 +45,16 @@
     "ky": "шантаж",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BD%D1%82%D0%B0%D0%B6",
+    "ruAccented": "шанта'ж",
+    "ruGender": "m",
+    "frequency": 18,
     "examples": [
       {
         "ky": "Өзбекстанда порносайттарга киргендерди шантаж кылган алдамчылар көбөйдү",
         "ru": "Фискализация налоговых процедур продолжается – ГНС"
       }
     ],
-    "ruAccented": "шанта'ж",
-    "ruGender": "m",
-    "frequency": 18,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BD%D1%82%D0%B0%D0%B6",
     "id": "ru-шантаж-001"
   },
   {
@@ -41,13 +62,13 @@
     "ky": "шар",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80",
     "senses": [
       "тело вращения"
     ],
     "ruAccented": "шар",
     "ruGender": "m",
     "frequency": 89,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80",
     "id": "ru-шар-001"
   },
   {
@@ -55,12 +76,12 @@
     "ky": "шарф",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%84",
     "senses": [
       "предмет одежды"
     ],
     "ruAccented": "шарф",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%84",
     "id": "ru-шарф-001"
   },
   {
@@ -68,12 +89,12 @@
     "ky": "шахмат",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82",
     "senses": [
       "игра"
     ],
     "ruAccented": "ша'хматы",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82",
     "id": "ru-шахматы-001"
   },
   {
@@ -81,12 +102,14 @@
     "ky": "жибек",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA",
     "senses": [
       "вещество, выделяемое гусеницами тутового шелкопряда"
     ],
-    "etymology": "Probably from Proto-Turkic *yip (“thread”).",
     "pronunciation": "/d͡ʒiˈbek/",
+    "etymology": "Probably from Proto-Turkic *yip (“thread”).",
+    "ruAccented": "шёлк",
+    "ruGender": "m",
+    "frequency": 96,
     "examples": [
       {
         "ky": "Пишпектин жанында тамеки, пахта, күн карама, кендирди өстүрүп, жибек өндүрүрүп, бал челектерди кармаш",
@@ -97,9 +120,7 @@
         "ru": "Возле Пишпека выращивали табак, хлопок, подсолнечник, пеньковую коноплю, занимались шелководством, пчеловодством, торговали мануфактурой и галантереей,"
       }
     ],
-    "ruAccented": "шёлк",
-    "ruGender": "m",
-    "frequency": 96,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA",
     "id": "ru-шёлк-001"
   },
   {
@@ -107,9 +128,9 @@
     "ky": "алты",
     "pos": "num",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B",
-    "etymology": "From Proto-Turkic *altï (“six”).",
     "pronunciation": "/ɑɫˈtɯ/",
+    "etymology": "From Proto-Turkic *altï (“six”).",
+    "frequency": 996,
     "examples": [
       {
         "ky": "Насыя алты жылдык мөөнөт менен берилген.Фермердик чарба бул уйларды ар кандай шартка көнүмдүүлүгүнө карап сатып алган.",
@@ -120,7 +141,7 @@
         "ru": "Крестьянское хозяйство приобрело иностранных бурёнок за счёт банковского кредита сроком на шесть лет."
       }
     ],
-    "frequency": 996,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B",
     "id": "ru-шесть-001"
   },
   {
@@ -128,12 +149,12 @@
     "ky": "ит мурун",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%82%20%D0%BC%D1%83%D1%80%D1%83%D0%BD",
     "senses": [
       "кустарник"
     ],
     "ruAccented": "шипо'вник",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%82%20%D0%BC%D1%83%D1%80%D1%83%D0%BD",
     "id": "ru-шиповник-001"
   },
   {
@@ -141,12 +162,14 @@
     "ky": "моюн",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD",
     "senses": [
       "часть тела"
     ],
-    "etymology": "From Proto-Turkic *bōń.",
     "pronunciation": "/moˈjun/",
+    "etymology": "From Proto-Turkic *bōń.",
+    "ruAccented": "ше'я",
+    "ruGender": "f",
+    "frequency": 699,
     "examples": [
       {
         "ky": "биздин моюн бөлүгүбүз төш бөлүгүбүздүн уландысы болуп, аны менен бир деңгээлде",
@@ -157,9 +180,7 @@
         "ru": "И то, и другое приводит к тому, что межпозвоночные диски испытывают"
       }
     ],
-    "ruAccented": "ше'я",
-    "ruGender": "f",
-    "frequency": 699,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD",
     "id": "ru-шея-001"
   },
   {
@@ -167,12 +188,14 @@
     "ky": "мектеп",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%BF",
     "senses": [
       "учебное заведение"
     ],
-    "etymology": "From Persian مکتب (maktab), from Arabic مَكْتَب (maktab).",
     "pronunciation": "/mekˈtep/",
+    "etymology": "From Persian مکتب (maktab), from Arabic مَكْتَب (maktab).",
+    "ruAccented": "шко'ла",
+    "ruGender": "f",
+    "frequency": 496,
     "examples": [
       {
         "ky": "Акылдуу мектеп - келечектин мектеби",
@@ -183,9 +206,7 @@
         "ru": "в школе болеет, 60% имеют заболевания разного толка, приобретенные в школьном"
       }
     ],
-    "ruAccented": "шко'ла",
-    "ruGender": "f",
-    "frequency": 496,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%BF",
     "id": "ru-школа-001"
   },
   {
@@ -193,14 +214,14 @@
     "ky": "окул",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D0%BB",
     "senses": [
       "учебное заведение"
     ],
-    "etymology": "From Turkish okul.",
     "pronunciation": "/oˈqul/",
+    "etymology": "From Turkish okul.",
     "ruAccented": "шко'ла",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D0%BB",
     "id": "ru-школа-002"
   },
   {
@@ -208,13 +229,13 @@
     "ky": "шарманка",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0",
     "senses": [
       "музыкальный инструмент"
     ],
     "etymology": "Borrowed from Russian шарма́нка (šarmánka).",
     "ruAccented": "шарма'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0",
     "id": "ru-шарманка-001"
   },
   {
@@ -222,12 +243,12 @@
     "ky": "арген",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B3%D0%B5%D0%BD",
     "senses": [
       "музыкальный инструмент"
     ],
     "ruAccented": "шарма'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B3%D0%B5%D0%BD",
     "id": "ru-шарманка-002"
   },
   {
@@ -235,13 +256,13 @@
     "ky": "кеңдик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D2%A3%D0%B4%D0%B8%D0%BA",
     "senses": [
       "длина"
     ],
     "ruAccented": "ширина'",
     "ruGender": "f",
     "frequency": 21,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D2%A3%D0%B4%D0%B8%D0%BA",
     "id": "ru-ширина-001"
   },
   {
@@ -249,9 +270,9 @@
     "ky": "шампан",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD",
     "ruAccented": "шампа'нское",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD",
     "id": "ru-шампанское-001"
   },
   {
@@ -259,9 +280,9 @@
     "ky": "алтынчы",
     "pos": "num",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B%D0%BD%D1%87%D1%8B",
-    "etymology": "From алты (altı) + -нчы (-ncı). Cognates include Turkish altıncı, Kazakh алтыншы (altynşy), Turkmen altynjy and Azerbaijani altıncı.",
     "pronunciation": "/ɑɫtɯnˈt͡ʃɯ/",
+    "etymology": "From алты (altı) + -нчы (-ncı). Cognates include Turkish altıncı, Kazakh алтыншы (altynşy), Turkmen altynjy and Azerbaijani altıncı.",
+    "ruAccented": "шесто'й",
     "examples": [
       {
         "ky": "- чыгымдардын багыттары жана статьялары боюнча ушул Мыйзамдын 40-статьясынын алтынчы бөлүгүндө каралган тартип боюнча республикалык бюджеттин чыгымдарын.",
@@ -272,7 +293,7 @@
         "ru": "- абзац шестнадцатый изложить в следующей редакции:"
       }
     ],
-    "ruAccented": "шесто'й",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B%D0%BD%D1%87%D1%8B",
     "id": "ru-шестой-001"
   },
   {
@@ -280,11 +301,11 @@
     "ky": "тигүү",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B3%D2%AF%D2%AF",
     "senses": [
       "скреплять, соединять ниткой с помощью иглы края ткани, кожи или другого мягкого материала"
     ],
     "etymology": "From Proto-Turkic *dik-. Cognate with Kazakh тігу (tıgu), Crimean Tatar tikmek, Kumyk тикмек (tikmek), Azerbaijani dikmək, Turkish dikmek, Uzbek tikmoq, Khakas тігерге (tìgerge), Shor тигерге, Western Yugur tïq-, Yakut тик (tik), etc.",
+    "ruAccented": "шить",
     "examples": [
       {
         "ky": "Эми бизде азыр кездемелер токулбаганы менен, жеке ишкерлер сырттан сатып келишип, кийим тигүү цехтерин иштетип жатышат.",
@@ -295,7 +316,7 @@
         "ru": "Государство может вложить небольшие деньги в создание единой топографической системы, и это сделает работу инвесторов удобнее.Двенадцатый пункт – электричество."
       }
     ],
-    "ruAccented": "шить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B3%D2%AF%D2%AF",
     "id": "ru-шить-001"
   },
   {
@@ -303,11 +324,11 @@
     "ky": "шүүлдөө",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D2%AF%D2%AF%D0%BB%D0%B4%D3%A9%D3%A9",
     "senses": [
       "производить шум"
     ],
     "ruAccented": "шуме'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D2%AF%D2%AF%D0%BB%D0%B4%D3%A9%D3%A9",
     "id": "ru-шуметь-001"
   },
   {
@@ -315,11 +336,11 @@
     "ky": "ызыңдатуу",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B7%D1%8B%D2%A3%D0%B4%D0%B0%D1%82%D1%83%D1%83",
     "senses": [
       "производить шум"
     ],
     "ruAccented": "шуме'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B7%D1%8B%D2%A3%D0%B4%D0%B0%D1%82%D1%83%D1%83",
     "id": "ru-шуметь-002"
   },
   {
@@ -327,8 +348,8 @@
     "ky": "киндик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BA",
     "etymology": "From Proto-Turkic *kīn-dik.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BA",
     "id": "ru-шкворень-001"
   },
   {
@@ -352,9 +373,9 @@
     "ky": "шимпанзе",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%BC%D0%BF%D0%B0%D0%BD%D0%B7%D0%B5",
     "ruAccented": "шимпанзе'",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%BC%D0%BF%D0%B0%D0%BD%D0%B7%D0%B5",
     "id": "ru-шимпанзе-001"
   },
   {
@@ -362,10 +383,10 @@
     "ky": "алтымыш",
     "pos": "num",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88",
-    "etymology": "From Proto-Turkic *altmïĺ.",
     "pronunciation": "/ɑɫtɯˈmɯʂ/",
+    "etymology": "From Proto-Turkic *altmïĺ.",
     "frequency": 234,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88",
     "id": "ru-шестьдесят-001"
   },
   {
@@ -373,9 +394,9 @@
     "ky": "шпага",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B0%D0%B3%D0%B0",
     "ruAccented": "шпа'га",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B0%D0%B3%D0%B0",
     "id": "ru-шпага-001"
   },
   {
@@ -383,11 +404,11 @@
     "ky": "тамашалоо",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BB%D0%BE%D0%BE",
     "senses": [
       "говорить или поступать смешно"
     ],
     "ruAccented": "шути'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BB%D0%BE%D0%BE",
     "id": "ru-шутить-001"
   },
   {
@@ -403,9 +424,9 @@
     "ky": "шизофрения",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
     "ruAccented": "шизофрени'я",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%B7%D0%BE%D1%84%D1%80%D0%B5%D0%BD%D0%B8%D1%8F",
     "id": "ru-шизофрения-001"
   },
   {
@@ -413,9 +434,9 @@
     "ky": "шхуна",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%85%D1%83%D0%BD%D0%B0",
     "ruAccented": "шху'на",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%85%D1%83%D0%BD%D0%B0",
     "id": "ru-шхуна-001"
   },
   {
@@ -423,10 +444,10 @@
     "ky": "шалфей",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BB%D1%84%D0%B5%D0%B9",
     "senses": [
       "растение"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BB%D1%84%D0%B5%D0%B9",
     "id": "ru-шалфей-001"
   },
   {
@@ -434,8 +455,8 @@
     "ky": "киндик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BA",
     "etymology": "From Proto-Turkic *kīn-dik.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BA",
     "id": "ru-шворень-001"
   },
   {
@@ -443,10 +464,10 @@
     "ky": "шевиот",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B5%D0%B2%D0%B8%D0%BE%D1%82",
     "senses": [
       "ткань"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B5%D0%B2%D0%B8%D0%BE%D1%82",
     "id": "ru-шевиот-001"
   },
   {
@@ -470,9 +491,9 @@
     "ky": "шовинизм",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC",
     "ruAccented": "шовини'зм",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC",
     "id": "ru-шовинизм-001"
   },
   {
@@ -480,9 +501,9 @@
     "ky": "шурф",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D1%80%D1%84",
     "ruAccented": "шурф",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D1%80%D1%84",
     "id": "ru-шурф-001"
   },
   {
@@ -490,8 +511,8 @@
     "ky": "шарманкачы",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0%D1%87%D1%8B",
     "ruAccented": "шарма'нщик",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%BC%D0%B0%D0%BD%D0%BA%D0%B0%D1%87%D1%8B",
     "id": "ru-шарманщик-001"
   },
   {
@@ -499,8 +520,8 @@
     "ky": "жибекчи",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%D1%87%D0%B8",
     "etymology": "From жибек (jibek, “silk”) + -чи (-ci).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%D1%87%D0%B8",
     "id": "ru-шелковод-001"
   },
   {
@@ -508,12 +529,12 @@
     "ky": "шулер",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D0%BB%D0%B5%D1%80",
     "senses": [
       "игрок, использующий нечестные, мошеннические приёмы в карточной игре"
     ],
     "ruAccented": "шу'лер",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D0%BB%D0%B5%D1%80",
     "id": "ru-шулер-001"
   },
   {
@@ -521,8 +542,8 @@
     "ky": "жибекчилик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "etymology": "From жибекчи (jibekci, “sericulturist”) + -лик (-lik, noun-forming suffix).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "id": "ru-шелководство-001"
   },
   {
@@ -538,8 +559,8 @@
     "ky": "шыбыроо",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%B1%D1%8B%D1%80%D0%BE%D0%BE",
     "ruAccented": "шепта'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%B1%D1%8B%D1%80%D0%BE%D0%BE",
     "id": "ru-шептать-001"
   },
   {
@@ -547,8 +568,8 @@
     "ky": "штрафтоо",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%82%D0%BE%D0%BE",
     "ruAccented": "штрафова'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%82%D0%BE%D0%BE",
     "id": "ru-штрафовать-001"
   },
   {
@@ -556,8 +577,8 @@
     "ky": "алтымышынчы",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88%D1%8B%D0%BD%D1%87%D1%8B",
     "ruAccented": "шестидеся'тый",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B%D0%BC%D1%8B%D1%88%D1%8B%D0%BD%D1%87%D1%8B",
     "id": "ru-шестидесятый-001"
   },
   {
@@ -573,9 +594,9 @@
     "ky": "Шотландия",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
     "ruAccented": "Шотла'ндия",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F",
     "id": "ru-Шотландия-001"
   },
   {
@@ -615,12 +636,12 @@
     "ky": "алты",
     "pos": "num",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B",
     "senses": [
       "cardinal number"
     ],
-    "etymology": "From Proto-Turkic *altï (“six”).",
     "pronunciation": "/ɑɫˈtɯ/",
+    "etymology": "From Proto-Turkic *altï (“six”).",
+    "frequency": 996,
     "examples": [
       {
         "ky": "Насыя алты жылдык мөөнөт менен берилген.Фермердик чарба бул уйларды ар кандай шартка көнүмдүүлүгүнө карап сатып алган.",
@@ -631,7 +652,7 @@
         "ru": "Крестьянское хозяйство приобрело иностранных бурёнок за счёт банковского кредита сроком на шесть лет."
       }
     ],
-    "frequency": 996,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%82%D1%8B",
     "id": "ru-шестеро-001"
   },
   {
@@ -639,13 +660,13 @@
     "ky": "Швеция",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F",
     "senses": [
       "Scandinavian country"
     ],
     "ruAccented": "Шве'ция",
     "ruGender": "f",
     "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F",
     "id": "ru-Швеция-001"
   },
   {
@@ -653,10 +674,12 @@
     "ky": "Швейцария",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F",
     "senses": [
       "sovereign country"
     ],
+    "ruAccented": "Швейца'рия",
+    "ruGender": "f",
+    "frequency": 36,
     "examples": [
       {
         "ky": "Так ошондуктан азыркы учурда Раундадагы гендердик теңсиздик индекси боюнча Европанын Швейцария жана Франция өңдүү кээ бир өлкөлөрүнө караганда жакшы абалда деп ойлойм.",
@@ -667,9 +690,7 @@
         "ru": "находится в нашем отделении, в рабочем состоянии."
       }
     ],
-    "ruAccented": "Швейца'рия",
-    "ruGender": "f",
-    "frequency": 36,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F",
     "id": "ru-Швейцария-001"
   },
   {
@@ -677,11 +698,11 @@
     "ky": "Шри-Ланка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D1%80%D0%B8-%D0%9B%D0%B0%D0%BD%D0%BA%D0%B0",
     "senses": [
       "an island and country in South Asia"
     ],
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D1%80%D0%B8-%D0%9B%D0%B0%D0%BD%D0%BA%D0%B0",
     "id": "ru-Шри-Ланка-001"
   },
   {
@@ -689,15 +710,15 @@
     "ky": "бороон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%BE%D0%BE%D0%BD",
     "senses": [
       "disturbed state of the atmosphere causing destructive or unpleasant weather"
     ],
-    "etymology": "From Proto-Turkic *bora-.",
     "pronunciation": "/boˈroːn/",
+    "etymology": "From Proto-Turkic *bora-.",
     "ruAccented": "шторм",
     "ruGender": "m",
     "frequency": 59,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%BE%D0%BE%D0%BD",
     "id": "ru-шторм-001"
   },
   {
@@ -705,17 +726,17 @@
     "ky": "швед",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B4",
     "senses": [
       "of or pertaining to Sweden"
     ],
+    "ruAccented": "шве'дский",
     "examples": [
       {
         "ky": "партиялык мектепте окудум, бизге швед социалдык демократиясынын негиздерин",
         "ru": "партийной школе и нам давали основы шведской социальной демократии."
       }
     ],
-    "ruAccented": "шве'дский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B4",
     "id": "ru-шведский-001"
   },
   {
@@ -723,10 +744,10 @@
     "ky": "он алты",
     "pos": "num",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BD%20%D0%B0%D0%BB%D1%82%D1%8B",
     "senses": [
       "cardinal number 16"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BD%20%D0%B0%D0%BB%D1%82%D1%8B",
     "id": "ru-шестнадцать-001"
   },
   {
@@ -734,12 +755,12 @@
     "ky": "шахта",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D1%82%D0%B0",
     "senses": [
       "excavation from which ore is extracted"
     ],
     "ruAccented": "ша'хта",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D1%82%D0%B0",
     "id": "ru-шахта-001"
   },
   {
@@ -747,12 +768,12 @@
     "ky": "рудник",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA",
     "senses": [
       "excavation from which ore is extracted"
     ],
     "ruAccented": "ша'хта",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA",
     "id": "ru-шахта-002"
   },
   {
@@ -760,13 +781,13 @@
     "ky": "шоколад",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4",
     "senses": [
       "food made from ground roasted cocoa beans"
     ],
     "ruAccented": "шокола'д",
     "ruGender": "m",
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4",
     "id": "ru-шоколад-001"
   },
   {
@@ -774,11 +795,11 @@
     "ky": "калем",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC",
     "senses": [
       "writing tool"
     ],
     "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos).",
+    "frequency": 28,
     "examples": [
       {
         "ky": "Чокморов өзүн палитра жана кыл калем менен элестетип турса да, анын көз карашы бизге, көрүүчүлөргө багытталган , ал эми",
@@ -789,7 +810,7 @@
         "ru": "Например, в декабре проходит фестиваль «Кыргызстан — страна короткометражных фильмов», затем – «Бир дуйно», Форум молодого кино «Умут» и другие."
       }
     ],
-    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC",
     "id": "ru-шариковая ручка-001"
   },
   {
@@ -797,11 +818,11 @@
     "ky": "калемсап",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC%D1%81%D0%B0%D0%BF",
     "senses": [
       "writing tool"
     ],
     "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos). + From Proto-Turkic *sap (handle).\nкалем (kalem, “pencil”) + сап (sap, “handle”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC%D1%81%D0%B0%D0%BF",
     "id": "ru-шариковая ручка-002"
   },
   {
@@ -809,10 +830,10 @@
     "ky": "жазгыч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D1%87",
     "senses": [
       "writing tool"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D1%87",
     "id": "ru-шариковая ручка-003"
   },
   {
@@ -820,12 +841,13 @@
     "ky": "жарандык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "related to people and government office as opposed to military or religion"
     ],
-    "etymology": "From жаран (jaran, “citizen”) + -дык (-dık, noun-forming suffix).",
     "pronunciation": "/d͡ʒɑrɑndɯq/",
+    "etymology": "From жаран (jaran, “citizen”) + -дык (-dık, noun-forming suffix).",
+    "ruAccented": "шта'тский",
+    "frequency": 915,
     "examples": [
       {
         "ky": "Бул иш чарага ар кайсы өлкөлөрдүн өкмөттөрүнүн лидерлери, эл аралык өнүгүү институттарынын, жеке сектордун, жарандык коомчулуктун жана илимий чөйрөнүн өкүлдөрү катышты.",
@@ -836,8 +858,7 @@
         "ru": "В процессе разработки документа были проведены масштабные консультации с представителями общественности и гражданского сектора, по обсуждению идей и мнений развития главного канала страны."
       }
     ],
-    "ruAccented": "шта'тский",
-    "frequency": 915,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-штатский-001"
   },
   {
@@ -845,10 +866,11 @@
     "ky": "граждандык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "senses": [
       "related to people and government office as opposed to military or religion"
     ],
+    "ruAccented": "шта'тский",
+    "frequency": 30,
     "examples": [
       {
         "ky": "б) Кыргыз Республикасынын Граждандык кодексинде белгиленген доонун эскирүү мөөнөтү аяктагандыгына байланыштуу милдеттенмелерди эсептен чыгаруудан;",
@@ -859,8 +881,7 @@
         "ru": "- участникам ликвидации последствий аварии на Чернобыльской АЭС и других атомных объектах гражданского или военного назначения."
       }
     ],
-    "ruAccented": "шта'тский",
-    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA",
     "id": "ru-штатский-002"
   },
   {
@@ -868,7 +889,6 @@
     "ky": "тыбыш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B1%D1%8B%D1%88",
     "senses": [
       "sensation perceived by the ear"
     ],
@@ -876,32 +896,35 @@
     "ruAccented": "шум",
     "ruGender": "m",
     "frequency": 3,
-    "id": "ru-шум-001"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B1%D1%8B%D1%88",
+    "id": "ru-шум-002"
   },
   {
     "ru": "шум",
     "ky": "дабыш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B1%D1%8B%D1%88",
     "senses": [
       "sensation perceived by the ear"
     ],
     "etymology": "Alternative of добуш (dobuş), тыбыш (tıbış), тоош (tooş).",
     "ruAccented": "шум",
     "ruGender": "m",
-    "id": "ru-шум-002"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B1%D1%8B%D1%88",
+    "id": "ru-шум-003"
   },
   {
     "ru": "шум",
     "ky": "добуш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88",
     "senses": [
       "sensation perceived by the ear"
     ],
     "etymology": "Compare to Southern Altai табыш (tabïš), Bashkir тауыш (tawış), etc.",
+    "ruAccented": "шум",
+    "ruGender": "m",
+    "frequency": 1923,
     "examples": [
       {
         "ky": "Олуттуу диалог болду, соңунда ал: “Эгер демократия, революциянын идеалдарын колдосоң, кел, катыш, добуш алууга жардам бер” – деп мени ынандырды.",
@@ -912,22 +935,20 @@
         "ru": "– нетрадиционные браки легализованы путем народного голосования."
       }
     ],
-    "ruAccented": "шум",
-    "ruGender": "m",
-    "frequency": 1923,
-    "id": "ru-шум-003"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88",
+    "id": "ru-шум-004"
   },
   {
     "ru": "штаны",
     "ky": "шым",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BC",
     "senses": [
       "garment covering the body from the waist downwards"
     ],
     "ruAccented": "штаны'",
     "frequency": 27,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BC",
     "id": "ru-штаны-001"
   },
   {
@@ -935,12 +956,12 @@
     "ky": "чалбар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BB%D0%B1%D0%B0%D1%80",
     "senses": [
       "garment covering the body from the waist downwards"
     ],
     "ruAccented": "штаны'",
     "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BB%D0%B1%D0%B0%D1%80",
     "id": "ru-штаны-002"
   },
   {
@@ -948,13 +969,13 @@
     "ky": "шым",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BC",
     "senses": [
       "garment covering the body from the waist downwards"
     ],
     "ruAccented": "шарова'ры",
     "ruGender": "f",
     "frequency": 27,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BC",
     "id": "ru-шаровары-001"
   },
   {
@@ -962,13 +983,13 @@
     "ky": "чалбар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BB%D0%B1%D0%B0%D1%80",
     "senses": [
       "garment covering the body from the waist downwards"
     ],
     "ruAccented": "шарова'ры",
     "ruGender": "f",
     "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BB%D0%B1%D0%B0%D1%80",
     "id": "ru-шаровары-002"
   },
   {
@@ -976,12 +997,12 @@
     "ky": "шоссе",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%81%D1%81%D0%B5",
     "senses": [
       "main public road"
     ],
     "ruAccented": "шоссе'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%81%D1%81%D0%B5",
     "id": "ru-шоссе-001"
   },
   {
@@ -989,12 +1010,12 @@
     "ky": "даңгыр жол",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D2%A3%D0%B3%D1%8B%D1%80%20%D0%B6%D0%BE%D0%BB",
     "senses": [
       "main public road"
     ],
     "ruAccented": "шоссе'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D2%A3%D0%B3%D1%8B%D1%80%20%D0%B6%D0%BE%D0%BB",
     "id": "ru-шоссе-002"
   },
   {
@@ -1002,12 +1023,12 @@
     "ky": "магистраль",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C",
     "senses": [
       "main public road"
     ],
     "ruAccented": "шоссе'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C",
     "id": "ru-шоссе-003"
   },
   {
@@ -1015,12 +1036,12 @@
     "ky": "автомагистраль",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C",
     "senses": [
       "main public road"
     ],
     "ruAccented": "шоссе'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C",
     "id": "ru-шоссе-004"
   },
   {
@@ -1028,12 +1049,13 @@
     "ky": "мүмкүндүк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA",
     "senses": [
       "chance for advancement, progress or profit"
     ],
-    "etymology": "From мүмкүн (mümkün, “maybe”) + -дүк (-dük).",
     "pronunciation": "[mymkynt͡ʃylˈdyk]",
+    "etymology": "From мүмкүн (mümkün, “maybe”) + -дүк (-dük).",
+    "ruAccented": "шанс",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Корпоративдик эсепке 24/7 (каалаган убакытта болгон кирүү) болгон он-лайн кирүүгө мүмкүндүк",
@@ -1044,8 +1066,7 @@
         "ru": "удалось собраться в штабе Атамбаева, в здании «Форума»."
       }
     ],
-    "ruAccented": "шанс",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA",
     "id": "ru-шанс-001"
   },
   {
@@ -1053,10 +1074,12 @@
     "ky": "мүмкүнчүлүк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D1%87%D2%AF%D0%BB%D2%AF%D0%BA",
     "senses": [
       "chance for advancement, progress or profit"
     ],
+    "ruAccented": "шанс",
+    "ruGender": "m",
+    "frequency": 557,
     "examples": [
       {
         "ky": "Дартты аныктоочу жабдыктардын жаңырышы менен, жарандардын убактысын жана чыгымдарын бир топ үнөмдөөгө мүмкүнчүлүк түзүлдү.",
@@ -1067,9 +1090,7 @@
         "ru": "Опция Интернет-банкинг в \"Режиме просмотра\", позволяет Вам получать информативный доступ к вашим счетам в DemirBank из любой точки мира."
       }
     ],
-    "ruAccented": "шанс",
-    "ruGender": "m",
-    "frequency": 557,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D1%87%D2%AF%D0%BB%D2%AF%D0%BA",
     "id": "ru-шанс-002"
   },
   {
@@ -1077,20 +1098,20 @@
     "ky": "тери",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%80%D0%B8",
     "senses": [
       "skin of an animal"
     ],
     "etymology": "From Proto-Turkic *tẹri (“skin”).",
+    "ruAccented": "шку'ра",
+    "ruGender": "f",
+    "frequency": 166,
     "examples": [
       {
         "ky": "зергерлердин, темир усталардын жана тери иштеткендердин династиялары сакталып",
         "ru": "ювелиров, кузнецов и мастеров обработки кожи."
       }
     ],
-    "ruAccented": "шку'ра",
-    "ruGender": "f",
-    "frequency": 166,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%80%D0%B8",
     "id": "ru-шкура-001"
   },
   {
@@ -1098,13 +1119,13 @@
     "ky": "жүн",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BD",
     "senses": [
       "hair of sheep, etc."
     ],
     "ruAccented": "шерсть",
     "ruGender": "f",
     "frequency": 112,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BD",
     "id": "ru-шерсть-001"
   },
   {
@@ -1112,11 +1133,13 @@
     "ky": "кайык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D0%BA",
     "senses": [
       "water craft — see also watercraft, vessel, ship"
     ],
     "etymology": "From Proto-Turkic *kiayguk (“boat, oar”).",
+    "ruAccented": "шлю'пка",
+    "ruGender": "f",
+    "frequency": 25,
     "examples": [
       {
         "ky": "Ташкент облусунда тапчан жана кайык ээлери салык төлөөгө милдеттендирилет",
@@ -1127,9 +1150,7 @@
         "ru": "В катерном вейкбординге спортсмен едет за катером, держась за фал и выполняет различные трюки с помощью бегущей волны и трамплинов."
       }
     ],
-    "ruAccented": "шлю'пка",
-    "ruGender": "f",
-    "frequency": 25,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D0%BA",
     "id": "ru-шлюпка-001"
   },
   {
@@ -1137,13 +1158,13 @@
     "ky": "парда",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B4%D0%B0",
     "senses": [
       "piece of cloth covering a window"
     ],
     "ruAccented": "што'ра",
     "ruGender": "f",
     "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B4%D0%B0",
     "id": "ru-штора-001"
   },
   {
@@ -1151,13 +1172,13 @@
     "ky": "көшөгө",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%88%D3%A9%D0%B3%D3%A9",
     "senses": [
       "piece of cloth covering a window"
     ],
     "etymology": "Compare to Southern Altai кӧжӧгӧ (köžögö).",
     "ruAccented": "што'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%88%D3%A9%D0%B3%D3%A9",
     "id": "ru-штора-002"
   },
   {
@@ -1165,12 +1186,12 @@
     "ky": "тикүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D2%AF%D2%AF",
     "senses": [
       "(transitive) use a needle"
     ],
     "etymology": "From Proto-Turkic *dik-. Cognate with Kazakh тігу (tıgu), Crimean Tatar tikmek, Kumyk тикмек (tikmek), Southern Altai тигиш (tigiš, “sewing”), тигер (tiger), Azerbaijani dikmək, Turkish dikmek, Uzbek tikmoq, Khakas тігерге (tìgerge), Shor тигерге, Western Yugur tïq-, Yakut тик (tik), etc.",
     "ruAccented": "шить",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D2%AF%D2%AF",
     "id": "ru-шить-002"
   },
   {
@@ -1178,10 +1199,11 @@
     "ky": "спектакль",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C",
     "senses": [
       "entertainment"
     ],
+    "ruAccented": "шо'у",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Спектакль абдан музыкалдуу, көргүлүктүү.",
@@ -1192,8 +1214,7 @@
         "ru": "де Сент-Экзюпери с авторскими рисунками."
       }
     ],
-    "ruAccented": "шо'у",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D1%8C",
     "id": "ru-шоу-001"
   },
   {
@@ -1201,10 +1222,12 @@
     "ky": "көрүнүш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D2%AF%D0%BD%D2%AF%D1%88",
     "senses": [
       "entertainment"
     ],
+    "ruAccented": "шо'у",
+    "ruGender": "m",
+    "frequency": 30,
     "examples": [
       {
         "ky": "бул көрүнүш «балдардын эмгеги» деген термин менен аталат.",
@@ -1215,9 +1238,7 @@
         "ru": "опасная тенденция – дети начинают играть в такие игры, как “Синий кит”."
       }
     ],
-    "ruAccented": "шо'у",
-    "ruGender": "m",
-    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D2%AF%D0%BD%D2%AF%D1%88",
     "id": "ru-шоу-002"
   },
   {
@@ -1225,18 +1246,18 @@
     "ky": "шоу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%83",
     "senses": [
       "entertainment"
     ],
+    "ruAccented": "шо'у",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Бизде болсо шоу болду, бардык ЖМКларда баарын көргөзүп чыгышты,",
         "ru": "А у нас получилось как шоу, во всех СМИ все"
       }
     ],
-    "ruAccented": "шо'у",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%83",
     "id": "ru-шоу-003"
   },
   {
@@ -1244,13 +1265,13 @@
     "ky": "таштоо",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D1%82%D0%BE%D0%BE",
     "senses": [
       "to cause an object to move rapidly through the air"
     ],
     "etymology": "From таш (taş) + -та- (-ta-). Compare to Southern Altai таштаар (taštaar, “to throw”) etc.",
     "ruAccented": "швыря'ть",
     "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D1%82%D0%BE%D0%BE",
     "id": "ru-швырять-001"
   },
   {
@@ -1258,13 +1279,13 @@
     "ky": "таштоо",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D1%82%D0%BE%D0%BE",
     "senses": [
       "to cause an object to move rapidly through the air"
     ],
     "etymology": "From таш (taş) + -та- (-ta-). Compare to Southern Altai таштаар (taštaar, “to throw”) etc.",
     "ruAccented": "швырну'ть",
     "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D1%82%D0%BE%D0%BE",
     "id": "ru-швырнуть-001"
   },
   {
@@ -1272,13 +1293,13 @@
     "ky": "коробка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0",
     "senses": [
       "cuboid space",
       "container"
     ],
     "ruAccented": "шкату'лка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0",
     "id": "ru-шкатулка-001"
   },
   {
@@ -1286,7 +1307,6 @@
     "ky": "куту",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83",
     "senses": [
       "cuboid space",
       "container"
@@ -1294,6 +1314,7 @@
     "ruAccented": "шкату'лка",
     "ruGender": "f",
     "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83",
     "id": "ru-шкатулка-002"
   },
   {
@@ -1301,13 +1322,13 @@
     "ky": "ящик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA",
     "senses": [
       "cuboid space",
       "container"
     ],
     "ruAccented": "шкату'лка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA",
     "id": "ru-шкатулка-003"
   },
   {
@@ -1315,11 +1336,13 @@
     "ky": "топ",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF",
     "senses": [
       "solid or hollow sphere"
     ],
     "pronunciation": "[top]",
+    "ruAccented": "шар",
+    "ruGender": "m",
+    "frequency": 1377,
     "examples": [
       {
         "ky": "Мекемелер аралык жумушчу топ түзүлүп анын алкагында ЖКтин, өкмөттүн жана бир топ ведомстволордун катышуусу менен бир топ сунуштар берилген.",
@@ -1330,9 +1353,7 @@
         "ru": "Направлены они на развитие и укрепление сотрудничества двух государств.Кыргызстан и Россию связывают не только социальные и культурные, но и многовековые торгово-экономические отношения."
       }
     ],
-    "ruAccented": "шар",
-    "ruGender": "m",
-    "frequency": 1377,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF",
     "id": "ru-шар-002"
   },
   {
@@ -1340,13 +1361,13 @@
     "ky": "тоголок",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA",
     "senses": [
       "solid or hollow sphere"
     ],
     "ruAccented": "шар",
     "ruGender": "m",
     "frequency": 27,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA",
     "id": "ru-шар-003"
   },
   {
@@ -1354,11 +1375,12 @@
     "ky": "топ",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF",
     "senses": [
       "object, generally spherical, used for playing games"
     ],
     "pronunciation": "[top]",
+    "ruAccented": "ша'рик",
+    "frequency": 1377,
     "examples": [
       {
         "ky": "Мекемелер аралык жумушчу топ түзүлүп анын алкагында ЖКтин, өкмөттүн жана бир топ ведомстволордун катышуусу менен бир топ сунуштар берилген.",
@@ -1369,8 +1391,7 @@
         "ru": "Направлены они на развитие и укрепление сотрудничества двух государств.Кыргызстан и Россию связывают не только социальные и культурные, но и многовековые торгово-экономические отношения."
       }
     ],
-    "ruAccented": "ша'рик",
-    "frequency": 1377,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF",
     "id": "ru-шарик-001"
   },
   {
@@ -1378,19 +1399,19 @@
     "ky": "кең",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D2%A3",
     "senses": [
       "having a large physical extent from side to side"
     ],
     "etymology": "From Proto-Turkic *kẹ̄ŋ.",
+    "ruAccented": "широ'кий",
+    "frequency": 696,
     "examples": [
       {
         "ky": "келечеги кең Жыргааң дестинациясын ачууга жардамдашкандыгы, тоо гиддерин окутуп",
         "ru": "открытие новой перспективной дистинации Жыргалан, о подготовке горных гидов."
       }
     ],
-    "ruAccented": "широ'кий",
-    "frequency": 696,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D2%A3",
     "id": "ru-широкий-001"
   },
   {
@@ -1398,15 +1419,15 @@
     "ky": "кылыч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BB%D1%8B%D1%87",
     "senses": [
       "weapon"
     ],
-    "etymology": "From Proto-Turkic *kïlï̄č. See Khakas хылыс (xılıs).",
     "pronunciation": "/qɯˈlɯt͡ʃ/",
+    "etymology": "From Proto-Turkic *kïlï̄č. See Khakas хылыс (xılıs).",
     "ruAccented": "шпа'га",
     "ruGender": "f",
     "frequency": 593,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BB%D1%8B%D1%87",
     "id": "ru-шпага-002"
   },
   {
@@ -1414,19 +1435,19 @@
     "ky": "штат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D1%82",
     "senses": [
       "a political division of a federation retaining a degree of autonomy"
     ],
+    "ruAccented": "штат",
+    "ruGender": "m",
+    "frequency": 49,
     "examples": [
       {
         "ky": "мыйзамдары боюнча, үй-бүлөлүк укук штаттардын юрисдикциясында, ар бир штат",
         "ru": "По законодательству США, семейное право находится в юрисдикции штатов, и каждый"
       }
     ],
-    "ruAccented": "штат",
-    "ruGender": "m",
-    "frequency": 49,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D1%82",
     "id": "ru-штат-001"
   },
   {
@@ -1434,12 +1455,12 @@
     "ky": "шайба",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D0%B1%D0%B0",
     "senses": [
       "flat annulus"
     ],
     "ruAccented": "ша'йба",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D0%B1%D0%B0",
     "id": "ru-шайба-001"
   },
   {
@@ -1447,12 +1468,12 @@
     "ky": "проститутка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0",
     "senses": [
       "a person having sex for profit"
     ],
     "ruAccented": "шлю'ха",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0",
     "id": "ru-шлюха-001"
   },
   {
@@ -1460,12 +1481,12 @@
     "ky": "сойку",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B9%D0%BA%D1%83",
     "senses": [
       "a person having sex for profit"
     ],
     "ruAccented": "шлю'ха",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B9%D0%BA%D1%83",
     "id": "ru-шлюха-002"
   },
   {
@@ -1473,13 +1494,13 @@
     "ky": "жалап",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%BF",
     "senses": [
       "a person having sex for profit"
     ],
     "etymology": "Borrowed from Persian جلب, from Arabic جَلَب (jalab, “merchendise”). Cognates with Kazakh жәлеп (jälep).",
     "ruAccented": "шлю'ха",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%BF",
     "id": "ru-шлюха-003"
   },
   {
@@ -1487,10 +1508,12 @@
     "ky": "жетекчи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%82%D0%B5%D0%BA%D1%87%D0%B8",
     "senses": [
       "one having authority"
     ],
+    "ruAccented": "шеф",
+    "ruGender": "m",
+    "frequency": 880,
     "examples": [
       {
         "ky": "Аны ошол таптагы жетекчи Абдиламит Матисаков жумушка кабыл алган.",
@@ -1501,9 +1524,7 @@
         "ru": "по всем 120 руководителям Вы можете объяснить причину?"
       }
     ],
-    "ruAccented": "шеф",
-    "ruGender": "m",
-    "frequency": 880,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%82%D0%B5%D0%BA%D1%87%D0%B8",
     "id": "ru-шеф-001"
   },
   {
@@ -1511,19 +1532,19 @@
     "ky": "лидер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%B4%D0%B5%D1%80",
     "senses": [
       "one having authority"
     ],
+    "ruAccented": "шеф",
+    "ruGender": "m",
+    "frequency": 47,
     "examples": [
       {
         "ky": "бир командада иштесең, анда бул командада болууга, лидер болууга татыктуу",
         "ru": "работаешь в одной команде, нужно доказать, что ты достоин работать в этой"
       }
     ],
-    "ruAccented": "шеф",
-    "ruGender": "m",
-    "frequency": 47,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%B4%D0%B5%D1%80",
     "id": "ru-шеф-002"
   },
   {
@@ -1531,19 +1552,19 @@
     "ky": "сызык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B7%D1%8B%D0%BA",
     "senses": [
       "path through two or more points, threadlike mark"
     ],
+    "ruAccented": "штрих",
+    "ruGender": "m",
+    "frequency": 30,
     "examples": [
       {
         "ky": "Андан ары сызык менен барып, биз жогорку билимге өтөбүз.",
         "ru": "Идя далее по цепочке, мы переходим к высшему образованию."
       }
     ],
-    "ruAccented": "штрих",
-    "ruGender": "m",
-    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B7%D1%8B%D0%BA",
     "id": "ru-штрих-001"
   },
   {
@@ -1551,12 +1572,12 @@
     "ky": "сфера",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%84%D0%B5%D1%80%D0%B0",
     "senses": [
       "mathematics: regular three-dimensional object"
     ],
     "ruAccented": "шар",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%84%D0%B5%D1%80%D0%B0",
     "id": "ru-шар-004"
   },
   {
@@ -1564,12 +1585,12 @@
     "ky": "бөмбөк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BC%D0%B1%D3%A9%D0%BA",
     "senses": [
       "mathematics: regular three-dimensional object"
     ],
     "ruAccented": "шар",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BC%D0%B1%D3%A9%D0%BA",
     "id": "ru-шар-005"
   },
   {
@@ -1577,13 +1598,13 @@
     "ky": "медресе",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5",
     "senses": [
       "an institution dedicated to teaching and learning"
     ],
     "ruAccented": "шко'ла",
     "ruGender": "f",
     "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5",
     "id": "ru-школа-003"
   },
   {
@@ -1591,12 +1612,12 @@
     "ky": "шуруп",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D1%80%D1%83%D0%BF",
     "senses": [
       "fastener"
     ],
     "ruAccented": "шуру'п",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D1%80%D1%83%D0%BF",
     "id": "ru-шуруп-001"
   },
   {
@@ -1604,12 +1625,12 @@
     "ky": "күрөк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D3%A9%D0%BA",
     "senses": [
       "garden tool with a handle and a flat blade for digging"
     ],
     "etymology": "From *kürek (“shovel, spade”), from Proto-Turkic *küre- (“to shovel, rake up”).\nCognate with\nKazakh күрек (kürek),\nKarachay-Balkar кюрек (kürek),\nKumyk кюрек (kürek),\nUzbek kurak,\nBashkir көрәк (körək), Shor кӱрек,\nTurkish kürek,\nCrimean Tatar kürek,\nAzerbaijani kürək (“shovel; spade”).",
     "frequency": 34,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D3%A9%D0%BA",
     "id": "ru-штыковая лопата-001"
   },
   {
@@ -1617,12 +1638,12 @@
     "ky": "тикмечи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D0%BC%D0%B5%D1%87%D0%B8",
     "senses": [
       "person who makes, repairs, or alters clothing as profession"
     ],
     "ruAccented": "швец",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D0%BC%D0%B5%D1%87%D0%B8",
     "id": "ru-швец-001"
   },
   {
@@ -1630,12 +1651,12 @@
     "ky": "машинечи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B5%D1%87%D0%B8",
     "senses": [
       "person who makes, repairs, or alters clothing as profession"
     ],
     "ruAccented": "швец",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B5%D1%87%D0%B8",
     "id": "ru-швец-002"
   },
   {
@@ -1643,12 +1664,12 @@
     "ky": "тикмечи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D0%BC%D0%B5%D1%87%D0%B8",
     "senses": [
       "person who makes, repairs, or alters clothing as profession"
     ],
     "ruAccented": "швея'",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D0%BC%D0%B5%D1%87%D0%B8",
     "id": "ru-швея-001"
   },
   {
@@ -1656,12 +1677,12 @@
     "ky": "машинечи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B5%D1%87%D0%B8",
     "senses": [
       "person who makes, repairs, or alters clothing as profession"
     ],
     "ruAccented": "швея'",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B5%D1%87%D0%B8",
     "id": "ru-швея-002"
   },
   {
@@ -1669,10 +1690,10 @@
     "ky": "класс доскасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0%D1%81%D1%8B",
     "senses": [
       "a surface that can be written upon with chalk"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%20%D0%B4%D0%BE%D1%81%D0%BA%D0%B0%D1%81%D1%8B",
     "id": "ru-школьная доска-001"
   },
   {
@@ -1680,10 +1701,10 @@
     "ky": "доска",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D1%81%D0%BA%D0%B0",
     "senses": [
       "a surface that can be written upon with chalk"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D1%81%D0%BA%D0%B0",
     "id": "ru-школьная доска-002"
   },
   {
@@ -1691,13 +1712,13 @@
     "ky": "провинция",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F",
     "senses": [
       "a subdivision of government usually one step below the national level"
     ],
     "ruAccented": "штат",
     "ruGender": "m",
     "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F",
     "id": "ru-штат-002"
   },
   {
@@ -1705,13 +1726,13 @@
     "ky": "область",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
     "senses": [
       "a subdivision of government usually one step below the national level"
     ],
     "ruAccented": "штат",
     "ruGender": "m",
     "frequency": 118,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C",
     "id": "ru-штат-003"
   },
   {
@@ -1719,10 +1740,12 @@
     "ky": "аймак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA",
     "senses": [
       "a subdivision of government usually one step below the national level"
     ],
+    "ruAccented": "штат",
+    "ruGender": "m",
+    "frequency": 1451,
     "examples": [
       {
         "ky": "энергетикалык потенциалын эске алуу менен болгон биздин кызматташуубуз аймак",
@@ -1733,9 +1756,7 @@
         "ru": "для региона – кто они были, работавшие в"
       }
     ],
-    "ruAccented": "штат",
-    "ruGender": "m",
-    "frequency": 1451,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA",
     "id": "ru-штат-004"
   },
   {
@@ -1743,12 +1764,12 @@
     "ky": "ылаят",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D1%8F%D1%82",
     "senses": [
       "a subdivision of government usually one step below the national level"
     ],
     "ruAccented": "штат",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D1%8F%D1%82",
     "id": "ru-штат-005"
   },
   {
@@ -1756,12 +1777,14 @@
     "ky": "облус",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D1%83%D1%81",
     "senses": [
       "a subdivision of government usually one step below the national level"
     ],
-    "etymology": "Borrowed from Russian о́бласть (óblastʹ, “region”), cognate with Kazakh облыс (oblys), etc.",
     "pronunciation": "/oˈblus/",
+    "etymology": "Borrowed from Russian о́бласть (óblastʹ, “region”), cognate with Kazakh облыс (oblys), etc.",
+    "ruAccented": "штат",
+    "ruGender": "m",
+    "frequency": 2282,
     "examples": [
       {
         "ky": "Облус жаштары менен өз ара аракеттешүү жана билим берүү демилгелерин колдоо;",
@@ -1772,9 +1795,7 @@
         "ru": "Отчетность акима района перед губернатором области и правительством ставит вопрос о положительных показателях по району."
       }
     ],
-    "ruAccented": "штат",
-    "ruGender": "m",
-    "frequency": 2282,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D1%83%D1%81",
     "id": "ru-штат-006"
   },
   {
@@ -1782,11 +1803,11 @@
     "ky": "он алтынчы",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BD%20%D0%B0%D0%BB%D1%82%D1%8B%D0%BD%D1%87%D1%8B",
     "senses": [
       "the ordinal form of the number sixteen — see also 16th"
     ],
     "ruAccented": "шестна'дцатый",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BD%20%D0%B0%D0%BB%D1%82%D1%8B%D0%BD%D1%87%D1%8B",
     "id": "ru-шестнадцатый-001"
   },
   {
@@ -1794,17 +1815,17 @@
     "ky": "швейцариялык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "senses": [
       "of or pertaining to Switzerland"
     ],
+    "ruAccented": "швейца'рский",
     "examples": [
       {
         "ky": "Ал эмес швейцариялык автопериметрде иштегенди үйрөнбөгөндөрдү жазалайм деп коркуткам.",
         "ru": "грозила наказать тех, кто не освоит работу на швейцарском автопериметре."
       }
     ],
-    "ruAccented": "швейца'рский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "id": "ru-швейцарский-001"
   },
   {
@@ -1812,18 +1833,18 @@
     "ky": "швейцариялык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "senses": [
       "Swiss person"
     ],
+    "ruAccented": "швейца'рец",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Ал эмес швейцариялык автопериметрде иштегенди үйрөнбөгөндөрдү жазалайм деп коркуткам.",
         "ru": "грозила наказать тех, кто не освоит работу на швейцарском автопериметре."
       }
     ],
-    "ruAccented": "швейца'рец",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "id": "ru-швейцарец-001"
   },
   {
@@ -1831,18 +1852,18 @@
     "ky": "швейцариялык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "senses": [
       "Swiss person"
     ],
+    "ruAccented": "швейца'рка",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Ал эмес швейцариялык автопериметрде иштегенди үйрөнбөгөндөрдү жазалайм деп коркуткам.",
         "ru": "грозила наказать тех, кто не освоит работу на швейцарском автопериметре."
       }
     ],
-    "ruAccented": "швейца'рка",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "id": "ru-швейцарка-001"
   },
   {
@@ -1850,12 +1871,12 @@
     "ky": "шрифт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%80%D0%B8%D1%84%D1%82",
     "senses": [
       "typesetting: a grouping of consistently-designed glyphs"
     ],
     "ruAccented": "шрифт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%80%D0%B8%D1%84%D1%82",
     "id": "ru-шрифт-001"
   },
   {
@@ -1863,12 +1884,12 @@
     "ky": "шина",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%BD%D0%B0",
     "senses": [
       "wheel covering"
     ],
     "ruAccented": "ши'на",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%BD%D0%B0",
     "id": "ru-шина-001"
   },
   {
@@ -1876,12 +1897,12 @@
     "ky": "көркоо",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%BA%D0%BE%D0%BE",
     "senses": [
       "wild canine"
     ],
     "ruAccented": "шака'л",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%BA%D0%BE%D0%BE",
     "id": "ru-шакал-001"
   },
   {
@@ -1889,12 +1910,12 @@
     "ky": "чөө",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D3%A9",
     "senses": [
       "wild canine"
     ],
     "ruAccented": "шака'л",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D3%A9",
     "id": "ru-шакал-002"
   },
   {
@@ -1902,10 +1923,12 @@
     "ky": "калып",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D1%8B%D0%BF",
     "senses": [
       "physical object"
     ],
+    "ruAccented": "шабло'н",
+    "ruGender": "m",
+    "frequency": 890,
     "examples": [
       {
         "ky": "Документ тапшырдык, жыйынтыгында, түбөлүккө калып калдым.",
@@ -1916,9 +1939,7 @@
         "ru": "Как будет существовать государство, если положение дел останется таким, как сейчас?"
       }
     ],
-    "ruAccented": "шабло'н",
-    "ruGender": "m",
-    "frequency": 890,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D1%8B%D0%BF",
     "id": "ru-шаблон-001"
   },
   {
@@ -1926,10 +1947,10 @@
     "ky": "катушка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0",
     "senses": [
       "spindle"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0",
     "id": "ru-шпулька-001"
   },
   {
@@ -1937,10 +1958,10 @@
     "ky": "түрмөк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BC%D3%A9%D0%BA",
     "senses": [
       "spindle"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BC%D3%A9%D0%BA",
     "id": "ru-шпулька-002"
   },
   {
@@ -1948,10 +1969,10 @@
     "ky": "түргүч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%B3%D2%AF%D1%87",
     "senses": [
       "spindle"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%B3%D2%AF%D1%87",
     "id": "ru-шпулька-003"
   },
   {
@@ -1959,19 +1980,19 @@
     "ky": "сериал",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB",
     "senses": [
       "television or radio program"
     ],
+    "ruAccented": "шо'у",
+    "ruGender": "m",
+    "frequency": 2,
     "examples": [
       {
         "ky": "Мисалы, эмгек өргүүсүнө чыгуу же кандайдыр бир сериал көрүү, китеп окуу, же видео оюн ойноо».",
         "ru": "Например, уехать в отпуск или засесть за какой-нибудь сериал, книгу или видеоигру»."
       }
     ],
-    "ruAccented": "шо'у",
-    "ruGender": "m",
-    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB",
     "id": "ru-шоу-004"
   },
   {
@@ -1979,15 +2000,15 @@
     "ky": "кылыч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BB%D1%8B%D1%87",
     "senses": [
       "light sword, sharp along the front edge, part of the back edge, and at the point"
     ],
-    "etymology": "From Proto-Turkic *kïlï̄č. See Khakas хылыс (xılıs).",
     "pronunciation": "/qɯˈlɯt͡ʃ/",
+    "etymology": "From Proto-Turkic *kïlï̄č. See Khakas хылыс (xılıs).",
     "ruAccented": "ша'шка",
     "ruGender": "f",
     "frequency": 593,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BB%D1%8B%D1%87",
     "id": "ru-шашка-001"
   },
   {
@@ -1995,11 +2016,11 @@
     "ky": "жүрүү",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
     "senses": [
       "to move on the feet"
     ],
     "etymology": "From Proto-Turkic *yüri- (“to walk”), compare Southern Altai јӱрер (ǰürer), Turkish yürümek.",
+    "ruAccented": "шага'ть",
     "examples": [
       {
         "ky": "- Банктын күндөлүк ишин укуктук жактан коштоп жүрүү жагында иш тажрыйбасы;",
@@ -2010,7 +2031,7 @@
         "ru": "6% - группа риска по агрессивному поведению, импульсивные, которые"
       }
     ],
-    "ruAccented": "шага'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D2%AF%D2%AF",
     "id": "ru-шагать-001"
   },
   {
@@ -2018,13 +2039,13 @@
     "ky": "басуу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D1%83%D1%83",
     "senses": [
       "to move on the feet"
     ],
     "etymology": "From Proto-Turkic *bas-. Compare to Turkish basmak, Kazakh басу (basu), etc.",
     "ruAccented": "шага'ть",
     "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D1%83%D1%83",
     "id": "ru-шагать-002"
   },
   {
@@ -2032,12 +2053,12 @@
     "ky": "тамашакөй",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BA%D3%A9%D0%B9",
     "senses": [
       "person who makes jokes"
     ],
     "ruAccented": "шутни'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BA%D3%A9%D0%B9",
     "id": "ru-шутник-001"
   },
   {
@@ -2045,12 +2066,12 @@
     "ky": "тамашакөй",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BA%D3%A9%D0%B9",
     "senses": [
       "person who makes jokes"
     ],
     "ruAccented": "шутни'ца",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BA%D3%A9%D0%B9",
     "id": "ru-шутница-001"
   },
   {
@@ -2058,12 +2079,12 @@
     "ky": "жапан аары",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%B0%D0%BD%20%D0%B0%D0%B0%D1%80%D1%8B",
     "senses": [
       "genus of bee"
     ],
     "ruAccented": "шмель",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BF%D0%B0%D0%BD%20%D0%B0%D0%B0%D1%80%D1%8B",
     "id": "ru-шмель-001"
   },
   {
@@ -2071,7 +2092,6 @@
     "ky": "эн",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD",
     "senses": [
       "measurement of something from side to side"
     ],
@@ -2079,6 +2099,7 @@
     "ruAccented": "ширина'",
     "ruGender": "f",
     "frequency": 131,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD",
     "id": "ru-ширина-002"
   },
   {
@@ -2086,13 +2107,13 @@
     "ky": "туурасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83%D1%80%D0%B0%D1%81%D1%8B",
     "senses": [
       "measurement of something from side to side"
     ],
     "ruAccented": "ширина'",
     "ruGender": "f",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83%D1%80%D0%B0%D1%81%D1%8B",
     "id": "ru-ширина-003"
   },
   {
@@ -2100,15 +2121,15 @@
     "ky": "шайтан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D1%82%D0%B0%D0%BD",
     "senses": [
       "evil spirit"
     ],
-    "etymology": "Borrowed from Arabic شَيْطَان (šayṭān, “Shaitan, Satan”).",
     "pronunciation": "/ʃɑjˈtɑn/",
+    "etymology": "Borrowed from Arabic شَيْطَان (šayṭān, “Shaitan, Satan”).",
     "ruAccented": "шайта'н",
     "ruGender": "m",
     "frequency": 99,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D1%82%D0%B0%D0%BD",
     "id": "ru-шайтан-001"
   },
   {
@@ -2116,12 +2137,12 @@
     "ky": "демон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%D0%BE%D0%BD",
     "senses": [
       "evil spirit"
     ],
     "ruAccented": "шайта'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%D0%BE%D0%BD",
     "id": "ru-шайтан-002"
   },
   {
@@ -2129,15 +2150,15 @@
     "ky": "жин",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD",
     "senses": [
       "evil spirit"
     ],
-    "etymology": "From Arabic جِنّ (jinn).",
     "pronunciation": "/d͡ʒin/",
+    "etymology": "From Arabic جِنّ (jinn).",
     "ruAccented": "шайта'н",
     "ruGender": "m",
     "frequency": 286,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD",
     "id": "ru-шайтан-003"
   },
   {
@@ -2145,13 +2166,13 @@
     "ky": "азезил",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B5%D0%B7%D0%B8%D0%BB",
     "senses": [
       "evil spirit"
     ],
     "etymology": "Borrowed from Arabic عَزَازِيل (ʕazāzīl).",
     "ruAccented": "шайта'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B5%D0%B7%D0%B8%D0%BB",
     "id": "ru-шайтан-004"
   },
   {
@@ -2159,14 +2180,14 @@
     "ky": "ибилис",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B1%D0%B8%D0%BB%D0%B8%D1%81",
     "senses": [
       "evil spirit"
     ],
-    "etymology": "From Arabic إِبْلِيس (ʔiblīs, “demon, devil”).",
     "pronunciation": "/iˈbiˈlis/",
+    "etymology": "From Arabic إِبْلِيس (ʔiblīs, “demon, devil”).",
     "ruAccented": "шайта'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B1%D0%B8%D0%BB%D0%B8%D1%81",
     "id": "ru-шайтан-005"
   },
   {
@@ -2174,11 +2195,11 @@
     "ky": "адым",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D1%8B%D0%BC",
     "senses": [
       "pace"
     ],
     "ruAccented": "шаг",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D1%8B%D0%BC",
     "id": "ru-шаг-001"
   },
   {
@@ -2186,12 +2207,12 @@
     "ky": "шляпа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D1%8F%D0%BF%D0%B0",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "шля'па",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D1%8F%D0%BF%D0%B0",
     "id": "ru-шляпа-001"
   },
   {
@@ -2199,18 +2220,18 @@
     "ky": "калпак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BF%D0%B0%D0%BA",
     "senses": [
       "a head covering"
     ],
+    "ruAccented": "шля'па",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Муну менен улуттук каада-салттарды даңктоо жана өз маданияты үчүн кыргыз элинин сыймыктуу сезимин өөрчүтүү милдети кирет.Ак калпак өзү тоолордун жана чокулардын тазалыгын туюндурат.",
         "ru": "Чтобы, тем самым, поддержать национальные традиции и развить чувство гордости кыргызского народа за свою культуру.Сам Ак калпак символизирует горы и чистоту."
       }
     ],
-    "ruAccented": "шля'па",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BF%D0%B0%D0%BA",
     "id": "ru-шляпа-002"
   },
   {
@@ -2218,12 +2239,12 @@
     "ky": "шапке",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BF%D0%BA%D0%B5",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "шля'па",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BF%D0%BA%D0%B5",
     "id": "ru-шляпа-003"
   },
   {
@@ -2231,12 +2252,12 @@
     "ky": "баш кийим",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%20%D0%BA%D0%B8%D0%B9%D0%B8%D0%BC",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "шля'па",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%20%D0%BA%D0%B8%D0%B9%D0%B8%D0%BC",
     "id": "ru-шляпа-004"
   },
   {
@@ -2244,13 +2265,13 @@
     "ky": "бөрк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D1%80%D0%BA",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "шля'па",
     "ruGender": "f",
     "frequency": 130,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D1%80%D0%BA",
     "id": "ru-шляпа-005"
   },
   {
@@ -2258,12 +2279,12 @@
     "ky": "шляпа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D1%8F%D0%BF%D0%B0",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "ша'пка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D1%8F%D0%BF%D0%B0",
     "id": "ru-шапка-001"
   },
   {
@@ -2271,18 +2292,18 @@
     "ky": "калпак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BF%D0%B0%D0%BA",
     "senses": [
       "a head covering"
     ],
+    "ruAccented": "ша'пка",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Муну менен улуттук каада-салттарды даңктоо жана өз маданияты үчүн кыргыз элинин сыймыктуу сезимин өөрчүтүү милдети кирет.Ак калпак өзү тоолордун жана чокулардын тазалыгын туюндурат.",
         "ru": "Чтобы, тем самым, поддержать национальные традиции и развить чувство гордости кыргызского народа за свою культуру.Сам Ак калпак символизирует горы и чистоту."
       }
     ],
-    "ruAccented": "ша'пка",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BF%D0%B0%D0%BA",
     "id": "ru-шапка-002"
   },
   {
@@ -2290,12 +2311,12 @@
     "ky": "шапке",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BF%D0%BA%D0%B5",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "ша'пка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BF%D0%BA%D0%B5",
     "id": "ru-шапка-003"
   },
   {
@@ -2303,12 +2324,12 @@
     "ky": "баш кийим",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%20%D0%BA%D0%B8%D0%B9%D0%B8%D0%BC",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "ша'пка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%20%D0%BA%D0%B8%D0%B9%D0%B8%D0%BC",
     "id": "ru-шапка-004"
   },
   {
@@ -2316,13 +2337,13 @@
     "ky": "бөрк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D1%80%D0%BA",
     "senses": [
       "a head covering"
     ],
     "ruAccented": "ша'пка",
     "ruGender": "f",
     "frequency": 130,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D1%80%D0%BA",
     "id": "ru-шапка-005"
   },
   {
@@ -2330,12 +2351,12 @@
     "ky": "шпинат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BD%D0%B0%D1%82",
     "senses": [
       "a particular edible plant, Spinacia oleracea"
     ],
     "ruAccented": "шпина'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BD%D0%B0%D1%82",
     "id": "ru-шпинат-001"
   },
   {
@@ -2343,11 +2364,11 @@
     "ky": "шах",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85",
     "senses": [
       "king of Persia"
     ],
     "ruAccented": "шах",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85",
     "id": "ru-шах-001"
   },
   {
@@ -2355,13 +2376,13 @@
     "ky": "шаа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B0",
     "senses": [
       "king of Persia"
     ],
-    "etymology": "From Persian شاه",
     "pronunciation": "/ʃɑː/",
+    "etymology": "From Persian شاه",
     "ruAccented": "шах",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B0",
     "id": "ru-шах-002"
   },
   {
@@ -2369,12 +2390,12 @@
     "ky": "кебеп",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B1%D0%B5%D0%BF",
     "senses": [
       "dish"
     ],
     "ruAccented": "шашлы'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B1%D0%B5%D0%BF",
     "id": "ru-шашлык-001"
   },
   {
@@ -2382,12 +2403,12 @@
     "ky": "штраф",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D1%80%D0%B0%D1%84",
     "senses": [
       "payment for breaking the law"
     ],
     "ruAccented": "штраф",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D1%80%D0%B0%D1%84",
     "id": "ru-штраф-001"
   },
   {
@@ -2395,12 +2416,12 @@
     "ky": "жазапул",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B0%D0%BF%D1%83%D0%BB",
     "senses": [
       "payment for breaking the law"
     ],
     "ruAccented": "штраф",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B0%D0%BF%D1%83%D0%BB",
     "id": "ru-штраф-002"
   },
   {
@@ -2408,10 +2429,12 @@
     "ky": "айып",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BF",
     "senses": [
       "payment for breaking the law"
     ],
+    "ruAccented": "штраф",
+    "ruGender": "m",
+    "frequency": 1318,
     "examples": [
       {
         "ky": "Карыздан мөөнөтүнөн мурда төлөгөндүгү үчүн айып пул каралган эмес",
@@ -2422,9 +2445,7 @@
         "ru": "штрафовать тех, кто не владеет кыргызским языком."
       }
     ],
-    "ruAccented": "штраф",
-    "ruGender": "m",
-    "frequency": 1318,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BF",
     "id": "ru-штраф-003"
   },
   {
@@ -2432,13 +2453,13 @@
     "ky": "шкаф",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BA%D0%B0%D1%84",
     "senses": [
       "enclosed storage"
     ],
     "ruAccented": "шкаф",
     "ruGender": "m",
     "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BA%D0%B0%D1%84",
     "id": "ru-шкаф-001"
   },
   {
@@ -2446,13 +2467,13 @@
     "ky": "шкаф",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BA%D0%B0%D1%84",
     "senses": [
       "movable furniture for storing clothes"
     ],
     "ruAccented": "шифонье'р",
     "ruGender": "m",
     "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BA%D0%B0%D1%84",
     "id": "ru-шифоньер-001"
   },
   {
@@ -2460,20 +2481,20 @@
     "ky": "тамаша",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0",
     "senses": [
       "amusing story"
     ],
     "etymology": "From Persian تماشا (tamâšâ, “entertainment; amusement”).",
+    "ruAccented": "шу'тка",
+    "ruGender": "f",
+    "frequency": 199,
     "examples": [
       {
         "ky": "бул тамаша сыяктуу, бирок андан ашык эмес…",
         "ru": "По-моему, это забавно, не более…"
       }
     ],
-    "ruAccented": "шу'тка",
-    "ruGender": "f",
-    "frequency": 199,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0",
     "id": "ru-шутка-001"
   },
   {
@@ -2481,13 +2502,13 @@
     "ky": "азил",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B8%D0%BB",
     "senses": [
       "something said or done for amusement"
     ],
     "ruAccented": "шу'тка",
     "ruGender": "f",
     "frequency": 10,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B8%D0%BB",
     "id": "ru-шутка-002"
   },
   {
@@ -2495,11 +2516,11 @@
     "ky": "калжың кылуу",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B6%D1%8B%D2%A3%20%D0%BA%D1%8B%D0%BB%D1%83%D1%83",
     "senses": [
       "do for amusement"
     ],
     "ruAccented": "шути'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B6%D1%8B%D2%A3%20%D0%BA%D1%8B%D0%BB%D1%83%D1%83",
     "id": "ru-шутить-002"
   },
   {
@@ -2507,12 +2528,12 @@
     "ky": "клоун",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%BE%D1%83%D0%BD",
     "senses": [
       "performance artist working in a circus"
     ],
     "ruAccented": "шут",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%BE%D1%83%D0%BD",
     "id": "ru-шут-001"
   },
   {
@@ -2520,7 +2541,6 @@
     "ky": "ок",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA",
     "senses": [
       "the pin or spindle on which a wheel revolves, or which revolves with a wheel"
     ],
@@ -2528,6 +2548,7 @@
     "ruAccented": "шпи'ндель",
     "ruGender": "m",
     "frequency": 1029,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA",
     "id": "ru-шпиндель-001"
   },
   {
@@ -2535,13 +2556,13 @@
     "ky": "миз",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%B7",
     "senses": [
       "pointed instrument"
     ],
     "etymology": "From Proto-Turkic *bińŕ.",
     "ruAccented": "ши'ло",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%B7",
     "id": "ru-шило-001"
   },
   {
@@ -2549,12 +2570,12 @@
     "ky": "шибеге",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%B1%D0%B5%D0%B3%D0%B5",
     "senses": [
       "pointed instrument"
     ],
     "ruAccented": "ши'ло",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%B1%D0%B5%D0%B3%D0%B5",
     "id": "ru-шило-002"
   },
   {
@@ -2562,11 +2583,11 @@
     "ky": "шофёр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%84%D1%91%D1%80",
     "senses": [
       "person employed to drive a motor car"
     ],
     "ruAccented": "шофёр",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%84%D1%91%D1%80",
     "id": "ru-шофёр-001"
   },
   {
@@ -2574,20 +2595,20 @@
     "ky": "тон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BD",
     "senses": [
       "garment made of furry hides"
     ],
     "etymology": "From Proto-Turkic *tōn.",
+    "ruAccented": "шу'ба",
+    "ruGender": "f",
+    "frequency": 499,
     "examples": [
       {
         "ky": "Кандай тон менен?",
         "ru": "Каким тоном? Что"
       }
     ],
-    "ruAccented": "шу'ба",
-    "ruGender": "f",
-    "frequency": 499,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BD",
     "id": "ru-шуба-001"
   },
   {
@@ -2595,19 +2616,19 @@
     "ky": "ичик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%B8%D0%BA",
     "senses": [
       "garment made of furry hides"
     ],
+    "ruAccented": "шу'ба",
+    "ruGender": "f",
+    "frequency": 29,
     "examples": [
       {
         "ky": "жөнөдү, башкасы ичик сатып алганы келип, эл арасынан сатуучуларды издеп жатты,",
         "ru": "бутикам, кто-то приехал ради покупки шубы и вылавливал в толпе шустрых"
       }
     ],
-    "ruAccented": "шу'ба",
-    "ruGender": "f",
-    "frequency": 29,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%B8%D0%BA",
     "id": "ru-шуба-002"
   },
   {
@@ -2615,12 +2636,12 @@
     "ky": "мех",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%85",
     "senses": [
       "hairy coat of a mammal, especially when fine, soft and thick"
     ],
     "ruAccented": "шерсть",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%85",
     "id": "ru-шерсть-002"
   },
   {
@@ -2628,12 +2649,12 @@
     "ky": "мех",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%85",
     "senses": [
       "hairy coat of a mammal, especially when fine, soft and thick"
     ],
     "ruAccented": "шку'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%85",
     "id": "ru-шкура-002"
   },
   {
@@ -2641,13 +2662,13 @@
     "ky": "жүн",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BD",
     "senses": [
       "hairy coat of a mammal, especially when fine, soft and thick"
     ],
     "ruAccented": "шку'ра",
     "ruGender": "f",
     "frequency": 112,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BD",
     "id": "ru-шкура-003"
   },
   {
@@ -2655,10 +2676,10 @@
     "ky": "жүргүзүүчү",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
     "senses": [
       "person who drives a motorized vehicle, such as a car or a bus"
     ],
+    "ruAccented": "шофёр",
     "examples": [
       {
         "ky": "Бир кычкачтын баасы 640 доллар, бир видеобайкоо жүргүзүүчү камеранын баасы 14500 доллардан документтештирилгенин коомчулук билди.",
@@ -2669,7 +2690,7 @@
         "ru": "Казначейство разрабатывает рабочий механизм осуществления банками-агентами ежедневных операций по доходам и расходам государства."
       }
     ],
-    "ruAccented": "шофёр",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D0%B3%D2%AF%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
     "id": "ru-шофёр-002"
   },
   {
@@ -2677,10 +2698,11 @@
     "ky": "айдоочу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B4%D0%BE%D0%BE%D1%87%D1%83",
     "senses": [
       "person who drives a motorized vehicle, such as a car or a bus"
     ],
+    "ruAccented": "шофёр",
+    "frequency": 94,
     "examples": [
       {
         "ky": "Бүгүн, DemirBankтын төлөм жана POS-терминалдары аркылуу төлөө мүмкүнчүлүгү менен, ар бир өз убакытын баалаган айдоочу ЖКК айыптарын тез жана оңой төлөй алат.",
@@ -2691,8 +2713,7 @@
         "ru": "Математика учит мыслить, думать, принимать правильные решения, независимо от того, будете ли вы врачом или водителем."
       }
     ],
-    "ruAccented": "шофёр",
-    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B4%D0%BE%D0%BE%D1%87%D1%83",
     "id": "ru-шофёр-003"
   },
   {
@@ -2700,12 +2721,12 @@
     "ky": "шпора",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%BE%D1%80%D0%B0",
     "senses": [
       "implement for prodding a horse"
     ],
     "ruAccented": "шпо'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%BE%D1%80%D0%B0",
     "id": "ru-шпора-001"
   },
   {
@@ -2713,12 +2734,12 @@
     "ky": "шарф",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%84",
     "senses": [
       "long garment worn around the neck"
     ],
     "ruAccented": "шаль",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%84",
     "id": "ru-шаль-001"
   },
   {
@@ -2726,13 +2747,13 @@
     "ky": "тыт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%82",
     "senses": [
       "the fruit"
     ],
     "etymology": "From Proto-Turkic.",
     "ruAccented": "шелкови'ца",
     "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%82",
     "id": "ru-шелковица-001"
   },
   {
@@ -2740,15 +2761,15 @@
     "ky": "мөөр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80",
     "senses": [
       "indentation or imprint made by stamping"
     ],
-    "etymology": "From Arabic مُهْر (muhr).",
     "pronunciation": "[møːr]",
+    "etymology": "From Arabic مُهْر (muhr).",
     "ruAccented": "штамп",
     "ruGender": "m",
     "frequency": 103,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80",
     "id": "ru-штамп-001"
   },
   {
@@ -2756,15 +2777,15 @@
     "ky": "мөөр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80",
     "senses": [
       "indentation or imprint made by stamping"
     ],
-    "etymology": "From Arabic مُهْر (muhr).",
     "pronunciation": "[møːr]",
+    "etymology": "From Arabic مُهْر (muhr).",
     "ruAccented": "ште'мпель",
     "ruGender": "m",
     "frequency": 103,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80",
     "id": "ru-штемпель-001"
   },
   {
@@ -2772,12 +2793,12 @@
     "ky": "печать",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C",
     "senses": [
       "device for stamping designs"
     ],
     "ruAccented": "штамп",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C",
     "id": "ru-штамп-002"
   },
   {
@@ -2785,13 +2806,13 @@
     "ky": "штамп",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF",
     "senses": [
       "device for stamping designs"
     ],
     "ruAccented": "штамп",
     "ruGender": "m",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF",
     "id": "ru-штамп-003"
   },
   {
@@ -2799,12 +2820,12 @@
     "ky": "печать",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C",
     "senses": [
       "device for stamping designs"
     ],
     "ruAccented": "ште'мпель",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C",
     "id": "ru-штемпель-002"
   },
   {
@@ -2812,13 +2833,13 @@
     "ky": "штамп",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF",
     "senses": [
       "device for stamping designs"
     ],
     "ruAccented": "ште'мпель",
     "ruGender": "m",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF",
     "id": "ru-штемпель-003"
   },
   {
@@ -2826,19 +2847,19 @@
     "ky": "жоолук",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BB%D1%83%D0%BA",
     "senses": [
       "piece of material worn over the head"
     ],
+    "ruAccented": "шаль",
+    "ruGender": "f",
+    "frequency": 107,
     "examples": [
       {
         "ky": "Биз жоолук салынгандын айынан, коом",
         "ru": "платка в обществе к нам негативное отношение."
       }
     ],
-    "ruAccented": "шаль",
-    "ruGender": "f",
-    "frequency": 107,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BB%D1%83%D0%BA",
     "id": "ru-шаль-002"
   },
   {
@@ -2846,12 +2867,12 @@
     "ky": "оромол",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D0%BE%D0%BC%D0%BE%D0%BB",
     "senses": [
       "piece of material worn over the head"
     ],
     "ruAccented": "шаль",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D0%BE%D0%BC%D0%BE%D0%BB",
     "id": "ru-шаль-003"
   },
   {
@@ -2859,12 +2880,12 @@
     "ky": "штык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D1%8B%D0%BA",
     "senses": [
       "weapon"
     ],
     "ruAccented": "штык",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D1%8B%D0%BA",
     "id": "ru-штык-001"
   },
   {
@@ -2872,14 +2893,14 @@
     "ky": "найза",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B9%D0%B7%D0%B0",
     "senses": [
       "weapon"
     ],
-    "etymology": "Borrowed from Classical Persian نیزه (nayza, “spear, lance, javelin”).",
     "pronunciation": "/nɑjˈzɑ/",
+    "etymology": "Borrowed from Classical Persian نیزه (nayza, “spear, lance, javelin”).",
     "ruAccented": "штык",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B9%D0%B7%D0%B0",
     "id": "ru-штык-002"
   },
   {
@@ -2887,12 +2908,12 @@
     "ky": "шпион",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD",
     "senses": [
       "person who secretly watches"
     ],
     "ruAccented": "шпио'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD",
     "id": "ru-шпион-001"
   },
   {
@@ -2900,14 +2921,14 @@
     "ky": "тыңчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B",
     "senses": [
       "person who secretly watches"
     ],
-    "etymology": "From тың (tıŋ) + -чы (-cı)",
     "pronunciation": "[tɯŋˈt͡ʃɯ]",
+    "etymology": "From тың (tıŋ) + -чы (-cı)",
     "ruAccented": "шпио'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B",
     "id": "ru-шпион-002"
   },
   {
@@ -2915,12 +2936,12 @@
     "ky": "шпион",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD",
     "senses": [
       "person who secretly watches"
     ],
     "ruAccented": "шпио'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD",
     "id": "ru-шпионка-001"
   },
   {
@@ -2928,14 +2949,14 @@
     "ky": "тыңчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B",
     "senses": [
       "person who secretly watches"
     ],
-    "etymology": "From тың (tıŋ) + -чы (-cı)",
     "pronunciation": "[tɯŋˈt͡ʃɯ]",
+    "etymology": "From тың (tıŋ) + -чы (-cı)",
     "ruAccented": "шпио'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B",
     "id": "ru-шпионка-002"
   },
   {
@@ -2943,11 +2964,11 @@
     "ky": "шпион",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD",
     "senses": [
       "person who secretly watches"
     ],
     "ruAccented": "шпик",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD",
     "id": "ru-шпик-001"
   },
   {
@@ -2955,13 +2976,13 @@
     "ky": "тыңчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B",
     "senses": [
       "person who secretly watches"
     ],
-    "etymology": "From тың (tıŋ) + -чы (-cı)",
     "pronunciation": "[tɯŋˈt͡ʃɯ]",
+    "etymology": "From тың (tıŋ) + -чы (-cı)",
     "ruAccented": "шпик",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B",
     "id": "ru-шпик-002"
   },
   {
@@ -2969,12 +2990,12 @@
     "ky": "туулга",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83%D0%BB%D0%B3%D0%B0",
     "senses": [
       "protective head covering"
     ],
     "ruAccented": "шлем",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83%D0%BB%D0%B3%D0%B0",
     "id": "ru-шлем-001"
   },
   {
@@ -2982,10 +3003,10 @@
     "ky": "штепсель",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BF%D1%81%D0%B5%D0%BB%D1%8C",
     "senses": [
       "electric connecting device"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BF%D1%81%D0%B5%D0%BB%D1%8C",
     "id": "ru-штепсельная вилка-001"
   },
   {
@@ -2993,10 +3014,10 @@
     "ky": "штекер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80",
     "senses": [
       "electric connecting device"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80",
     "id": "ru-штепсельная вилка-002"
   },
   {
@@ -3004,12 +3025,12 @@
     "ky": "штепсель",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BF%D1%81%D0%B5%D0%BB%D1%8C",
     "senses": [
       "electric connecting device"
     ],
     "ruAccented": "ште'псель",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BF%D1%81%D0%B5%D0%BB%D1%8C",
     "id": "ru-штепсель-001"
   },
   {
@@ -3017,12 +3038,12 @@
     "ky": "штекер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80",
     "senses": [
       "electric connecting device"
     ],
     "ruAccented": "ште'псель",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80",
     "id": "ru-штепсель-002"
   },
   {
@@ -3030,10 +3051,10 @@
     "ky": "штепсель",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BF%D1%81%D0%B5%D0%BB%D1%8C",
     "senses": [
       "electric connecting device"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BF%D1%81%D0%B5%D0%BB%D1%8C",
     "id": "ru-штекер-001"
   },
   {
@@ -3041,10 +3062,10 @@
     "ky": "штекер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80",
     "senses": [
       "electric connecting device"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80",
     "id": "ru-штекер-002"
   },
   {
@@ -3052,17 +3073,17 @@
     "ky": "жалаа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%B0",
     "senses": [
       "act of injuring another's reputation by any slanderous communication"
     ],
+    "frequency": 60,
     "examples": [
       {
         "ky": "микрохирургиясы бөлүмүнө таандык жабдуунун “Офтамед” жеке менчик борборунда колдонулуусу жалган жалаа болуп эсептелет.",
         "ru": "оборудования, принадлежащего отделению Микрохирургии глаза, в частном центре “Офтамед” является клеветой."
       }
     ],
-    "frequency": 60,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%B0",
     "id": "ru-шельмование-001"
   },
   {
@@ -3070,12 +3091,12 @@
     "ky": "банда",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0",
     "senses": [
       "group of criminals who band together for mutual protection"
     ],
     "ruAccented": "ша'йка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0",
     "id": "ru-шайка-001"
   },
   {
@@ -3083,13 +3104,13 @@
     "ky": "кабык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA",
     "senses": [
       "skin of a fruit"
     ],
     "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
     "ruAccented": "шелуха'",
     "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA",
     "id": "ru-шелуха-001"
   },
   {
@@ -3097,7 +3118,6 @@
     "ky": "кабык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA",
     "senses": [
       "skin of a fruit"
     ],
@@ -3105,6 +3125,7 @@
     "ruAccented": "шку'рка",
     "ruGender": "f",
     "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA",
     "id": "ru-шкурка-001"
   },
   {
@@ -3112,14 +3133,14 @@
     "ky": "токот",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D0%BE%D1%82",
     "senses": [
       "A blow dealt with the open hand"
     ],
-    "etymology": "From Turkish tokat",
     "pronunciation": "/toˈqot/",
+    "etymology": "From Turkish tokat",
     "ruAccented": "шлепо'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D0%BE%D1%82",
     "id": "ru-шлепок-001"
   },
   {
@@ -3127,12 +3148,12 @@
     "ky": "шапалак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BF%D0%B0%D0%BB%D0%B0%D0%BA",
     "senses": [
       "A blow dealt with the open hand"
     ],
     "ruAccented": "шлепо'к",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BF%D0%B0%D0%BB%D0%B0%D0%BA",
     "id": "ru-шлепок-002"
   },
   {
@@ -3140,7 +3161,6 @@
     "ky": "чатыр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80",
     "senses": [
       "portable lodge"
     ],
@@ -3148,6 +3168,7 @@
     "ruAccented": "шатёр",
     "ruGender": "m",
     "frequency": 119,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80",
     "id": "ru-шатёр-001"
   },
   {
@@ -3155,12 +3176,12 @@
     "ky": "шампунь",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D1%83%D0%BD%D1%8C",
     "senses": [
       "product for washing the hair or other fibres"
     ],
     "ruAccented": "шампу'нь",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D1%83%D0%BD%D1%8C",
     "id": "ru-шампунь-002"
   },
   {
@@ -3168,11 +3189,11 @@
     "ky": "шыбыроо",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%B1%D1%8B%D1%80%D0%BE%D0%BE",
     "senses": [
       "talk in a quiet voice"
     ],
     "ruAccented": "шепну'ть",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%B1%D1%8B%D1%80%D0%BE%D0%BE",
     "id": "ru-шепнуть-001"
   },
   {
@@ -3180,11 +3201,11 @@
     "ky": "шыбыроо",
     "pos": "verb",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%B1%D1%8B%D1%80%D0%BE%D0%BE",
     "senses": [
       "talk in a quiet voice"
     ],
     "ruAccented": "шушу'каться",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%B1%D1%8B%D1%80%D0%BE%D0%BE",
     "id": "ru-шушукаться-001"
   },
   {
@@ -3192,12 +3213,12 @@
     "ky": "шприц",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D1%80%D0%B8%D1%86",
     "senses": [
       "hypodermic syringe"
     ],
     "ruAccented": "шприц",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D1%80%D0%B8%D1%86",
     "id": "ru-шприц-001"
   },
   {
@@ -3205,12 +3226,12 @@
     "ky": "тобурчак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B1%D1%83%D1%80%D1%87%D0%B0%D0%BA",
     "senses": [
       "fruit of conifers"
     ],
     "etymology": "From Proto-Turkic *tomurčuk. Cognate to Southern Altai тоорчык (toorčïk), Bashkir тубырсыҡ (tubırsıq), Tatar тубырчык (tubırçıq), Kazakh тобыршақ (tobyrşaq) etc.",
     "ruAccented": "ши'шка",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B1%D1%83%D1%80%D1%87%D0%B0%D0%BA",
     "id": "ru-шишка-001"
   },
   {
@@ -3218,10 +3239,10 @@
     "ky": "дойбу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B9%D0%B1%D1%83",
     "senses": [
       "game for two players"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B9%D0%B1%D1%83",
     "id": "ru-шашки-001"
   },
   {
@@ -3229,10 +3250,10 @@
     "ky": "шашка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%88%D0%BA%D0%B0",
     "senses": [
       "game for two players"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%88%D0%BA%D0%B0",
     "id": "ru-шашки-002"
   },
   {
@@ -3240,12 +3261,12 @@
     "ky": "тигиш",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B3%D0%B8%D1%88",
     "senses": [
       "action of the verb to sew"
     ],
     "etymology": "From Kyrgyz тикүү (tiküü) (see there for more cognates), itself from Proto-Turkic *dik-.",
     "ruAccented": "шитьё",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B3%D0%B8%D1%88",
     "id": "ru-шитьё-001"
   },
   {
@@ -3253,10 +3274,10 @@
     "ky": "дар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80",
     "senses": [
       "wooden framework on which persons are put to death by hanging"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80",
     "id": "ru-шибеница-001"
   },
   {
@@ -3264,10 +3285,10 @@
     "ky": "дарга",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B3%D0%B0",
     "senses": [
       "wooden framework on which persons are put to death by hanging"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B3%D0%B0",
     "id": "ru-шибеница-002"
   },
   {
@@ -3275,12 +3296,12 @@
     "ky": "шпаргалка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0",
     "senses": [
       "sheet of paper used to assist on a test"
     ],
     "ruAccented": "шпарга'лка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0",
     "id": "ru-шпаргалка-001"
   },
   {
@@ -3288,12 +3309,12 @@
     "ky": "шпаргалка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0",
     "senses": [
       "sheet of paper used to assist on a test"
     ],
     "ruAccented": "шпо'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0",
     "id": "ru-шпора-002"
   },
   {
@@ -3301,14 +3322,14 @@
     "ky": "шайык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D1%8B%D0%BA",
     "senses": [
       "leader of an Arab village, family or small tribe"
     ],
-    "etymology": "Borrowed from Arabic شَيْخ (šayḵ).",
     "pronunciation": "/ʃɑˈjɯq/",
+    "etymology": "Borrowed from Arabic شَيْخ (šayḵ).",
     "ruAccented": "шейх",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D1%8B%D0%BA",
     "id": "ru-шейх-001"
   },
   {
@@ -3316,12 +3337,12 @@
     "ky": "эмчилик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "senses": [
       "person believed to ward off witchcraft and heal through magic"
     ],
     "ruAccented": "шама'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "id": "ru-шаман-001"
   },
   {
@@ -3329,13 +3350,13 @@
     "ky": "штаб",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1",
     "senses": [
       "military installation"
     ],
     "ruAccented": "штаб",
     "ruGender": "m",
     "frequency": 53,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1",
     "id": "ru-штаб-001"
   },
   {
@@ -3343,12 +3364,12 @@
     "ky": "штаб-квартира",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0",
     "senses": [
       "military installation"
     ],
     "ruAccented": "штаб",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0",
     "id": "ru-штаб-002"
   },
   {
@@ -3356,13 +3377,13 @@
     "ky": "штаб",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1",
     "senses": [
       "military installation"
     ],
     "ruAccented": "штаб-кварти'ра",
     "ruGender": "f",
     "frequency": 53,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1",
     "id": "ru-штаб-квартира-001"
   },
   {
@@ -3370,12 +3391,12 @@
     "ky": "штаб-квартира",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0",
     "senses": [
       "military installation"
     ],
     "ruAccented": "штаб-кварти'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%B1-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0",
     "id": "ru-штаб-квартира-002"
   },
   {
@@ -3383,11 +3404,11 @@
     "ky": "шорт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%80%D1%82",
     "senses": [
       "pants worn primarily in the summer that do not go lower than the knees"
     ],
     "ruAccented": "шо'рты",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BE%D1%80%D1%82",
     "id": "ru-шорты-001"
   },
   {
@@ -3395,12 +3416,12 @@
     "ky": "шланг",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D0%B0%D0%BD%D0%B3",
     "senses": [
       "flexible tube"
     ],
     "ruAccented": "шланг",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D0%B0%D0%BD%D0%B3",
     "id": "ru-шланг-001"
   },
   {
@@ -3408,12 +3429,12 @@
     "ky": "шпионаж",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D0%B6",
     "senses": [
       "act of learning secret information through clandestine means"
     ],
     "ruAccented": "шпиона'ж",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D0%B6",
     "id": "ru-шпионаж-001"
   },
   {
@@ -3421,13 +3442,13 @@
     "ky": "тыңчылык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B%D0%BB%D1%8B%D0%BA",
     "senses": [
       "act of learning secret information through clandestine means"
     ],
     "ruAccented": "шпиона'ж",
     "ruGender": "m",
     "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3%D1%87%D1%8B%D0%BB%D1%8B%D0%BA",
     "id": "ru-шпионаж-002"
   },
   {
@@ -3435,10 +3456,10 @@
     "ky": "сатып алуу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D1%8B%D0%BF%20%D0%B0%D0%BB%D1%83%D1%83",
     "senses": [
       "activity of buying"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D1%8B%D0%BF%20%D0%B0%D0%BB%D1%83%D1%83",
     "id": "ru-шоппинг-001"
   },
   {
@@ -3446,18 +3467,18 @@
     "ky": "швед",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B4",
     "senses": [
       "person from Sweden or of Swedish descent"
     ],
+    "ruAccented": "швед",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "партиялык мектепте окудум, бизге швед социалдык демократиясынын негиздерин",
         "ru": "партийной школе и нам давали основы шведской социальной демократии."
       }
     ],
-    "ruAccented": "швед",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B4",
     "id": "ru-швед-001"
   },
   {
@@ -3465,18 +3486,18 @@
     "ky": "швед",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B4",
     "senses": [
       "person from Sweden or of Swedish descent"
     ],
+    "ruAccented": "шве'дка",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "партиялык мектепте окудум, бизге швед социалдык демократиясынын негиздерин",
         "ru": "партийной школе и нам давали основы шведской социальной демократии."
       }
     ],
-    "ruAccented": "шве'дка",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B2%D0%B5%D0%B4",
     "id": "ru-шведка-001"
   },
   {
@@ -3484,12 +3505,12 @@
     "ky": "шампанское",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5",
     "senses": [
       "sparkling white wine produced in Champagne"
     ],
     "ruAccented": "шампа'нское",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5",
     "id": "ru-шампанское-002"
   },
   {
@@ -3497,17 +3518,17 @@
     "ky": "шарият",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%B8%D1%8F%D1%82",
     "senses": [
       "Islamic religious law"
     ],
+    "frequency": 80,
     "examples": [
       {
         "ky": "баардыгын Шарият мыйзамына ылайык жасадым, капыр бийлиги мени соттогонго укугу",
         "ru": "виновными, они говорят: “Всё, что я сделал, я сделал по законам Шариата."
       }
     ],
-    "frequency": 80,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D0%B8%D1%8F%D1%82",
     "id": "ru-шариат-001"
   },
   {
@@ -3515,10 +3536,10 @@
     "ky": "шахада",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D0%B0%D0%B4%D0%B0",
     "senses": [
       "Islamic declaration of belief"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D0%B0%D0%B4%D0%B0",
     "id": "ru-шахада-001"
   },
   {
@@ -3526,12 +3547,12 @@
     "ky": "шрапнель",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C",
     "senses": [
       "fragments and debris thrown out by an exploding device"
     ],
     "ruAccented": "шрапне'ль",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%80%D0%B0%D0%BF%D0%BD%D0%B5%D0%BB%D1%8C",
     "id": "ru-шрапнель-001"
   },
   {
@@ -3539,12 +3560,12 @@
     "ky": "тыт жибек көпөлөгү",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%82%20%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%20%D0%BA%D3%A9%D0%BF%D3%A9%D0%BB%D3%A9%D0%B3%D2%AF",
     "senses": [
       "caterpillar"
     ],
     "ruAccented": "шелкопря'д",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%82%20%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%20%D0%BA%D3%A9%D0%BF%D3%A9%D0%BB%D3%A9%D0%B3%D2%AF",
     "id": "ru-шелкопряд-001"
   },
   {
@@ -3552,10 +3573,10 @@
     "ky": "ит мурун",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%82%20%D0%BC%D1%83%D1%80%D1%83%D0%BD",
     "senses": [
       "the species Rosa canina"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%82%20%D0%BC%D1%83%D1%80%D1%83%D0%BD",
     "id": "ru-шиповник собачий-001"
   },
   {
@@ -3563,13 +3584,13 @@
     "ky": "бакшы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D1%88%D1%8B",
     "senses": [
       "spiritual or religious medium between the concrete and spirit worlds"
     ],
     "etymology": "Ultimately from Chinese 博士 (bóshì). Compare Uyghur باخشى (baxshi), Persian بخشی (baxši).",
     "ruAccented": "шама'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D1%88%D1%8B",
     "id": "ru-шаман-002"
   },
   {
@@ -3577,12 +3598,12 @@
     "ky": "шаман",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%B0%D0%BD",
     "senses": [
       "spiritual or religious medium between the concrete and spirit worlds"
     ],
     "ruAccented": "шама'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%B0%D0%BD",
     "id": "ru-шаман-003"
   },
   {
@@ -3590,11 +3611,11 @@
     "ky": "бакшы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D1%88%D1%8B",
     "senses": [
       "spiritual or religious medium between the concrete and spirit worlds"
     ],
     "etymology": "Ultimately from Chinese 博士 (bóshì). Compare Uyghur باخشى (baxshi), Persian بخشی (baxši).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D1%88%D1%8B",
     "id": "ru-шаманка-001"
   },
   {
@@ -3602,10 +3623,10 @@
     "ky": "шаман",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%B0%D0%BD",
     "senses": [
       "spiritual or religious medium between the concrete and spirit worlds"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%B0%D0%BD",
     "id": "ru-шаманка-002"
   },
   {
@@ -3613,12 +3634,12 @@
     "ky": "шинель",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%BD%D0%B5%D0%BB%D1%8C",
     "senses": [
       "heavy overcoat"
     ],
     "ruAccented": "шине'ль",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%BD%D0%B5%D0%BB%D1%8C",
     "id": "ru-шинель-001"
   },
   {
@@ -3626,10 +3647,10 @@
     "ky": "кулак чуулдоо",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%20%D1%87%D1%83%D1%83%D0%BB%D0%B4%D0%BE%D0%BE",
     "senses": [
       "perception of nonexistent noise"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%20%D1%87%D1%83%D1%83%D0%BB%D0%B4%D0%BE%D0%BE",
     "id": "ru-шум в ушах-001"
   },
   {
@@ -3637,12 +3658,12 @@
     "ky": "пальто",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BB%D1%8C%D1%82%D0%BE",
     "senses": [
       "garment"
     ],
     "ruAccented": "шине'ль",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BB%D1%8C%D1%82%D0%BE",
     "id": "ru-шинель-002"
   },
   {
@@ -3650,10 +3671,10 @@
     "ky": "аткыч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D0%BA%D1%8B%D1%87",
     "senses": [
       "person"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D0%BA%D1%8B%D1%87",
     "id": "ru-шутер-001"
   },
   {
@@ -3661,12 +3682,12 @@
     "ky": "наждактуу кагаз",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B6%D0%B4%D0%B0%D0%BA%D1%82%D1%83%D1%83%20%D0%BA%D0%B0%D0%B3%D0%B0%D0%B7",
     "senses": [
       "paper coated with abrasive material"
     ],
     "ruAccented": "шку'рка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B6%D0%B4%D0%B0%D0%BA%D1%82%D1%83%D1%83%20%D0%BA%D0%B0%D0%B3%D0%B0%D0%B7",
     "id": "ru-шкурка-002"
   },
   {
@@ -3674,10 +3695,10 @@
     "ky": "наждактуу кагаз",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B6%D0%B4%D0%B0%D0%BA%D1%82%D1%83%D1%83%20%D0%BA%D0%B0%D0%B3%D0%B0%D0%B7",
     "senses": [
       "paper coated with abrasive material"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B6%D0%B4%D0%B0%D0%BA%D1%82%D1%83%D1%83%20%D0%BA%D0%B0%D0%B3%D0%B0%D0%B7",
     "id": "ru-шлифовальная бумага-001"
   },
   {
@@ -3685,11 +3706,11 @@
     "ky": "шербет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B5%D1%80%D0%B1%D0%B5%D1%82",
     "senses": [
       "frozen fruit juice"
     ],
     "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B5%D1%80%D0%B1%D0%B5%D1%82",
     "id": "ru-шербет-001"
   },
   {
@@ -3697,10 +3718,10 @@
     "ky": "жибек жолу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%20%D0%B6%D0%BE%D0%BB%D1%83",
     "senses": [
       "routes used by silk traders across Europe, Asia and northern Africa"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B1%D0%B5%D0%BA%20%D0%B6%D0%BE%D0%BB%D1%83",
     "id": "ru-шёлковый путь-001"
   },
   {
@@ -3708,31 +3729,1049 @@
     "ky": "Чымкен",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A7%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD",
     "senses": [
       "a Kazakh city"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A7%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD",
     "id": "ru-Шымкент-001"
   },
   {
-    "ru": "широко",
-    "ky": "кеңири",
-    "pos": "adv",
-    "source": "manual",
-    "id": "ru-широко-001",
+    "ru": "шток",
+    "ky": "кундак",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "stock",
     "senses": [
-      "на большом пространстве, в большом масштабе"
-    ]
+      "part of gun — see also butt"
+    ],
+    "etymology": "From Persian قنداق (qondâq). Cognate to Southern Altai кындак (kïndak), etc.",
+    "ruAccented": "шток",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BD%D0%B4%D0%B0%D0%BA",
+    "id": "ru-шток-001"
   },
   {
-    "ru": "шум",
-    "ky": "ызы-чуу",
+    "ru": "школа",
+    "ky": "академия",
     "pos": "noun",
-    "source": "manual",
-    "id": "ru-шум-004",
+    "source": "pivot-en",
+    "enPivot": "academy",
     "senses": [
-      "громкие, беспорядочные звуки"
+      "learned society"
     ],
-    "ruGender": "m"
+    "ruAccented": "шко'ла",
+    "ruGender": "f",
+    "frequency": 80,
+    "examples": [
+      {
+        "ky": "өмүрүм ошол академия мнен байланышып калган.",
+        "ru": "академией. В трудовой книжке всего одна запись."
+      },
+      {
+        "ky": "академия өлкөдө диний тармакта иш алып бара турган кадрлардын жетишсиздиги курч",
+        "ru": "академии в Кыргызстане вызвана острой нехваткой кадров, специализирующихся в"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F",
+    "id": "ru-школа-004"
+  },
+  {
+    "ru": "шпон",
+    "ky": "коргошун",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "lead",
+    "senses": [
+      "chemical element"
+    ],
+    "pronunciation": "/qorʁoˈʂun/",
+    "etymology": "From Proto-Turkic *korguĺčïn (“lead”). Cognate with Kazakh қорғасын (qorğasyn), Southern Altai коргожын (korgožïn) ,Karaim коргъасын / Karaim коргъашын, Krymchak къуршун, Shor қорғачын etc.",
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B3%D0%BE%D1%88%D1%83%D0%BD",
+    "id": "ru-шпон-001"
+  },
+  {
+    "ru": "ширинка",
+    "ky": "чымын",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "fly",
+    "senses": [
+      "insect of the family Muscidae"
+    ],
+    "etymology": "From Proto-Turkic *čï̄pïn, compare Azerbaijani çibin, Bashkir себен (seben), Crimean Tatar çibin.",
+    "ruAccented": "шири'нка",
+    "ruGender": "f",
+    "frequency": 135,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BD",
+    "id": "ru-ширинка-001"
+  },
+  {
+    "ru": "штука",
+    "ky": "нерсе",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "thing",
+    "senses": [
+      "that which is considered to exist as a separate entity, object, quality or concept"
+    ],
+    "ruAccented": "шту'ка",
+    "ruGender": "f",
+    "frequency": 296,
+    "examples": [
+      {
+        "ky": "Алардын ишкерлери бизге келе жатканда алар бизге кайрылышат, биздин ишкерлерге алардын өлкөсүнөн бир нерсе керек болуп калса, биз аларга кайрылабыз.",
+        "ru": "Они обращаются к нам, когда сюда едут их предприниматели, а мы – к ним, когда нашему предпринимателю что-то понадобится в их стране."
+      },
+      {
+        "ky": "Эскертүүлөргө тийиштүү жагын алганда – кааласа дайыма бир нерсе табууга болот, анан текшерүүлөр кайталанат.Бирок да курулуш рыногу ар кандай өзгөрүүлөргө сезимтал келет.",
+        "ru": "А что касается замечаний – то при желании всегда что-то найдется, и затем следуют повторные проверки.Между тем строительный рынок чувствителен к различным изменениям."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D1%80%D1%81%D0%B5",
+    "id": "ru-штука-001"
+  },
+  {
+    "ru": "штука",
+    "ky": "неме",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "thing",
+    "senses": [
+      "that which is considered to exist as a separate entity, object, quality or concept"
+    ],
+    "ruAccented": "шту'ка",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%BC%D0%B5",
+    "id": "ru-штука-002"
+  },
+  {
+    "ru": "шар",
+    "ky": "ташак",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ball",
+    "senses": [
+      "testicle — see also testicle"
+    ],
+    "pronunciation": "[tɑˈʃɑq]",
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
+    "ruAccented": "шар",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA",
+    "id": "ru-шар-006"
+  },
+  {
+    "ru": "шар",
+    "ky": "бал",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ball",
+    "senses": [
+      "formal dance"
+    ],
+    "pronunciation": "/bal/",
+    "etymology": "From Proto-Turkic *bal. Cognate with Azerbaijani bal, Bashkir бал (bal), Kazakh бал (bal), Tatar бал (bal), Turkish bal, Turkmen bal, Uzbek bol, etc.",
+    "ruAccented": "шар",
+    "ruGender": "m",
+    "frequency": 1994,
+    "examples": [
+      {
+        "ky": "Пишпектин жанында тамеки, пахта, күн карама, кендирди өстүрүп, жибек өндүрүрүп, бал челектерди кармаш",
+        "ru": "Возле Пишпека выращивали табак, хлопок, подсолнечник, пеньковую коноплю, занимались шелководством, пчеловодством, торговали мануфактурой и галантереей, «Маленький Кыргызстан»"
+      },
+      {
+        "ky": "кендирди өстүрүп, жибек өндүрүрүп, бал челектерди кармашып, мануфактура жана",
+        "ru": "Возле Пишпека выращивали табак, хлопок, подсолнечник, пеньковую коноплю, занимались шелководством, пчеловодством, торговали мануфактурой и галантереей,"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB",
+    "id": "ru-шар-007"
+  },
+  {
+    "ru": "шиворот",
+    "ky": "жака",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "collar",
+    "senses": [
+      "fabric garment part fitting around throat"
+    ],
+    "ruAccented": "ши'ворот",
+    "ruGender": "m",
+    "frequency": 227,
+    "examples": [
+      {
+        "ky": "Кыргызстан менен таанышып кетет да кандай адамдар жашаганын айтып ал жака барганда.",
+        "ru": "Цитирую тумар:Политическое рейдерство произошло в пятницу. Депутаты повели себя неуважительно не только к мэру, но и ко всем избирателям."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D0%B0",
+    "id": "ru-шиворот-001"
+  },
+  {
+    "ru": "шуфлядка",
+    "ky": "суурма",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "drawer",
+    "senses": [
+      "open-topped box in a cabinet used for storing"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%80%D0%BC%D0%B0",
+    "id": "ru-шуфлядка-001"
+  },
+  {
+    "ru": "шуфляда",
+    "ky": "суурма",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "drawer",
+    "senses": [
+      "open-topped box in a cabinet used for storing"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%80%D0%BC%D0%B0",
+    "id": "ru-шуфляда-001"
+  },
+  {
+    "ru": "шуфлядка",
+    "ky": "тартма",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "drawer",
+    "senses": [
+      "open-topped box in a cabinet used for storing"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%BC%D0%B0",
+    "id": "ru-шуфлядка-002"
+  },
+  {
+    "ru": "шуфляда",
+    "ky": "тартма",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "drawer",
+    "senses": [
+      "open-topped box in a cabinet used for storing"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%BC%D0%B0",
+    "id": "ru-шуфляда-002"
+  },
+  {
+    "ru": "шейка",
+    "ky": "куйрук",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "tail",
+    "senses": [
+      "appendage of an animal — see also dock"
+    ],
+    "etymology": "From Proto-Turkic *kudruk (“tail”). Cognate with Old Turkic 𐰴𐰆𐰑𐰺𐰆𐰸 (qudruq, “tail”), Turkish kuyruk (“tail”).",
+    "ruAccented": "ше'йка",
+    "frequency": 386,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B9%D1%80%D1%83%D0%BA",
+    "id": "ru-шейка-001"
+  },
+  {
+    "ru": "шейка",
+    "ky": "дүм",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "tail",
+    "senses": [
+      "appendage of an animal — see also dock"
+    ],
+    "ruAccented": "ше'йка",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D2%AF%D0%BC",
+    "id": "ru-шейка-002"
+  },
+  {
+    "ru": "штык",
+    "ky": "миз",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "blade",
+    "senses": [
+      "typically sharp-edged working end of a knife or other cutting tool"
+    ],
+    "etymology": "From Proto-Turkic *bińŕ.",
+    "ruAccented": "штык",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%B7",
+    "id": "ru-штык-003"
+  },
+  {
+    "ru": "штат",
+    "ky": "мамлекет",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a/the State, a polity or community, the sovereign country or city-state and its government"
+    ],
+    "etymology": "Borrowed from Classical Persian مَمْلَکَت (mamlakat, “state”), from Arabic مَمْلَكَة f (mamlaka, “kingdom”). Compare Kazakh мемлекет (memleket, “state”).",
+    "ruAccented": "штат",
+    "ruGender": "m",
+    "frequency": 1505,
+    "examples": [
+      {
+        "ky": "Мамлекет башчысы транспорт, калкты таза суу менен камсыздоо, саламаттыкты сактоо тармактарындагы долбоорлорду ишке ашырууда көмөктөшүү үчүн ыраазычылык билдирди.",
+        "ru": "Глава государства выразил благодарность за содействие в реализации проектов в сферах транспорта, обеспечения населения чистой водой и здравоохранения."
+      },
+      {
+        "ky": "Эске салсак, мамлекет башчы коррупция менен күрөшүүдөн түшкөн каражатка Чүй облусундагы жана Бишкек, Ош шаарларындагы мектептерде 15 жаңы корпустар курула турганын билдирген.",
+        "ru": "815 тысяч 287 сомов.Напомним, средства, которые перечисляются на счёт от борьбы с коррупцией, будут использованы для строительства 15 школ в Чуйской области, Оше и Бишкеке."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%BB%D0%B5%D0%BA%D0%B5%D1%82",
+    "id": "ru-штат-007"
+  },
+  {
+    "ru": "шт.",
+    "ky": "мамлекет",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a/the State, a polity or community, the sovereign country or city-state and its government"
+    ],
+    "etymology": "Borrowed from Classical Persian مَمْلَکَت (mamlakat, “state”), from Arabic مَمْلَكَة f (mamlaka, “kingdom”). Compare Kazakh мемлекет (memleket, “state”).",
+    "frequency": 1505,
+    "examples": [
+      {
+        "ky": "Мамлекет башчысы транспорт, калкты таза суу менен камсыздоо, саламаттыкты сактоо тармактарындагы долбоорлорду ишке ашырууда көмөктөшүү үчүн ыраазычылык билдирди.",
+        "ru": "Глава государства выразил благодарность за содействие в реализации проектов в сферах транспорта, обеспечения населения чистой водой и здравоохранения."
+      },
+      {
+        "ky": "Эске салсак, мамлекет башчы коррупция менен күрөшүүдөн түшкөн каражатка Чүй облусундагы жана Бишкек, Ош шаарларындагы мектептерде 15 жаңы корпустар курула турганын билдирген.",
+        "ru": "815 тысяч 287 сомов.Напомним, средства, которые перечисляются на счёт от борьбы с коррупцией, будут использованы для строительства 15 школ в Чуйской области, Оше и Бишкеке."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%BB%D0%B5%D0%BA%D0%B5%D1%82",
+    "id": "ru-шт.-001"
+  },
+  {
+    "ru": "штат",
+    "ky": "дөөлөт",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a/the State, a polity or community, the sovereign country or city-state and its government"
+    ],
+    "pronunciation": "/døːløt/",
+    "etymology": "From Arabic دَوْلَة (dawla). Cognate with Azerbaijani dövlət, Bashkir дәүләт (dəwlət), Kazakh дәулет (däulet), Turkish devlet, Uzbek davlat.",
+    "ruAccented": "штат",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "Өлкөдөн өткөн дөөлөт жок« деген ыйык түшүнүк эч качан эсибизден чыкпасын.",
+        "ru": "Интересы страны дороже всего«. Мы никогда не должны забывать эти священные понятия."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D3%A9%D3%A9%D0%BB%D3%A9%D1%82",
+    "id": "ru-штат-008"
+  },
+  {
+    "ru": "шт.",
+    "ky": "дөөлөт",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a/the State, a polity or community, the sovereign country or city-state and its government"
+    ],
+    "pronunciation": "/døːløt/",
+    "etymology": "From Arabic دَوْلَة (dawla). Cognate with Azerbaijani dövlət, Bashkir дәүләт (dəwlət), Kazakh дәулет (däulet), Turkish devlet, Uzbek davlat.",
+    "examples": [
+      {
+        "ky": "Өлкөдөн өткөн дөөлөт жок« деген ыйык түшүнүк эч качан эсибизден чыкпасын.",
+        "ru": "Интересы страны дороже всего«. Мы никогда не должны забывать эти священные понятия."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D3%A9%D3%A9%D0%BB%D3%A9%D1%82",
+    "id": "ru-шт.-002"
+  },
+  {
+    "ru": "шт.",
+    "ky": "штат",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a political division of a federation retaining a degree of autonomy"
+    ],
+    "frequency": 49,
+    "examples": [
+      {
+        "ky": "мыйзамдары боюнча, үй-бүлөлүк укук штаттардын юрисдикциясында, ар бир штат",
+        "ru": "По законодательству США, семейное право находится в юрисдикции штатов, и каждый"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D1%82",
+    "id": "ru-шт.-003"
+  },
+  {
+    "ru": "штат",
+    "ky": "абал",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a condition"
+    ],
+    "pronunciation": "/ɑˈbɑl/",
+    "ruAccented": "штат",
+    "ruGender": "m",
+    "frequency": 975,
+    "examples": [
+      {
+        "ky": "Кубанычбек Турдубаевдин билдирүүсү боюнча азыр Токтогул ГЭСинде абал калыбына келди.",
+        "ru": "По его словам, все дело в том, что Кыргызстан твердо придерживается позиции и начал забирать свою госсобственность у Узбекистана."
+      },
+      {
+        "ky": "Өлкөдө эпидемиологиялык абал туруктуу, коронавируска кабылгандар жок",
+        "ru": "В Бишкеке целую семью поместили в обсервацию, с подозрением на коронавирус"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BB",
+    "id": "ru-штат-009"
+  },
+  {
+    "ru": "шт.",
+    "ky": "абал",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "state",
+    "senses": [
+      "a condition"
+    ],
+    "pronunciation": "/ɑˈbɑl/",
+    "frequency": 975,
+    "examples": [
+      {
+        "ky": "Кубанычбек Турдубаевдин билдирүүсү боюнча азыр Токтогул ГЭСинде абал калыбына келди.",
+        "ru": "По его словам, все дело в том, что Кыргызстан твердо придерживается позиции и начал забирать свою госсобственность у Узбекистана."
+      },
+      {
+        "ky": "Өлкөдө эпидемиологиялык абал туруктуу, коронавируска кабылгандар жок",
+        "ru": "В Бишкеке целую семью поместили в обсервацию, с подозрением на коронавирус"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BB",
+    "id": "ru-шт.-004"
+  },
+  {
+    "ru": "шоколадница",
+    "ky": "кумса",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "homosexual",
+    "senses": [
+      "person who is attracted solely or primarily to others of the same sex"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%81%D0%B0",
+    "id": "ru-шоколадница-001"
+  },
+  {
+    "ru": "шоколадница",
+    "ky": "гомосексуалист",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "homosexual",
+    "senses": [
+      "person who is attracted solely or primarily to others of the same sex"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BC%D0%BE%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D0%B8%D1%81%D1%82",
+    "id": "ru-шоколадница-002"
+  },
+  {
+    "ru": "школа",
+    "ky": "университет",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "university",
+    "senses": [
+      "institution of higher education"
+    ],
+    "ruAccented": "шко'ла",
+    "ruGender": "f",
+    "frequency": 166,
+    "examples": [
+      {
+        "ky": "Биздин Кыргыз Улуттук университет жана Нарын мамлекеттик университети бул долбоордун",
+        "ru": "Наш Кыргызский Национальный университет и Нарынский государственный университет являются партнерами этого"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82",
+    "id": "ru-школа-005"
+  },
+  {
+    "ru": "шинка",
+    "ky": "ветчина",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ham",
+    "senses": [
+      "thigh of a hog cured for food"
+    ],
+    "examples": [
+      {
+        "ky": "Сүрөттө: Атайын чык менен бул ветчина укмуш даамдуу!",
+        "ru": "На фото: Под специальным соусом такая ветчинятина просто замечательна!"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B0",
+    "id": "ru-шинка-001"
+  },
+  {
+    "ru": "шнур",
+    "ky": "сызык",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "line",
+    "senses": [
+      "path through two or more points, threadlike mark"
+    ],
+    "ruAccented": "шнур",
+    "ruGender": "m",
+    "frequency": 30,
+    "examples": [
+      {
+        "ky": "Андан ары сызык менен барып, биз жогорку билимге өтөбүз.",
+        "ru": "Идя далее по цепочке, мы переходим к высшему образованию."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B7%D1%8B%D0%BA",
+    "id": "ru-шнур-001"
+  },
+  {
+    "ru": "шина",
+    "ky": "автобус",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "bus",
+    "senses": [
+      "vehicle"
+    ],
+    "etymology": "Borrowed from Russian авто́бус (avtóbus).",
+    "ruAccented": "ши'на",
+    "ruGender": "f",
+    "frequency": 16,
+    "examples": [
+      {
+        "ky": "Бишкекте автобус жана троллейбустарда электрондук карталар киргизилет",
+        "ru": "Бишкек и Новосибирск свяжет новый железнодорожный маршрут"
+      },
+      {
+        "ky": "Шаардагы автобус жана троллейбустардагы жол кире электрондук түрдө төлөнөт - КТРК",
+        "ru": "\"Электронное билетирование в общественном транспорте\" - КТРК"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81",
+    "id": "ru-шина-002"
+  },
+  {
+    "ru": "шваль",
+    "ky": "тикмечи",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "tailor",
+    "senses": [
+      "person who makes, repairs, or alters clothing as profession"
+    ],
+    "ruAccented": "шваль",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D0%BC%D0%B5%D1%87%D0%B8",
+    "id": "ru-шваль-001"
+  },
+  {
+    "ru": "шваль",
+    "ky": "машинечи",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "tailor",
+    "senses": [
+      "person who makes, repairs, or alters clothing as profession"
+    ],
+    "ruAccented": "шваль",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B5%D1%87%D0%B8",
+    "id": "ru-шваль-002"
+  },
+  {
+    "ru": "шип",
+    "ky": "кеме",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "ship",
+    "senses": [
+      "large water craft"
+    ],
+    "ruAccented": "шип",
+    "frequency": 135,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5",
+    "id": "ru-шип-001"
+  },
+  {
+    "ru": "шест",
+    "ky": "полюс",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "pole",
+    "senses": [
+      "magnetic point"
+    ],
+    "ruAccented": "шест",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "жактуулукка умтула баштады, жана жаңы полюс болуп, АКШ жана доллар менен",
+        "ru": "многополярности, и новыми полюсами могут стать, наравне с США и долларом,"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D1%8E%D1%81",
+    "id": "ru-шест-001"
+  },
+  {
+    "ru": "шест",
+    "ky": "уюл",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "pole",
+    "senses": [
+      "magnetic point"
+    ],
+    "ruAccented": "шест",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%8E%D0%BB",
+    "id": "ru-шест-002"
+  },
+  {
+    "ru": "шкура",
+    "ky": "жалап",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "whore",
+    "senses": [
+      "prostitute"
+    ],
+    "etymology": "Borrowed from Persian جلب, from Arabic جَلَب (jalab, “merchendise”). Cognates with Kazakh жәлеп (jälep).",
+    "ruAccented": "шку'ра",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%BF",
+    "id": "ru-шкура-004"
+  },
+  {
+    "ru": "шмара",
+    "ky": "жалап",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "whore",
+    "senses": [
+      "prostitute"
+    ],
+    "etymology": "Borrowed from Persian جلب, from Arabic جَلَب (jalab, “merchendise”). Cognates with Kazakh жәлеп (jälep).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%BF",
+    "id": "ru-шмара-001"
+  },
+  {
+    "ru": "шкала",
+    "ky": "кабырчык",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "scale",
+    "senses": [
+      "keratin pieces covering the skin of certain animals"
+    ],
+    "ruAccented": "шкала'",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D1%80%D1%87%D1%8B%D0%BA",
+    "id": "ru-шкала-001"
+  },
+  {
+    "ru": "шкала",
+    "ky": "кабык",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "scale",
+    "senses": [
+      "keratin pieces covering the skin of certain animals"
+    ],
+    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
+    "ruAccented": "шкала'",
+    "ruGender": "f",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA",
+    "id": "ru-шкала-002"
+  },
+  {
+    "ru": "шаг",
+    "ky": "сейил",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "walk",
+    "senses": [
+      "trip made by walking"
+    ],
+    "etymology": "From Arabic سَيْر (sayr).",
+    "ruAccented": "шаг",
+    "frequency": 18,
+    "examples": [
+      {
+        "ky": "Ал эми айылдыктар суктануу менен сейил бактарында жана аянттарда сейилдеп жүрүшөт.",
+        "ru": "А сельские с трепетом и восхищением гуляют по площадям и скверам."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D0%B8%D0%BB",
+    "id": "ru-шаг-002"
+  },
+  {
+    "ru": "шевро",
+    "ky": "бала",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "kid",
+    "senses": [
+      "child (colloq.)"
+    ],
+    "pronunciation": "/bɑˈlɑ/",
+    "etymology": "From Proto-Turkic *bāla.",
+    "frequency": 4331,
+    "examples": [
+      {
+        "ky": "баланы бала бакчага беребиз, бейтапканадагы сапаттуу тейлөөнү күтөбүз.",
+        "ru": "пенсию, отдаем ребенка в детский сад и ожидаем качественного обслуживания в"
+      },
+      {
+        "ky": "жана негизги баалуулуктар бала бакчадан жана мектептен түптөлөт.",
+        "ru": "Образ жизни и основные ценности закладываются с детского сада и школы."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B0",
+    "id": "ru-шевро-001"
+  },
+  {
+    "ru": "шевро",
+    "ky": "наристе",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "kid",
+    "senses": [
+      "child (colloq.)"
+    ],
+    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B5",
+    "id": "ru-шевро-002"
+  },
+  {
+    "ru": "шевро",
+    "ky": "улак",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "kid",
+    "senses": [
+      "young goat"
+    ],
+    "frequency": 192,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D0%B0%D0%BA",
+    "id": "ru-шевро-003"
+  },
+  {
+    "ru": "шофёр",
+    "ky": "драйвер",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "driver",
+    "senses": [
+      "program acting as interface between an application and hardware"
+    ],
+    "ruAccented": "шофёр",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80",
+    "id": "ru-шофёр-004"
+  },
+  {
+    "ru": "шелом",
+    "ky": "туулга",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "helmet",
+    "senses": [
+      "protective head covering"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83%D0%BB%D0%B3%D0%B0",
+    "id": "ru-шелом-001"
+  },
+  {
+    "ru": "шатёр",
+    "ky": "чымылдык",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "canopy",
+    "senses": [
+      "high cover"
+    ],
+    "ruAccented": "шатёр",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA",
+    "id": "ru-шатёр-002"
+  },
+  {
+    "ru": "шатёр",
+    "ky": "чымылдырык",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "canopy",
+    "senses": [
+      "high cover"
+    ],
+    "ruAccented": "шатёр",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BB%D0%B4%D1%8B%D1%80%D1%8B%D0%BA",
+    "id": "ru-шатёр-003"
+  },
+  {
+    "ru": "ширинка",
+    "ky": "сүлгү",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "towel",
+    "senses": [
+      "cloth used for wiping"
+    ],
+    "ruAccented": "шири'нка",
+    "ruGender": "f",
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%BB%D0%B3%D2%AF",
+    "id": "ru-ширинка-002"
+  },
+  {
+    "ru": "ширинка",
+    "ky": "суулук",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "towel",
+    "senses": [
+      "cloth used for wiping"
+    ],
+    "ruAccented": "шири'нка",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D0%BB%D1%83%D0%BA",
+    "id": "ru-ширинка-003"
+  },
+  {
+    "ru": "шелтер",
+    "ky": "башкалка",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "shelter",
+    "senses": [
+      "a refuge or other protection"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D0%B0%D0%BB%D0%BA%D0%B0",
+    "id": "ru-шелтер-001"
+  },
+  {
+    "ru": "штанга",
+    "ky": "столб",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "post",
+    "senses": [
+      "long dowel or plank protruding from the ground"
+    ],
+    "ruAccented": "шта'нга",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB%D0%B1",
+    "id": "ru-штанга-001"
+  },
+  {
+    "ru": "штанга",
+    "ky": "түркүк",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "post",
+    "senses": [
+      "long dowel or plank protruding from the ground"
+    ],
+    "pronunciation": "[tyrˈcyc]",
+    "ruAccented": "шта'нга",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BA%D2%AF%D0%BA",
+    "id": "ru-штанга-002"
+  },
+  {
+    "ru": "штанга",
+    "ky": "устун",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "post",
+    "senses": [
+      "long dowel or plank protruding from the ground"
+    ],
+    "ruAccented": "шта'нга",
+    "ruGender": "f",
+    "frequency": 21,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D1%83%D0%BD",
+    "id": "ru-штанга-003"
+  },
+  {
+    "ru": "штанга",
+    "ky": "карагай",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "post",
+    "senses": [
+      "long dowel or plank protruding from the ground"
+    ],
+    "ruAccented": "шта'нга",
+    "ruGender": "f",
+    "frequency": 68,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%B9",
+    "id": "ru-штанга-004"
+  },
+  {
+    "ru": "штанга",
+    "ky": "багана",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "post",
+    "senses": [
+      "long dowel or plank protruding from the ground"
+    ],
+    "ruAccented": "шта'нга",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0",
+    "id": "ru-штанга-005"
+  },
+  {
+    "ru": "штанга",
+    "ky": "почта",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "post",
+    "senses": [
+      "method of delivering mail"
+    ],
+    "ruAccented": "шта'нга",
+    "ruGender": "f",
+    "frequency": 100,
+    "examples": [
+      {
+        "ky": "Эскертүү: Дареги көрсөтүлбөгөн каттар (жеке жактар үчүн – почта дареги жана телефону, юридикалык жактар үчүн – юридикалык дареги) жана кайрылган адамдын колтамгасы жок каттар каралбайт.",
+        "ru": "Внимание: Письма без контактной информации (для физических лиц – почтовый адрес и телефон, для организаций – юридический адрес) и подписи обращающегося лица рассматриваться не будут."
+      },
+      {
+        "ky": "SMS-билдирүүлөр / электрондук почта аркылуу билдирүүлөр",
+        "ru": "SMS-уведомления / уведомления по электронной почте"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%87%D1%82%D0%B0",
+    "id": "ru-штанга-006"
+  },
+  {
+    "ru": "шип",
+    "ky": "күнчө",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "journal",
+    "senses": [
+      "newspaper or magazine"
+    ],
+    "etymology": "күн (kün) + -чө (-cö). Calque of Turkish günce",
+    "ruAccented": "шип",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D1%87%D3%A9",
+    "id": "ru-шип-002"
+  },
+  {
+    "ru": "шип",
+    "ky": "журнал",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "journal",
+    "senses": [
+      "newspaper or magazine"
+    ],
+    "ruAccented": "шип",
+    "frequency": 51,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB",
+    "id": "ru-шип-003"
+  },
+  {
+    "ru": "шпиндель",
+    "ky": "ийик",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "spindle",
+    "senses": [
+      "rod in spinning and winding thread"
+    ],
+    "etymology": "From Proto-Turkic *iyik. Cognate with Chuvash йӗке (jĕk̬e), Southern Altai ийик (iyik), Turkmen ik, Azerbaijani iy, etc.",
+    "ruAccented": "шпи'ндель",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B9%D0%B8%D0%BA",
+    "id": "ru-шпиндель-002"
+  },
+  {
+    "ru": "шопинг",
+    "ky": "сатып алуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "shopping",
+    "senses": [
+      "activity of buying"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D1%8B%D0%BF%20%D0%B0%D0%BB%D1%83%D1%83",
+    "id": "ru-шопинг-001"
+  },
+  {
+    "ru": "шест",
+    "ky": "поляк",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "Pole",
+    "senses": [
+      "person from Poland"
+    ],
+    "ruAccented": "шест",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "докторантураны бүттүм, поляк тилинде диссертация жаздым.",
+        "ru": "учился, оканчивал докторантуру, писал диссертацию на польском."
+      },
+      {
+        "ky": "Жада калса поляк саясатчылары да, мурдагы",
+        "ru": "Даже польские политики считают, что Кыргызстан более"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D1%8F%D0%BA",
+    "id": "ru-шест-003"
+  },
+  {
+    "ru": "шампунь",
+    "ky": "шампан",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "champagne",
+    "senses": [
+      "sparkling white wine produced in Champagne"
+    ],
+    "ruAccented": "шампу'нь",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD",
+    "id": "ru-шампунь-003"
+  },
+  {
+    "ru": "шампунь",
+    "ky": "шампанское",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "champagne",
+    "senses": [
+      "sparkling white wine produced in Champagne"
+    ],
+    "ruAccented": "шампу'нь",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5",
+    "id": "ru-шампунь-004"
   }
 ]

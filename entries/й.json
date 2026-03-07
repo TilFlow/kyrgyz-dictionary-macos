@@ -4,12 +4,12 @@
     "ky": "йод",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B4",
     "senses": [
       "антисептическое средство"
     ],
     "ruAccented": "йод",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B4",
     "id": "ru-йод-001"
   },
   {
@@ -17,10 +17,10 @@
     "ky": "жуурат",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83%D1%80%D0%B0%D1%82",
     "etymology": "Deverbal of жууруу (to knead).",
     "ruAccented": "йо'гурт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83%D1%80%D0%B0%D1%82",
     "id": "ru-йогурт-001"
   },
   {
@@ -36,10 +36,10 @@
     "ky": "Йемен",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%B5%D0%BC%D0%B5%D0%BD",
     "senses": [
       "Republic of Yemen"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%B5%D0%BC%D0%B5%D0%BD",
     "id": "ru-Йемен-001"
   },
   {
@@ -47,12 +47,12 @@
     "ky": "йогурт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D1%83%D1%80%D1%82",
     "senses": [
       "a milk-based product thickened by a bacterium-aided curdling process"
     ],
     "ruAccented": "йо'гурт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D1%83%D1%80%D1%82",
     "id": "ru-йогурт-002"
   },
   {
@@ -60,13 +60,13 @@
     "ky": "катык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D0%BA",
     "senses": [
       "a milk-based product thickened by a bacterium-aided curdling process"
     ],
     "ruAccented": "йо'гурт",
     "ruGender": "m",
     "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D0%BA",
     "id": "ru-йогурт-003"
   },
   {
@@ -74,12 +74,12 @@
     "ky": "йога",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D0%B0",
     "senses": [
       "Hindu discipline"
     ],
     "ruAccented": "йо'га",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D0%B0",
     "id": "ru-йога-001"
   },
   {
@@ -87,10 +87,24 @@
     "ky": "Йорк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%BE%D1%80%D0%BA",
     "senses": [
       "city in North Yorkshire"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%BE%D1%80%D0%BA",
     "id": "ru-Йорк-001"
+  },
+  {
+    "ru": "йух",
+    "ky": "коток",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "dick",
+    "senses": [
+      "penis"
+    ],
+    "pronunciation": "[qoˈtoq]",
+    "etymology": "From Proto-Turkic *kotak (“penis”).\nCognate with\nBashkir ҡутаҡ (qutaq),\nKazakh қотақ (qotaq),\nSouthern Altai коток (kotok),\nTatar кутак (qutaq),\nUzbek qoʻtoq (“penis”),\netc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BE%D0%BA",
+    "id": "ru-йух-001"
   }
 ]

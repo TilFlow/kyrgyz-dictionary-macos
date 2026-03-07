@@ -1,10 +1,73 @@
 [
   {
+    "ru": "экспедиция",
+    "ky": "экспедиция",
+    "pos": "noun",
+    "senses": [
+      "поездка группы лиц с научной или иной целью"
+    ],
+    "ruGender": "f",
+    "source": "manual",
+    "id": "ru-экспедиция-001"
+  },
+  {
+    "ru": "экспонат",
+    "ky": "экспонат",
+    "pos": "noun",
+    "senses": [
+      "предмет, выставленный для обозрения"
+    ],
+    "ruGender": "m",
+    "source": "manual",
+    "id": "ru-экспонат-001"
+  },
+  {
+    "ru": "энергетический",
+    "ky": "энергетикалык",
+    "pos": "adj",
+    "senses": [
+      "относящийся к энергетике"
+    ],
+    "source": "manual",
+    "id": "ru-энергетический-001"
+  },
+  {
+    "ru": "эпидемиологический",
+    "ky": "эпидемиологиялык",
+    "pos": "adj",
+    "senses": [
+      "относящийся к эпидемиологии"
+    ],
+    "source": "manual",
+    "id": "ru-эпидемиологический-001"
+  },
+  {
+    "ru": "эффективный",
+    "ky": "натыйжалуу",
+    "pos": "adj",
+    "senses": [
+      "дающий нужный результат"
+    ],
+    "source": "manual",
+    "id": "ru-эффективный-001"
+  },
+  {
+    "ru": "этика",
+    "ky": "этика",
+    "pos": "noun",
+    "senses": [
+      "нормы нравственного поведения"
+    ],
+    "ruGender": "f",
+    "source": "manual",
+    "id": "ru-этика-001"
+  },
+  {
     "ru": "это",
     "ky": "бул",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
+    "frequency": 13727,
     "examples": [
       {
         "ky": "Ошондуктан, бул көз караштын ээлеринин өз позицияларына бекем экендиктерине карабастан туруп, толугу менен жаӊылыш пикир деп жыйынтык чыгарууга негиз бар.",
@@ -15,7 +78,7 @@
         "ru": "Это происходит за счет постепенного замещения иностранных специалистов, работающих на предприятии, местными кадрами."
       }
     ],
-    "frequency": 13727,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "id": "ru-это-001"
   },
   {
@@ -23,8 +86,8 @@
     "ky": "эвкалипт",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%BA%D0%B0%D0%BB%D0%B8%D0%BF%D1%82",
     "ruAccented": "эвкали'пт",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%BA%D0%B0%D0%BB%D0%B8%D0%BF%D1%82",
     "id": "ru-эвкалипт-001"
   },
   {
@@ -32,12 +95,12 @@
     "ky": "үйрүм",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9%D1%80%D2%AF%D0%BC",
     "senses": [
       "постепенное развитие"
     ],
     "ruAccented": "эволю'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9%D1%80%D2%AF%D0%BC",
     "id": "ru-эволюция-001"
   },
   {
@@ -53,9 +116,9 @@
     "ky": "менчил",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%BB",
     "ruAccented": "эгои'ст",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%BB",
     "id": "ru-эгоист-001"
   },
   {
@@ -63,9 +126,9 @@
     "ky": "экватор",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B2%D0%B0%D1%82%D0%BE%D1%80",
     "ruAccented": "эква'тор",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B2%D0%B0%D1%82%D0%BE%D1%80",
     "id": "ru-экватор-001"
   },
   {
@@ -73,8 +136,10 @@
     "ky": "сынак",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D0%B0%D0%BA",
     "pronunciation": "/sɯˈnaq/",
+    "ruAccented": "экза'мен",
+    "ruGender": "m",
+    "frequency": 93,
     "examples": [
       {
         "ky": "Кыргыз Республикасынын Коомдук Телерадиоберүү Корпорациясы башкы директору кызматына ачык сынак өткөрүү тартиби жөнүндө жобо",
@@ -85,9 +150,7 @@
         "ru": "У кого какой бизнес, как он сколотил свое состояние, а также кто занимает высокие государственные должности."
       }
     ],
-    "ruAccented": "экза'мен",
-    "ruGender": "m",
-    "frequency": 93,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D0%B0%D0%BA",
     "id": "ru-экзамен-001"
   },
   {
@@ -95,8 +158,8 @@
     "ky": "электровоз",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7",
     "ruAccented": "электрово'з",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B7",
     "id": "ru-электровоз-001"
   },
   {
@@ -112,10 +175,12 @@
     "ky": "энергия",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "senses": [
       "количественная мера движения"
     ],
+    "ruAccented": "эне'ргия",
+    "ruGender": "f",
+    "frequency": 189,
     "examples": [
       {
         "ky": "Бизде калыбына келүүчү энергия булактарына байланыштуу дагы көптөгөн нерселер бар.",
@@ -126,9 +191,7 @@
         "ru": "энергии, используем только ОДИН процент своего потенциала!"
       }
     ],
-    "ruAccented": "эне'ргия",
-    "ruGender": "f",
-    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "id": "ru-энергия-001"
   },
   {
@@ -136,12 +199,12 @@
     "ky": "кожоюндук",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B6%D0%BE%D1%8E%D0%BD%D0%B4%D1%83%D0%BA",
     "senses": [
       "сфера жизни, связанная с производством материальных благ и хозяйствованием"
     ],
     "ruAccented": "эконо'мика",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B6%D0%BE%D1%8E%D0%BD%D0%B4%D1%83%D0%BA",
     "id": "ru-экономика-001"
   },
   {
@@ -149,9 +212,9 @@
     "ky": "электрод",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4",
     "ruAccented": "электро'д",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4",
     "id": "ru-электрод-001"
   },
   {
@@ -159,11 +222,11 @@
     "ky": "үнемчүл",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD%D0%B5%D0%BC%D1%87%D2%AF%D0%BB",
     "senses": [
       "бережливо расходующий что-либо"
     ],
     "ruAccented": "эконо'мный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD%D0%B5%D0%BC%D1%87%D2%AF%D0%BB",
     "id": "ru-экономный-001"
   },
   {
@@ -171,12 +234,12 @@
     "ky": "эрозия",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%BE%D0%B7%D0%B8%D1%8F",
     "senses": [
       "разрушение, размывание горных пород, веществ текучими водами, льдом и т. п."
     ],
     "ruAccented": "эро'зия",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%BE%D0%B7%D0%B8%D1%8F",
     "id": "ru-эрозия-001"
   },
   {
@@ -184,12 +247,12 @@
     "ky": "эстон",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%BE%D0%BD",
     "senses": [
       "относящийся к Эстонии"
     ],
     "pronunciation": "/esˈton/",
     "ruAccented": "эсто'нский",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%BE%D0%BD",
     "id": "ru-эстонский-001"
   },
   {
@@ -213,13 +276,13 @@
     "ky": "электрлештирүү",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BB%D0%B5%D1%88%D1%82%D0%B8%D1%80%D2%AF%D2%AF",
     "examples": [
       {
         "ky": "- Бизде «Балыкчи – Кара-Кече» темир жолунун долбоору, колдо бар жолдорду жаңылоо жана аларды электрлештирүү долбоорлору бар, - дейт Такырбашев.",
         "ru": "- У нас есть проект строительства ЖД «Балыкчи – Кара-Кече», проект модернизации имеющихся дорог, проект их электрификации, - говорит Такырбашев."
       }
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BB%D0%B5%D1%88%D1%82%D0%B8%D1%80%D2%AF%D2%AF",
     "id": "ru-электрификация-002"
   },
   {
@@ -235,9 +298,9 @@
     "ky": "жаңырык",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D1%80%D1%8B%D0%BA",
     "ruAccented": "э'хо",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D1%80%D1%8B%D0%BA",
     "id": "ru-эхо-001"
   },
   {
@@ -253,12 +316,12 @@
     "ky": "электрон",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD",
     "senses": [
       "отрицательное заряженная частица"
     ],
     "ruAccented": "электро'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD",
     "id": "ru-электрон-001"
   },
   {
@@ -266,10 +329,10 @@
     "ky": "сөздүн чыгышы",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D0%B7%D0%B4%D2%AF%D0%BD%20%D1%87%D1%8B%D0%B3%D1%8B%D1%88%D1%8B",
     "senses": [
       "наука"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D0%B7%D0%B4%D2%AF%D0%BD%20%D1%87%D1%8B%D0%B3%D1%8B%D1%88%D1%8B",
     "id": "ru-этимология-001"
   },
   {
@@ -277,9 +340,9 @@
     "ky": "ээсти",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%8D%D1%81%D1%82%D0%B8",
     "ruAccented": "эсто'нец",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%8D%D1%81%D1%82%D0%B8",
     "id": "ru-эстонец-001"
   },
   {
@@ -295,7 +358,9 @@
     "ky": "кабат",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%82",
+    "ruAccented": "эта'ж",
+    "ruGender": "m",
+    "frequency": 94,
     "examples": [
       {
         "ky": "Көп байкала бербеген бир кабат кенен үй.",
@@ -306,9 +371,7 @@
         "ru": "Длинная юбка в три слоя – это далеко не предел."
       }
     ],
-    "ruAccented": "эта'ж",
-    "ruGender": "m",
-    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%82",
     "id": "ru-этаж-001"
   },
   {
@@ -316,7 +379,9 @@
     "ky": "катар",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%80",
+    "ruAccented": "эта'ж",
+    "ruGender": "m",
+    "frequency": 69,
     "examples": [
       {
         "ky": "Бандар Хаджар учурда бир катар биргелешкен долбоорлор кароодо турганын, аларды ишке ашыруу кыргыз тарап менен талкууланарын айтты.",
@@ -327,9 +392,7 @@
         "ru": "Он будет предоставлять консультации местным предпринимателем среднего и малого бизнеса, юридические и консалтинговые услуги."
       }
     ],
-    "ruAccented": "эта'ж",
-    "ruGender": "m",
-    "frequency": 69,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%80",
     "id": "ru-этаж-002"
   },
   {
@@ -337,10 +400,12 @@
     "ky": "экология",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "senses": [
       "наука"
     ],
+    "ruAccented": "эколо'гия",
+    "ruGender": "f",
+    "frequency": 75,
     "examples": [
       {
         "ky": "экология тууралуу ойлондуңуз беле?",
@@ -351,9 +416,7 @@
         "ru": "недропользователя, для акционеров, в той же степени, что и для местного"
       }
     ],
-    "ruAccented": "эколо'гия",
-    "ruGender": "f",
-    "frequency": 75,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "id": "ru-экология-001"
   },
   {
@@ -369,9 +432,9 @@
     "ky": "электр станциясы",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%D1%81%D1%8B",
     "ruAccented": "электроста'нция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%D1%81%D1%8B",
     "id": "ru-электростанция-001"
   },
   {
@@ -387,12 +450,12 @@
     "ky": "өзүмчүлдүк",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BC%D1%87%D2%AF%D0%BB%D0%B4%D2%AF%D0%BA",
-    "etymology": "From өз (öz, “self”) + -үм (-üm) + -чүл (-cül) + -дүк (-dük).",
     "pronunciation": "[øzymt͡ʃylˈdyk]",
+    "etymology": "From өз (öz, “self”) + -үм (-üm) + -чүл (-cül) + -дүк (-dük).",
     "ruAccented": "эгои'зм",
     "ruGender": "m",
     "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BC%D1%87%D2%AF%D0%BB%D0%B4%D2%AF%D0%BA",
     "id": "ru-эгоизм-001"
   },
   {
@@ -400,10 +463,10 @@
     "ky": "эпидемия",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F",
     "ruAccented": "эпиде'мия",
     "ruGender": "f",
     "frequency": 17,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F",
     "id": "ru-эпидемия-001"
   },
   {
@@ -411,7 +474,9 @@
     "ky": "таасир",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B0%D1%81%D0%B8%D1%80",
+    "ruAccented": "эффе'кт",
+    "ruGender": "m",
+    "frequency": 492,
     "examples": [
       {
         "ky": "– Компаниядан чыккан өндүрүштүк чыгындылар Кумтөр жана Нарын сууларына кандай таасир этет?",
@@ -422,9 +487,7 @@
         "ru": "так сильно влияют на людей."
       }
     ],
-    "ruAccented": "эффе'кт",
-    "ruGender": "m",
-    "frequency": 492,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B0%D1%81%D0%B8%D1%80",
     "id": "ru-эффект-001"
   },
   {
@@ -432,7 +495,8 @@
     "ky": "майнап",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B9%D0%BD%D0%B0%D0%BF",
+    "ruAccented": "эффе'кт",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "алар мага койгон айыптарынын бири дагы такталбаганда, мындан эч кандай майнап",
@@ -443,8 +507,7 @@
         "ru": "Но все попытки оказались тщетны."
       }
     ],
-    "ruAccented": "эффе'кт",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B9%D0%BD%D0%B0%D0%BF",
     "id": "ru-эффект-002"
   },
   {
@@ -452,9 +515,9 @@
     "ky": "эскалатор",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%BA%D0%B0%D0%BB%D0%B0%D1%82%D0%BE%D1%80",
     "ruAccented": "эскала'тор",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%BA%D0%B0%D0%BB%D0%B0%D1%82%D0%BE%D1%80",
     "id": "ru-эскалатор-001"
   },
   {
@@ -462,8 +525,8 @@
     "ky": "башка өлкөгө көчү",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D0%B0%20%D3%A9%D0%BB%D0%BA%D3%A9%D0%B3%D3%A9%20%D0%BA%D3%A9%D1%87%D2%AF",
     "ruAccented": "эмигри'ровать",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D0%B0%20%D3%A9%D0%BB%D0%BA%D3%A9%D0%B3%D3%A9%20%D0%BA%D3%A9%D1%87%D2%AF",
     "id": "ru-эмигрировать-001"
   },
   {
@@ -471,9 +534,9 @@
     "ky": "кеткенчи",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D0%BA%D0%B5%D0%BD%D1%87%D0%B8",
     "ruAccented": "эмигра'нт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D0%BA%D0%B5%D0%BD%D1%87%D0%B8",
     "id": "ru-эмигрант-001"
   },
   {
@@ -489,9 +552,9 @@
     "ky": "экзема",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B7%D0%B5%D0%BC%D0%B0",
     "ruAccented": "экзе'ма",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B7%D0%B5%D0%BC%D0%B0",
     "id": "ru-экзема-001"
   },
   {
@@ -531,10 +594,11 @@
     "ky": "эмаль",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B0%D0%BB%D1%8C",
     "senses": [
       "тонкое стекловидное покрытие"
     ],
+    "ruAccented": "эма'ль",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Жазуу жана улуттук оюмдун элементтери дөмпөйтүлгөн, түстүү эмаль менен жасалган кочкул кызыл фондо жайгашкан.Ордендин арткы бетинин төмөнкү бөлүгүндө катар номери жайгашкан.",
@@ -545,8 +609,7 @@
         "ru": "Все элементы тумара покрыты золотом, расположены на синем фоне, выполненном синей эмалью.Лицевая сторона звезды украшена национальным орнаментом."
       }
     ],
-    "ruAccented": "эма'ль",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B0%D0%BB%D1%8C",
     "id": "ru-эмаль-001"
   },
   {
@@ -570,12 +633,12 @@
     "ky": "кеткенчилик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D0%BA%D0%B5%D0%BD%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "senses": [
       "переселение из своего отечества в другую страну"
     ],
     "ruAccented": "эмигра'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D0%BA%D0%B5%D0%BD%D1%87%D0%B8%D0%BB%D0%B8%D0%BA",
     "id": "ru-эмиграция-001"
   },
   {
@@ -607,9 +670,9 @@
     "ky": "эпиграмма",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0",
     "ruAccented": "эпигра'мма",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0",
     "id": "ru-эпиграмма-001"
   },
   {
@@ -617,9 +680,9 @@
     "ky": "эпидемиология",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "ruAccented": "эпидемиоло'гия",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "id": "ru-эпидемиология-001"
   },
   {
@@ -635,9 +698,9 @@
     "ky": "талма",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BB%D0%BC%D0%B0",
     "ruAccented": "эпиле'псия",
     "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BB%D0%BC%D0%B0",
     "id": "ru-эпилепсия-001"
   },
   {
@@ -653,9 +716,9 @@
     "ky": "эрудиция",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D1%83%D0%B4%D0%B8%D1%86%D0%B8%D1%8F",
     "ruAccented": "эруди'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D1%83%D0%B4%D0%B8%D1%86%D0%B8%D1%8F",
     "id": "ru-эрудиция-001"
   },
   {
@@ -671,9 +734,9 @@
     "ky": "этнография",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
     "ruAccented": "этногра'фия",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
     "id": "ru-этнография-001"
   },
   {
@@ -713,7 +776,8 @@
     "ky": "экстремизм",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D0%B7%D0%BC",
+    "ruAccented": "экстреми'зм",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Зомбулуксуз экстремизм үчүн",
@@ -724,8 +788,7 @@
         "ru": "срок за экстремизм и терроризм, встречаются с большим количеством стигмы."
       }
     ],
-    "ruAccented": "экстреми'зм",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D0%B7%D0%BC",
     "id": "ru-экстремизм-001"
   },
   {
@@ -733,8 +796,8 @@
     "ky": "электродвигатель",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
     "ruAccented": "электродви'гатель",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C",
     "id": "ru-электродвигатель-001"
   },
   {
@@ -742,8 +805,8 @@
     "ky": "электр кыймылдаткычы",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB%D0%B4%D0%B0%D1%82%D0%BA%D1%8B%D1%87%D1%8B",
     "ruAccented": "электродви'гатель",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB%D0%B4%D0%B0%D1%82%D0%BA%D1%8B%D1%87%D1%8B",
     "id": "ru-электродвигатель-002"
   },
   {
@@ -759,8 +822,8 @@
     "ky": "электролит",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BB%D0%B8%D1%82",
     "ruAccented": "электроли'т",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BB%D0%B8%D1%82",
     "id": "ru-электролит-001"
   },
   {
@@ -784,10 +847,10 @@
     "ky": "эллипс",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%81",
     "senses": [
       "замкнутая кривая"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%BB%D0%B8%D0%BF%D1%81",
     "id": "ru-эллипс-001"
   },
   {
@@ -811,11 +874,11 @@
     "ky": "эмирлик",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D1%80%D0%BB%D0%B8%D0%BA",
-    "etymology": "From эмир (emir, “emir”) + лик (lik).",
     "pronunciation": "/emirˈɫik/",
+    "etymology": "From эмир (emir, “emir”) + лик (lik).",
     "ruAccented": "эмира'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D1%80%D0%BB%D0%B8%D0%BA",
     "id": "ru-эмират-001"
   },
   {
@@ -831,9 +894,9 @@
     "ky": "эритроцит",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B8%D1%82%D1%80%D0%BE%D1%86%D0%B8%D1%82",
     "ruAccented": "эритроци'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B8%D1%82%D1%80%D0%BE%D1%86%D0%B8%D1%82",
     "id": "ru-эритроцит-001"
   },
   {
@@ -873,16 +936,16 @@
     "ky": "сап",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF",
     "etymology": "From Proto-Turkic *sap. Cognate to Southern Altai сап (sap), etc.",
+    "ruAccented": "эфе'с",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "үй-бүлөлүк башкаруусуна жана диктатурасына каршы күрөштө сап башында болду,",
         "ru": "авангарде борьбы против семейного правления и диктатуры Акаева, боролась против"
       }
     ],
-    "ruAccented": "эфе'с",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF",
     "id": "ru-эфес-001"
   },
   {
@@ -890,9 +953,9 @@
     "ky": "экспериментатор",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%82%D0%BE%D1%80",
     "ruAccented": "эксперимента'тор",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%82%D0%BE%D1%80",
     "id": "ru-экспериментатор-001"
   },
   {
@@ -908,9 +971,9 @@
     "ky": "экстремист",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D1%81%D1%82",
     "ruAccented": "экстреми'ст",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D1%81%D1%82",
     "id": "ru-экстремист-001"
   },
   {
@@ -926,12 +989,12 @@
     "ky": "эмир",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D1%80",
-    "etymology": "From Arabic أَمِيرْ (ʔamīr).",
     "pronunciation": "/eˈmir/",
+    "etymology": "From Arabic أَمِيرْ (ʔamīr).",
     "ruAccented": "эми'р",
     "ruGender": "m",
     "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D1%80",
     "id": "ru-эмир-001"
   },
   {
@@ -939,9 +1002,9 @@
     "ky": "эпидемиолог",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3",
     "ruAccented": "эпидемио'лог",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B4%D0%B5%D0%BC%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3",
     "id": "ru-эпидемиолог-001"
   },
   {
@@ -957,9 +1020,9 @@
     "ky": "электр менен жабдуу",
     "pos": "noun",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%20%D0%B6%D0%B0%D0%B1%D0%B4%D1%83%D1%83",
     "ruAccented": "электроснабже'ние",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%20%D0%B6%D0%B0%D0%B1%D0%B4%D1%83%D1%83",
     "id": "ru-электроснабжение-001"
   },
   {
@@ -967,8 +1030,8 @@
     "ky": "серпилмелүү",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D1%80%D0%BF%D0%B8%D0%BB%D0%BC%D0%B5%D0%BB%D2%AF%D2%AF",
     "ruAccented": "эласти'чный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D1%80%D0%BF%D0%B8%D0%BB%D0%BC%D0%B5%D0%BB%D2%AF%D2%AF",
     "id": "ru-эластичный-001"
   },
   {
@@ -992,8 +1055,8 @@
     "ky": "электрохимиялык",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "ruAccented": "электрохими'ческий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA",
     "id": "ru-электрохимический-001"
   },
   {
@@ -1001,7 +1064,8 @@
     "ky": "эстетикалык",
     "pos": "adj",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
+    "ruAccented": "эстети'ческий",
+    "frequency": 26,
     "examples": [
       {
         "ky": "Эстетикалык жагымдуулуктан тышкары толкундуу черепица техникалык жакта көп артыкчылыктарга ээ болот.",
@@ -1012,8 +1076,7 @@
         "ru": "Благодаря волокнистоцементному сайдингу можно забыть о проблемах, наслаждаясь эстетичным видом фасада здания и приятным ощущением естественной теплоты дерева."
       }
     ],
-    "ruAccented": "эстети'ческий",
-    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-эстетический-001"
   },
   {
@@ -1021,8 +1084,8 @@
     "ky": "экспортто",
     "pos": "verb",
     "source": "wiktionary-ru",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%82%D0%BE",
     "ruAccented": "экспорти'ровать",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%82%D0%BE",
     "id": "ru-экспортировать-001"
   },
   {
@@ -1214,13 +1277,13 @@
     "ky": "энциклопедия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F",
     "senses": [
       "comprehensive reference work with articles on a range of topics"
     ],
     "ruAccented": "энциклопе'дия",
     "ruGender": "f",
     "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F",
     "id": "ru-энциклопедия-001"
   },
   {
@@ -1228,10 +1291,10 @@
     "ky": "этимология",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "senses": [
       "study of the historical development of languages, particularly of individual words"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "id": "ru-этимология-002"
   },
   {
@@ -1239,10 +1302,10 @@
     "ky": "Бириккен Араб Эмирликтери",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%B8%D1%80%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%20%D0%90%D1%80%D0%B0%D0%B1%20%D0%AD%D0%BC%D0%B8%D1%80%D0%BB%D0%B8%D0%BA%D1%82%D0%B5%D1%80%D0%B8",
     "senses": [
       "country in West Asia"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%B8%D1%80%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%20%D0%90%D1%80%D0%B0%D0%B1%20%D0%AD%D0%BC%D0%B8%D1%80%D0%BB%D0%B8%D0%BA%D1%82%D0%B5%D1%80%D0%B8",
     "id": "ru-Эмираты-001"
   },
   {
@@ -1250,10 +1313,10 @@
     "ky": "БАЭ",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%90%D0%AD",
     "senses": [
       "country in West Asia"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%90%D0%AD",
     "id": "ru-Эмираты-002"
   },
   {
@@ -1261,12 +1324,12 @@
     "ky": "Эстония",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F",
     "senses": [
       "country in northeastern Europe"
     ],
     "ruAccented": "Эсто'ния",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F",
     "id": "ru-Эстония-001"
   },
   {
@@ -1274,10 +1337,12 @@
     "ky": "экономика",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0",
     "senses": [
       "study"
     ],
+    "ruAccented": "эконо'мика",
+    "ruGender": "f",
+    "frequency": 649,
     "examples": [
       {
         "ky": "- Жогорку билими, экономика жана финансы чөйрөсүндө артыкчылык берилет;",
@@ -1288,9 +1353,7 @@
         "ru": "- Знание финансового и банковского сектора, основ экономики и менеджмента;"
       }
     ],
-    "ruAccented": "эконо'мика",
-    "ruGender": "f",
-    "frequency": 649,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0",
     "id": "ru-экономика-002"
   },
   {
@@ -1298,10 +1361,10 @@
     "ky": "Эквадор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%BA%D0%B2%D0%B0%D0%B4%D0%BE%D1%80",
     "senses": [
       "country in South America"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%BA%D0%B2%D0%B0%D0%B4%D0%BE%D1%80",
     "id": "ru-Эквадор-001"
   },
   {
@@ -1309,13 +1372,13 @@
     "ky": "Эфиопия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%84%D0%B8%D0%BE%D0%BF%D0%B8%D1%8F",
     "senses": [
       "country in Eastern Africa"
     ],
     "ruAccented": "Эфио'пия",
     "ruGender": "f",
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%84%D0%B8%D0%BE%D0%BF%D0%B8%D1%8F",
     "id": "ru-Эфиопия-001"
   },
   {
@@ -1323,10 +1386,10 @@
     "ky": "компьютер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80",
     "senses": [
       "programmable electronic device"
     ],
+    "frequency": 33,
     "examples": [
       {
         "ky": "Брайльдын шрифти менен окуу жана жазууну үйрөтүү, компьютер жана смартфон менен колдонууну үйрөтүү,",
@@ -1337,7 +1400,7 @@
         "ru": "— оснащение компьютерной техникой региональных ячеек Киргизского общества слепых и глухих;"
       }
     ],
-    "frequency": 33,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80",
     "id": "ru-ЭВМ-001"
   },
   {
@@ -1345,10 +1408,10 @@
     "ky": "эсепкер",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%B5%D0%BF%D0%BA%D0%B5%D1%80",
     "senses": [
       "programmable electronic device"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%B5%D0%BF%D0%BA%D0%B5%D1%80",
     "id": "ru-ЭВМ-002"
   },
   {
@@ -1356,10 +1419,10 @@
     "ky": "Эритрея",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B8%D1%82%D1%80%D0%B5%D1%8F",
     "senses": [
       "country in Eastern Africa"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B8%D1%82%D1%80%D0%B5%D1%8F",
     "id": "ru-Эритрея-001"
   },
   {
@@ -1367,13 +1430,13 @@
     "ky": "ал",
     "pos": "pron",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB",
     "senses": [
       "subject — inanimate thing"
     ],
-    "etymology": "From Proto-Turkic *ol (“he, she, it; that”).",
     "pronunciation": "/ɑɫ/",
+    "etymology": "From Proto-Turkic *ol (“he, she, it; that”).",
     "frequency": 40828,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB",
     "id": "ru-это-002"
   },
   {
@@ -1381,19 +1444,19 @@
     "ky": "символ",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB",
     "senses": [
       "object meant to represent another"
     ],
+    "ruAccented": "эмбле'ма",
+    "ruGender": "f",
+    "frequency": 22,
     "examples": [
       {
         "ky": "Ченемдик укуктук актылардын тексттеринде сүрөт, аббревиатура, эмблема, географиялык сүрөттөмө, символ жана башка түрдөгү атайын белгилемелер колдонулушу мүмкүн.",
         "ru": "В текстах нормативных правовых актов могут быть использованы специальные обозначения в виде рисунков, аббревиатур, эмблем, географических изображений, символов и других."
       }
     ],
-    "ruAccented": "эмбле'ма",
-    "ruGender": "f",
-    "frequency": 22,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB",
     "id": "ru-эмблема-001"
   },
   {
@@ -1401,11 +1464,13 @@
     "ky": "белги",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8",
     "senses": [
       "object meant to represent another"
     ],
     "etymology": "From Proto-Turkic *bẹlgü.",
+    "ruAccented": "эмбле'ма",
+    "ruGender": "f",
+    "frequency": 503,
     "examples": [
       {
         "ky": "Эн белги төмөнкү форматтарда жеткиликтүү:",
@@ -1416,9 +1481,7 @@
         "ru": "- Кыргызская политика формируется в основном по региональному признаку."
       }
     ],
-    "ruAccented": "эмбле'ма",
-    "ruGender": "f",
-    "frequency": 503,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8",
     "id": "ru-эмблема-002"
   },
   {
@@ -1426,10 +1489,10 @@
     "ky": "жашоо",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D0%BE%D0%BE",
     "senses": [
       "state of being, existing, or occurring"
     ],
+    "frequency": 62,
     "examples": [
       {
         "ky": "Бул жерден вулкандар өрөөнүн, тоо гориллаларын жана башка африкалык жаныбарларды жана алардын табигый жашоо чөйрөсүн көрүүгө болот.",
@@ -1440,7 +1503,7 @@
         "ru": "Президент Казахстана: за столкновениями в Кордайском районе стоят «криминальные группы»"
       }
     ],
-    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D0%BE%D0%BE",
     "id": "ru-экзистенция-001"
   },
   {
@@ -1448,10 +1511,11 @@
     "ky": "бул",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "senses": [
       "the (thing) here"
     ],
+    "ruAccented": "э'тот",
+    "frequency": 13727,
     "examples": [
       {
         "ky": "Ошондуктан, бул көз караштын ээлеринин өз позицияларына бекем экендиктерине карабастан туруп, толугу менен жаӊылыш пикир деп жыйынтык чыгарууга негиз бар.",
@@ -1462,8 +1526,7 @@
         "ru": "Это происходит за счет постепенного замещения иностранных специалистов, работающих на предприятии, местными кадрами."
       }
     ],
-    "ruAccented": "э'тот",
-    "frequency": 13727,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "id": "ru-этот-001"
   },
   {
@@ -1471,10 +1534,10 @@
     "ky": "бул",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "senses": [
       "the (thing) here"
     ],
+    "frequency": 13727,
     "examples": [
       {
         "ky": "Ошондуктан, бул көз караштын ээлеринин өз позицияларына бекем экендиктерине карабастан туруп, толугу менен жаӊылыш пикир деп жыйынтык чыгарууга негиз бар.",
@@ -1485,7 +1548,7 @@
         "ru": "Это происходит за счет постепенного замещения иностранных специалистов, работающих на предприятии, местными кадрами."
       }
     ],
-    "frequency": 13727,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "id": "ru-эта-001"
   },
   {
@@ -1493,10 +1556,10 @@
     "ky": "бул",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "senses": [
       "the (thing) here"
     ],
+    "frequency": 13727,
     "examples": [
       {
         "ky": "Ошондуктан, бул көз караштын ээлеринин өз позицияларына бекем экендиктерине карабастан туруп, толугу менен жаӊылыш пикир деп жыйынтык чыгарууга негиз бар.",
@@ -1507,7 +1570,7 @@
         "ru": "Это происходит за счет постепенного замещения иностранных специалистов, работающих на предприятии, местными кадрами."
       }
     ],
-    "frequency": 13727,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB",
     "id": "ru-эти-001"
   },
   {
@@ -1515,13 +1578,13 @@
     "ky": "экипаж",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6",
     "senses": [
       "group of people operating a large facility or piece of equipment"
     ],
     "ruAccented": "экипа'ж",
     "ruGender": "m",
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B8%D0%BF%D0%B0%D0%B6",
     "id": "ru-экипаж-001"
   },
   {
@@ -1529,10 +1592,12 @@
     "ky": "команда",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0",
     "senses": [
       "group of people operating a large facility or piece of equipment"
     ],
+    "ruAccented": "экипа'ж",
+    "ruGender": "m",
+    "frequency": 81,
     "examples": [
       {
         "ky": "аралаш команда түзсө болот.",
@@ -1543,9 +1608,7 @@
         "ru": "что должна прийти целая команда в правительство."
       }
     ],
-    "ruAccented": "экипа'ж",
-    "ruGender": "m",
-    "frequency": 81,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0",
     "id": "ru-экипаж-002"
   },
   {
@@ -1553,10 +1616,12 @@
     "ky": "тажрыйба",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B6%D1%80%D1%8B%D0%B9%D0%B1%D0%B0",
     "senses": [
       "test under controlled conditions"
     ],
+    "ruAccented": "экспериме'нт",
+    "ruGender": "m",
+    "frequency": 189,
     "examples": [
       {
         "ky": "Долбоордун максаты болуп алакаларды жөнгө салуу, ассоциациянын мүчөлөрүнүн арасында тажрыйба менен мүмкүндүктөрүн алмашуу үчүн платформа түзүү саналат.",
@@ -1567,9 +1632,7 @@
         "ru": "По сути, человек становится личностью тогда, когда он получает богатый опыт,"
       }
     ],
-    "ruAccented": "экспериме'нт",
-    "ruGender": "m",
-    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B6%D1%80%D1%8B%D0%B9%D0%B1%D0%B0",
     "id": "ru-эксперимент-001"
   },
   {
@@ -1577,19 +1640,19 @@
     "ky": "эксперимент",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82",
     "senses": [
       "test under controlled conditions"
     ],
+    "ruAccented": "экспериме'нт",
+    "ruGender": "m",
+    "frequency": 37,
     "examples": [
       {
         "ky": "акыркы фестивал- бул чогултма оркестрлер кандай иштээрин көрсөткөн эксперимент",
         "ru": "эксперимента, который заключался в том, чтобы посмотреть, как работает сборный"
       }
     ],
-    "ruAccented": "экспериме'нт",
-    "ruGender": "m",
-    "frequency": 37,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82",
     "id": "ru-эксперимент-002"
   },
   {
@@ -1597,12 +1660,12 @@
     "ky": "эпилог",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%BB%D0%BE%D0%B3",
     "senses": [
       "short speech at the end of a play"
     ],
     "ruAccented": "эпило'г",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%BB%D0%BE%D0%B3",
     "id": "ru-эпилог-001"
   },
   {
@@ -1610,11 +1673,13 @@
     "ky": "окуя",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D1%8F",
     "senses": [
       "incident or action connected with a series of events"
     ],
     "pronunciation": "/oquja/",
+    "ruAccented": "эпизо'д",
+    "ruGender": "m",
+    "frequency": 524,
     "examples": [
       {
         "ky": "Фарход Азизхондун туугандары окуя тууралуу өз версиясын айтыша элек.Куляб шаардык ички иштер башкармалыгынын кызматкери Фарход Азизхондун кармалганын тастыктады, бирок себебин айткан жок.",
@@ -1625,9 +1690,7 @@
         "ru": "Несколько лет назад произошел аналогичный случай, когда беркут напал на фотографа Игоря Коваленко."
       }
     ],
-    "ruAccented": "эпизо'д",
-    "ruGender": "m",
-    "frequency": 524,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D1%8F",
     "id": "ru-эпизод-001"
   },
   {
@@ -1635,12 +1698,12 @@
     "ky": "эпизод",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4",
     "senses": [
       "instalment of a drama told in parts"
     ],
     "ruAccented": "эпизо'д",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4",
     "id": "ru-эпизод-002"
   },
   {
@@ -1648,12 +1711,12 @@
     "ky": "эйфория",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B9%D1%84%D0%BE%D1%80%D0%B8%D1%8F",
     "senses": [
       "an excited state of joy"
     ],
     "ruAccented": "эйфори'я",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B9%D1%84%D0%BE%D1%80%D0%B8%D1%8F",
     "id": "ru-эйфория-001"
   },
   {
@@ -1661,7 +1724,6 @@
     "ky": "доор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BE%D1%80",
     "senses": [
       "time period"
     ],
@@ -1669,6 +1731,7 @@
     "ruAccented": "э'ра",
     "ruGender": "f",
     "frequency": 128,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BE%D1%80",
     "id": "ru-эра-001"
   },
   {
@@ -1676,12 +1739,12 @@
     "ky": "эра",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B0",
     "senses": [
       "time period"
     ],
     "ruAccented": "э'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B0",
     "id": "ru-эра-002"
   },
   {
@@ -1689,12 +1752,14 @@
     "ky": "заман",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%B0%D0%BD",
     "senses": [
       "time period"
     ],
-    "etymology": "From Persian زمان (zamân).",
     "pronunciation": "/zɑˈmɑn/",
+    "etymology": "From Persian زمان (zamân).",
+    "ruAccented": "э'ра",
+    "ruGender": "f",
+    "frequency": 368,
     "examples": [
       {
         "ky": "Бул мегаполисте тарых жана азыркы заман абдан катуу түптөлгөн,",
@@ -1705,9 +1770,7 @@
         "ru": "Искать виноватого и причитать о конце света – занятие приятное, но"
       }
     ],
-    "ruAccented": "э'ра",
-    "ruGender": "f",
-    "frequency": 368,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%B0%D0%BD",
     "id": "ru-эра-003"
   },
   {
@@ -1715,7 +1778,6 @@
     "ky": "доор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BE%D1%80",
     "senses": [
       "time period"
     ],
@@ -1723,6 +1785,7 @@
     "ruAccented": "эпо'ха",
     "ruGender": "f",
     "frequency": 128,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BE%D1%80",
     "id": "ru-эпоха-001"
   },
   {
@@ -1730,12 +1793,12 @@
     "ky": "эра",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B0",
     "senses": [
       "time period"
     ],
     "ruAccented": "эпо'ха",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B0",
     "id": "ru-эпоха-002"
   },
   {
@@ -1743,12 +1806,14 @@
     "ky": "заман",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%B0%D0%BD",
     "senses": [
       "time period"
     ],
-    "etymology": "From Persian زمان (zamân).",
     "pronunciation": "/zɑˈmɑn/",
+    "etymology": "From Persian زمان (zamân).",
+    "ruAccented": "эпо'ха",
+    "ruGender": "f",
+    "frequency": 368,
     "examples": [
       {
         "ky": "Бул мегаполисте тарых жана азыркы заман абдан катуу түптөлгөн,",
@@ -1759,9 +1824,7 @@
         "ru": "Искать виноватого и причитать о конце света – занятие приятное, но"
       }
     ],
-    "ruAccented": "эпо'ха",
-    "ruGender": "f",
-    "frequency": 368,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%B0%D0%BD",
     "id": "ru-эпоха-003"
   },
   {
@@ -1769,10 +1832,12 @@
     "ky": "натыйжа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%82%D1%8B%D0%B9%D0%B6%D0%B0",
     "senses": [
       "result of an action"
     ],
+    "ruAccented": "эффе'кт",
+    "ruGender": "m",
+    "frequency": 1137,
     "examples": [
       {
         "ky": "Ал, Украинада жарым жартылай киргизип жаткандыгын, азырынча жакшы натыйжа боло электигин айтып, чынын жооп берди.",
@@ -1783,9 +1848,7 @@
         "ru": "получит доступ к оружию, даже сложно предположить, какие последствия нас"
       }
     ],
-    "ruAccented": "эффе'кт",
-    "ruGender": "m",
-    "frequency": 1137,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%82%D1%8B%D0%B9%D0%B6%D0%B0",
     "id": "ru-эффект-003"
   },
   {
@@ -1793,10 +1856,11 @@
     "ky": "эффект",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82",
     "senses": [
       "result of an action"
     ],
+    "ruAccented": "эффе'кт",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Мамлекет салык жана төлөмдөр түрүндөгү түз жана региондорду өнүктүрүү менен мультипликативдик эффект жүзүндөгү тике кирешелерди алат.",
@@ -1807,8 +1871,7 @@
         "ru": "так и косвенные, в виде развития региона и мультипликативного эффекта. По нашим"
       }
     ],
-    "ruAccented": "эффе'кт",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82",
     "id": "ru-эффект-004"
   },
   {
@@ -1816,10 +1879,11 @@
     "ky": "электр",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80",
     "senses": [
       "electrical"
     ],
+    "ruAccented": "электри'ческий",
+    "frequency": 390,
     "examples": [
       {
         "ky": "Электр байланыш жана маалымат өткөрүү жаатында лицензия",
@@ -1830,8 +1894,7 @@
         "ru": "В Бишкеке будет построен первый в стране IT-лицей - КТРК"
       }
     ],
-    "ruAccented": "электри'ческий",
-    "frequency": 390,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80",
     "id": "ru-электрический-001"
   },
   {
@@ -1839,10 +1902,10 @@
     "ky": "электр",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80",
     "senses": [
       "electrical"
     ],
+    "frequency": 390,
     "examples": [
       {
         "ky": "Электр байланыш жана маалымат өткөрүү жаатында лицензия",
@@ -1853,7 +1916,7 @@
         "ru": "В Бишкеке будет построен первый в стране IT-лицей - КТРК"
       }
     ],
-    "frequency": 390,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80",
     "id": "ru-электро--001"
   },
   {
@@ -1861,10 +1924,12 @@
     "ky": "энергия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "senses": [
       "electricity, electricity supply"
     ],
+    "ruAccented": "электри'чество",
+    "ruGender": "n",
+    "frequency": 189,
     "examples": [
       {
         "ky": "Бизде калыбына келүүчү энергия булактарына байланыштуу дагы көптөгөн нерселер бар.",
@@ -1875,9 +1940,7 @@
         "ru": "энергии, используем только ОДИН процент своего потенциала!"
       }
     ],
-    "ruAccented": "электри'чество",
-    "ruGender": "n",
-    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "id": "ru-электричество-001"
   },
   {
@@ -1885,10 +1948,12 @@
     "ky": "энергия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "senses": [
       "electricity, electricity supply"
     ],
+    "ruAccented": "электроэне'ргия",
+    "ruGender": "f",
+    "frequency": 189,
     "examples": [
       {
         "ky": "Бизде калыбына келүүчү энергия булактарына байланыштуу дагы көптөгөн нерселер бар.",
@@ -1899,9 +1964,7 @@
         "ru": "энергии, используем только ОДИН процент своего потенциала!"
       }
     ],
-    "ruAccented": "электроэне'ргия",
-    "ruGender": "f",
-    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "id": "ru-электроэнергия-001"
   },
   {
@@ -1909,10 +1972,10 @@
     "ky": "энергия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "senses": [
       "electricity, electricity supply"
     ],
+    "frequency": 189,
     "examples": [
       {
         "ky": "Бизде калыбына келүүчү энергия булактарына байланыштуу дагы көптөгөн нерселер бар.",
@@ -1923,7 +1986,7 @@
         "ru": "энергии, используем только ОДИН процент своего потенциала!"
       }
     ],
-    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
     "id": "ru-электроток-001"
   },
   {
@@ -1931,18 +1994,18 @@
     "ky": "лифт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D1%84%D1%82",
     "senses": [
       "mechanical device for vertically transporting goods or people"
     ],
+    "ruAccented": "элева'тор",
+    "frequency": 11,
     "examples": [
       {
         "ky": "Билим берүүнү социалдык лифт катары колдонуу маанилүү.",
         "ru": "Важно использовать образование как социальный лифт."
       }
     ],
-    "ruAccented": "элева'тор",
-    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D1%84%D1%82",
     "id": "ru-элеватор-001"
   },
   {
@@ -1950,11 +2013,11 @@
     "ky": "көтөргүч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%82%D3%A9%D1%80%D0%B3%D2%AF%D1%87",
     "senses": [
       "mechanical device for vertically transporting goods or people"
     ],
     "ruAccented": "элева'тор",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%82%D3%A9%D1%80%D0%B3%D2%AF%D1%87",
     "id": "ru-элеватор-002"
   },
   {
@@ -1962,12 +2025,12 @@
     "ky": "дисплей",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9",
     "senses": [
       "electronic screen"
     ],
     "ruAccented": "экра'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B5%D0%B9",
     "id": "ru-экран-001"
   },
   {
@@ -1975,12 +2038,12 @@
     "ky": "фекалия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D0%BA%D0%B0%D0%BB%D0%B8%D1%8F",
     "senses": [
       "digested waste material discharged from the bowels"
     ],
     "ruAccented": "экскреме'нты",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D0%BA%D0%B0%D0%BB%D0%B8%D1%8F",
     "id": "ru-экскременты-001"
   },
   {
@@ -1988,10 +2051,12 @@
     "ky": "тест",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D1%82",
     "senses": [
       "academics: examination"
     ],
+    "ruAccented": "экза'мен",
+    "ruGender": "m",
+    "frequency": 23,
     "examples": [
       {
         "ky": "Курс аяктаганда катышуучулар тест тапшырышат, анын натыйжасында ички аудит боюнча сертификация алган эксперттер аныкталат.",
@@ -2002,9 +2067,7 @@
         "ru": "Общественное обсуждение законопроектов Тест"
       }
     ],
-    "ruAccented": "экза'мен",
-    "ruGender": "m",
-    "frequency": 23,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D1%82",
     "id": "ru-экзамен-002"
   },
   {
@@ -2012,18 +2075,18 @@
     "ky": "экзамен",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD",
     "senses": [
       "academics: examination"
     ],
+    "ruAccented": "экза'мен",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Ири залдын сахнасына чыгып мамлекеттик экзамен тапшыраар маалында мага чоң даярдоочу ишти аткарууга туура келди.",
         "ru": "Перед ее выступлением на госэкзамене на сцене большого зала, мне пришлось провести большую подготовительную работу."
       }
     ],
-    "ruAccented": "экза'мен",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD",
     "id": "ru-экзамен-003"
   },
   {
@@ -2031,12 +2094,12 @@
     "ky": "Эдинбург",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B4%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3",
     "senses": [
       "capital of Scotland"
     ],
     "ruAccented": "Э'динбург",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B4%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3",
     "id": "ru-Эдинбург-001"
   },
   {
@@ -2044,11 +2107,11 @@
     "ky": "Эр-Рияд",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80-%D0%A0%D0%B8%D1%8F%D0%B4",
     "senses": [
       "capital of Saudi Arabia"
     ],
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80-%D0%A0%D0%B8%D1%8F%D0%B4",
     "id": "ru-Эр-Рияд-001"
   },
   {
@@ -2056,19 +2119,19 @@
     "ky": "элемент",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82",
     "senses": [
       "simplest or essential part or principle of anything"
     ],
+    "ruAccented": "элеме'нт",
+    "ruGender": "m",
+    "frequency": 52,
     "examples": [
       {
         "ky": "Күчүн жоготкон структуралык элемент ошол структуралык элементке кийин өзгөртүүлөрдү жана (же) толуктоолорду киргизүүдө эсепке алынат.",
         "ru": "Утративший силу структурный элемент участвует в подсчете при последующем внесении изменений и (или) дополнений в данный структурный элемент."
       }
     ],
-    "ruAccented": "элеме'нт",
-    "ruGender": "m",
-    "frequency": 52,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82",
     "id": "ru-элемент-001"
   },
   {
@@ -2076,10 +2139,12 @@
     "ky": "электр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80",
     "senses": [
       "form of energy"
     ],
+    "ruAccented": "электри'чество",
+    "ruGender": "n",
+    "frequency": 390,
     "examples": [
       {
         "ky": "Электр байланыш жана маалымат өткөрүү жаатында лицензия",
@@ -2090,9 +2155,7 @@
         "ru": "В Бишкеке будет построен первый в стране IT-лицей - КТРК"
       }
     ],
-    "ruAccented": "электри'чество",
-    "ruGender": "n",
-    "frequency": 390,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80",
     "id": "ru-электричество-002"
   },
   {
@@ -2100,12 +2163,12 @@
     "ky": "электричество",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
     "senses": [
       "form of energy"
     ],
     "ruAccented": "электри'чество",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
     "id": "ru-электричество-003"
   },
   {
@@ -2113,12 +2176,12 @@
     "ky": "этикетка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BA%D0%B0",
     "senses": [
       "small ticket or sign giving information"
     ],
     "ruAccented": "этике'тка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BA%D0%B0",
     "id": "ru-этикетка-001"
   },
   {
@@ -2126,12 +2189,12 @@
     "ky": "наклейка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0",
     "senses": [
       "small ticket or sign giving information"
     ],
     "ruAccented": "этике'тка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0",
     "id": "ru-этикетка-002"
   },
   {
@@ -2139,12 +2202,12 @@
     "ky": "анекдот",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B5%D0%BA%D0%B4%D0%BE%D1%82",
     "senses": [
       "short account of an incident"
     ],
     "ruAccented": "эпизо'д",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B5%D0%BA%D0%B4%D0%BE%D1%82",
     "id": "ru-эпизод-003"
   },
   {
@@ -2152,10 +2215,11 @@
     "ky": "этникалык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "of or relating to a group of people"
     ],
+    "ruAccented": "этни'ческий",
+    "frequency": 13,
     "examples": [
       {
         "ky": "Кыргызстан: Алмашып туруучу этникалык жагдай",
@@ -2166,8 +2230,7 @@
         "ru": "И самый опасный вариант — национализм этнический."
       }
     ],
-    "ruAccented": "этни'ческий",
-    "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-этнический-001"
   },
   {
@@ -2175,11 +2238,11 @@
     "ky": "чырак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%BA",
     "senses": [
       "evacuated glass bulb containing a metal filament that produces light"
     ],
     "frequency": 106,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%BA",
     "id": "ru-электрическая лампочка-002"
   },
   {
@@ -2187,11 +2250,11 @@
     "ky": "лампа",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0",
     "senses": [
       "evacuated glass bulb containing a metal filament that produces light"
     ],
     "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0",
     "id": "ru-электрическая лампочка-003"
   },
   {
@@ -2199,10 +2262,10 @@
     "ky": "лампочка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B0",
     "senses": [
       "evacuated glass bulb containing a metal filament that produces light"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B0",
     "id": "ru-электрическая лампочка-004"
   },
   {
@@ -2210,13 +2273,13 @@
     "ky": "араба",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%B1%D0%B0",
     "senses": [
       "wheeled vehicle, generally drawn by horse power — see also coach, wagon"
     ],
     "ruAccented": "экипа'ж",
     "ruGender": "m",
     "frequency": 193,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%B1%D0%B0",
     "id": "ru-экипаж-003"
   },
   {
@@ -2224,12 +2287,12 @@
     "ky": "көң",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D2%A3",
     "senses": [
       "manure"
     ],
     "ruAccented": "экскреме'нты",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D2%A3",
     "id": "ru-экскременты-002"
   },
   {
@@ -2237,13 +2300,13 @@
     "ky": "кык",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BA",
     "senses": [
       "manure"
     ],
     "ruAccented": "экскреме'нты",
     "ruGender": "m",
     "frequency": 76,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BA",
     "id": "ru-экскременты-003"
   },
   {
@@ -2251,12 +2314,12 @@
     "ky": "тезек",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B7%D0%B5%D0%BA",
     "senses": [
       "manure"
     ],
     "ruAccented": "экскреме'нты",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B7%D0%B5%D0%BA",
     "id": "ru-экскременты-004"
   },
   {
@@ -2264,13 +2327,13 @@
     "ky": "эскиз",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%BA%D0%B8%D0%B7",
     "senses": [
       "quick freehand drawing"
     ],
     "ruAccented": "эски'з",
     "ruGender": "m",
     "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%BA%D0%B8%D0%B7",
     "id": "ru-эскиз-001"
   },
   {
@@ -2278,14 +2341,14 @@
     "ky": "билгич",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87",
     "senses": [
       "person with extensive knowledge or ability"
     ],
-    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
     "pronunciation": "/bilɡit͡ʃ/",
+    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
     "ruAccented": "экспе'рт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87",
     "id": "ru-эксперт-001"
   },
   {
@@ -2293,11 +2356,11 @@
     "ky": "өлүм жазасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D0%BC%20%D0%B6%D0%B0%D0%B7%D0%B0%D1%81%D1%8B",
     "senses": [
       "act of putting to death or being put to death as a penalty"
     ],
     "ruAccented": "экзеку'ция",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D0%BC%20%D0%B6%D0%B0%D0%B7%D0%B0%D1%81%D1%8B",
     "id": "ru-экзекуция-001"
   },
   {
@@ -2305,11 +2368,11 @@
     "ky": "желдет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B4%D0%B5%D1%82",
     "senses": [
       "the person who carries out the execution"
     ],
     "frequency": 98,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B4%D0%B5%D1%82",
     "id": "ru-экзекутор-001"
   },
   {
@@ -2317,18 +2380,18 @@
     "ky": "эссе",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%81%D0%B5",
     "senses": [
       "written composition"
     ],
+    "ruAccented": "эссе'",
+    "ruGender": "n",
     "examples": [
       {
         "ky": "бардык балдар үйлөрүндө эссе сынагын уюштуруп, талапкерлер менен маектештик.",
         "ru": "конкурс эссе по всем детским домам, а также интервью-собеседования с"
       }
     ],
-    "ruAccented": "эссе'",
-    "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%81%D0%B5",
     "id": "ru-эссе-001"
   },
   {
@@ -2336,12 +2399,12 @@
     "ky": "дилбаян",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D0%BB%D0%B1%D0%B0%D1%8F%D0%BD",
     "senses": [
       "written composition"
     ],
     "ruAccented": "эссе'",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D0%BB%D0%B1%D0%B0%D1%8F%D0%BD",
     "id": "ru-эссе-002"
   },
   {
@@ -2349,13 +2412,13 @@
     "ky": "очерк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%87%D0%B5%D1%80%D0%BA",
     "senses": [
       "written composition"
     ],
     "ruAccented": "эссе'",
     "ruGender": "n",
     "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%87%D0%B5%D1%80%D0%BA",
     "id": "ru-эссе-003"
   },
   {
@@ -2363,12 +2426,12 @@
     "ky": "стадия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D1%8F",
     "senses": [
       "phase"
     ],
     "ruAccented": "эта'п",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D1%8F",
     "id": "ru-этап-001"
   },
   {
@@ -2376,21 +2439,21 @@
     "ky": "баскыч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87",
     "senses": [
       "phase"
     ],
-    "etymology": "From бас- (bas-) + -кыч (-kıc). Compare to Southern Altai баскыш (baskïš), etc.",
     "pronunciation": "/basˈqɯt͡ʃ/",
+    "etymology": "From бас- (bas-) + -кыч (-kıc). Compare to Southern Altai баскыш (baskïš), etc.",
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 38,
     "examples": [
       {
         "ky": "катышат, сынак 2 баскыч менен өтөт.",
         "ru": "Данные экзамены проводятся в 2 тура."
       }
     ],
-    "ruAccented": "эта'п",
-    "ruGender": "m",
-    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87",
     "id": "ru-этап-002"
   },
   {
@@ -2398,10 +2461,12 @@
     "ky": "этап",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%BF",
     "senses": [
       "phase"
     ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 76,
     "examples": [
       {
         "ky": "Компания территорияга жөн гана өзүнүн аракетин кеңейтпестен, долбоорду системалуу, этап менен аткарып жатканы маанилүү.",
@@ -2412,9 +2477,7 @@
         "ru": "Программа рассчитана до 2020 года и реализовывается в 3 этапа, на каждый из которых составляется отдельный план мероприятий."
       }
     ],
-    "ruAccented": "эта'п",
-    "ruGender": "m",
-    "frequency": 76,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%BF",
     "id": "ru-этап-003"
   },
   {
@@ -2422,10 +2485,12 @@
     "ky": "сахна",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%BD%D0%B0",
     "senses": [
       "in theatre"
     ],
+    "ruAccented": "эстра'да",
+    "ruGender": "f",
+    "frequency": 67,
     "examples": [
       {
         "ky": "Ошондой эле, фойе жана сахна реставрацияланып, жарык жана үн берүү системалары, жылытуу тутуму, артисттердин грим бөлмөлөрү оңдолот.",
@@ -2436,9 +2501,7 @@
         "ru": "театрализованное представление и колоритный караван участников фестиваля"
       }
     ],
-    "ruAccented": "эстра'да",
-    "ruGender": "f",
-    "frequency": 67,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%BD%D0%B0",
     "id": "ru-эстрада-001"
   },
   {
@@ -2446,12 +2509,12 @@
     "ky": "сцена",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%86%D0%B5%D0%BD%D0%B0",
     "senses": [
       "in theatre"
     ],
     "ruAccented": "эстра'да",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%86%D0%B5%D0%BD%D0%B0",
     "id": "ru-эстрада-002"
   },
   {
@@ -2459,10 +2522,10 @@
     "ky": "этно-",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%BE-",
     "senses": [
       "race, ethnicity"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%BE-",
     "id": "ru-этно--001"
   },
   {
@@ -2470,10 +2533,10 @@
     "ky": "электрондук почта",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B4%D1%83%D0%BA%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0",
     "senses": [
       "system for sending messages and datas by means of computers connected together in a network"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B4%D1%83%D0%BA%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0",
     "id": "ru-электронная почта-001"
   },
   {
@@ -2481,10 +2544,10 @@
     "ky": "электрондук почта",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B4%D1%83%D0%BA%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0",
     "senses": [
       "system for sending messages and datas by means of computers connected together in a network"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B4%D1%83%D0%BA%20%D0%BF%D0%BE%D1%87%D1%82%D0%B0",
     "id": "ru-электропочта-001"
   },
   {
@@ -2492,10 +2555,10 @@
     "ky": "поп-музыка",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0",
     "senses": [
       "music intended for or accepted by a wide audience — see also popular music"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0",
     "id": "ru-эстрадная музыка-001"
   },
   {
@@ -2503,45 +2566,45 @@
     "ky": "мораль",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C",
     "senses": [
       "recognition of or obedience to the rules of right conduct"
     ],
+    "ruAccented": "э'тика",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Бүгүн коомдогу мораль туурасында мен айта албайм, анткени мыйзам боюнча буга",
         "ru": "Сегодня говорить о морали общества я не могу, потому что по закону преступления подобного характера не должны подаваться в СМИ в том"
       }
     ],
-    "ruAccented": "э'тика",
-    "ruGender": "f",
-    "id": "ru-этика-001"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D1%8C",
+    "id": "ru-этика-002"
   },
   {
     "ru": "этика",
     "ky": "ахлак",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%85%D0%BB%D0%B0%D0%BA",
     "senses": [
       "recognition of or obedience to the rules of right conduct"
     ],
     "ruAccented": "э'тика",
     "ruGender": "f",
     "frequency": 4,
-    "id": "ru-этика-002"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%85%D0%BB%D0%B0%D0%BA",
+    "id": "ru-этика-003"
   },
   {
     "ru": "эпоха",
     "ky": "эпоха",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%85%D0%B0",
     "senses": [
       "particular period of history"
     ],
     "ruAccented": "эпо'ха",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%85%D0%B0",
     "id": "ru-эпоха-004"
   },
   {
@@ -2549,12 +2612,12 @@
     "ky": "эпоха",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%85%D0%B0",
     "senses": [
       "particular period of history"
     ],
     "ruAccented": "э'ра",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%85%D0%B0",
     "id": "ru-эра-004"
   },
   {
@@ -2562,12 +2625,12 @@
     "ky": "значок",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA",
     "senses": [
       "distinctive mark"
     ],
     "ruAccented": "эмбле'ма",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA",
     "id": "ru-эмблема-003"
   },
   {
@@ -2575,14 +2638,14 @@
     "ky": "өзгөртүм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D0%B3%D3%A9%D1%80%D1%82%D2%AF%D0%BC",
     "senses": [
       "general: a gradual process of development"
     ],
-    "etymology": "From өзгөрт- (özgört-, “to modify”) + -үм (-üm)",
     "pronunciation": "/øz.ɡørˈtym/",
+    "etymology": "From өзгөрт- (özgört-, “to modify”) + -үм (-üm)",
     "ruAccented": "эволю'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D0%B3%D3%A9%D1%80%D1%82%D2%AF%D0%BC",
     "id": "ru-эволюция-002"
   },
   {
@@ -2590,12 +2653,12 @@
     "ky": "эволюция",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F",
     "senses": [
       "biology: change in the genetic composition of a population over time"
     ],
     "ruAccented": "эволю'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F",
     "id": "ru-эволюция-003"
   },
   {
@@ -2603,15 +2666,15 @@
     "ky": "урук",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA",
     "senses": [
       "an unborn or unhatched vertebrate showing signs of the mature animal"
     ],
-    "etymology": "From Proto-Turkic *urug (“seed, child, girl”). Cognate to Karakalpak urıq, Kazakh ұрық (ūryq), Khakas урух (urux).",
     "pronunciation": "[ˈuruq]",
+    "etymology": "From Proto-Turkic *urug (“seed, child, girl”). Cognate to Karakalpak urıq, Kazakh ұрық (ūryq), Khakas урух (urux).",
     "ruAccented": "эмбрио'н",
     "ruGender": "m",
     "frequency": 204,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA",
     "id": "ru-эмбрион-001"
   },
   {
@@ -2619,12 +2682,12 @@
     "ky": "түйүлдүк",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BB%D0%B4%D2%AF%D0%BA",
     "senses": [
       "an unborn or unhatched vertebrate showing signs of the mature animal"
     ],
     "ruAccented": "эмбрио'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BB%D0%B4%D2%AF%D0%BA",
     "id": "ru-эмбрион-002"
   },
   {
@@ -2632,12 +2695,12 @@
     "ky": "монитор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80",
     "senses": [
       "computer display"
     ],
     "ruAccented": "экра'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80",
     "id": "ru-экран-002"
   },
   {
@@ -2645,11 +2708,11 @@
     "ky": "китеп текчеси",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%82%D0%B5%D0%BF%20%D1%82%D0%B5%D0%BA%D1%87%D0%B5%D1%81%D0%B8",
     "senses": [
       "furniture displaying books"
     ],
     "ruAccented": "этаже'рка",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%82%D0%B5%D0%BF%20%D1%82%D0%B5%D0%BA%D1%87%D0%B5%D1%81%D0%B8",
     "id": "ru-этажерка-001"
   },
   {
@@ -2657,12 +2720,12 @@
     "ky": "эмбрион",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BD",
     "senses": [
       "fertilized egg before developing into a fetus"
     ],
     "ruAccented": "эмбрио'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BD",
     "id": "ru-эмбрион-003"
   },
   {
@@ -2670,12 +2733,12 @@
     "ky": "этаж",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%B6",
     "senses": [
       "floor, level"
     ],
     "ruAccented": "эта'ж",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%B6",
     "id": "ru-этаж-003"
   },
   {
@@ -2683,10 +2746,12 @@
     "ky": "экспорт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82",
     "senses": [
       "the act of exporting"
     ],
+    "ruAccented": "э'кспорт",
+    "ruGender": "m",
+    "frequency": 35,
     "examples": [
       {
         "ky": "Анда биз товарларыбызды кимге сатабыз, экспорт үчүн кайда багыт алабыз?",
@@ -2697,9 +2762,7 @@
         "ru": "Экспорт по сравнению с прошлым"
       }
     ],
-    "ruAccented": "э'кспорт",
-    "ruGender": "m",
-    "frequency": 35,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82",
     "id": "ru-экспорт-001"
   },
   {
@@ -2707,14 +2770,14 @@
     "ky": "такым",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BA%D1%8B%D0%BC",
     "senses": [
       "group of people"
     ],
-    "etymology": "From так- (tak-) + -ым (-ım)",
     "pronunciation": "/tɑˈqɯm/",
+    "etymology": "From так- (tak-) + -ым (-ım)",
     "ruAccented": "экипа'ж",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BA%D1%8B%D0%BC",
     "id": "ru-экипаж-004"
   },
   {
@@ -2722,10 +2785,10 @@
     "ky": "сперма",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D0%B5%D1%80%D0%BC%D0%B0",
     "senses": [
       "male reproductive fluid"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D0%B5%D1%80%D0%BC%D0%B0",
     "id": "ru-эякулят-001"
   },
   {
@@ -2733,10 +2796,12 @@
     "ky": "элита",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B8%D1%82%D0%B0",
     "senses": [
       "group with higher status"
     ],
+    "ruAccented": "эли'та",
+    "ruGender": "f",
+    "frequency": 4,
     "examples": [
       {
         "ky": "саясий элита дагы алмашышы керек.",
@@ -2747,9 +2812,7 @@
         "ru": "части политической элиты, для меня время остановилось еще в 90-е годы."
       }
     ],
-    "ruAccented": "эли'та",
-    "ruGender": "f",
-    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B8%D1%82%D0%B0",
     "id": "ru-элита-001"
   },
   {
@@ -2757,12 +2820,12 @@
     "ky": "эмбарго",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D0%B0%D1%80%D0%B3%D0%BE",
     "senses": [
       "a ban on trade with another country"
     ],
     "ruAccented": "эмба'рго",
     "ruGender": "n",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D0%B0%D1%80%D0%B3%D0%BE",
     "id": "ru-эмбарго-001"
   },
   {
@@ -2770,12 +2833,12 @@
     "ky": "эмиграция",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
     "senses": [
       "act of emigrating"
     ],
     "ruAccented": "эмигра'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
     "id": "ru-эмиграция-002"
   },
   {
@@ -2783,12 +2846,12 @@
     "ky": "этикет",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82",
     "senses": [
       "forms to be observed in social or official life"
     ],
     "ruAccented": "этике'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82",
     "id": "ru-этикет-001"
   },
   {
@@ -2796,13 +2859,13 @@
     "ky": "эвакуация",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D1%8F",
     "senses": [
       "act of evacuating",
       "leaving a place in an orderly fashion, especially for safety"
     ],
     "ruAccented": "эвакуа'ция",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D0%B0%D0%BA%D1%83%D0%B0%D1%86%D0%B8%D1%8F",
     "id": "ru-эвакуация-001"
   },
   {
@@ -2810,11 +2873,11 @@
     "ky": "электр устара",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B0",
     "senses": [
       "electric razor"
     ],
     "ruAccented": "электробри'тва",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%20%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B0",
     "id": "ru-электробритва-001"
   },
   {
@@ -2822,10 +2885,12 @@
     "ky": "сапар",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF%D0%B0%D1%80",
     "senses": [
       "journey"
     ],
+    "ruAccented": "экску'рсия",
+    "ruGender": "f",
+    "frequency": 278,
     "examples": [
       {
         "ky": "Айла кеткендеги арга деген гезиттин кийинки бетинде орун алган макала Сапар сөгүш берип, сөөмөй кезеди, эми иш алдыга жылабы деп аталды.",
@@ -2836,9 +2901,7 @@
         "ru": "отправлен в отставку с негативной формулировкой при предыдущем премьер-министре"
       }
     ],
-    "ruAccented": "экску'рсия",
-    "ruGender": "f",
-    "frequency": 278,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF%D0%B0%D1%80",
     "id": "ru-экскурсия-001"
   },
   {
@@ -2846,10 +2909,12 @@
     "ky": "саякат",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D0%BA%D0%B0%D1%82",
     "senses": [
       "journey"
     ],
+    "ruAccented": "экску'рсия",
+    "ruGender": "f",
+    "frequency": 12,
     "examples": [
       {
         "ky": "Коронавирус: «Diamond Princess» саякат кемесиндеги кыргызстандык келди",
@@ -2860,9 +2925,7 @@
         "ru": "Во время этого путешествия мы много беседуем с учителем на самые разные темы и,"
       }
     ],
-    "ruAccented": "экску'рсия",
-    "ruGender": "f",
-    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D0%BA%D0%B0%D1%82",
     "id": "ru-экскурсия-002"
   },
   {
@@ -2870,10 +2933,10 @@
     "ky": "электр-магниттик нурлануу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80-%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D1%82%D0%B8%D0%BA%20%D0%BD%D1%83%D1%80%D0%BB%D0%B0%D0%BD%D1%83%D1%83",
     "senses": [
       "radiation"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80-%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D1%82%D0%B8%D0%BA%20%D0%BD%D1%83%D1%80%D0%BB%D0%B0%D0%BD%D1%83%D1%83",
     "id": "ru-электромагнитное излучение-001"
   },
   {
@@ -2881,10 +2944,10 @@
     "ky": "Эрзинжан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B7%D0%B8%D0%BD%D0%B6%D0%B0%D0%BD",
     "senses": [
       "city"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B7%D0%B8%D0%BD%D0%B6%D0%B0%D0%BD",
     "id": "ru-Эрзинджан-001"
   },
   {
@@ -2892,11 +2955,11 @@
     "ky": "электромагниттик",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D1%82%D0%B8%D0%BA",
     "senses": [
       "pertaining to electromagnetism"
     ],
     "ruAccented": "электромагни'тный",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D1%82%D0%B8%D0%BA",
     "id": "ru-электромагнитный-001"
   },
   {
@@ -2904,12 +2967,12 @@
     "ky": "эстетика",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B0",
     "senses": [
       "study or philosophy of beauty"
     ],
     "ruAccented": "эсте'тика",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%BA%D0%B0",
     "id": "ru-эстетика-001"
   },
   {
@@ -2917,10 +2980,10 @@
     "ky": "эвтаназия",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%82%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F",
     "senses": [
       "practice of killing a human being or animal"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B2%D1%82%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D1%8F",
     "id": "ru-эвтаназия-001"
   },
   {
@@ -2928,18 +2991,18 @@
     "ky": "эмоция",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%BE%D1%86%D0%B8%D1%8F",
     "senses": [
       "person's internal state of being"
     ],
+    "ruAccented": "эмо'ция",
+    "ruGender": "f",
     "examples": [
       {
         "ky": "Аз сөз, көп эмоция жана чындыктын",
         "ru": "Минимум слов, максимум эмоций, и"
       }
     ],
-    "ruAccented": "эмо'ция",
-    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%BE%D1%86%D0%B8%D1%8F",
     "id": "ru-эмоция-001"
   },
   {
@@ -2947,13 +3010,13 @@
     "ky": "экран",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%80%D0%B0%D0%BD",
     "senses": [
       "viewing area of electronic output device"
     ],
     "ruAccented": "экра'н",
     "ruGender": "m",
     "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%80%D0%B0%D0%BD",
     "id": "ru-экран-003"
   },
   {
@@ -2961,14 +3024,14 @@
     "ky": "өзүмчүл",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BC%D1%87%D2%AF%D0%BB",
     "senses": [
       "holding one's self-interest as the standard for decision making"
     ],
-    "etymology": "From өз (öz, “self”) + -үм (-üm) + -чүл (-cül).",
     "pronunciation": "[menˈt͡ʃil]",
+    "etymology": "From өз (öz, “self”) + -үм (-üm) + -чүл (-cül).",
     "ruAccented": "эгоисти'чный",
     "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BC%D1%87%D2%AF%D0%BB",
     "id": "ru-эгоистичный-001"
   },
   {
@@ -2976,12 +3039,12 @@
     "ky": "электроника",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0",
     "senses": [
       "physics"
     ],
     "ruAccented": "электро'ника",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0",
     "id": "ru-электроника-001"
   },
   {
@@ -2989,10 +3052,11 @@
     "ky": "кесипкөй",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%B8%D0%BF%D0%BA%D3%A9%D0%B9",
     "senses": [
       "expert"
     ],
+    "ruAccented": "экспе'рт",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Demir Bank туруктуу өнүгүүнү ишенимдүү сактоо менен, дээрлик 20 жыл ичинде өзүнүн кардарларына эл аралык стандарттарга толук жооп берген кесипкөй тейлөөнү сунуштап келет.",
@@ -3003,8 +3067,7 @@
         "ru": "«Кант ТШП» считает своих сотрудников наиболее ценным активом организации, и старается привлекать к работе на предприятии самых лучших профессиональных и опытных специалистов."
       }
     ],
-    "ruAccented": "экспе'рт",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%B8%D0%BF%D0%BA%D3%A9%D0%B9",
     "id": "ru-эксперт-002"
   },
   {
@@ -3012,10 +3075,12 @@
     "ky": "жабдуу",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B1%D0%B4%D1%83%D1%83",
     "senses": [
       "whatever is used in equipping"
     ],
+    "ruAccented": "экипиро'вка",
+    "ruGender": "f",
+    "frequency": 158,
     "examples": [
       {
         "ky": "е) Жабдуу бөлүмүнүн кызматкерлери үчүн компаниянын максат жана маселелерин колдоого алчу эффективдүүлүк көрсөткүчтөрүн иштеп чыгуу",
@@ -3026,9 +3091,7 @@
         "ru": "После установки новое оборудование сразу же стало использоваться."
       }
     ],
-    "ruAccented": "экипиро'вка",
-    "ruGender": "f",
-    "frequency": 158,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B1%D0%B4%D1%83%D1%83",
     "id": "ru-экипировка-001"
   },
   {
@@ -3036,17 +3099,17 @@
     "ky": "айт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%82",
     "senses": [
       "Muslim religious festival"
     ],
+    "frequency": 6635,
     "examples": [
       {
         "ky": "Көбүнчө бешим жана айт намаз учурунда уурулук жасаган.",
         "ru": "Он действовал во время бешим намазов и айт намазов», - говорится в сообщении."
       }
     ],
-    "frequency": 6635,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%82",
     "id": "ru-эйд-001"
   },
   {
@@ -3054,10 +3117,10 @@
     "ky": "Эрида",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B8%D0%B4%D0%B0",
     "senses": [
       "dwarf planet"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B8%D0%B4%D0%B0",
     "id": "ru-Эрида-001"
   },
   {
@@ -3065,7 +3128,6 @@
     "ky": "көргөзмө",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%B3%D3%A9%D0%B7%D0%BC%D3%A9",
     "senses": [
       "large scale public showing of objects or products"
     ],
@@ -3073,6 +3135,7 @@
     "ruAccented": "экспози'ция",
     "ruGender": "f",
     "frequency": 31,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%B3%D3%A9%D0%B7%D0%BC%D3%A9",
     "id": "ru-экспозиция-001"
   },
   {
@@ -3080,11 +3143,11 @@
     "ky": "энтомология",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%82%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "senses": [
       "study of insects"
     ],
     "ruAccented": "энтомоло'гия",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%82%D0%BE%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
     "id": "ru-энтомология-001"
   },
   {
@@ -3092,10 +3155,11 @@
     "ky": "экономикалык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "pertaining to an economy"
     ],
+    "ruAccented": "экономи'ческий",
+    "frequency": 583,
     "examples": [
       {
         "ky": "Анын үстүнө бул реформаларда аялдардын өлкөдөгү саясий дагы, экономикалык дагы турмушундагы ролун күчөтүүгө көбүрөөк көңүл бурулган.",
@@ -3106,8 +3170,7 @@
         "ru": "Начальник финансово-экономического управления КТРК"
       }
     ],
-    "ruAccented": "экономи'ческий",
-    "frequency": 583,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-экономический-001"
   },
   {
@@ -3115,10 +3178,10 @@
     "ky": "экстрадиция",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D1%8F",
     "senses": [
       "process by which a criminal suspect is handed over to another government"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D1%8F",
     "id": "ru-экстрадиция-001"
   },
   {
@@ -3126,10 +3189,10 @@
     "ky": "этен",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B5%D0%BD",
     "senses": [
       "compound"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B5%D0%BD",
     "id": "ru-этилен-002"
   },
   {
@@ -3137,12 +3200,12 @@
     "ky": "специалист",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82",
     "senses": [
       "expert"
     ],
     "ruAccented": "экспе'рт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82",
     "id": "ru-эксперт-003"
   },
   {
@@ -3150,10 +3213,12 @@
     "ky": "адис",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B8%D1%81",
     "senses": [
       "expert"
     ],
+    "ruAccented": "экспе'рт",
+    "ruGender": "m",
+    "frequency": 339,
     "examples": [
       {
         "ky": "Корпоративдик Кардарларды Тейлөө Боюнча Адис",
@@ -3164,9 +3229,7 @@
         "ru": "главврач, на руководящем посту больше двух сроков не должен быть."
       }
     ],
-    "ruAccented": "экспе'рт",
-    "ruGender": "m",
-    "frequency": 339,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B8%D1%81",
     "id": "ru-эксперт-004"
   },
   {
@@ -3174,18 +3237,18 @@
     "ky": "этикалык",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "senses": [
       "of or relating to the study of ethics"
     ],
+    "ruAccented": "эти'ческий",
+    "frequency": 11,
     "examples": [
       {
         "ky": "– Жалпы этикалык норма жана стандарттардын негизинде кызмат көрсөтүүчү компанияларды баалоо жана тандоо",
         "ru": "– Оценка и отбор поставщиков на основе общепринятых этических норм и стандартов"
       }
     ],
-    "ruAccented": "эти'ческий",
-    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA",
     "id": "ru-этический-001"
   },
   {
@@ -3193,11 +3256,11 @@
     "ky": "этика-га",
     "pos": "adj",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B0-%D0%B3%D0%B0",
     "senses": [
       "of or relating to the study of ethics"
     ],
     "ruAccented": "эти'ческий",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B0-%D0%B3%D0%B0",
     "id": "ru-этический-002"
   },
   {
@@ -3205,10 +3268,10 @@
     "ky": "электронвольт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B2%D0%BE%D0%BB%D1%8C%D1%82",
     "senses": [
       "a unit for measuring the energy of subatomic particles"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B2%D0%BE%D0%BB%D1%8C%D1%82",
     "id": "ru-электрон-вольт-001"
   },
   {
@@ -3216,10 +3279,10 @@
     "ky": "электронвольт",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B2%D0%BE%D0%BB%D1%8C%D1%82",
     "senses": [
       "a unit for measuring the energy of subatomic particles"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%B2%D0%BE%D0%BB%D1%8C%D1%82",
     "id": "ru-электронвольт-001"
   },
   {
@@ -3227,13 +3290,13 @@
     "ky": "эстон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%BE%D0%BD",
     "senses": [
       "person"
     ],
     "pronunciation": "/esˈton/",
     "ruAccented": "эсто'нец",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%BE%D0%BD",
     "id": "ru-эстонец-002"
   },
   {
@@ -3241,13 +3304,13 @@
     "ky": "эстон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%BE%D0%BD",
     "senses": [
       "person"
     ],
     "pronunciation": "/esˈton/",
     "ruAccented": "эсто'нка",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%BE%D0%BD",
     "id": "ru-эстонка-001"
   },
   {
@@ -3255,10 +3318,10 @@
     "ky": "этникалык тазалоо",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA%20%D1%82%D0%B0%D0%B7%D0%B0%D0%BB%D0%BE%D0%BE",
     "senses": [
       "ethnic cleansing"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA%20%D1%82%D0%B0%D0%B7%D0%B0%D0%BB%D0%BE%D0%BE",
     "id": "ru-этническая чистка-001"
   },
   {
@@ -3266,12 +3329,12 @@
     "ky": "эмират",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D1%80%D0%B0%D1%82",
     "senses": [
       "country ruled by an emir"
     ],
     "ruAccented": "эмира'т",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D1%80%D0%B0%D1%82",
     "id": "ru-эмират-002"
   },
   {
@@ -3279,11 +3342,11 @@
     "ky": "сынакчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D0%B0%D0%BA%D1%87%D1%8B",
     "senses": [
       "person who marks an examination"
     ],
     "ruAccented": "экзамена'тор",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D0%B0%D0%BA%D1%87%D1%8B",
     "id": "ru-экзаменатор-001"
   },
   {
@@ -3291,10 +3354,10 @@
     "ky": "экзосфера",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B7%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0",
     "senses": [
       "the uppermost layer of a planet's atmosphere"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B7%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0",
     "id": "ru-экзосфера-001"
   },
   {
@@ -3302,12 +3365,12 @@
     "ky": "эмигрант",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82",
     "senses": [
       "someone who leaves a country to settle in a new country"
     ],
     "ruAccented": "эмигра'нт",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82",
     "id": "ru-эмигрант-002"
   },
   {
@@ -3315,11 +3378,11 @@
     "ky": "эмигрант",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82",
     "senses": [
       "someone who leaves a country to settle in a new country"
     ],
     "ruAccented": "эмигра'нтка",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D0%BD%D1%82",
     "id": "ru-эмигрантка-001"
   },
   {
@@ -3327,13 +3390,13 @@
     "ky": "эмблема",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
     "senses": [
       "representative symbol"
     ],
     "ruAccented": "эмбле'ма",
     "ruGender": "f",
     "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
     "id": "ru-эмблема-004"
   },
   {
@@ -3341,10 +3404,10 @@
     "ky": "дарчы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%87%D1%8B",
     "senses": [
       "acrobat who practices tightrope walking"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%87%D1%8B",
     "id": "ru-эквилибрист-001"
   },
   {
@@ -3352,12 +3415,12 @@
     "ky": "электротехника",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0",
     "senses": [
       "branch of engineering"
     ],
     "ruAccented": "электроте'хника",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0",
     "id": "ru-электротехника-001"
   },
   {
@@ -3365,10 +3428,10 @@
     "ky": "эпифеномен",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D1%84%D0%B5%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD",
     "senses": [
       "metal process or state that is an incidental by-product of physiological events in the brain or nervous system"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%B8%D1%84%D0%B5%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD",
     "id": "ru-эпифеномен-001"
   },
   {
@@ -3376,12 +3439,12 @@
     "ky": "ойноткуч",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%BD%D0%BE%D1%82%D0%BA%D1%83%D1%87",
     "senses": [
       "analogue electronic device for playing gramophone records"
     ],
     "ruAccented": "электрофо'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%BD%D0%BE%D1%82%D0%BA%D1%83%D1%87",
     "id": "ru-электрофон-001"
   },
   {
@@ -3389,12 +3452,12 @@
     "ky": "граммофон",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BE%D1%84%D0%BE%D0%BD",
     "senses": [
       "analogue electronic device for playing gramophone records"
     ],
     "ruAccented": "электрофо'н",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BE%D1%84%D0%BE%D0%BD",
     "id": "ru-электрофон-002"
   },
   {
@@ -3402,12 +3465,12 @@
     "ky": "экспортёр",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%91%D1%80",
     "senses": [
       "person who or organization that exports"
     ],
     "ruAccented": "экспортёр",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%91%D1%80",
     "id": "ru-экспортёр-001"
   },
   {
@@ -3415,12 +3478,12 @@
     "ky": "локомотив",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%D0%B2",
     "senses": [
       "self-propelled vehicle that runs on rails"
     ],
     "ruAccented": "электрово'з",
     "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D1%82%D0%B8%D0%B2",
     "id": "ru-электровоз-002"
   },
   {
@@ -3428,10 +3491,10 @@
     "ky": "эстетизм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%B7%D0%BC",
     "senses": [
       "doctrine which holds aesthetics as the highest ideal"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B5%D1%82%D0%B8%D0%B7%D0%BC",
     "id": "ru-эстетизм-001"
   },
   {
@@ -3439,12 +3502,12 @@
     "ky": "электрик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA",
     "senses": [
       "tradesman who works with electrical equipment"
     ],
     "ruAccented": "эле'ктрик",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA",
     "id": "ru-электрик-001"
   },
   {
@@ -3452,12 +3515,12 @@
     "ky": "электрчи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%87%D0%B8",
     "senses": [
       "tradesman who works with electrical equipment"
     ],
     "ruAccented": "эле'ктрик",
     "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%87%D0%B8",
     "id": "ru-электрик-002"
   },
   {
@@ -3465,10 +3528,10 @@
     "ky": "электрик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA",
     "senses": [
       "tradesman who works with electrical equipment"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA",
     "id": "ru-электромонтёр-001"
   },
   {
@@ -3476,10 +3539,10 @@
     "ky": "электрчи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%87%D0%B8",
     "senses": [
       "tradesman who works with electrical equipment"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%87%D0%B8",
     "id": "ru-электромонтёр-002"
   },
   {
@@ -3487,10 +3550,10 @@
     "ky": "электрик",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA",
     "senses": [
       "tradesman who works with electrical equipment"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D0%BA",
     "id": "ru-электротехник-001"
   },
   {
@@ -3498,10 +3561,10 @@
     "ky": "электрчи",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%87%D0%B8",
     "senses": [
       "tradesman who works with electrical equipment"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D1%87%D0%B8",
     "id": "ru-электротехник-002"
   },
   {
@@ -3509,10 +3572,10 @@
     "ky": "электрокардиография",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
     "senses": [
       "the science of preparation and diagnostic interpretation of electrocardiograms"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
     "id": "ru-электрокардиография-001"
   },
   {
@@ -3520,11 +3583,11 @@
     "ky": "апенди",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B8",
     "senses": [
       "title of respect"
     ],
     "frequency": 54,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B8",
     "id": "ru-эфенди-001"
   },
   {
@@ -3532,10 +3595,10 @@
     "ky": "апенде",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B5",
     "senses": [
       "title of respect"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B5",
     "id": "ru-эфенди-002"
   },
   {
@@ -3543,11 +3606,11 @@
     "ky": "апенди",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B8",
     "senses": [
       "title of respect"
     ],
     "frequency": 54,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B8",
     "id": "ru-эффенди-001"
   },
   {
@@ -3555,10 +3618,10 @@
     "ky": "апенде",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B5",
     "senses": [
       "title of respect"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B5%D0%BD%D0%B4%D0%B5",
     "id": "ru-эффенди-002"
   },
   {
@@ -3566,7 +3629,6 @@
     "ky": "экскаватор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80",
     "senses": [
       "person"
     ],
@@ -3576,6 +3638,7 @@
         "ru": "Экскаватор обнаружили на небольшой глубине, тело сотрудника было в кабине."
       }
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80",
     "id": "ru-экскаваторщик-001"
   },
   {
@@ -3583,18 +3646,18 @@
     "ky": "экскаватор",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80",
     "senses": [
       "vehicle"
     ],
+    "ruAccented": "экскава'тор",
+    "ruGender": "m",
     "examples": [
       {
         "ky": "Ал экскаватор менен иштеп жатканда мөңгүдөн жылып кетип, көлгө кулаган.",
         "ru": "Экскаватор обнаружили на небольшой глубине, тело сотрудника было в кабине."
       }
     ],
-    "ruAccented": "экскава'тор",
-    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80",
     "id": "ru-экскаватор-001"
   },
   {
@@ -3602,11 +3665,11 @@
     "ky": "телекоммуникация",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F",
     "senses": [
       "science and technology of communication over distance"
     ],
     "frequency": 10,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F",
     "id": "ru-электросвязь-001"
   },
   {
@@ -3614,11 +3677,11 @@
     "ky": "эзүүчү",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
     "senses": [
       "one who attempts to take as much from others as possible"
     ],
     "ruAccented": "эксплуата'тор",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B7%D2%AF%D2%AF%D1%87%D2%AF",
     "id": "ru-эксплуататор-001"
   },
   {
@@ -3626,13 +3689,13 @@
     "ky": "эстафета",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B0%D1%84%D0%B5%D1%82%D0%B0",
     "senses": [
       "sports contest"
     ],
     "etymology": "Borrowed from Russian эстафе́та (estaféta), from French estafette.",
     "ruAccented": "эстафе'та",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D0%B0%D1%84%D0%B5%D1%82%D0%B0",
     "id": "ru-эстафета-001"
   },
   {
@@ -3640,10 +3703,10 @@
     "ky": "энтероколит",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8%D1%82",
     "senses": [
       "Translations"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%82%D0%B5%D1%80%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8%D1%82",
     "id": "ru-энтѐроколит-001"
   },
   {
@@ -3651,12 +3714,12 @@
     "ky": "эпопея",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D0%BF%D0%B5%D1%8F",
     "senses": [
       "an epic, saga"
     ],
     "ruAccented": "эпопе'я",
     "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D0%BF%D0%B5%D1%8F",
     "id": "ru-эпопея-001"
   },
   {
@@ -3664,10 +3727,10 @@
     "ky": "Өребру",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A8%D1%80%D0%B5%D0%B1%D1%80%D1%83",
     "senses": [
       "Translations"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A8%D1%80%D0%B5%D0%B1%D1%80%D1%83",
     "id": "ru-Эребру-001"
   },
   {
@@ -3675,11 +3738,13 @@
     "ky": "дастан",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%81%D1%82%D0%B0%D0%BD",
     "senses": [
       "extended narrative poem"
     ],
     "etymology": "From Persian داستان.",
+    "ruAccented": "э'пос",
+    "ruGender": "m",
+    "frequency": 59,
     "examples": [
       {
         "ky": "Бул тууралуу президенттин кеңешчиси, маалыматтык технологиялар жана байланыш мамлекеттик комитетинин төрагасы Дастан Догоев билдирди.",
@@ -3690,9 +3755,7 @@
         "ru": "Сулайманов часто бывает недоволен работой спикера Дастана Джумабекова."
       }
     ],
-    "ruAccented": "э'пос",
-    "ruGender": "m",
-    "frequency": 59,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%81%D1%82%D0%B0%D0%BD",
     "id": "ru-эпос-001"
   },
   {
@@ -3700,13 +3763,13 @@
     "ky": "эпос",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%81",
     "senses": [
       "extended narrative poem"
     ],
     "ruAccented": "э'пос",
     "ruGender": "m",
     "frequency": 145,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%81",
     "id": "ru-эпос-002"
   },
   {
@@ -3714,10 +3777,10 @@
     "ky": "евгемеризм",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BC%D0%B5%D1%80%D0%B8%D0%B7%D0%BC",
     "senses": [
       "attribution of a historical origin to myths and legends"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BC%D0%B5%D1%80%D0%B8%D0%B7%D0%BC",
     "id": "ru-эвгемеризм-001"
   },
   {
@@ -3725,11 +3788,11 @@
     "ky": "Эрдоган",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B4%D0%BE%D0%B3%D0%B0%D0%BD",
     "senses": [
       "surname"
     ],
     "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B4%D0%BE%D0%B3%D0%B0%D0%BD",
     "id": "ru-Эрдоган-001"
   },
   {
@@ -3737,11 +3800,11 @@
     "ky": "Эрдоган",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B4%D0%BE%D0%B3%D0%B0%D0%BD",
     "senses": [
       "surname"
     ],
     "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%80%D0%B4%D0%BE%D0%B3%D0%B0%D0%BD",
     "id": "ru-Эрдоан-001"
   },
   {
@@ -3749,10 +3812,10 @@
     "ky": "Эстония Республикасы",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
     "senses": [
       "official name of Estonia"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
     "id": "ru-Эстонская Республика-001"
   },
   {
@@ -3760,10 +3823,10 @@
     "ky": "Эдирне",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B4%D0%B8%D1%80%D0%BD%D0%B5",
     "senses": [
       "a city in Eastern Thrace — see also Adrianople"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%B4%D0%B8%D1%80%D0%BD%D0%B5",
     "id": "ru-Эдирне-001"
   },
   {
@@ -3771,73 +3834,524 @@
     "ky": "Эльбурс",
     "pos": "noun",
     "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%83%D1%80%D1%81",
     "senses": [
       "mountain range"
     ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AD%D0%BB%D1%8C%D0%B1%D1%83%D1%80%D1%81",
     "id": "ru-Эльбурс-001"
   },
   {
-    "ru": "экспедиция",
-    "ky": "экспедиция",
+    "ru": "Эпл",
+    "ky": "алма",
     "pos": "noun",
-    "source": "manual",
+    "source": "pivot-en",
+    "enPivot": "apple",
     "senses": [
-      "поездка группы лиц с научной или иной целью"
+      "fruit of Malus domestica"
     ],
-    "ruGender": "f",
-    "id": "ru-экспедиция-001"
+    "pronunciation": "/ɑlˈmɑ/",
+    "etymology": "From Proto-Common Turkic *alma (“apple”).",
+    "frequency": 406,
+    "examples": [
+      {
+        "ky": "Компаньон региондо багбанчылыкты өнүктүрүүгө багытталган онунчу алма фестивалын өткөрдү.",
+        "ru": "Компаньон провел десятый яблочный фестиваль, целью которого стало развитие садоводства в регионе."
+      },
+      {
+        "ky": "жылдары жергиликтүү картошка менен алма сатып алууну кыялданып жүргөндөрүн",
+        "ru": "что россияне последние годы жили мечтами о местной картошке и яблоках."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0",
+    "id": "ru-Эпл-001"
   },
   {
-    "ru": "экспонат",
-    "ky": "экспонат",
+    "ru": "Эль-Сальвадор",
+    "ky": "Сальвадор",
     "pos": "noun",
-    "source": "manual",
+    "source": "pivot-en",
+    "enPivot": "El Salvador",
     "senses": [
-      "предмет, выставленный для обозрения"
+      "country in Central America"
     ],
+    "ruAccented": "Эль-Сальвадо'р",
     "ruGender": "m",
-    "id": "ru-экспонат-001"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80",
+    "id": "ru-Эль-Сальвадор-001"
   },
   {
-    "ru": "энергетический",
-    "ky": "энергетикалык",
-    "pos": "adj",
-    "source": "manual",
-    "senses": [
-      "относящийся к энергетике"
-    ],
-    "id": "ru-энергетический-001"
-  },
-  {
-    "ru": "эпидемиологический",
-    "ky": "эпидемиологиялык",
-    "pos": "adj",
-    "source": "manual",
-    "senses": [
-      "относящийся к эпидемиологии"
-    ],
-    "id": "ru-эпидемиологический-001"
-  },
-  {
-    "ru": "эффективный",
-    "ky": "натыйжалуу",
-    "pos": "adj",
-    "source": "manual",
-    "id": "ru-эффективный-001",
-    "senses": [
-      "дающий нужный результат"
-    ]
-  },
-  {
-    "ru": "этика",
-    "ky": "этика",
+    "ru": "эйс",
+    "ky": "туз",
     "pos": "noun",
-    "source": "manual",
-    "id": "ru-этика-003",
+    "source": "pivot-en",
+    "enPivot": "ace",
     "senses": [
-      "нормы нравственного поведения"
+      "card with a single spot"
     ],
-    "ruGender": "f"
+    "etymology": "From Proto-Turkic *dūŕ (“salt”).",
+    "frequency": 131,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%B7",
+    "id": "ru-эйс-001"
+  },
+  {
+    "ru": "экспрессия",
+    "ky": "туюнтма",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "expression",
+    "senses": [
+      "colloquialism or idiom"
+    ],
+    "ruAccented": "экспре'ссия",
+    "ruGender": "f",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%8E%D0%BD%D1%82%D0%BC%D0%B0",
+    "id": "ru-экспрессия-001"
+  },
+  {
+    "ru": "эксцентрик",
+    "ky": "комикс",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "comic",
+    "senses": [
+      "cartoon story"
+    ],
+    "ruAccented": "эксце'нтрик",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%B8%D0%BA%D1%81",
+    "id": "ru-эксцентрик-001"
+  },
+  {
+    "ru": "этап",
+    "ky": "негиз",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "pronunciation": "/neˈɡiz/",
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 1434,
+    "examples": [
+      {
+        "ky": "Ошондуктан, бул көз караштын ээлеринин өз позицияларына бекем экендиктерине карабастан туруп, толугу менен жаӊылыш пикир деп жыйынтык чыгарууга негиз бар.",
+        "ru": "Они дали отставание и по налогам и объему промышленности.— В высокогорных районах медицинское обслуживание плохое, не хватает квалифицированных врачей."
+      },
+      {
+        "ky": "Негиз катары болот же жыгач конструкциялар колдонулат.",
+        "ru": "В качестве основания используют стальные или деревянные конструкции."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7",
+    "id": "ru-этап-004"
+  },
+  {
+    "ru": "этап",
+    "ky": "түп",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "etymology": "From Proto-Turkic *tǖp.",
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 1072,
+    "examples": [
+      {
+        "ky": "окуп жаткан окуу жайынан (мектеп/лицей) берилген тактаманын же өспүрүмдүн сүрөтү менен жашаган жеринен тактаманын түп нускасы.",
+        "ru": "оригинал справки с места учебы (школа/лицей) или места жительства с фотографией несовершеннолетнего."
+      },
+      {
+        "ky": "Бул көрүнүштү түп тамыры менен жок кылуунун жолун азырынча таба элекпиз.",
+        "ru": "Пока мы не нашли действенных механизмов, чтобы искоренить это явление."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BF",
+    "id": "ru-этап-005"
+  },
+  {
+    "ru": "этап",
+    "ky": "база",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 201,
+    "examples": [
+      {
+        "ky": "Жана жаңы база",
+        "ru": "Вот новая база и"
+      },
+      {
+        "ky": "жагынан аксоодо, анткени илимий-техникалык база жок.",
+        "ru": "потому что нет достойной научно-технической базы."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B0",
+    "id": "ru-этап-006"
+  },
+  {
+    "ru": "этап",
+    "ky": "себеп",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "pronunciation": "/seˈbep/",
+    "etymology": "From Arabic سَبَب (sabab, “cause; reason”).\nCognate with Azerbaijani səbəb,\nBashkir сәбәп (səbəp), Crimean Tatar sebep, Georgian საბაბი (sababi),\nIndonesian sebab, Kazakh себеп (sebep),\nTajik сабаб (sabab), Tatar сәбәп (säbäp),\nTurkish sebep, Turkmen sebäp,\nUyghur سەۋەب (seweb), Urdu سبب (sabab),\nUzbek sabab, etc.",
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 392,
+    "examples": [
+      {
+        "ky": "жаңжалдарга эмне себеп болууда?",
+        "ru": "чем причина таких стычек?"
+      },
+      {
+        "ky": "себеп – начар тамактануу жана начар",
+        "ru": "– плохое питание и отвратительные социальные условия в целом."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D0%B5%D0%BF",
+    "id": "ru-этап-007"
+  },
+  {
+    "ru": "этап",
+    "ky": "базис",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B7%D0%B8%D1%81",
+    "id": "ru-этап-008"
+  },
+  {
+    "ru": "этап",
+    "ky": "байыр",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9%D1%8B%D1%80",
+    "id": "ru-этап-009"
+  },
+  {
+    "ru": "этап",
+    "ky": "цоколь",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C",
+    "id": "ru-этап-010"
+  },
+  {
+    "ru": "этап",
+    "ky": "фундамент",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82",
+    "id": "ru-этап-011"
+  },
+  {
+    "ru": "этап",
+    "ky": "таман",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "frequency": 129,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BD",
+    "id": "ru-этап-012"
+  },
+  {
+    "ru": "этап",
+    "ky": "негиздөө",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "турган Ислам академиясын негиздөө керек»,-деп билдирген Сооронбай",
+        "ru": "необходимо создать Исламскую академию, деятельность которой будет под контролем"
+      },
+      {
+        "ky": "келип түшкөн сунуштар тууралу аларды ченемдик укуктук актынын долбооруна киргизүүнүн же киргизбөөнүн себептерин негиздөө менен, коомдук талкуулоонун жыйынтыктары боюнча жыйынтык маалыматты даярдоо.",
+        "ru": "подготовки по результатам общественного обсуждения итоговой информации о поступивших предложениях с обоснованием причин включения либо невключения их в проект нормативного правового акта."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%D0%B4%D3%A9%D3%A9",
+    "id": "ru-этап-013"
+  },
+  {
+    "ru": "этап",
+    "ky": "негизделүү",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D2%AF%D2%AF",
+    "id": "ru-этап-014"
+  },
+  {
+    "ru": "этап",
+    "ky": "негиз салуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%20%D1%81%D0%B0%D0%BB%D1%83%D1%83",
+    "id": "ru-этап-015"
+  },
+  {
+    "ru": "этап",
+    "ky": "жайлашуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B9%D0%BB%D0%B0%D1%88%D1%83%D1%83",
+    "id": "ru-этап-016"
+  },
+  {
+    "ru": "этап",
+    "ky": "таянуу",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "base",
+    "senses": [
+      "something from which other things extend"
+    ],
+    "ruAccented": "эта'п",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "Өткөн кылымдын соңку он жылдыгында бир катар европа өлкөлөрү өздөрүнүн салык системасын экологиялык салыктарга таянуу менен аларды экологиялаштыруу багытында реформалап алышкан.",
+        "ru": "В последнем десятилетии прошлого века ряд европейских государств реформировали свои налоговые системы в направлении их экологизации, опираясь при этом на экологические налоги."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%8F%D0%BD%D1%83%D1%83",
+    "id": "ru-этап-017"
+  },
+  {
+    "ru": "энергетика",
+    "ky": "энергия",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "energy",
+    "senses": [
+      "physics"
+    ],
+    "ruAccented": "энерге'тика",
+    "frequency": 189,
+    "examples": [
+      {
+        "ky": "Бизде калыбына келүүчү энергия булактарына байланыштуу дагы көптөгөн нерселер бар.",
+        "ru": "Много чего другого по части возобновляемых источников энергии у нас имеется."
+      },
+      {
+        "ky": "альтернативдүү энергия булактарына ээ болуп туруп, биз алардын болгону БИР гана",
+        "ru": "энергии, используем только ОДИН процент своего потенциала!"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F",
+    "id": "ru-энергетика-001"
+  },
+  {
+    "ru": "этюд",
+    "ky": "проблема",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "problem",
+    "senses": [
+      "difficulty"
+    ],
+    "ruAccented": "этю'д",
+    "ruGender": "m",
+    "frequency": 18,
+    "examples": [
+      {
+        "ky": "Проблема - толтура.",
+        "ru": "Проблем – масса."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
+    "id": "ru-этюд-001"
+  },
+  {
+    "ru": "этюд",
+    "ky": "көйгөй",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "problem",
+    "senses": [
+      "difficulty"
+    ],
+    "pronunciation": "[køjˈɡøj]",
+    "ruAccented": "этю'д",
+    "ruGender": "m",
+    "examples": [
+      {
+        "ky": "- Туура айтасыз, албетте, көйгөй арбын...",
+        "ru": "- Вы правы, конечно, проблем много..."
+      },
+      {
+        "ky": "Биз аракет кылуудабыз, бирок, көйгөй оголе көп.",
+        "ru": "Мы стараемся, но проблем много."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B9%D0%B3%D3%A9%D0%B9",
+    "id": "ru-этюд-002"
+  },
+  {
+    "ru": "этюд",
+    "ky": "маселе",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "problem",
+    "senses": [
+      "difficulty"
+    ],
+    "pronunciation": "[masʲeˈle]",
+    "etymology": "From Arabic مَسْأَلَة (masʔala).",
+    "ruAccented": "этю'д",
+    "ruGender": "m",
+    "frequency": 1704,
+    "examples": [
+      {
+        "ky": "Бул маселе боюнча айыл өкмөткө, акмиатка, электр ишканасына кайрылганбыз. Эч жыйынтык жок.",
+        "ru": "Как сообщает Нацэнергохолдинг, контракт подразумевает замену агрегатов на ГЭС, которые должны значительно увеличить мощность электростанции."
+      },
+      {
+        "ky": "Бирок маселе жардам берүүдө гана эмес.",
+        "ru": "Однако вопрос не только в оказании поддержки."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D0%B5%D0%BB%D0%B5",
+    "id": "ru-этюд-003"
+  },
+  {
+    "ru": "эксплуатация",
+    "ky": "операция",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "operation",
+    "senses": [
+      "surgical procedure"
+    ],
+    "ruAccented": "эксплуата'ция",
+    "ruGender": "f",
+    "frequency": 114,
+    "examples": [
+      {
+        "ky": "Операция кымбатка турат, ошондон улам үй-бүлөсү кайдыгер карабаган мекендештеринен жардам күтөт.",
+        "ru": "Операция дорогостоящая, а потому семья нуждается в помощи неравнодушных соотечественников."
+      },
+      {
+        "ky": "Банкоматта операция жүргүзүүдөгү коопсуздук чаралары:",
+        "ru": "Рекомендации при совершении операций в банкомате:"
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+    "id": "ru-эксплуатация-001"
+  },
+  {
+    "ru": "эстакада",
+    "ky": "пирс",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "pier",
+    "senses": [
+      "raised platform built from the shore out over water"
+    ],
+    "ruAccented": "эстака'да",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D1%80%D1%81",
+    "id": "ru-эстакада-001"
+  },
+  {
+    "ru": "эпика",
+    "ky": "дастан",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "epic",
+    "senses": [
+      "extended narrative poem"
+    ],
+    "etymology": "From Persian داستان.",
+    "frequency": 59,
+    "examples": [
+      {
+        "ky": "Бул тууралуу президенттин кеңешчиси, маалыматтык технологиялар жана байланыш мамлекеттик комитетинин төрагасы Дастан Догоев билдирди.",
+        "ru": "Об этом сказал президент Сооронбай Жээнбеков. Сегодня глава государства принял председателя Госкомитета информационных технологий и связи Дастана Догоева."
+      },
+      {
+        "ky": "чындай айтат. Сулайманов төрага Дастан Жумабековду көп",
+        "ru": "Сулайманов часто бывает недоволен работой спикера Дастана Джумабекова."
+      }
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%81%D1%82%D0%B0%D0%BD",
+    "id": "ru-эпика-001"
+  },
+  {
+    "ru": "эпика",
+    "ky": "эпос",
+    "pos": "noun",
+    "source": "pivot-en",
+    "enPivot": "epic",
+    "senses": [
+      "extended narrative poem"
+    ],
+    "frequency": 145,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BF%D0%BE%D1%81",
+    "id": "ru-эпика-002"
   }
 ]
