@@ -1,19 +1,20 @@
 # Data Pipeline
 
-The pipeline extracts data from open sources and assembles `entries/*.json` and `data/en-ky-pairs.json`.
+The pipeline extracts data from open sources and assembles `entries/*.json` (ru-ky) and `entries-en/*.json` (en-ky).
 
 ## Sources
 
 | Source | What we extract | Volume | License |
 |--------|----------------|--------|---------|
-| English Wiktionary (kaikki.org) | ru↔ky pairs via English pivot | ~18K pairs | CC BY-SA |
+| English Wiktionary (kaikki.org) | ru↔ky pairs via English pivot | ~16K pairs | CC BY-SA |
+| English Wiktionary (kaikki.org) | Direct en→ky pairs | ~9K pairs | CC BY-SA |
+| English Wiktionary (kaikki.org) | ru→en pairs for pivot | ~383K pairs | CC BY-SA |
 | Russian Wiktionary (kaikki.org) | Direct ru→ky pairs | ~5K pairs | CC BY-SA |
 | kaikki.org Kyrgyz extract | Etymology, pronunciation | 4K entries | CC BY-SA |
 | Apertium-kir | Kyrgyz lemmas for validation | 7K lemmas | GPL-3.0 |
 | GoURMET (OPUS) | Parallel ky-ru sentences (examples) | 23K pairs | Open |
 | OpenRussian.org | Gender, stress, conjugation of Russian words | ~150K words | CC BY-SA 4.0 |
 | Manas-UdS Corpus | Kyrgyz lemma frequency list | 1.2M tokens | CC BY-NC-SA 4.0 |
-| English Wiktionary (kaikki.org) | Direct en→ky pairs | ~9K pairs | CC BY-SA |
 
 ## 1. Download Data
 
@@ -68,18 +69,40 @@ bun run pipeline/extract-gourmet.ts            # → data/gourmet-examples.json
 bun run pipeline/extract-openrussian.ts        # → data/openrussian-enrichment.json
 bun run pipeline/extract-manas.ts              # → data/manas-frequency.json
 bun run pipeline/extract-en-ky-wiktionary.ts   # → data/en-ky-pairs.json
+bun run pipeline/extract-ru-en-wiktionary.ts   # → data/ru-en-pairs.json
 ```
 
 EN Wiktionary extraction takes several minutes (10M+ lines).
 
-## 3. Merge and Enrich
+## 3. Pivot Translation
+
+Generate cross-lingual pairs using a shared intermediary language:
 
 ```bash
-bun run pipeline/merge.ts     # Merge → entries/*.json
-bun run pipeline/enrich.ts    # Noun morphology
+bun run pipeline/pivot-en-ky.ts    # ru-en + ru-ky → en-ky (~22K new pairs)
+bun run pipeline/pivot-ru-ky.ts    # en-ky + ru-en → ru-ky (~3.5K new pairs)
 ```
 
-## 4. Verify
+Both scripts use strict POS matching — pairs are joined only when both word AND part-of-speech match exactly.
+
+## 4. Sync (Merge + Enrich)
+
+Sync scripts merge all sources into entries, applying dedup, enrichment, and priority ordering:
+
+```bash
+bun run sync:ru    # → entries/*.json  (manual > wiktionary > pivot)
+bun run sync:en    # → entries-en/*.json (manual > wiktionary > pivot)
+```
+
+Each sync script:
+1. Loads pairs from all sources (wiktionary, pivot, manual)
+2. Deduplicates by `(word, ky)` key with source priority
+3. Normalizes text (NFC, strip stress marks, fix Kyrgyz spelling)
+4. Enriches with etymology, pronunciation (kaikki.org), frequency (Manas-UdS), examples (GoURMET), gender/stress (OpenRussian)
+5. Validates against Apertium lemma list
+6. Splits into `{letter}.json` files
+
+## 5. Verify
 
 ```bash
 bun run validate   # Schema validation
@@ -96,29 +119,6 @@ bun run update --merge-only    # Merge + enrich only
 ```
 
 The update script preserves entries with `source: "manual"` and shows a diff report.
-
-## How Merge Works
-
-1. Loads pairs from ru-wikt (priority — direct pairs) and en-wikt
-2. Deduplication by `(ru, ky)` key
-3. Normalization: NFC, strip stress marks from Russian words, strip English glosses in parentheses
-4. Enrichment: etymology and pronunciation from kaikki.org Kyrgyz extract
-5. Examples: matched from GoURMET by Kyrgyz word occurrence
-6. Russian side: stress marks and gender from OpenRussian.org
-7. Frequency: from Manas-UdS corpus
-8. Validation: check Kyrgyz words against Apertium lemma list
-9. Split into `entries/{letter}.json` files
-
-## How EN-KY Enrichment Works
-
-The en-ky pairs are extracted separately and enriched at build time:
-
-1. Pronunciation and etymology from kaikki.org Kyrgyz extract
-2. Frequency from Manas-UdS corpus
-3. Parallel sentence examples from GoURMET ky-ru corpus
-4. Wiktionary links for each Kyrgyz word
-
-The same enriched data is used for both en-ky and ky-en dictionaries.
 
 ## How Build-time Translation Processing Works
 

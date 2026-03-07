@@ -3,14 +3,17 @@
 ## Add a Word Manually
 
 ```bash
-bun run add
+bun run add       # Russian-Kyrgyz entry
+bun run add:en    # English-Kyrgyz entry
 ```
 
-The script will prompt for the Russian word, Kyrgyz translation, part of speech, and senses. Noun morphology is generated automatically.
+The scripts prompt for the word, translation, part of speech, and senses. Noun morphology is generated automatically for ru-ky entries.
 
-Or edit `entries/{letter}.json` directly — each file is a JSON array of entries.
+Or edit `entries/{letter}.json` / `entries-en/{letter}.json` directly — each file is a JSON array of entries.
 
-## Entry Format
+## Entry Formats
+
+**ru-ky** (`entries/*.json`, schema: `src/schema.ts`):
 
 ```json
 {
@@ -23,7 +26,18 @@ Or edit `entries/{letter}.json` directly — each file is a JSON array of entrie
 }
 ```
 
-Full schema: `src/schema.ts`.
+**en-ky** (`entries-en/*.json`, schema: `src/schema-en.ts`):
+
+```json
+{
+  "id": "en-ky-book-001",
+  "en": "book",
+  "ky": "китеп",
+  "pos": "noun",
+  "senses": ["book", "written work"],
+  "source": "manual"
+}
+```
 
 ## Before Submitting a PR
 
