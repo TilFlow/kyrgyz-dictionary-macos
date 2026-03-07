@@ -42,7 +42,8 @@ export const DictionaryEntrySchema = z.object({
   ruAccented: z.string().optional(),
   ruGender: z.enum(["m", "f", "n"]).optional(),
   frequency: z.number().optional(),
-  source: z.enum(["wiktionary-en", "wiktionary-ru", "apertium", "gourmet", "manual"]),
+  source: z.enum(["wiktionary-en", "wiktionary-ru", "apertium", "gourmet", "manual", "pivot-en"]),
+  enPivot: z.string().optional(),
 });
 
 export type DictionaryEntry = z.infer<typeof DictionaryEntrySchema>;

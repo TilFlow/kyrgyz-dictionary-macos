@@ -14,7 +14,8 @@
     "update": "bun run scripts/update.ts",
     "audit": "bun run scripts/audit.ts",
     "add:en": "bun run scripts/add-en.ts",
-    "sync:en": "bun run scripts/sync-en-ky.ts"
+    "sync:en": "bun run scripts/sync-en-ky.ts",
+    "sync:ru": "bun run scripts/sync-ru-ky.ts"
   },
   "devDependencies": {
     "@types/bun": "latest",
