@@ -78,8 +78,8 @@ describe("generatePlural", () => {
     expect(generatePlural("китеп", { stemType: "voiceless", vowelGroup: 2 })).toBe("китептер");
   });
 
-  test('бала (vowel, group 1) → балалар', () => {
-    expect(generatePlural("бала", { stemType: "vowel", vowelGroup: 1 })).toBe("балалар");
+  test('бала (irregular) → балдар', () => {
+    expect(generatePlural("бала", { stemType: "vowel", vowelGroup: 1 })).toBe("балдар");
   });
 
   test('сөз (voiced, group 4) → сөздөр', () => {
@@ -103,12 +103,12 @@ describe("generateNounPluralForms", () => {
     expect(forms.ablative).toBe("китептерден");
   });
 
-  test('бала plural forms: voiced stem with group 1 suffixes', () => {
+  test('бала plural forms: irregular балдар + voiced stem suffixes', () => {
     const forms = generateNounPluralForms("бала", { stemType: "vowel", vowelGroup: 1 });
-    // plural "балалар" ends in р (voiced), suffix vowel а → group 1
-    expect(forms.nominative).toBe("балалар");
-    expect(forms.genitive).toBe("балалардын");
-    expect(forms.dative).toBe("балаларга");
+    // irregular plural "балдар" ends in р (voiced), suffix vowel а → group 1
+    expect(forms.nominative).toBe("балдар");
+    expect(forms.genitive).toBe("балдардын");
+    expect(forms.dative).toBe("балдарга");
   });
 
   test('сөз plural forms: voiced stem with group 4 suffixes', () => {
