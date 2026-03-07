@@ -10,10 +10,12 @@ Four dictionaries for macOS Dictionary.app, built from open data:
 
 | Dictionary | Entries | Description |
 |---|---|---|
-| Russian-Kyrgyz | 21,000+ | Full morphology tables, vowel harmony rules |
-| Kyrgyz-Russian | 21,000+ | Reverse lookup from the same dataset |
-| English-Kyrgyz | 8,800+ | With pronunciation, etymology, frequency |
-| Kyrgyz-English | 8,800+ | Reverse lookup with Kyrgyz headwords |
+| Russian-Kyrgyz | 24,300+ | Full morphology tables, vowel harmony rules |
+| Kyrgyz-Russian | 24,300+ | Reverse lookup from the same dataset |
+| English-Kyrgyz | 30,900+ | With pronunciation, etymology, frequency |
+| Kyrgyz-English | 30,900+ | Reverse lookup with Kyrgyz headwords |
+
+> **100,000+ dictionary entries** across all four directions, covering everyday, academic, legal, medical, and technical vocabulary.
 
 Features:
 - Search by any word form (type "китептин" to find "китеп", "билдирет" to find "билдирүү")
