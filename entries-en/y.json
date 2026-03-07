@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "en-ky-year-001",
+    "en": "year",
+    "ky": "жыл",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "time it takes for the Earth to complete one revolution around the Sun"
+    ],
+    "pronunciation": "/d͡ʒɯl/",
+    "etymology": "From Proto-Turkic *yïl. Cognate with Azerbaijani il, Kazakh жыл (jyl), Turkish yıl, Uzbek yil etc.",
+    "frequency": 10986,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-yugoslavia-001",
+    "en": "Yugoslavia",
+    "ky": "Югославия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "former country in the Balkans"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-yesterday-001",
+    "en": "yesterday",
+    "ky": "кечээ",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "day before today"
+    ],
+    "etymology": "From Proto-Turkic *kēče, Compare to Southern Altai кече (keče), Kazakh кеше (keşe), Bashkir кисә (kisə), Khakas киӌее (kicee), etc.",
+    "frequency": 242,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%87%D1%8D%D1%8D"
+  },
+  {
+    "id": "en-ky-yemen-001",
+    "en": "Yemen",
+    "ky": "Йемен",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Republic of Yemen"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%B5%D0%BC%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-yes-001",
+    "en": "yes",
+    "ky": "ооба",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "word used to indicate agreement or acceptance"
+    ],
+    "frequency": 156,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D0%B1%D0%B0"
+  },
+  {
+    "id": "en-ky-yes-002",
+    "en": "yes",
+    "ky": "макул",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "word used to indicate agreement or acceptance"
+    ],
+    "frequency": 411,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%83%D0%BB"
+  },
+  {
+    "id": "en-ky-yes-003",
+    "en": "yes",
+    "ky": "ийе",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "word used to indicate agreement or acceptance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B9%D0%B5"
+  },
+  {
+    "id": "en-ky-yellow-001",
+    "en": "yellow",
+    "ky": "сары",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "having yellow as its color"
+    ],
+    "pronunciation": "/saˈrɯ/",
+    "etymology": "From Proto-Turkic *sārïg (“yellow, white”).\nCompare Kazakh сары (sary), Kumyk сари (sari), Shor сарыг ,Tuvan сарыг (sarıg), Turkish sarı, etc.",
+    "frequency": 773,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%80%D1%8B"
+  },
+  {
+    "id": "en-ky-your-001",
+    "en": "your",
+    "ky": "сенин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "belonging to you (singular",
+      "one owner)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BD%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-your-002",
+    "en": "your",
+    "ky": "сиздин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "belonging to you (singular",
+      "one owner)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B7%D0%B4%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-your-003",
+    "en": "your",
+    "ky": "силердин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "belonging to you (plural",
+      "more owners)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BB%D0%B5%D1%80%D0%B4%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-your-004",
+    "en": "your",
+    "ky": "сиздердин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "belonging to you (plural",
+      "more owners)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B7%D0%B4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-young-001",
+    "en": "young",
+    "ky": "жаш",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "in the early part of life or growth"
+    ],
+    "pronunciation": "/d͡ʒɑʃ/",
+    "etymology": "From Proto-Turkic *yāĺ, compare Kazakh жас (jas).",
+    "frequency": 2529,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-you-001",
+    "en": "you",
+    "ky": "силер",
+    "pos": "pron",
+    "source": "wiktionary-en",
+    "senses": [
+      "subject pronoun: the group being addressed"
+    ],
+    "pronunciation": "/siˈɫer/",
+    "etymology": "From Proto-Turkic *siŕ + -лер (-ler). Cognate to Turkish siz (“you”).",
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BB%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-you-002",
+    "en": "you",
+    "ky": "сиздер",
+    "pos": "pron",
+    "source": "wiktionary-en",
+    "senses": [
+      "subject pronoun: the group being addressed"
+    ],
+    "pronunciation": "/sizˈder/",
+    "etymology": "From Proto-Turkic *siŕ + -дер (-der).",
+    "frequency": 83,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B7%D0%B4%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-you-003",
+    "en": "you",
+    "ky": "сен",
+    "pos": "pron",
+    "source": "wiktionary-en",
+    "senses": [
+      "subject pronoun: the person being addressed"
+    ],
+    "pronunciation": "/sen/",
+    "etymology": "From Proto-Turkic *sen (“thou”).",
+    "frequency": 3133,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-you-004",
+    "en": "you",
+    "ky": "сиз",
+    "pos": "pron",
+    "source": "wiktionary-en",
+    "senses": [
+      "subject pronoun: the person being addressed"
+    ],
+    "pronunciation": "/siz/",
+    "etymology": "From Proto-Turkic *siŕ.",
+    "frequency": 838,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-yak-001",
+    "en": "yak",
+    "ky": "топоз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "ox-like mammal"
+    ],
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-yacht-001",
+    "en": "yacht",
+    "ky": "яхта",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "slick and light ship"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%85%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-yeast-001",
+    "en": "yeast",
+    "ky": "ачыткы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "fungus"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D1%82%D0%BA%D1%8B"
+  },
+  {
+    "id": "en-ky-yawn-001",
+    "en": "yawn",
+    "ky": "эстөө",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "open the mouth and take a deep breath"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-yen-001",
+    "en": "yen",
+    "ky": "иен",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "unit of Japanese currency"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-yurt-001",
+    "en": "yurt",
+    "ky": "боз үй",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "large, round tent with vertical walls and conical roof"
+    ],
+    "etymology": "Literally \"grey house\", one of the colours of a traditional yurt.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B7%20%D2%AF%D0%B9"
+  },
+  {
+    "id": "en-ky-yurt-002",
+    "en": "yurt",
+    "ky": "өргөө",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "large, round tent with vertical walls and conical roof"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D0%B3%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-yogurt-001",
+    "en": "yogurt",
+    "ky": "йогурт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a milk-based product thickened by a bacterium-aided curdling process"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D1%83%D1%80%D1%82"
+  },
+  {
+    "id": "en-ky-yogurt-002",
+    "en": "yogurt",
+    "ky": "катык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a milk-based product thickened by a bacterium-aided curdling process"
+    ],
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-yogurt-003",
+    "en": "yogurt",
+    "ky": "жуурат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a milk-based product thickened by a bacterium-aided curdling process"
+    ],
+    "etymology": "Deverbal of жууруу (to knead).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-yoke-001",
+    "en": "yoke",
+    "ky": "моюнтурук",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "bar or frame by which two oxen or other draught animals are joined at their necks enabling them to pull a cart, plough, etc.",
+      "device attached to a single draught animal for the same purpose"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-yoke-002",
+    "en": "yoke",
+    "ky": "каамыт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "bar or frame by which two oxen or other draught animals are joined at their necks enabling them to pull a cart, plough, etc.",
+      "device attached to a single draught animal for the same purpose"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BC%D1%8B%D1%82"
+  },
+  {
+    "id": "en-ky-youth-001",
+    "en": "youth",
+    "ky": "жаштык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "part of life following childhood"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-youth-002",
+    "en": "youth",
+    "ky": "жашчылык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "part of life following childhood"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D1%87%D1%8B%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-youth-003",
+    "en": "youth",
+    "ky": "жигит",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "young man"
+    ],
+    "frequency": 1159,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B3%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-yarn-001",
+    "en": "yarn",
+    "ky": "жип",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "fiber strand for knitting or weaving"
+    ],
+    "etymology": "From Proto-Turkic *yïp.",
+    "frequency": 95,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-yoga-001",
+    "en": "yoga",
+    "ky": "йога",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Hindu discipline"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-yellow-sea-001",
+    "en": "Yellow Sea",
+    "ky": "Сары деңиз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Asian sea"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%B0%D1%80%D1%8B%20%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-york-001",
+    "en": "York",
+    "ky": "Йорк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in North Yorkshire"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%BE%D1%80%D0%BA"
+  },
+  {
+    "id": "en-ky-yerevan-001",
+    "en": "Yerevan",
+    "ky": "Ереван",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "the capital and largest city of Armenia"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-yaoundé-001",
+    "en": "Yaoundé",
+    "ky": "Яунде",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital of Cameroon"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%83%D0%BD%D0%B4%D0%B5"
+  },
+  {
+    "id": "en-ky-yakut-001",
+    "en": "Yakut",
+    "ky": "саха",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%B0"
+  },
+  {
+    "id": "en-ky-yalta-001",
+    "en": "Yalta",
+    "ky": "Ялта",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in Crimea"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BB%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-yery-001",
+    "en": "yery",
+    "ky": "ы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a letter of the Cyrillic alphabet \"Ы/ы\""
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B"
+  },
+  {
+    "id": "en-ky-yarligh-001",
+    "en": "yarligh",
+    "ky": "жарлык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "khan's decree"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-yandex-001",
+    "en": "Yandex",
+    "ky": "Яндекс",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Yandex (in other scripts, the trademark may also be written in Roman letters)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81"
+  },
+  {
+    "id": "en-ky-youthful-001",
+    "en": "youthful",
+    "ky": "жаш",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "молодой",
+    "senses": [
+      "youthful"
+    ],
+    "pronunciation": "/d͡ʒɑʃ/",
+    "etymology": "From Proto-Turkic *yāĺ, compare Kazakh жас (jas).",
+    "frequency": 2529,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-yastreb-001",
+    "en": "Yastreb",
+    "ky": "карчыга",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ястреб",
+    "senses": [
+      "Yastreb (Soviet space suit)"
+    ],
+    "etymology": "From *qarčïğa(y) (“hawk”), from a Mongolic source.",
+    "frequency": 78,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%87%D1%8B%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-yesterday-002",
+    "en": "yesterday",
+    "ky": "кечээ",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "вчера",
+    "senses": [
+      "yesterday"
+    ],
+    "frequency": 242,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%87%D1%8D%D1%8D"
+  },
+  {
+    "id": "en-ky-yoghurt-001",
+    "en": "yoghurt",
+    "ky": "жуурат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "йогурт",
+    "senses": [
+      "yoghurt"
+    ],
+    "etymology": "Deverbal of жууруу (to knead).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-yoghurt-002",
+    "en": "yoghurt",
+    "ky": "йогурт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "йогурт",
+    "senses": [
+      "yoghurt"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D1%83%D1%80%D1%82"
+  },
+  {
+    "id": "en-ky-yoghurt-003",
+    "en": "yoghurt",
+    "ky": "катык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "йогурт",
+    "senses": [
+      "yoghurt"
+    ],
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-yard-001",
+    "en": "yard",
+    "ky": "станция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "станция",
+    "senses": [
+      "yard"
+    ],
+    "frequency": 114,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-yard-002",
+    "en": "yard",
+    "ky": "аялдама",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "станция",
+    "senses": [
+      "yard"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%BB%D0%B4%D0%B0%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-yard-003",
+    "en": "yard",
+    "ky": "вокзал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "станция",
+    "senses": [
+      "yard"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%BA%D0%B7%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-yard-004",
+    "en": "yard",
+    "ky": "темир жол бекети",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "станция",
+    "senses": [
+      "yard"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BC%D0%B8%D1%80%20%D0%B6%D0%BE%D0%BB%20%D0%B1%D0%B5%D0%BA%D0%B5%D1%82%D0%B8"
+  },
+  {
+    "id": "en-ky-yiddish-001",
+    "en": "Yiddish",
+    "ky": "еврей",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "еврейский",
+    "senses": [
+      "Yiddish"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D0%B2%D1%80%D0%B5%D0%B9"
+  },
+  {
+    "id": "en-ky-yiddish-002",
+    "en": "Yiddish",
+    "ky": "жөөт",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "еврейский",
+    "senses": [
+      "Yiddish"
+    ],
+    "pronunciation": "/d͡ʒøːt/",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D3%A9%D1%82"
+  },
+  {
+    "id": "en-ky-yiddish-003",
+    "en": "Yiddish",
+    "ky": "жуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "еврейский",
+    "senses": [
+      "Yiddish"
+    ],
+    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-your-majesty-001",
+    "en": "Your Majesty",
+    "ky": "бий",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "государь",
+    "senses": [
+      "Your Majesty"
+    ],
+    "pronunciation": "/bij/",
+    "etymology": "From Old Turkic 𐰋𐰏 (b²g /⁠beg⁠/, “chief, titled man”). Cognate with Turkish bey, Kazakh би (bi)",
+    "frequency": 883,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B9"
+  },
+  {
+    "id": "en-ky-your-majesty-002",
+    "en": "Your Majesty",
+    "ky": "башкаруучу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "государь",
+    "senses": [
+      "Your Majesty"
+    ],
+    "frequency": 17,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D0%B0%D1%80%D1%83%D1%83%D1%87%D1%83"
+  },
+  {
+    "id": "en-ky-your-majesty-003",
+    "en": "Your Majesty",
+    "ky": "аким",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "государь",
+    "senses": [
+      "Your Majesty"
+    ],
+    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-yolk,-vitellus-001",
+    "en": "yolk, vitellus",
+    "ky": "жумуртканын сарыс",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "желток",
+    "senses": [
+      "yolk, vitellus"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%80%D1%82%D0%BA%D0%B0%D0%BD%D1%8B%D0%BD%20%D1%81%D0%B0%D1%80%D1%8B%D1%81"
+  },
+  {
+    "id": "en-ky-yttrium-001",
+    "en": "yttrium",
+    "ky": "иттрий",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "иттрий",
+    "senses": [
+      "yttrium"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%82%D1%82%D1%80%D0%B8%D0%B9"
+  },
+  {
+    "id": "en-ky-yoke;-slavery,-oppression-001",
+    "en": "yoke; slavery, oppression",
+    "ky": "моюнтурук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "иго",
+    "senses": [
+      "yoke",
+      "slavery, oppression"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-yoke;-slavery,-oppression-002",
+    "en": "yoke; slavery, oppression",
+    "ky": "каамыт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "иго",
+    "senses": [
+      "yoke",
+      "slavery, oppression"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BC%D1%8B%D1%82"
+  },
+  {
+    "id": "en-ky-yama-001",
+    "en": "yama",
+    "ky": "тешик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "яма",
+    "senses": [
+      "yama"
+    ],
+    "etymology": "From Proto-Turkic *deĺ-, Cognates with Kazakh тесік (tesık), Southern Altai тежик (težik), Crimean Tatar teşik, Kumyk тешик (teşik), Azerbaijani deşik, Turkish deşik, Uzbek teshik, Khakas тизік (tizìk), Shor тежик, etc.",
+    "frequency": 37,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%88%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-yama-002",
+    "en": "yama",
+    "ky": "оюк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "яма",
+    "senses": [
+      "yama"
+    ],
+    "etymology": "Compare to Southern Altai ойык (oyïk, “hollow”), etc.",
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BA"
+  },
+  {
+    "id": "en-ky-yard-005",
+    "en": "yard",
+    "ky": "короо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "двор",
+    "senses": [
+      "yard"
+    ],
+    "frequency": 207,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-young,-youthful-001",
+    "en": "young, youthful",
+    "ky": "жаш",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "юный",
+    "senses": [
+      "young, youthful (in the early part of life or growth)"
+    ],
+    "pronunciation": "/d͡ʒɑʃ/",
+    "etymology": "From Proto-Turkic *yāĺ, compare Kazakh жас (jas).",
+    "frequency": 2529,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-yesterday's-001",
+    "en": "yesterday's",
+    "ky": "кечээги",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "вчерашний",
+    "senses": [
+      "yesterday's"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%87%D1%8D%D1%8D%D0%B3%D0%B8"
+  },
+  {
+    "id": "en-ky-yeast,-barm-001",
+    "en": "yeast, barm",
+    "ky": "ачыткы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дрожжи",
+    "senses": [
+      "yeast, barm"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%8B%D1%82%D0%BA%D1%8B"
+  },
+  {
+    "id": "en-ky-yield,-output-001",
+    "en": "yield, output",
+    "ky": "чыгуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "выход",
+    "senses": [
+      "yield, output"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%B3%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-yield,-output-002",
+    "en": "yield, output",
+    "ky": "чыгыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "выход",
+    "senses": [
+      "yield, output"
+    ],
+    "pronunciation": "/t͡ʃɯˈɡɯʃ/",
+    "etymology": "By surface analysis, чыг- (cıg-, “to leave, exit, come out”) + -ыш (-ış). Cognate with Kazakh шығыс (şyğys, “east”), Turkish çıkış (“exit; act of leaving”), Azerbaijani çıxış (“exit; act of leaving”), Uzbek chiqish etc.",
+    "frequency": 144,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%B3%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-yield,-output-003",
+    "en": "yield, output",
+    "ky": "чыкма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "выход",
+    "senses": [
+      "yield, output"
+    ],
+    "pronunciation": "[t͡ʃɯqˈmɑ]",
+    "etymology": "From чык- (cık-, “to exit”) + -ма (-ma).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BA%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-youngster,-male-youth-001",
+    "en": "youngster, male youth",
+    "ky": "жигит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "юноша",
+    "senses": [
+      "youngster, male youth"
+    ],
+    "frequency": 1159,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B3%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-young-man-001",
+    "en": "young man",
+    "ky": "жигит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "юноша",
+    "senses": [
+      "young man"
+    ],
+    "frequency": 1159,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B3%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-yard,-depot-001",
+    "en": "yard, depot",
+    "ky": "парк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "парк",
+    "senses": [
+      "yard, depot"
+    ],
+    "frequency": 24,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%BA"
+  },
+  {
+    "id": "en-ky-yard,-depot-002",
+    "en": "yard, depot",
+    "ky": "флот",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "парк",
+    "senses": [
+      "yard, depot"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BB%D0%BE%D1%82"
+  },
+  {
+    "id": "en-ky-yekaterinburg-001",
+    "en": "Yekaterinburg",
+    "ky": "Екатеринбург",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Екатеринбург",
+    "senses": [
+      "Yekaterinburg (a city, the administrative center of Sverdlovsk Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3"
+  },
+  {
+    "id": "en-ky-yaroslavl-001",
+    "en": "Yaroslavl",
+    "ky": "Ярославль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Ярославль",
+    "senses": [
+      "Yaroslavl (a city, the administrative center of Yaroslavl Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-yoshkar-ola-001",
+    "en": "Yoshkar-Ola",
+    "ky": "Йошкар-Ола",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Йошкар-Ола",
+    "senses": [
+      "Yoshkar-Ola (the capital and largest city of Mari El, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%BE%D1%88%D0%BA%D0%B0%D1%80-%D0%9E%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-yakutsk-001",
+    "en": "Yakutsk",
+    "ky": "Якутск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Якутск",
+    "senses": [
+      "Yakutsk (the capital city of the Sakha Republic, also known as Yakutia in Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-yuzhno-sakhalinsk-001",
+    "en": "Yuzhno-Sakhalinsk",
+    "ky": "Түштүк-Сахалинск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Южно-Сахалинск",
+    "senses": [
+      "Yuzhno-Sakhalinsk (a city, the administrative centre of Sakhalin Oblast, on Sakhalin Island, in the Far East of Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-yarligh-002",
+    "en": "yarligh",
+    "ky": "этикетка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ярлык",
+    "senses": [
+      "yarligh (a written decree in the Mongol Empire and its successor states)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-yarligh-003",
+    "en": "yarligh",
+    "ky": "наклейка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ярлык",
+    "senses": [
+      "yarligh (a written decree in the Mongol Empire and its successor states)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-yataghan-001",
+    "en": "yataghan",
+    "ky": "ятаган",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ятаган",
+    "senses": [
+      "yataghan (type of sword)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-younger,-youngest-001",
+    "en": "younger, youngest",
+    "ky": "кичи",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "младший",
+    "senses": [
+      "younger, youngest (in an earlier period of life)"
+    ],
+    "frequency": 96,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%87%D0%B8"
+  },
+  {
+    "id": "en-ky-younger,-youngest-002",
+    "en": "younger, youngest",
+    "ky": "кичүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "младший",
+    "senses": [
+      "younger, youngest (in an earlier period of life)"
+    ],
+    "pronunciation": "/kiˈt͡ʃyː/",
+    "etymology": "From Proto-Turkic *kičüg.",
+    "frequency": 112,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%87%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-youth-evening-with-music-and-dance-001",
+    "en": "youth evening with music and dance",
+    "ky": "дискотека",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дискотека",
+    "senses": [
+      "youth evening with music and dance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D0%B5%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-youth-evening-with-music-and-dance-002",
+    "en": "youth evening with music and dance",
+    "ky": "түнкү клуб",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дискотека",
+    "senses": [
+      "youth evening with music and dance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD%D0%BA%D2%AF%20%D0%BA%D0%BB%D1%83%D0%B1"
+  },
+  {
+    "id": "en-ky-young-man,-lad,-boy,-guy-001",
+    "en": "young man, lad, boy, guy",
+    "ky": "жигит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "молодой человек",
+    "senses": [
+      "young man, lad, boy, guy"
+    ],
+    "frequency": 1159,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B3%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-young-man,-sir,-master-001",
+    "en": "young man, sir, master",
+    "ky": "жигит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "молодой человек",
+    "senses": [
+      "young man, sir, master (an informal form of address, sometimes used to address not so young men or little boys)"
+    ],
+    "frequency": 1159,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%B3%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-yoke,-clamp,-cable-tie-001",
+    "en": "yoke, clamp, cable tie",
+    "ky": "моюнтурук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хомут",
+    "senses": [
+      "yoke, clamp, cable tie"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD%D1%82%D1%83%D1%80%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-yoke,-clamp,-cable-tie-002",
+    "en": "yoke, clamp, cable tie",
+    "ky": "каамыт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хомут",
+    "senses": [
+      "yoke, clamp, cable tie"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BC%D1%8B%D1%82"
+  },
+  {
+    "id": "en-ky-yawning-001",
+    "en": "yawning",
+    "ky": "эстөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зевота",
+    "senses": [
+      "yawning"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-young-thief-001",
+    "en": "young thief",
+    "ky": "ууру",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "воришка",
+    "senses": [
+      "young thief"
+    ],
+    "pronunciation": "/uːru/",
+    "etymology": "From an early Turkic *uğru, from Proto-Turkic *ogrï. Related to Kazakh ұры (ūry).",
+    "frequency": 231,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D1%80%D1%83"
+  },
+  {
+    "id": "en-ky-yawn-002",
+    "en": "yawn",
+    "ky": "эстөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зевок",
+    "senses": [
+      "yawn"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-young-grass;-sward-001",
+    "en": "young grass; sward",
+    "ky": "чөп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мурава",
+    "senses": [
+      "young grass",
+      "sward"
+    ],
+    "etymology": "From Proto-Turkic *čöp. Cognate to Southern Altai чӧп (čöp), etc.",
+    "frequency": 431,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D0%BF"
+  },
+  {
+    "id": "en-ky-young-grass;-sward-002",
+    "en": "young grass; sward",
+    "ky": "шибер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мурава",
+    "senses": [
+      "young grass",
+      "sward"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%B1%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-young-grass;-sward-003",
+    "en": "young grass; sward",
+    "ky": "көк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мурава",
+    "senses": [
+      "young grass",
+      "sward"
+    ],
+    "frequency": 2119,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-young-grass;-sward-004",
+    "en": "young grass; sward",
+    "ky": "от",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мурава",
+    "senses": [
+      "young grass",
+      "sward"
+    ],
+    "pronunciation": "/ot/",
+    "etymology": "From Proto-Turkic *ot (“grass”).",
+    "frequency": 798,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82"
+  },
+  {
+    "id": "en-ky-yokel,-bumpkin-001",
+    "en": "yokel, bumpkin",
+    "ky": "айыл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "деревня",
+    "senses": [
+      "yokel, bumpkin"
+    ],
+    "pronunciation": "/ɑˈjɯɫ/",
+    "etymology": "From Proto-Turkic *āgïl, from Proto-Turkic *āg- (“to enclose”).",
+    "frequency": 3328,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-yokel,-bumpkin-002",
+    "en": "yokel, bumpkin",
+    "ky": "кыштак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "деревня",
+    "senses": [
+      "yokel, bumpkin"
+    ],
+    "frequency": 171,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88%D1%82%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-yokel,-bumpkin-003",
+    "en": "yokel, bumpkin",
+    "ky": "деревня",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "деревня",
+    "senses": [
+      "yokel, bumpkin"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F"
+  }
+]

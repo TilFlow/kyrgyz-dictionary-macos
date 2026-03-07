@@ -1,0 +1,590 @@
+[
+  {
+    "id": "en-ky-zero-001",
+    "en": "zero",
+    "ky": "нөль",
+    "pos": "num",
+    "source": "wiktionary-en",
+    "senses": [
+      "cardinal number before 1, denoting nothing"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D3%A9%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-zambia-001",
+    "en": "Zambia",
+    "ky": "Замбия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "country in Southern Africa"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B0%D0%BC%D0%B1%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zimbabwe-001",
+    "en": "Zimbabwe",
+    "ky": "Зимбабве",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Republic of Zimbabwe"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B8%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5"
+  },
+  {
+    "id": "en-ky-zebra-001",
+    "en": "zebra",
+    "ky": "зебра",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "African animal"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D0%B1%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-zoology-001",
+    "en": "zoology",
+    "ky": "зоология",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "science that studies the animal kingdom"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BE%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zeroth-001",
+    "en": "zeroth",
+    "ky": "нөлүнчү",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "ordinal number corresponding to zero"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D3%A9%D0%BB%D2%AF%D0%BD%D1%87%D2%AF"
+  },
+  {
+    "id": "en-ky-zinc-001",
+    "en": "zinc",
+    "ky": "цинк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "element"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%BA"
+  },
+  {
+    "id": "en-ky-zirconium-001",
+    "en": "zirconium",
+    "ky": "цирконий",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "chemical element"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D0%BE%D0%BD%D0%B8%D0%B9"
+  },
+  {
+    "id": "en-ky-zoo-001",
+    "en": "zoo",
+    "ky": "ажайыпкана",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "park where live animals are exhibited"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D0%B0%D0%B9%D1%8B%D0%BF%D0%BA%D0%B0%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-zoo-002",
+    "en": "zoo",
+    "ky": "аң бакчасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "park where live animals are exhibited"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%20%D0%B1%D0%B0%D0%BA%D1%87%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-zurich-001",
+    "en": "Zurich",
+    "ky": "Цүрих",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D2%AF%D1%80%D0%B8%D1%85"
+  },
+  {
+    "id": "en-ky-zagreb-001",
+    "en": "Zagreb",
+    "ky": "Загреб",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital of Croatia"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1"
+  },
+  {
+    "id": "en-ky-zygote-001",
+    "en": "zygote",
+    "ky": "зигота",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "eukaryotic cell formed from the fusion of two gametes during a fertilization process"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B8%D0%B3%D0%BE%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-zionism-001",
+    "en": "Zionism",
+    "ky": "сионизм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Jewish nationalist movement"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC"
+  },
+  {
+    "id": "en-ky-zip-fastener-001",
+    "en": "zip fastener",
+    "ky": "молния",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a fastener used in clothing, bags"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zakat-001",
+    "en": "zakat",
+    "ky": "зекет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "almsgiving in the form of an annual tax on certain types of property, which is used for charitable purposes"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D0%BA%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-zoonosis-001",
+    "en": "zoonosis",
+    "ky": "зооноз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "animal disease that can be transmitted to humans"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BE%D0%BE%D0%BD%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-zachary-001",
+    "en": "Zachary",
+    "ky": "Закарыя",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "male given name"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B0%D0%BA%D0%B0%D1%80%D1%8B%D1%8F"
+  },
+  {
+    "id": "en-ky-zaporizhzhia-001",
+    "en": "Zaporizhzhia",
+    "ky": "Запорожье",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D0%B6%D1%8C%D0%B5"
+  },
+  {
+    "id": "en-ky-zindan-001",
+    "en": "zindan",
+    "ky": "зындан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "translations to be checked"
+    ],
+    "frequency": 81,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D1%8B%D0%BD%D0%B4%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-zelenskyy-001",
+    "en": "Zelenskyy",
+    "ky": "Зеленський",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "surname"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9"
+  },
+  {
+    "id": "en-ky-zelenskyy-002",
+    "en": "Zelenskyy",
+    "ky": "Зеленский",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "surname"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9"
+  },
+  {
+    "id": "en-ky-zhanaozen-001",
+    "en": "Zhanaozen",
+    "ky": "Жаңы-Өзөн",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in Kazakhstan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D2%A3%D1%8B-%D3%A8%D0%B7%D3%A9%D0%BD"
+  },
+  {
+    "id": "en-ky-zone,-region-001",
+    "en": "zone, region",
+    "ky": "кур",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пояс",
+    "senses": [
+      "zone, region"
+    ],
+    "etymology": "From Proto-Turkic *kur (“belt”). Compare Southern Altai кур (kur).",
+    "frequency": 1467,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80"
+  },
+  {
+    "id": "en-ky-zone,-region-002",
+    "en": "zone, region",
+    "ky": "кемер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пояс",
+    "senses": [
+      "zone, region"
+    ],
+    "frequency": 27,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-zone,-region-003",
+    "en": "zone, region",
+    "ky": "илгич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пояс",
+    "senses": [
+      "zone, region"
+    ],
+    "pronunciation": "/iɫˈɡit͡ʃ/",
+    "etymology": "From илүү (ilüü) + -гич (-gic). Cognate to Southern Altai илгиш (ilgiš), etc.",
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-zone,-region-004",
+    "en": "zone, region",
+    "ky": "кайыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пояс",
+    "senses": [
+      "zone, region"
+    ],
+    "etymology": "From Proto-Common Turkic *kadï-.\nCognate with\nOld Turkic [script needed] (qaðïš, “belt”);\nKazakh қайыс (qaiys, “rawhide”);\nBashkir ҡайыш (qayış, “belt”),\nSouthern Altai кайыш (kayïš, “belt”)\nUzbek qayish (“belt”),\nKhakas хаас (xaas, “belt”),\nYakut хатыс (qatïs, “leather strap/belt”),\netc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-zebra-crossing-001",
+    "en": "zebra crossing",
+    "ky": "зебра",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зебра",
+    "senses": [
+      "zebra crossing (a pedestrian crosswalk)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D0%B1%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-zvezda-001",
+    "en": "Zvezda",
+    "ky": "жылдыз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "звезда",
+    "senses": [
+      "Zvezda (module of the International Space Station)"
+    ],
+    "pronunciation": "/d͡ʒɯɫˈdɯz/",
+    "etymology": "From Proto-Turkic *yulduŕ (“star”).",
+    "frequency": 240,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%B7"
+  },
+  {
+    "id": "en-ky-zürich-001",
+    "en": "Zürich",
+    "ky": "Цюрих",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Цюрих",
+    "senses": [
+      "Zürich (the capital of Zürich canton, and the largest city in Switzerland)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85"
+  },
+  {
+    "id": "en-ky-zürich-002",
+    "en": "Zürich",
+    "ky": "Цүрих",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Цюрих",
+    "senses": [
+      "Zürich (the capital of Zürich canton, and the largest city in Switzerland)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D2%AF%D1%80%D0%B8%D1%85"
+  },
+  {
+    "id": "en-ky-znamya-001",
+    "en": "Znamya",
+    "ky": "желек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "знамя",
+    "senses": [
+      "Znamya (Russian space solar mirror)"
+    ],
+    "frequency": 64,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-znamya-002",
+    "en": "Znamya",
+    "ky": "туу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "знамя",
+    "senses": [
+      "Znamya (Russian space solar mirror)"
+    ],
+    "pronunciation": "/tuː/",
+    "etymology": "Ultimately from Old Chinese 纛 (OC *duːɡs, *duːɡ, “banner made of animal tail or feather”). Compare also Kazakh ту (tu), Turkish tuğ; Mongolian туг (tug); etc.",
+    "frequency": 3738,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-znamya-003",
+    "en": "Znamya",
+    "ky": "вымпел",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "знамя",
+    "senses": [
+      "Znamya (Russian space solar mirror)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D1%8B%D0%BC%D0%BF%D0%B5%D0%BB"
+  },
+  {
+    "id": "en-ky-zero-002",
+    "en": "zero",
+    "ky": "нөлүнчү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "нулевой",
+    "senses": [
+      "zero"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D3%A9%D0%BB%D2%AF%D0%BD%D1%87%D2%AF"
+  },
+  {
+    "id": "en-ky-zander,-pike-perch-001",
+    "en": "zander, pike-perch",
+    "ky": "Судак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "судак",
+    "senses": [
+      "zander, pike-perch (the fish or its meat, which is highly regarded)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D1%83%D0%B4%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-zipper,-zip,-zip-fastener-001",
+    "en": "zipper, zip, zip fastener",
+    "ky": "чагылган",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "молния",
+    "senses": [
+      "zipper, zip, zip fastener"
+    ],
+    "pronunciation": "/t͡ʃɑʁɯɫˈʁɑn/",
+    "etymology": "Borrowed from Mongolian цахилгаан (caxilgaan, “lightning”).",
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%B3%D1%8B%D0%BB%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-zipper,-zip,-zip-fastener-002",
+    "en": "zipper, zip, zip fastener",
+    "ky": "молния",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "молния",
+    "senses": [
+      "zipper, zip, zip fastener"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zone-001",
+    "en": "zone",
+    "ky": "түрмө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зона",
+    "senses": [
+      "zone"
+    ],
+    "frequency": 61,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BC%D3%A9"
+  },
+  {
+    "id": "en-ky-zone-002",
+    "en": "zone",
+    "ky": "абак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зона",
+    "senses": [
+      "zone"
+    ],
+    "frequency": 51,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-zarya-001",
+    "en": "Zarya",
+    "ky": "таң",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "заря",
+    "senses": [
+      "Zarya (module of the International Space Station)"
+    ],
+    "pronunciation": "/tɑŋ/",
+    "etymology": "From Proto-Common Turkic *taŋ.",
+    "frequency": 835,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D2%A3"
+  },
+  {
+    "id": "en-ky-zarya-002",
+    "en": "Zarya",
+    "ky": "күн чыгышы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "заря",
+    "senses": [
+      "Zarya (module of the International Space Station)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%20%D1%87%D1%8B%D0%B3%D1%8B%D1%88%D1%8B"
+  },
+  {
+    "id": "en-ky-zipper,-zip-fastener-001",
+    "en": "zipper, zip fastener",
+    "ky": "молния",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "застёжка-молния",
+    "senses": [
+      "zipper, zip fastener (a fastener used in clothing, bags)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BB%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zemledeliye-001",
+    "en": "Zemledeliye",
+    "ky": "айыл чарба",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "земледелие",
+    "senses": [
+      "Zemledeliye (a Russian remote minelaying system)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BB%20%D1%87%D0%B0%D1%80%D0%B1%D0%B0"
+  },
+  {
+    "id": "en-ky-zemledeliye-002",
+    "en": "Zemledeliye",
+    "ky": "айыл чарбасы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "земледелие",
+    "senses": [
+      "Zemledeliye (a Russian remote minelaying system)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BB%20%D1%87%D0%B0%D1%80%D0%B1%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-zoophilia,-bestiality-001",
+    "en": "zoophilia, bestiality",
+    "ky": "зоофилия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зоофилия",
+    "senses": [
+      "zoophilia, bestiality (sexual attraction to animals)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BE%D0%BE%D1%84%D0%B8%D0%BB%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zheleznogorsk-001",
+    "en": "Zheleznogorsk",
+    "ky": "Железногорск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Железногорск",
+    "senses": [
+      "Zheleznogorsk"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-zealand-001",
+    "en": "Zealand",
+    "ky": "Зеландия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Зеландия",
+    "senses": [
+      "Zealand (Danish island)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-zeeland-001",
+    "en": "Zeeland",
+    "ky": "Зеландия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Зеландия",
+    "senses": [
+      "Zeeland (Dutch province)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F"
+  }
+]

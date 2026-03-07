@@ -1,0 +1,3980 @@
+[
+  {
+    "id": "en-ky-kgb-001",
+    "en": "KGB",
+    "ky": "МКК",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Committee for State Security of the Soviet Union"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9C%D0%9A%D0%9A"
+  },
+  {
+    "id": "en-ky-kenya-001",
+    "en": "Kenya",
+    "ky": "Кения",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "country in Eastern Africa"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B5%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-kuwait-001",
+    "en": "Kuwait",
+    "ky": "Кувейт",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "country in West Asia"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%83%D0%B2%D0%B5%D0%B9%D1%82"
+  },
+  {
+    "id": "en-ky-kyrgyzstan-001",
+    "en": "Kyrgyzstan",
+    "ky": "Кыргызстан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "country in Central Asia"
+    ],
+    "frequency": 447,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kazakhstan-001",
+    "en": "Kazakhstan",
+    "ky": "Казакстан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "country in Central Asia and Eastern Europe"
+    ],
+    "frequency": 126,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D1%81%D1%82%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-know-001",
+    "en": "know",
+    "ky": "билүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "be justifiably certain or sure about (something true)"
+    ],
+    "pronunciation": "/biˈɫyː/",
+    "etymology": "From Proto-Turkic *bil-, Cognates with Azerbaijani bilmək, Bashkir белеү (belew), Kazakh білу (bılu), Turkish bilmek, Uzbek bilmoq.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kill-001",
+    "en": "kill",
+    "ky": "өлтүрүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to put to death"
+    ],
+    "etymology": "Relate to Turkish öldürmek.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%82%D2%AF%D1%80%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kindle-001",
+    "en": "kindle",
+    "ky": "тамызуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to start (a fire)"
+    ],
+    "etymology": "From Proto-Turkic *tam-.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D1%8B%D0%B7%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-king-001",
+    "en": "king",
+    "ky": "король",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a male of a royal family who is the supreme ruler of his nation"
+    ],
+    "etymology": "Borrowed from Russian коро́ль (korólʹ).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-king-002",
+    "en": "king",
+    "ky": "падыша",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a male of a royal family who is the supreme ruler of his nation"
+    ],
+    "pronunciation": "/pɑdɯˈʃɑ/",
+    "etymology": "Borrowed from Persian پادشاه.",
+    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0"
+  },
+  {
+    "id": "en-ky-king-003",
+    "en": "king",
+    "ky": "кан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a male of a royal family who is the supreme ruler of his nation"
+    ],
+    "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "frequency": 6011,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-king-004",
+    "en": "king",
+    "ky": "дамке",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "(draughts, checkers) a piece that reached the farthest row forward"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BC%D0%BA%D0%B5"
+  },
+  {
+    "id": "en-ky-korean-001",
+    "en": "Korean",
+    "ky": "корей",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "relating to the Korean Peninsula"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B5%D0%B9"
+  },
+  {
+    "id": "en-ky-korean-002",
+    "en": "Korean",
+    "ky": "корейче",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B5%D0%B9%D1%87%D0%B5"
+  },
+  {
+    "id": "en-ky-keyboard-001",
+    "en": "keyboard",
+    "ky": "клавиатура",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "set of keys used to operate a typewriter, computer etc."
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-keyboard-002",
+    "en": "keyboard",
+    "ky": "колбаскыч",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "set of keys used to operate a typewriter, computer etc."
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-knight-001",
+    "en": "knight",
+    "ky": "рыцарь",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "warrior, especially of the Middle Ages"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C"
+  },
+  {
+    "id": "en-ky-knight-002",
+    "en": "knight",
+    "ky": "ат",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "chess piece"
+    ],
+    "pronunciation": "/ɑt/",
+    "etymology": "From Proto-Turkic *āt (“name”).",
+    "frequency": 7631,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-kangaroo-001",
+    "en": "kangaroo",
+    "ky": "кенгуру",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "marsupial"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BD%D0%B3%D1%83%D1%80%D1%83"
+  },
+  {
+    "id": "en-ky-kangaroo-002",
+    "en": "kangaroo",
+    "ky": "бөрсө",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "marsupial"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D1%80%D1%81%D3%A9"
+  },
+  {
+    "id": "en-ky-koala-001",
+    "en": "koala",
+    "ky": "коала",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a tree-dwelling marsupial that resembles a small bear"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B0%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-korea-001",
+    "en": "Korea",
+    "ky": "Корея",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "ancient country or both Koreas as a whole"
+    ],
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D1%8F"
+  },
+  {
+    "id": "en-ky-kingdom-001",
+    "en": "kingdom",
+    "ky": "королевство",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "realm having as supreme ruler a king or queen"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE"
+  },
+  {
+    "id": "en-ky-kingdom-002",
+    "en": "kingdom",
+    "ky": "падышалык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "realm having as supreme ruler a king or queen"
+    ],
+    "pronunciation": "/pɑˈdɯˈʃɑˈlɯq/",
+    "etymology": "падыша (padışa, “tsar, king”) + -лык (-lık). Cognate with Kazakh патшалық (patşalyq), Tatar патшалык (patşalıq), Kumyk пачалыкъ (paçalıq), etc.",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-kerosene-001",
+    "en": "kerosene",
+    "ky": "керосин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "thin, colorless fuel"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%BE%D1%81%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-khutbah-001",
+    "en": "khutbah",
+    "ky": "кутпа",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "talk or sermon delivered in mosques before the Friday prayer"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D0%BF%D0%B0"
+  },
+  {
+    "id": "en-ky-knee-001",
+    "en": "knee",
+    "ky": "тизе",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "joint in the middle of the leg and area around it"
+    ],
+    "etymology": "From Proto-Turkic *tīŕ, *tǖŕ. Compare Southern Altai тизе (tize), Turkish diz.",
+    "frequency": 152,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B5"
+  },
+  {
+    "id": "en-ky-kuala-lumpur-001",
+    "en": "Kuala Lumpur",
+    "ky": "Куала-Лумпур",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital of Malaysia"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%83%D0%B0%D0%BB%D0%B0-%D0%9B%D1%83%D0%BC%D0%BF%D1%83%D1%80"
+  },
+  {
+    "id": "en-ky-keep-001",
+    "en": "keep",
+    "ky": "сактоо",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to maintain possession of"
+    ],
+    "etymology": "From Proto-Turkic *sak. Cognate to Southern Altai сактаар (saktaar), etc.",
+    "frequency": 31,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BA%D1%82%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-keep-002",
+    "en": "keep",
+    "ky": "кармоо",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to maintain the condition of",
+      "to preserve"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%BC%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-keep-003",
+    "en": "keep",
+    "ky": "улантуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to continue"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D0%B0%D0%BD%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-keep-004",
+    "en": "keep",
+    "ky": "башкы мунара",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "main tower"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D1%8B%20%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-knowledge-001",
+    "en": "knowledge",
+    "ky": "билим",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "fact of knowing about something",
+      "understanding, familiarity with information"
+    ],
+    "pronunciation": "/biˈɫim/",
+    "etymology": "Deverbal from билүү (bilüü, “to know”). Morphologically билүү (bilüü) + -им (-im).\nCompare to Kumyk билим (bilim).",
+    "frequency": 1115,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-knife-001",
+    "en": "knife",
+    "ky": "бычак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "utensil or tool designed for cutting"
+    ],
+    "pronunciation": "/bɯˈtɕɑq/",
+    "etymology": "From Proto-Turkic *bïčgak (“knife”).",
+    "frequency": 96,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%8B%D1%87%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-key-001",
+    "en": "key",
+    "ky": "ачкыч",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "device designed to open and close a lock"
+    ],
+    "pronunciation": "/ɑt͡ʃˈqɯt͡ʃ/",
+    "etymology": "From ачуу (acuu, “open”).",
+    "frequency": 43,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-kidney-001",
+    "en": "kidney",
+    "ky": "бөйрөк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "an organ in the body"
+    ],
+    "etymology": "From Proto-Turkic *bögür (“kidney(s)”), *bögrek (“kidney(s)”). Cognate to Kazakh бүйрек (büirek), Southern Altai бӧӧрӧк (böörök), Azerbaijani böyrək, Turkish böbrek, Turkmen böwrek, Uzbek buyrak, Uyghur بۆرەك (börek), Khakas пӱӱрек (püürek), Tuvan бүүрек (büürek), Also, See Bashkir бөйөр (böyör), Tatar бөер (böyer), Western Yugur peɣïr, Yakut бүөр (büör), etc.",
+    "frequency": 81,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%B9%D1%80%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-kernel-001",
+    "en": "kernel",
+    "ky": "өзөк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "(US) stone of certain fruits, such as peaches or plums"
+    ],
+    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-kernel-002",
+    "en": "kernel",
+    "ky": "дан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "(computing) central part of many computer operating systems"
+    ],
+    "frequency": 101,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kick-001",
+    "en": "kick",
+    "ky": "тебүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "strike with or raise the foot or leg"
+    ],
+    "etymology": "Compare to Southern Altai теп- (tep-, “to kick”), Kazakh тебу (tebu), Turkish tepmek, etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B1%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kurdish-001",
+    "en": "Kurdish",
+    "ky": "күрд",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "of, from, or pertaining to Kurdistan, the Kurdish people or the Kurdish language family"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D0%B4"
+  },
+  {
+    "id": "en-ky-kurdish-002",
+    "en": "Kurdish",
+    "ky": "курд",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language family of Kurdistan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%B4"
+  },
+  {
+    "id": "en-ky-kilometre-001",
+    "en": "kilometre",
+    "ky": "километр",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "unit of measure"
+    ],
+    "frequency": 10,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80"
+  },
+  {
+    "id": "en-ky-kilometre-002",
+    "en": "kilometre",
+    "ky": "чакырым",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "unit of measure"
+    ],
+    "etymology": "From *čaqïrïm (“the distance at which a shout as a voice signal can be heard; earshot”), from Proto-Turkic *čaqïr- (“to call, hail”).\nCognate with\nKazakh шақырым (şaqyrym),\nBashkir саҡрым (saqrım),\nSouthern Altai чакырым (čakïrïm),\nKumyk чакъырым (çaqırım),\nUzbek chaqirim,\nUyghur چاقىرىم (chaqirim),\nTurkmen çakyrym (“verst”).",
+    "frequency": 79,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BA%D1%8B%D1%80%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-kayak-001",
+    "en": "kayak",
+    "ky": "байдарка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a type of small boat"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9%D0%B4%D0%B0%D1%80%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-kayak-002",
+    "en": "kayak",
+    "ky": "каяк",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a type of small boat"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%8F%D0%BA"
+  },
+  {
+    "id": "en-ky-kiss-001",
+    "en": "kiss",
+    "ky": "өбүү",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to touch with the lips"
+    ],
+    "etymology": "From Proto-Turkic *öp-. Compare to Southern Altai ӧбӧр (öbör), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kiss-002",
+    "en": "kiss",
+    "ky": "өөп коюу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to touch with the lips"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D3%A9%D0%BF%20%D0%BA%D0%BE%D1%8E%D1%83"
+  },
+  {
+    "id": "en-ky-kiss-003",
+    "en": "kiss",
+    "ky": "өбүш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a touch with the lips"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D1%88"
+  },
+  {
+    "id": "en-ky-kabul-001",
+    "en": "Kabul",
+    "ky": "Кабул",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital and largest city of Afghanistan"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%B1%D1%83%D0%BB"
+  },
+  {
+    "id": "en-ky-kathmandu-001",
+    "en": "Kathmandu",
+    "ky": "Катманду",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital city of Nepal"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%82%D0%BC%D0%B0%D0%BD%D0%B4%D1%83"
+  },
+  {
+    "id": "en-ky-khartoum-001",
+    "en": "Khartoum",
+    "ky": "Хартум",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital of Sudan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A5%D0%B0%D1%80%D1%82%D1%83%D0%BC"
+  },
+  {
+    "id": "en-ky-kyrgyz-001",
+    "en": "Kyrgyz",
+    "ky": "кыргыз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "member of a Turkic people"
+    ],
+    "pronunciation": "/qɯɾˈɢɯz/",
+    "etymology": "Of uncertain etymology. Possibly from кырк кыз (kırk kız, “forty girls”), a reference to the Epic of Manas unifying forty small tribes against the Chinese and the Muslim expansion; or possibly from кырк ууз (kırk uuz, “forty tribes”); or possibly from кыргыс (kırgıs, “imperishable, inextinguishable, undying”). There are several other theories; more at Kyrgyz.\nCompare also Khakas хырғыс (xırğıs, a tribe name), Tuvan кыргыс (kırgıs, a tribe name), etc.",
+    "frequency": 17360,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7"
+  },
+  {
+    "id": "en-ky-kyrgyz-002",
+    "en": "Kyrgyz",
+    "ky": "кыргыз тили",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D1%82%D0%B8%D0%BB%D0%B8"
+  },
+  {
+    "id": "en-ky-kyrgyz-003",
+    "en": "Kyrgyz",
+    "ky": "кыргызча",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language"
+    ],
+    "frequency": 17,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%87%D0%B0"
+  },
+  {
+    "id": "en-ky-kyrgyz-004",
+    "en": "Kyrgyz",
+    "ky": "قىرعىز تىلى",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D9%82%D9%89%D8%B1%D8%B9%D9%89%D8%B2%20%D8%AA%D9%89%D9%84%D9%89"
+  },
+  {
+    "id": "en-ky-kyrgyz-005",
+    "en": "Kyrgyz",
+    "ky": "قىرعىزچا",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "language"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D9%82%D9%89%D8%B1%D8%B9%D9%89%D8%B2%DA%86%D8%A7"
+  },
+  {
+    "id": "en-ky-kazakh-001",
+    "en": "Kazakh",
+    "ky": "казак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a person from Kazakhstan or of that descent"
+    ],
+    "pronunciation": "/qɑˈzɑq/",
+    "frequency": 270,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kilogram-001",
+    "en": "kilogram",
+    "ky": "килограмм",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "unit of mass equal to 1000 grams"
+    ],
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC"
+  },
+  {
+    "id": "en-ky-knock-001",
+    "en": "knock",
+    "ky": "кагуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to rap one's knuckles against something"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B3%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-knock-002",
+    "en": "knock",
+    "ky": "такылдатуу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to rap one's knuckles against something"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BA%D1%8B%D0%BB%D0%B4%D0%B0%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-kaput-001",
+    "en": "kaput",
+    "ky": "өлүм",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "out of order"
+    ],
+    "frequency": 645,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-kaput-002",
+    "en": "kaput",
+    "ky": "өлүү",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "out of order"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kaput-003",
+    "en": "kaput",
+    "ky": "жок болуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "out of order"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BA%20%D0%B1%D0%BE%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-kaput-004",
+    "en": "kaput",
+    "ky": "куруп кетүү",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "out of order"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83%D0%BF%20%D0%BA%D0%B5%D1%82%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kitsch-001",
+    "en": "kitsch",
+    "ky": "кич",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "art of questionable artistic value"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-kitsch-002",
+    "en": "kitsch",
+    "ky": "китч",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "art of questionable artistic value"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%82%D1%87"
+  },
+  {
+    "id": "en-ky-killer-001",
+    "en": "killer",
+    "ky": "өлтүргүч",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "murderer, person who kills"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%82%D2%AF%D1%80%D0%B3%D2%AF%D1%87"
+  },
+  {
+    "id": "en-ky-killer-002",
+    "en": "killer",
+    "ky": "өлтүрүүчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "murderer, person who kills"
+    ],
+    "etymology": "From өлтүрүү (öltürüü, “killing”) + -чү (-cü).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%82%D2%AF%D1%80%D2%AF%D2%AF%D1%87%D2%AF"
+  },
+  {
+    "id": "en-ky-keen-001",
+    "en": "keen",
+    "ky": "курч",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "showing a quick and ardent responsiveness or willingness"
+    ],
+    "etymology": "From Proto-Turkic *kurč (“hard, firm, stout”).\nCognate with\nOld Uyghur qurč (“firm, stout”);\nSouthern Altai курч (kurč, “steel; sharp”),\nTatar корыч (qorıç, “steel”),\nBashkir ҡорос (qoros, “steel”),\nKarachay-Balkar къурч (qurç, “steel”),\nKumyk къурч (qurç, “brisk, vigorous”), etc.",
+    "frequency": 160,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%87"
+  },
+  {
+    "id": "en-ky-keen-002",
+    "en": "keen",
+    "ky": "кескин",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "showing a quick and ardent responsiveness or willingness"
+    ],
+    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-keen-003",
+    "en": "keen",
+    "ky": "катуу",
+    "pos": "adj",
+    "source": "wiktionary-en",
+    "senses": [
+      "showing a quick and ardent responsiveness or willingness"
+    ],
+    "etymology": "From Proto-Turkic *kat-, compare Turkish katı, Kazakh қатты (qatty), Southern Altai кату (katu), etc.",
+    "frequency": 991,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-kid-001",
+    "en": "kid",
+    "ky": "бала",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "child (colloq.)"
+    ],
+    "pronunciation": "/bɑˈlɑ/",
+    "etymology": "From Proto-Turkic *bāla.",
+    "frequency": 4331,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-kid-002",
+    "en": "kid",
+    "ky": "наристе",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "child (colloq.)"
+    ],
+    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B5"
+  },
+  {
+    "id": "en-ky-kid-003",
+    "en": "kid",
+    "ky": "улак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "young goat"
+    ],
+    "frequency": 192,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-keepsake-001",
+    "en": "keepsake",
+    "ky": "белек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "object retained in memory of something or someone"
+    ],
+    "pronunciation": "/beˈlec/",
+    "etymology": "Compare to Southern Altai белек (belek, “gift”), Bashkir бүләк (bülək), etc.",
+    "frequency": 178,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-knot-001",
+    "en": "knot",
+    "ky": "түйүн",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "looping"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BD"
+  },
+  {
+    "id": "en-ky-kebab-001",
+    "en": "kebab",
+    "ky": "кебеп",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "dish"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B1%D0%B5%D0%BF"
+  },
+  {
+    "id": "en-ky-kale-001",
+    "en": "kale",
+    "ky": "бакча капустасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "edible plant: Brassica oleracea acephala"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D1%87%D0%B0%20%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-kale-002",
+    "en": "kale",
+    "ky": "жем капуста",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "edible plant: Brassica oleracea acephala"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC%20%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-keeper-001",
+    "en": "keeper",
+    "ky": "сактоочу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "person who keeps something"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BA%D1%82%D0%BE%D0%BE%D1%87%D1%83"
+  },
+  {
+    "id": "en-ky-keeper-002",
+    "en": "keeper",
+    "ky": "күзөтчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "person who keeps something"
+    ],
+    "frequency": 59,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B7%D3%A9%D1%82%D1%87%D2%AF"
+  },
+  {
+    "id": "en-ky-keeper-003",
+    "en": "keeper",
+    "ky": "көзөмөлдөчү",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "guard, custodian"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7%D3%A9%D0%BC%D3%A9%D0%BB%D0%B4%D3%A9%D1%87%D2%AF"
+  },
+  {
+    "id": "en-ky-kitchen-001",
+    "en": "kitchen",
+    "ky": "кухня",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "room"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%85%D0%BD%D1%8F"
+  },
+  {
+    "id": "en-ky-kitchen-002",
+    "en": "kitchen",
+    "ky": "ашкана",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "room"
+    ],
+    "pronunciation": "/ɑʃqɑnɑ/",
+    "etymology": "From аш (aş, “meal”) + -кана (-kana, “place of”).\nCognate to\nBashkir ашхана (aşxana),\nKazakh асхана (asxana),\nUzbek oshxona,\nUyghur ئاشخانا (ashxana),\nTatar ашханә (aşxanä),\nTurkmen aşhana (“canteen, cafeteria”),\nOttoman Turkish آشخانه (aşhâne, “eating place”), etc.",
+    "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88%D0%BA%D0%B0%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-klipspringer-001",
+    "en": "klipspringer",
+    "ky": "түйүлчөк жейрен",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Oreotragus oreotragus"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BB%D1%87%D3%A9%D0%BA%20%D0%B6%D0%B5%D0%B9%D1%80%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-kite-001",
+    "en": "kite",
+    "ky": "куйрук",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "lightweight toy for flying"
+    ],
+    "etymology": "From Proto-Turkic *kudruk (“tail”). Cognate with Old Turkic 𐰴𐰆𐰑𐰺𐰆𐰸 (qudruq, “tail”), Turkish kuyruk (“tail”).",
+    "frequency": 386,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B9%D1%80%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-kite-002",
+    "en": "kite",
+    "ky": "батперек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "lightweight toy for flying"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%82%D0%BF%D0%B5%D1%80%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-kurdistan-001",
+    "en": "Kurdistan",
+    "ky": "Курдистан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "cultural region in West Asia inhabited mostly by the Kurds"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%83%D1%80%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kamikaze-001",
+    "en": "kamikaze",
+    "ky": "камикадзе",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "suicidal attack"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0%D0%B4%D0%B7%D0%B5"
+  },
+  {
+    "id": "en-ky-kamikaze-002",
+    "en": "kamikaze",
+    "ky": "жанкечти",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "suicidal attack"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%BA%D0%B5%D1%87%D1%82%D0%B8"
+  },
+  {
+    "id": "en-ky-kettle-001",
+    "en": "kettle",
+    "ky": "казан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "vessel for boiling a liquid or cooking food"
+    ],
+    "etymology": "From Proto-Turkic *kaŕgan.",
+    "frequency": 347,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kettle-002",
+    "en": "kettle",
+    "ky": "чайнек",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "vessel for boiling a liquid or cooking food"
+    ],
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%B9%D0%BD%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-kettle-003",
+    "en": "kettle",
+    "ky": "чөөгүн",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "vessel for boiling a liquid or cooking food"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D3%A9%D0%B3%D2%AF%D0%BD"
+  },
+  {
+    "id": "en-ky-kabuki-001",
+    "en": "kabuki",
+    "ky": "кабуки",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "form of Japanese theatre"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%83%D0%BA%D0%B8"
+  },
+  {
+    "id": "en-ky-kaolin-001",
+    "en": "kaolin",
+    "ky": "каолин",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "clay"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BE%D0%BB%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-kapok-001",
+    "en": "kapok",
+    "ky": "капок",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "silky fibre obtained from seed pods of the silk-cotton tree (Ceiba pentandra)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BE%D0%BA"
+  },
+  {
+    "id": "en-ky-khan-001",
+    "en": "khan",
+    "ky": "хан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a ruler over various Turkic and Mongol peoples in the Middle Ages"
+    ],
+    "frequency": 1285,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-khan-002",
+    "en": "khan",
+    "ky": "каган",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a ruler over various Turkic and Mongol peoples in the Middle Ages"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-khan-003",
+    "en": "khan",
+    "ky": "кан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a ruler over various Turkic and Mongol peoples in the Middle Ages"
+    ],
+    "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "frequency": 6011,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kulak-001",
+    "en": "kulak",
+    "ky": "кулак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "prosperous peasant"
+    ],
+    "etymology": "From Proto-Turkic *kulkak (“ear”). Cognate with Kazakh құлақ (qūlaq), Southern Altai кулак (kulak), Crimean Tatar qulaq, Karachay-Balkar къулакъ (qulaq), Kumyk къулакъ (qulaq), Bashkir ҡолаҡ (qolaq), Tatar колак (qolaq), Azerbaijani qulaq, Gagauz kulak, Turkish kulak, Turkmen gulak, Uzbek quloq, Uyghur قۇلاق (qulaq), Khakas хулах (xulax), Shor қулақ, Tofa ӄулаӄ, Tuvan кулак (kulak), Western Yugur qulaq, etc.",
+    "frequency": 1006,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-knave-001",
+    "en": "knave",
+    "ky": "валет",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "playing card"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BB%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-knave-002",
+    "en": "knave",
+    "ky": "балта",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "playing card"
+    ],
+    "etymology": "From Proto-Turkic *baltu (“axe”).\nCognate with\nOld Turkic [script needed] (baltu, “axe”),\nKazakh балта (balta), Bashkir балта (balta), Uzbek bolta, Southern Altai малта (malta), Khakas малта (malta), etc.",
+    "frequency": 118,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-knead-001",
+    "en": "knead",
+    "ky": "жууруу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "to work and press into a mass"
+    ],
+    "etymology": "From Proto-Turkic *yugur-, compare Southern Altai јураар (ǰuraar) / јуурар (ǰuurar), Turkish yoğurmak.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83%D1%80%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-karaoke-001",
+    "en": "karaoke",
+    "ky": "караоке",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a form of entertainment"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D0%BE%D0%BA%D0%B5"
+  },
+  {
+    "id": "en-ky-ketchup-001",
+    "en": "ketchup",
+    "ky": "кетчуп",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "tomato-vinegar based sauce"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D1%87%D1%83%D0%BF"
+  },
+  {
+    "id": "en-ky-kopek-001",
+    "en": "kopek",
+    "ky": "тыйын",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "one-hundredth of a ruble"
+    ],
+    "pronunciation": "/tɯˈjɯn/",
+    "etymology": "From Proto-Turkic *tegiŋ (“squirrel”).",
+    "frequency": 89,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B9%D1%8B%D0%BD"
+  },
+  {
+    "id": "en-ky-krishna-001",
+    "en": "Krishna",
+    "ky": "Кришна",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "avatar"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-kazoo-001",
+    "en": "kazoo",
+    "ky": "казу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a simple musical instrument consisting of a pipe with a hole in it"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D1%83"
+  },
+  {
+    "id": "en-ky-kasha-001",
+    "en": "kasha",
+    "ky": "ботко",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "porridge"
+    ],
+    "etymology": "From Proto-Turkic *botka (“porridge”).\nCognate with\nKazakh ботқа (botqa),\nSouthern Altai ботко (botko),\nKhakas потхы (potxı),\nUzbek bo'tqа,\nUyghur بوتقا (botqa, “porridge, cereal dish”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%82%D0%BA%D0%BE"
+  },
+  {
+    "id": "en-ky-kasha-002",
+    "en": "kasha",
+    "ky": "каша",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "porridge"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88%D0%B0"
+  },
+  {
+    "id": "en-ky-kaleidoscope-001",
+    "en": "kaleidoscope",
+    "ky": "калейдоскоп",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "instrument consisting of a tube containing mirrors and loose, colourful beads or other objects",
+      "when the tube is looked into and rotated, a succession of symmetrical designs can be seen"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%B9%D0%B4%D0%BE%D1%81%D0%BA%D0%BE%D0%BF"
+  },
+  {
+    "id": "en-ky-karma-001",
+    "en": "karma",
+    "ky": "карма",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "the total effect of a person’s actions and conduct during the successive phases of his existence"
+    ],
+    "frequency": 2479,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-kaftan-001",
+    "en": "kaftan",
+    "ky": "кафтан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "long tunic worn in the Eastern Mediterranean"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%84%D1%82%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kaftan-002",
+    "en": "kaftan",
+    "ky": "узун чапан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "long tunic worn in the Eastern Mediterranean"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B7%D1%83%D0%BD%20%D1%87%D0%B0%D0%BF%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-keep-quiet-001",
+    "en": "keep quiet",
+    "ky": "унчукпоо",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "remain silent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D1%87%D1%83%D0%BA%D0%BF%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-keep-quiet-002",
+    "en": "keep quiet",
+    "ky": "үндөбөө",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "remain silent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD%D0%B4%D3%A9%D0%B1%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-keep-quiet-003",
+    "en": "keep quiet",
+    "ky": "сүйлөбөө",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "remain silent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B9%D0%BB%D3%A9%D0%B1%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-kiosk-001",
+    "en": "kiosk",
+    "ky": "күркө",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "enclosed structure where cigarettes, magazines, etc are sold"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D0%BA%D3%A9"
+  },
+  {
+    "id": "en-ky-kiosk-002",
+    "en": "kiosk",
+    "ky": "киоск",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "enclosed structure where cigarettes, magazines, etc are sold"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BE%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-karate-001",
+    "en": "karate",
+    "ky": "карате",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "martial art"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D1%82%D0%B5"
+  },
+  {
+    "id": "en-ky-kinkajou-001",
+    "en": "kinkajou",
+    "ky": "кинкажу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Potos flavus"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%BA%D0%B0%D0%B6%D1%83"
+  },
+  {
+    "id": "en-ky-kaiser-001",
+    "en": "Kaiser",
+    "ky": "кайзер",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "German Emperor — see also emperor"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D0%B7%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-kama-001",
+    "en": "Kama",
+    "ky": "Чолмон",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "river"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A7%D0%BE%D0%BB%D0%BC%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-kafir-001",
+    "en": "kafir",
+    "ky": "каапыр",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "infidel, non-Muslim"
+    ],
+    "frequency": 50,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B0%D0%BF%D1%8B%D1%80"
+  },
+  {
+    "id": "en-ky-kindergarten-001",
+    "en": "kindergarten",
+    "ky": "балдар бакчасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "educational institution for young children, usually between ages 4 and 6"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B4%D0%B0%D1%80%20%D0%B1%D0%B0%D0%BA%D1%87%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-khanate-001",
+    "en": "khanate",
+    "ky": "хандык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "place ruled by a khan"
+    ],
+    "etymology": "хан (han, “khan”) + -дык (-dık)",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-kosovo-001",
+    "en": "Kosovo",
+    "ky": "Косово",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "disputed region in the Balkans"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D0%B2%D0%BE"
+  },
+  {
+    "id": "en-ky-k2-001",
+    "en": "K2",
+    "ky": "Чогори",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "the world’s second highest mountain"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A7%D0%BE%D0%B3%D0%BE%D1%80%D0%B8"
+  },
+  {
+    "id": "en-ky-karelia-001",
+    "en": "Karelia",
+    "ky": "Карелия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "region in Russia and Finland"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-kisel-001",
+    "en": "kisel",
+    "ky": "кисель",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "dessert"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-keep-fit-001",
+    "en": "keep fit",
+    "ky": "дене көнүгүүлөрүнүн комплекси",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "exercise for physical fitness"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BD%D0%B5%20%D0%BA%D3%A9%D0%BD%D2%AF%D0%B3%D2%AF%D2%AF%D0%BB%D3%A9%D1%80%D2%AF%D0%BD%D2%AF%D0%BD%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B8"
+  },
+  {
+    "id": "en-ky-kleptocracy-001",
+    "en": "kleptocracy",
+    "ky": "клептократия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "corrupt and dishonest government"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B5%D0%BF%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-karakul-001",
+    "en": "karakul",
+    "ky": "каракөл",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "breed of sheep"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D0%BA%D3%A9%D0%BB"
+  },
+  {
+    "id": "en-ky-kaliningrad-001",
+    "en": "Kaliningrad",
+    "ky": "Калининград",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Kaliningrad — see also Königsberg"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4"
+  },
+  {
+    "id": "en-ky-khanjar-001",
+    "en": "khanjar",
+    "ky": "канжар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Arabian dagger"
+    ],
+    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B6%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-kaaba-001",
+    "en": "Kaaba",
+    "ky": "Кааба",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "cubical stone temple in Mecca"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%B0%D0%B1%D0%B0"
+  },
+  {
+    "id": "en-ky-keffiyeh-001",
+    "en": "keffiyeh",
+    "ky": "куфия",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Arabian headdress"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%84%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-kyrgyz-ssr-001",
+    "en": "Kyrgyz SSR",
+    "ky": "Кыргыз ССР",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Kyrgyz Soviet Socialist Republic"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D0%A1%D0%A1%D0%A0"
+  },
+  {
+    "id": "en-ky-kaddish-001",
+    "en": "kaddish",
+    "ky": "каддиш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Jewish prayer of praise to God"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D0%B4%D0%B8%D1%88"
+  },
+  {
+    "id": "en-ky-karting-001",
+    "en": "karting",
+    "ky": "картинг",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a sport"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B3"
+  },
+  {
+    "id": "en-ky-kremlin-001",
+    "en": "Kremlin",
+    "ky": "Кремль",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "the Moscow Kremlin"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-khrushchev-001",
+    "en": "Khrushchev",
+    "ky": "Хрущёв",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "surname"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A5%D1%80%D1%83%D1%89%D1%91%D0%B2"
+  },
+  {
+    "id": "en-ky-kaymak-001",
+    "en": "kaymak",
+    "ky": "каймак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "creamy dairy product"
+    ],
+    "pronunciation": "/qɑjˈmɑq/",
+    "etymology": "From Proto-Common Turkic *kańak.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kazan-001",
+    "en": "Kazan",
+    "ky": "Казан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in Russia"
+    ],
+    "frequency": 347,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-khaganate-001",
+    "en": "khaganate",
+    "ky": "кагандык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "an empire comprising several khanates"
+    ],
+    "pronunciation": "/qɑʁɑnˈdɯq/",
+    "etymology": "From каган (kagan, “khagan”) + -дык (-dık).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-koumiss-001",
+    "en": "koumiss",
+    "ky": "кымыз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "fermented drink"
+    ],
+    "pronunciation": "[qɯˈmɯz]",
+    "etymology": "Inherited from Proto-Turkic *kumïŕ.",
+    "frequency": 166,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%BC%D1%8B%D0%B7"
+  },
+  {
+    "id": "en-ky-kant-001",
+    "en": "Kant",
+    "ky": "Кант",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in Kyrgyzstan"
+    ],
+    "frequency": 700,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82"
+  },
+  {
+    "id": "en-ky-kyiv-001",
+    "en": "Kyiv",
+    "ky": "Киев",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital city of Ukraine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B8%D0%B5%D0%B2"
+  },
+  {
+    "id": "en-ky-kyiv-002",
+    "en": "Kyiv",
+    "ky": "Кейип",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "capital city of Ukraine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B5%D0%B9%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-kharkiv-001",
+    "en": "Kharkiv",
+    "ky": "Харьков",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2"
+  },
+  {
+    "id": "en-ky-kalmyk-001",
+    "en": "Kalmyk",
+    "ky": "калмак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "person"
+    ],
+    "frequency": 398,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kalmykia-001",
+    "en": "Kalmykia",
+    "ky": "Калмакстан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Kalmykia, Russia"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BC%D0%B0%D0%BA%D1%81%D1%82%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kazakhstani-001",
+    "en": "Kazakhstani",
+    "ky": "казакстандык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "person from Kazakhstan"
+    ],
+    "etymology": "From Казакстан (Kazakstan, “Kazakhstan”) + -дык (-dık).",
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-kolkhoz-001",
+    "en": "kolkhoz",
+    "ky": "колхоз",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "farming collective"
+    ],
+    "frequency": 45,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-knucklebone-001",
+    "en": "knucklebone",
+    "ky": "чүкө",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "bone that forms a knuckle in the human hand"
+    ],
+    "frequency": 84,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D2%AF%D0%BA%D3%A9"
+  },
+  {
+    "id": "en-ky-knucklebone-002",
+    "en": "knucklebone",
+    "ky": "ашык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "bone that forms a knuckle in the human hand"
+    ],
+    "frequency": 532,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-kamchatka-001",
+    "en": "Kamchatka",
+    "ky": "Камчатка",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "peninsula in the Russian Far East"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-kettlebell-001",
+    "en": "kettlebell",
+    "ky": "гиря",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a kind of weight"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B8%D1%80%D1%8F"
+  },
+  {
+    "id": "en-ky-krasnoyarsk-001",
+    "en": "Krasnoyarsk",
+    "ky": "Кызылжар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%B6%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-kashgar-001",
+    "en": "Kashgar",
+    "ky": "Кашкар",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "prefecture, city"
+    ],
+    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%88%D0%BA%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-karabakh-001",
+    "en": "Karabakh",
+    "ky": "Карабак",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "geographic region"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kerch-001",
+    "en": "Kerch",
+    "ky": "Керич",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city on the Crimean Peninsula"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B5%D1%80%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-korea-strait-001",
+    "en": "Korea Strait",
+    "ky": "Корей кысыгы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a strait between Korea and Japan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%20%D0%BA%D1%8B%D1%81%D1%8B%D0%B3%D1%8B"
+  },
+  {
+    "id": "en-ky-karnay-001",
+    "en": "karnay",
+    "ky": "керней",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "musical instrument"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%BD%D0%B5%D0%B9"
+  },
+  {
+    "id": "en-ky-komsomol-001",
+    "en": "Komsomol",
+    "ky": "комсомол",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Young Communist League in the USSR"
+    ],
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-kyrgyz-republic-001",
+    "en": "Kyrgyz Republic",
+    "ky": "Кыргыз Республикасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "official name of Kyrgyzstan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-kingdom-of-bahrain-001",
+    "en": "Kingdom of Bahrain",
+    "ky": "Бахрейн Падышалыгы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "official name of Bahrain"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%B0%D1%85%D1%80%D0%B5%D0%B9%D0%BD%20%D0%9F%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%B3%D1%8B"
+  },
+  {
+    "id": "en-ky-khiva-001",
+    "en": "Khiva",
+    "ky": "Кыйба",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a town"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D0%B9%D0%B1%D0%B0"
+  },
+  {
+    "id": "en-ky-khutor-001",
+    "en": "khutor",
+    "ky": "хутор",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a single-homestead rural settlement of Eastern Europe"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D1%83%D1%82%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-kyrgyzstani-001",
+    "en": "Kyrgyzstani",
+    "ky": "кыргызстандык",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "person from Kyrgyzstan"
+    ],
+    "etymology": "From Кыргызстан (Kırgızstan, “Kyrgyzstan”) + -дык (-dık).",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-kyrgyz-soviet-socialist-republic-001",
+    "en": "Kyrgyz Soviet Socialist Republic",
+    "ky": "Кыргыз Советтик Социалисттик Республикасы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Translations"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%20%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%82%D0%B8%D0%BA%20%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%82%D0%B8%D0%BA%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-kurultai-001",
+    "en": "kurultai",
+    "ky": "курултай",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a political and military council of ancient Mongol and Turkic chiefs and khans"
+    ],
+    "frequency": 104,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83%D0%BB%D1%82%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-kolkhoznik-001",
+    "en": "kolkhoznik",
+    "ky": "колхозчу",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "one who works on a collective farm in the Soviet Union"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7%D1%87%D1%83"
+  },
+  {
+    "id": "en-ky-karaganda-001",
+    "en": "Karaganda",
+    "ky": "Караганды",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a city in Kazakhstan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D1%8B"
+  },
+  {
+    "id": "en-ky-kostanay-001",
+    "en": "Kostanay",
+    "ky": "Костанай",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "a Kazakh city"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-keratophyre-001",
+    "en": "keratophyre",
+    "ky": "кератофир",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "rock"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%84%D0%B8%D1%80"
+  },
+  {
+    "id": "en-ky-khan-tengri-001",
+    "en": "Khan Tengri",
+    "ky": "Кан-Теңир",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "mountain"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BD-%D0%A2%D0%B5%D2%A3%D0%B8%D1%80"
+  },
+  {
+    "id": "en-ky-khaltura-001",
+    "en": "khaltura",
+    "ky": "халтура",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "black-market work — see also moonlighting"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BB%D1%82%D1%83%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-kingdom-of-italy-001",
+    "en": "Kingdom of Italy",
+    "ky": "Италия Падышалыгы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Translations"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%D0%9F%D0%B0%D0%B4%D1%8B%D1%88%D0%B0%D0%BB%D1%8B%D0%B3%D1%8B"
+  },
+  {
+    "id": "en-ky-kazakhize-001",
+    "en": "Kazakhize",
+    "ky": "казакташтыруу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "Kazakhize"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D1%82%D0%B0%D1%88%D1%82%D1%8B%D1%80%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-kazakhization-001",
+    "en": "Kazakhization",
+    "ky": "казакташтырма",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Kazakhization"
+    ],
+    "pronunciation": "[qaˈzaqˈtaʃˈtɯrˈma]",
+    "etymology": "From казакташтыр- (kazaktaştır-, “to Kazakhize”) + -ма (-ma).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA%D1%82%D0%B0%D1%88%D1%82%D1%8B%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-khabarovsk-krai-001",
+    "en": "Khabarovsk Krai",
+    "ky": "Хабаров крайы",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "krai"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%20%D0%BA%D1%80%D0%B0%D0%B9%D1%8B"
+  },
+  {
+    "id": "en-ky-karakalpakstan-001",
+    "en": "Karakalpakstan",
+    "ky": "Каракалпакстан",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "region"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BB%D0%BF%D0%B0%D0%BA%D1%81%D1%82%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kyrgyzization-001",
+    "en": "Kyrgyzization",
+    "ky": "кыргыздаштырма",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "the process or result of Kyrgyzizing"
+    ],
+    "pronunciation": "[qɯrˈʁɯzˈdaʃˈtɯrˈma]",
+    "etymology": "From кыргыздаштыр- (kırgızdaştır-, “to Kyrgyzize”) + -ма (-ma).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D0%B4%D0%B0%D1%88%D1%82%D1%8B%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-kyrgyzize-001",
+    "en": "Kyrgyzize",
+    "ky": "кыргыздаштыруу",
+    "pos": "verb",
+    "source": "wiktionary-en",
+    "senses": [
+      "Kyrgyzize"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D0%B4%D0%B0%D1%88%D1%82%D1%8B%D1%80%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-kurash-001",
+    "en": "kurash",
+    "ky": "күрөш",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "Translations"
+    ],
+    "etymology": "From Proto-Turkic *küreš-. Cognate to Southern Altai кӱреш (küreš), etc.",
+    "frequency": 424,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D3%A9%D1%88"
+  },
+  {
+    "id": "en-ky-karakol-001",
+    "en": "Karakol",
+    "ky": "Каракол",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in the Issyk-Kul Region, Kyrgyzstan"
+    ],
+    "frequency": 80,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-kokand-001",
+    "en": "Kokand",
+    "ky": "Кокон",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in Uzbekistan"
+    ],
+    "frequency": 219,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D0%BA%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-konibodom-001",
+    "en": "Konibodom",
+    "ky": "Канибадам",
+    "pos": "noun",
+    "source": "wiktionary-en",
+    "senses": [
+      "city in Tajikistan"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B8%D0%B1%D0%B0%D0%B4%D0%B0%D0%BC"
+  },
+  {
+    "id": "en-ky-king-005",
+    "en": "king",
+    "ky": "император",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "царь",
+    "senses": [
+      "king (figuratively, or referring to ancient or non-European monarchs)"
+    ],
+    "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-king-006",
+    "en": "king",
+    "ky": "царь",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "царь",
+    "senses": [
+      "king (figuratively, or referring to ancient or non-European monarchs)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B0%D1%80%D1%8C"
+  },
+  {
+    "id": "en-ky-knob-001",
+    "en": "knob",
+    "ky": "калемсап",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ручка",
+    "senses": [
+      "knob"
+    ],
+    "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos). + From Proto-Turkic *sap (handle).\nкалем (kalem, “pencil”) + сап (sap, “handle”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC%D1%81%D0%B0%D0%BF"
+  },
+  {
+    "id": "en-ky-knob-002",
+    "en": "knob",
+    "ky": "жазгын",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ручка",
+    "senses": [
+      "knob"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D0%BD"
+  },
+  {
+    "id": "en-ky-knob-003",
+    "en": "knob",
+    "ky": "калем",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ручка",
+    "senses": [
+      "knob"
+    ],
+    "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos).",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC"
+  },
+  {
+    "id": "en-ky-knob-004",
+    "en": "knob",
+    "ky": "жазгыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ручка",
+    "senses": [
+      "knob"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-keystone-001",
+    "en": "keystone",
+    "ky": "замок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "замок",
+    "senses": [
+      "keystone"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+  },
+  {
+    "id": "en-ky-keystone-002",
+    "en": "keystone",
+    "ky": "сепил",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "замок",
+    "senses": [
+      "keystone"
+    ],
+    "frequency": 36,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BF%D0%B8%D0%BB"
+  },
+  {
+    "id": "en-ky-keystone-003",
+    "en": "keystone",
+    "ky": "сарай",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "замок",
+    "senses": [
+      "keystone"
+    ],
+    "frequency": 122,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%80%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-keystone-004",
+    "en": "keystone",
+    "ky": "кулпу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "замок",
+    "senses": [
+      "keystone"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%BF%D1%83"
+  },
+  {
+    "id": "en-ky-kind,-sort-001",
+    "en": "kind, sort",
+    "ky": "бир тууган",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "брат",
+    "senses": [
+      "kind, sort"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%20%D1%82%D1%83%D1%83%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kind,-sort-002",
+    "en": "kind, sort",
+    "ky": "ага",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "брат",
+    "senses": [
+      "kind, sort"
+    ],
+    "etymology": "Compare to Southern Altai ака (aka), ага (aga), etc.",
+    "frequency": 420,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-kind,-sort-003",
+    "en": "kind, sort",
+    "ky": "ини",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "брат",
+    "senses": [
+      "kind, sort"
+    ],
+    "pronunciation": "/iˈni/",
+    "etymology": "From Proto-Turkic *ini (“younger brother”).",
+    "frequency": 59,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B8"
+  },
+  {
+    "id": "en-ky-kind,-sort-004",
+    "en": "kind, sort",
+    "ky": "байке",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "брат",
+    "senses": [
+      "kind, sort"
+    ],
+    "pronunciation": "/bɑjˈke/",
+    "etymology": "From бай (bay) + аке (ake)",
+    "frequency": 52,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9%D0%BA%D0%B5"
+  },
+  {
+    "id": "en-ky-kt-001",
+    "en": "Kt",
+    "ky": "утуру",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "К",
+    "senses": [
+      "Kt (knight)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%82%D1%83%D1%80%D1%83"
+  },
+  {
+    "id": "en-ky-kampuchea-001",
+    "en": "Kampuchea",
+    "ky": "Камбоджа",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Кампучия",
+    "senses": [
+      "Kampuchea (former name of Cambodia: a country in Southeast Asia, used from 1975 to 1989)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%BE%D0%B4%D0%B6%D0%B0"
+  },
+  {
+    "id": "en-ky-knife-002",
+    "en": "knife",
+    "ky": "калем",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перо",
+    "senses": [
+      "knife"
+    ],
+    "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos).",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC"
+  },
+  {
+    "id": "en-ky-knife-003",
+    "en": "knife",
+    "ky": "калемсап",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перо",
+    "senses": [
+      "knife"
+    ],
+    "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos). + From Proto-Turkic *sap (handle).\nкалем (kalem, “pencil”) + сап (sap, “handle”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC%D1%81%D0%B0%D0%BF"
+  },
+  {
+    "id": "en-ky-knife-004",
+    "en": "knife",
+    "ky": "жазгыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перо",
+    "senses": [
+      "knife"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-knife-005",
+    "en": "knife",
+    "ky": "канаттын бир талы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перо",
+    "senses": [
+      "knife"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D1%8B%D0%BD%20%D0%B1%D0%B8%D1%80%20%D1%82%D0%B0%D0%BB%D1%8B"
+  },
+  {
+    "id": "en-ky-knife-006",
+    "en": "knife",
+    "ky": "куштун бир тал жүнү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перо",
+    "senses": [
+      "knife"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%88%D1%82%D1%83%D0%BD%20%D0%B1%D0%B8%D1%80%20%D1%82%D0%B0%D0%BB%20%D0%B6%D2%AF%D0%BD%D2%AF"
+  },
+  {
+    "id": "en-ky-knife-007",
+    "en": "knife",
+    "ky": "сүзгүч канат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перо",
+    "senses": [
+      "knife"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B7%D0%B3%D2%AF%D1%87%20%D0%BA%D0%B0%D0%BD%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-kentucky-001",
+    "en": "Kentucky",
+    "ky": "Кентукки",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Кентукки",
+    "senses": [
+      "Kentucky (a state of the United States)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B5%D0%BD%D1%82%D1%83%D0%BA%D0%BA%D0%B8"
+  },
+  {
+    "id": "en-ky-kernel-003",
+    "en": "kernel",
+    "ky": "ядро",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ядро",
+    "senses": [
+      "kernel (of an operating system)"
+    ],
+    "etymology": "Borrowed from Russian ядро́ (jadró).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE"
+  },
+  {
+    "id": "en-ky-kitchen-003",
+    "en": "kitchen",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кухня",
+    "senses": [
+      "kitchen"
+    ],
+    "pronunciation": "[tɑˈmɑq]",
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "frequency": 429,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kindergarten-002",
+    "en": "kindergarten",
+    "ky": "бак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сад",
+    "senses": [
+      "kindergarten"
+    ],
+    "pronunciation": "/bɑq/",
+    "etymology": "From Persian باغ (“garden”).",
+    "frequency": 1140,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-khalat-001",
+    "en": "khalat",
+    "ky": "халат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "халат",
+    "senses": [
+      "khalat"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BB%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-kind,-sort,-species-001",
+    "en": "kind, sort, species",
+    "ky": "түр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вид",
+    "senses": [
+      "kind, sort, species"
+    ],
+    "frequency": 1742,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80"
+  },
+  {
+    "id": "en-ky-kind,-sort,-species-002",
+    "en": "kind, sort, species",
+    "ky": "тип",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вид",
+    "senses": [
+      "kind, sort, species"
+    ],
+    "frequency": 32,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-knucklebones-001",
+    "en": "knucklebones",
+    "ky": "ky",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бабка",
+    "senses": [
+      "knucklebones (usually in the plural)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/ky"
+  },
+  {
+    "id": "en-ky-knucklebones-002",
+    "en": "knucklebones",
+    "ky": "кемпир",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бабка",
+    "senses": [
+      "knucklebones (usually in the plural)"
+    ],
+    "frequency": 670,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80"
+  },
+  {
+    "id": "en-ky-kulak-002",
+    "en": "kulak",
+    "ky": "муштум",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кулак",
+    "senses": [
+      "kulak (a prosperous peasant in the Russian Empire or the Soviet Union, who owned land and could hire workers)"
+    ],
+    "frequency": 34,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D1%88%D1%82%D1%83%D0%BC"
+  },
+  {
+    "id": "en-ky-kulak-003",
+    "en": "kulak",
+    "ky": "жудурук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кулак",
+    "senses": [
+      "kulak (a prosperous peasant in the Russian Empire or the Soviet Union, who owned land and could hire workers)"
+    ],
+    "etymology": "From Proto-Turkic *yudruk. Cognate to Southern Altai јудрук (ǰudruk), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%B4%D1%83%D1%80%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-kiln-001",
+    "en": "kiln",
+    "ky": "печка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "печь",
+    "senses": [
+      "kiln"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-kiln-002",
+    "en": "kiln",
+    "ky": "печь",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "печь",
+    "senses": [
+      "kiln"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D1%8C"
+  },
+  {
+    "id": "en-ky-kiln-003",
+    "en": "kiln",
+    "ky": "меш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "печь",
+    "senses": [
+      "kiln"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%88"
+  },
+  {
+    "id": "en-ky-keen-004",
+    "en": "keen",
+    "ky": "ачуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "острый",
+    "senses": [
+      "keen"
+    ],
+    "pronunciation": "/ɑˈt͡ʃuː/",
+    "etymology": "From Proto-Turkic *ač-.",
+    "frequency": 224,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-keen-005",
+    "en": "keen",
+    "ky": "өткүр",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "острый",
+    "senses": [
+      "keen"
+    ],
+    "frequency": 41,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%82%D0%BA%D2%AF%D1%80"
+  },
+  {
+    "id": "en-ky-knight-003",
+    "en": "knight",
+    "ky": "жылкы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "конь",
+    "senses": [
+      "knight (Russian abbreviation: К)"
+    ],
+    "pronunciation": "/d͡ʒɯɫˈqɯ/",
+    "etymology": "From Proto-Turkic *yïlkï (“age, grown-up animal”).\nCognate with Bashkir йылҡы (yılqı), Kazakh жылқы (jylqy), Southern Altai јылкы (ǰïlkï), Old Turkic 𐰖𐰃𐰞𐰴𐰃 (y¹il¹qi /⁠yïlqï⁠/), Turkish yılkı, Uyghur يىلقا (yilqa), Yakut сылгы (sïlgï), etc.",
+    "frequency": 352,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%BA%D1%8B"
+  },
+  {
+    "id": "en-ky-kilometer/kilometre-001",
+    "en": "kilometer/kilometre",
+    "ky": "километр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "километр",
+    "senses": [
+      "kilometer/kilometre (SI unit of measure)"
+    ],
+    "frequency": 10,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80"
+  },
+  {
+    "id": "en-ky-kilometer/kilometre-002",
+    "en": "kilometer/kilometre",
+    "ky": "чакырым",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "километр",
+    "senses": [
+      "kilometer/kilometre (SI unit of measure)"
+    ],
+    "etymology": "From *čaqïrïm (“the distance at which a shout as a voice signal can be heard; earshot”), from Proto-Turkic *čaqïr- (“to call, hail”).\nCognate with\nKazakh шақырым (şaqyrym),\nBashkir саҡрым (saqrım),\nSouthern Altai чакырым (čakïrïm),\nKumyk чакъырым (çaqırım),\nUzbek chaqirim,\nUyghur چاقىرىم (chaqirim),\nTurkmen çakyrym (“verst”).",
+    "frequency": 79,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BA%D1%8B%D1%80%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-kilobyte-001",
+    "en": "kilobyte",
+    "ky": "килобайт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "килобайт",
+    "senses": [
+      "kilobyte"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D1%82"
+  },
+  {
+    "id": "en-ky-key-002",
+    "en": "key",
+    "ky": "килит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ключ",
+    "senses": [
+      "key"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-key-003",
+    "en": "key",
+    "ky": "булак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ключ",
+    "senses": [
+      "key"
+    ],
+    "etymology": "From Proto-Common Turkic *bulak. Cognate with Azerbaijani bulaq, Turkish bulak, Uzbek buloq, Uyghur بۇلاق (bulaq), Kumyk булакъ (bulaq), Kazakh бұлақ (būlaq), Southern Altai булак (bulak), Nogai булак (bulak), Bashkir болаҡ (bolaq), Tatar bolaq, Western Yugur pulaq etc. See also Mongolian булаг (bulag).",
+    "frequency": 545,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-key-004",
+    "en": "key",
+    "ky": "ажыраткыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ключ",
+    "senses": [
+      "key"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D1%8B%D1%80%D0%B0%D1%82%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-key-005",
+    "en": "key",
+    "ky": "өчүргүч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ключ",
+    "senses": [
+      "key"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%87%D2%AF%D1%80%D0%B3%D2%AF%D1%87"
+  },
+  {
+    "id": "en-ky-key-006",
+    "en": "key",
+    "ky": "гайка ачкычы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ключ",
+    "senses": [
+      "key"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0%20%D0%B0%D1%87%D0%BA%D1%8B%D1%87%D1%8B"
+  },
+  {
+    "id": "en-ky-key-007",
+    "en": "key",
+    "ky": "ключ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ключ",
+    "senses": [
+      "key"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D1%8E%D1%87"
+  },
+  {
+    "id": "en-ky-kiss-004",
+    "en": "kiss",
+    "ky": "өбүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "поцелуй",
+    "senses": [
+      "kiss"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kissing-sound-001",
+    "en": "kissing sound",
+    "ky": "өбүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "поцелуй",
+    "senses": [
+      "kissing sound"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kissing-sound-002",
+    "en": "kissing sound",
+    "ky": "өбүш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "поцелуй",
+    "senses": [
+      "kissing sound"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D1%88"
+  },
+  {
+    "id": "en-ky-knight,-cavalier,-gallant-001",
+    "en": "knight, cavalier, gallant",
+    "ky": "рыцарь",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "рыцарь",
+    "senses": [
+      "knight, cavalier, gallant (a brave and chivalrous man)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C"
+  },
+  {
+    "id": "en-ky-krypton-001",
+    "en": "krypton",
+    "ky": "криптон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "криптон",
+    "senses": [
+      "krypton"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-knot,-bundle-001",
+    "en": "knot, bundle",
+    "ky": "түйүн",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "узел",
+    "senses": [
+      "knot, bundle"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BD"
+  },
+  {
+    "id": "en-ky-keen-006",
+    "en": "keen",
+    "ky": "жука",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "тонкий",
+    "senses": [
+      "keen"
+    ],
+    "etymology": "From Proto-Turkic *yubka (“thin (of flat objects)”). Cognate with Bashkir йоҡа (yoqa), Kazakh жуқа (juqa), Kumyk юкъкъа (yuqqa), Southern Altai јука (ǰuka), Uzbek yupqa, Uyghur يۇپقا (yupqa, “thin”), Azerbaijani yuxa (“gentle”), etc.",
+    "frequency": 67,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-keen-007",
+    "en": "keen",
+    "ky": "ичке",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "тонкий",
+    "senses": [
+      "keen"
+    ],
+    "etymology": "From Proto-Turkic *yiŋč-ge (“thin”). Cognate with Kazakh жіңішке (jıñışke), Kumyk инче (inçe), Southern Altai чичке (čičke), Azerbaijani incə, Turkish ince, Turkmen īnçe, Uzbek ingichka, Khakas ніске (nìske), Shor чишке, Western Yugur šike, sike etc.",
+    "frequency": 58,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%BA%D0%B5"
+  },
+  {
+    "id": "en-ky-kuwait-city-001",
+    "en": "Kuwait City",
+    "ky": "Кувейт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Кувейт",
+    "senses": [
+      "Kuwait City (the capital city of Kuwait)"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%83%D0%B2%D0%B5%D0%B9%D1%82"
+  },
+  {
+    "id": "en-ky-keeper,-guardian,-custodian-001",
+    "en": "keeper, guardian, custodian",
+    "ky": "сактоочу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хранитель",
+    "senses": [
+      "keeper, guardian, custodian"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BA%D1%82%D0%BE%D0%BE%D1%87%D1%83"
+  },
+  {
+    "id": "en-ky-keeper,-guardian,-custodian-002",
+    "en": "keeper, guardian, custodian",
+    "ky": "күзөтчү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хранитель",
+    "senses": [
+      "keeper, guardian, custodian"
+    ],
+    "frequency": 59,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B7%D3%A9%D1%82%D1%87%D2%AF"
+  },
+  {
+    "id": "en-ky-kid,-young-goat-001",
+    "en": "kid, young goat",
+    "ky": "улак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козлёнок",
+    "senses": [
+      "kid, young goat"
+    ],
+    "frequency": 192,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-ketone-001",
+    "en": "ketone",
+    "ky": "кетон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кетон",
+    "senses": [
+      "ketone (organic chemicals with the >CO functional group)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-kh-47m2-kinzhal-001",
+    "en": "Kh-47M2 Kinzhal",
+    "ky": "канжар",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кинжал",
+    "senses": [
+      "Kh-47M2 Kinzhal (Russian nuclear-capable hypersonic aero-ballistic air-to-surface missile)"
+    ],
+    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B6%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-ksshch-001",
+    "en": "KSShch",
+    "ky": "чортон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "щука",
+    "senses": [
+      "KSShch (Soviet anti-ship cruise missile)"
+    ],
+    "etymology": "From Proto-Turkic *čortan. Kazakh шортан (şortan), Nogai шортан (şortan), Southern Altai чортон (čorton) , Bashkir суртан (surtan), Kumyk чортан (çortan), Uzbek choʻrtan, Uyghur چورتان (chortan), Khakas сортан (sortan), Shor шортан, Tuvan шортан (şortan), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%80%D1%82%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-kettle,-teakettle-001",
+    "en": "kettle, teakettle",
+    "ky": "чайнек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "чайник",
+    "senses": [
+      "kettle, teakettle (a vessel for boiling water)"
+    ],
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%B9%D0%BD%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-kettle,-teakettle-002",
+    "en": "kettle, teakettle",
+    "ky": "казан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "чайник",
+    "senses": [
+      "kettle, teakettle (a vessel for boiling water)"
+    ],
+    "etymology": "From Proto-Turkic *kaŕgan.",
+    "frequency": 347,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kettle,-teakettle-003",
+    "en": "kettle, teakettle",
+    "ky": "чөөгүн",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "чайник",
+    "senses": [
+      "kettle, teakettle (a vessel for boiling water)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D3%A9%D0%B3%D2%AF%D0%BD"
+  },
+  {
+    "id": "en-ky-knitting-needle-001",
+    "en": "knitting needle",
+    "ky": "чабак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спица",
+    "senses": [
+      "knitting needle"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-knitting-needle-002",
+    "en": "knitting needle",
+    "ky": "ийне",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спица",
+    "senses": [
+      "knitting needle"
+    ],
+    "etymology": "From Proto-Turkic *igne.",
+    "frequency": 55,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B9%D0%BD%D0%B5"
+  },
+  {
+    "id": "en-ky-kite-003",
+    "en": "kite",
+    "ky": "ажыдаар",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "змей",
+    "senses": [
+      "kite (flying toy)"
+    ],
+    "pronunciation": "/ɑ.dʒɯˈdɑːɾ/",
+    "etymology": "Borrowed from Classical Persian اَژْدَهَا (aždahā).",
+    "frequency": 163,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D1%8B%D0%B4%D0%B0%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-kite-004",
+    "en": "kite",
+    "ky": "улу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "змей",
+    "senses": [
+      "kite (flying toy)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83"
+  },
+  {
+    "id": "en-ky-kisel,-kissel-001",
+    "en": "kisel, kissel",
+    "ky": "кисель",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кисель",
+    "senses": [
+      "kisel, kissel (a popular jellied dessert made by cooking berry juice or other fruit juice with milk, flour and oatmeal, thickened with starch)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-krai,-territory-001",
+    "en": "krai, territory",
+    "ky": "өлкө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "pronunciation": "/øɫˈkø/",
+    "etymology": "From Kipchak *ülkä (“administrative region”), from Proto-Turkic *ül- (“to divide”).\nCognate with Old Turkic [script needed] (ülkä, “administrative region”);\nKazakh өлке (ölke), Bashkir өлкә (ölkə, “region”), Uzbek oʻlka,\nUyghur ئولكە (olke, “country; province”),\nTurkish ülke (“country”), Azerbaijani ölkə (“country”), etc.",
+    "frequency": 1309,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D0%BA%D3%A9"
+  },
+  {
+    "id": "en-ky-krai,-territory-002",
+    "en": "krai, territory",
+    "ky": "аймак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "frequency": 1451,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-krai,-territory-003",
+    "en": "krai, territory",
+    "ky": "район",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "frequency": 2573,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%B9%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-krai,-territory-004",
+    "en": "krai, territory",
+    "ky": "провинция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-krai,-territory-005",
+    "en": "krai, territory",
+    "ky": "область",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "frequency": 118,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C"
+  },
+  {
+    "id": "en-ky-krai,-territory-006",
+    "en": "krai, territory",
+    "ky": "ылаят",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D1%8F%D1%82"
+  },
+  {
+    "id": "en-ky-krai,-territory-007",
+    "en": "krai, territory",
+    "ky": "облус",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "pronunciation": "/oˈblus/",
+    "etymology": "Borrowed from Russian о́бласть (óblastʹ, “region”), cognate with Kazakh облыс (oblys), etc.",
+    "frequency": 2282,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%BB%D1%83%D1%81"
+  },
+  {
+    "id": "en-ky-krai,-territory-008",
+    "en": "krai, territory",
+    "ky": "регион",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "frequency": 52,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-krai,-territory-009",
+    "en": "krai, territory",
+    "ky": "чек ара",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%BA%20%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-krai,-territory-010",
+    "en": "krai, territory",
+    "ky": "чет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "frequency": 1246,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-krai,-territory-011",
+    "en": "krai, territory",
+    "ky": "бордюр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "край",
+    "senses": [
+      "krai, territory (in Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B4%D1%8E%D1%80"
+  },
+  {
+    "id": "en-ky-kursk-001",
+    "en": "Kursk",
+    "ky": "Курск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Курск",
+    "senses": [
+      "Kursk (a city, the administrative center of Kursk Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-khabarovsk-001",
+    "en": "Khabarovsk",
+    "ky": "Хабаровск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Хабаровск",
+    "senses": [
+      "Khabarovsk (a city, the administrative center of Khabarovsk Krai, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-kemerovo-001",
+    "en": "Kemerovo",
+    "ky": "Кемерово",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Кемерово",
+    "senses": [
+      "Kemerovo (a city in Siberia, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%D0%B2%D0%BE"
+  },
+  {
+    "id": "en-ky-knowledge,-erudition-001",
+    "en": "knowledge, erudition",
+    "ky": "билим",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "знание",
+    "senses": [
+      "knowledge, erudition"
+    ],
+    "pronunciation": "/biˈɫim/",
+    "etymology": "Deverbal from билүү (bilüü, “to know”). Morphologically билүү (bilüü) + -им (-im).\nCompare to Kumyk билим (bilim).",
+    "frequency": 1115,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-kolkhoz,-collective-farm-001",
+    "en": "kolkhoz, collective farm",
+    "ky": "колхоз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колхоз",
+    "senses": [
+      "kolkhoz, collective farm"
+    ],
+    "frequency": 45,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-kirov-001",
+    "en": "Kirov",
+    "ky": "Киров",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Киров",
+    "senses": [
+      "Kirov (a city, the administrative center of Kirov Oblast, Russia)"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2"
+  },
+  {
+    "id": "en-ky-kaluga-001",
+    "en": "Kaluga",
+    "ky": "Калуга",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Калуга",
+    "senses": [
+      "Kaluga (a city, the administrative center of Kaluga Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BB%D1%83%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-knick-knack,-trifle-001",
+    "en": "knick-knack, trifle",
+    "ky": "оюнчук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "безделушка",
+    "senses": [
+      "knick-knack, trifle"
+    ],
+    "etymology": "From Proto-Turkic *oy- +-чук (-cuk).",
+    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD%D1%87%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-known,-familiar-001",
+    "en": "known, familiar",
+    "ky": "белгилүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "известный",
+    "senses": [
+      "known, familiar"
+    ],
+    "frequency": 1110,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8%D0%BB%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-kostroma-001",
+    "en": "Kostroma",
+    "ky": "Кострома",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Кострома",
+    "senses": [
+      "Kostroma (a city, the administrative center of Kostroma Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-kimbap-001",
+    "en": "kimbap",
+    "ky": "суши",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "суши",
+    "senses": [
+      "kimbap"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%88%D0%B8"
+  },
+  {
+    "id": "en-ky-karabakh-002",
+    "en": "Karabakh",
+    "ky": "Тоолуу Карабак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Карабах",
+    "senses": [
+      "Karabakh"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D0%BE%D0%BE%D0%BB%D1%83%D1%83%20%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-komsomolsk-na-amure,-komsomolsk-on-amur-001",
+    "en": "Komsomolsk-na-Amure, Komsomolsk-on-Amur",
+    "ky": "Амурдагы Комсомол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Комсомольск-на-Амуре",
+    "senses": [
+      "Komsomolsk-na-Amure, Komsomolsk-on-Amur (a city in Khabarovsk Krai, Russia, on the Amur River)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%90%D0%BC%D1%83%D1%80%D0%B4%D0%B0%D0%B3%D1%8B%20%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-kharkiv,-kharkov-001",
+    "en": "Kharkiv, Kharkov",
+    "ky": "Харьков",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Харьков",
+    "senses": [
+      "Kharkiv, Kharkov (a city in Ukraine)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2"
+  },
+  {
+    "id": "en-ky-krater-001",
+    "en": "krater",
+    "ky": "кратер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кратер",
+    "senses": [
+      "krater (an ancient Greek vessel for mixing water with wine)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%80%D0%B0%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-katsap,-a-russian-person,-russian,-russki-001",
+    "en": "katsap, a Russian person, Russian, Russki",
+    "ky": "жумбаш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кацап",
+    "senses": [
+      "katsap, a Russian person, Russian, Russki"
+    ],
+    "etymology": "Contraction of жумшак баш (jumşak baş, “soft head”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D0%B1%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-kludge,-workaround,-hack-001",
+    "en": "kludge, workaround, hack",
+    "ky": "балдак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "костыль",
+    "senses": [
+      "kludge, workaround, hack"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B4%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kazakh-002",
+    "en": "Kazakh",
+    "ky": "казак",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "казахский",
+    "senses": [
+      "Kazakh"
+    ],
+    "pronunciation": "/qɑˈzɑq/",
+    "frequency": 270,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kaolinite-001",
+    "en": "kaolinite",
+    "ky": "каолин",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "каолинит",
+    "senses": [
+      "kaolinite"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BE%D0%BB%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-kettlebell,-girya-001",
+    "en": "kettlebell, girya",
+    "ky": "гиря",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "гиря",
+    "senses": [
+      "kettlebell, girya"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B8%D1%80%D1%8F"
+  },
+  {
+    "id": "en-ky-knee-sock,-knee-high-001",
+    "en": "knee sock, knee high",
+    "ky": "гольф",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "гольф",
+    "senses": [
+      "knee sock, knee high"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BB%D1%8C%D1%84"
+  },
+  {
+    "id": "en-ky-keeping-001",
+    "en": "keeping",
+    "ky": "мазмун",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "содержание",
+    "senses": [
+      "keeping"
+    ],
+    "frequency": 573,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B7%D0%BC%D1%83%D0%BD"
+  },
+  {
+    "id": "en-ky-kindergarten-003",
+    "en": "kindergarten",
+    "ky": "ясли",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "детский сад",
+    "senses": [
+      "kindergarten"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%81%D0%BB%D0%B8"
+  },
+  {
+    "id": "en-ky-kindred-001",
+    "en": "kindred",
+    "ky": "окшош",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "сходный",
+    "senses": [
+      "kindred"
+    ],
+    "etymology": "From *oqšaš (“similar”), from *ogša- (“to be similar”).\nCognate with Southern Altai ошкош (oškoš),\nTatar охшаш (oxşaş),\nKazakh ұқсас (ūqsas),\nKarachay-Balkar ушаш (uşaş),\nNorthern Altai ошкош (oškoš),\nKhakas осхас (osxas),\nUzbek o'xshash,\nTurkmen ogşaş (“similar to”).",
+    "frequency": 125,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%88%D0%BE%D1%88"
+  },
+  {
+    "id": "en-ky-kernel,-stone,-seed-001",
+    "en": "kernel, stone, seed",
+    "ky": "данек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "косточка",
+    "senses": [
+      "kernel, stone, seed (stone of certain fruits, such as peaches or plums)"
+    ],
+    "frequency": 11,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-kernel,-stone,-seed-002",
+    "en": "kernel, stone, seed",
+    "ky": "өзөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "косточка",
+    "senses": [
+      "kernel, stone, seed (stone of certain fruits, such as peaches or plums)"
+    ],
+    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-khutor,-farm,-farmstead-001",
+    "en": "khutor, farm, farmstead",
+    "ky": "айыл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хутор",
+    "senses": [
+      "khutor, farm, farmstead"
+    ],
+    "pronunciation": "/ɑˈjɯɫ/",
+    "etymology": "From Proto-Turkic *āgïl, from Proto-Turkic *āg- (“to enclose”).",
+    "frequency": 3328,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-khutor,-farm,-farmstead-002",
+    "en": "khutor, farm, farmstead",
+    "ky": "кыштак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хутор",
+    "senses": [
+      "khutor, farm, farmstead"
+    ],
+    "frequency": 171,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88%D1%82%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-khutor,-farm,-farmstead-003",
+    "en": "khutor, farm, farmstead",
+    "ky": "деревня",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хутор",
+    "senses": [
+      "khutor, farm, farmstead"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F"
+  },
+  {
+    "id": "en-ky-khutor,-farm,-farmstead-004",
+    "en": "khutor, farm, farmstead",
+    "ky": "хутор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хутор",
+    "senses": [
+      "khutor, farm, farmstead"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D1%83%D1%82%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-kinetic-energy-001",
+    "en": "kinetic energy",
+    "ky": "кинетикалык энергия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кинетическая энергия",
+    "senses": [
+      "kinetic energy (energy from motion)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA%20%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-kick-scooter-001",
+    "en": "kick scooter",
+    "ky": "өзтепме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "самокат",
+    "senses": [
+      "kick scooter"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D1%82%D0%B5%D0%BF%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-kin-001",
+    "en": "kin",
+    "ky": "кан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "родство",
+    "senses": [
+      "kin"
+    ],
+    "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "frequency": 6011,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kulak,-kurkul-001",
+    "en": "kulak, kurkul",
+    "ky": "кулак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "куркуль",
+    "senses": [
+      "kulak, kurkul (a prosperous peasant in the Russian Empire or the Soviet Union)"
+    ],
+    "etymology": "From Proto-Turkic *kulkak (“ear”). Cognate with Kazakh құлақ (qūlaq), Southern Altai кулак (kulak), Crimean Tatar qulaq, Karachay-Balkar къулакъ (qulaq), Kumyk къулакъ (qulaq), Bashkir ҡолаҡ (qolaq), Tatar колак (qolaq), Azerbaijani qulaq, Gagauz kulak, Turkish kulak, Turkmen gulak, Uzbek quloq, Uyghur قۇلاق (qulaq), Khakas хулах (xulax), Shor қулақ, Tofa ӄулаӄ, Tuvan кулак (kulak), Western Yugur qulaq, etc.",
+    "frequency": 1006,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-kislovodsk-001",
+    "en": "Kislovodsk",
+    "ky": "Кисловодск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Кисловодск",
+    "senses": [
+      "Kislovodsk (a city in Stavropol Krai, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-kerch-002",
+    "en": "Kerch",
+    "ky": "Керчь",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Керчь",
+    "senses": [
+      "Kerch (a city in Crimea, internationally recognized as part of Ukraine but de facto in Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B5%D1%80%D1%87%D1%8C"
+  },
+  {
+    "id": "en-ky-kennel,-doghouse-001",
+    "en": "kennel, doghouse",
+    "ky": "күркө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "будка",
+    "senses": [
+      "kennel, doghouse"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D0%BA%D3%A9"
+  },
+  {
+    "id": "en-ky-kennel,-doghouse-002",
+    "en": "kennel, doghouse",
+    "ky": "киоск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "будка",
+    "senses": [
+      "kennel, doghouse"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BE%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-kilogram,-kilo-001",
+    "en": "kilogram, kilo",
+    "ky": "килограмм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кило",
+    "senses": [
+      "kilogram, kilo"
+    ],
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC"
+  },
+  {
+    "id": "en-ky-kiosk,-stall,-booth-001",
+    "en": "kiosk, stall, booth",
+    "ky": "күркө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "киоск",
+    "senses": [
+      "kiosk, stall, booth"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D0%BA%D3%A9"
+  },
+  {
+    "id": "en-ky-kiosk,-stall,-booth-002",
+    "en": "kiosk, stall, booth",
+    "ky": "киоск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "киоск",
+    "senses": [
+      "kiosk, stall, booth"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BE%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-kiosk,-stall-001",
+    "en": "kiosk, stall",
+    "ky": "күркө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ларёк",
+    "senses": [
+      "kiosk, stall (a vendor's booth)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%80%D0%BA%D3%A9"
+  },
+  {
+    "id": "en-ky-kiosk,-stall-002",
+    "en": "kiosk, stall",
+    "ky": "киоск",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ларёк",
+    "senses": [
+      "kiosk, stall (a vendor's booth)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BE%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-krechet-001",
+    "en": "Krechet",
+    "ky": "турумтай",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кречет",
+    "senses": [
+      "Krechet (Soviet space suit)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%80%D1%83%D0%BC%D1%82%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-klondike-001",
+    "en": "Klondike",
+    "ky": "жоолук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "косынка",
+    "senses": [
+      "Klondike (solitaire)"
+    ],
+    "frequency": 107,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-klondike-002",
+    "en": "Klondike",
+    "ky": "оромол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "косынка",
+    "senses": [
+      "Klondike (solitaire)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D0%BE%D0%BC%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-kolkata-001",
+    "en": "Kolkata",
+    "ky": "Калькутта",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Калькутта",
+    "senses": [
+      "Kolkata (a city in India)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D1%82%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-kilowatt-001",
+    "en": "kilowatt",
+    "ky": "киловатт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "киловатт",
+    "senses": [
+      "kilowatt"
+    ],
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%82"
+  },
+  {
+    "id": "en-ky-karaganda-002",
+    "en": "Karaganda",
+    "ky": "Караганда",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Караганда",
+    "senses": [
+      "Karaganda (a city in Kazakhstan)"
+    ],
+    "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0"
+  },
+  {
+    "id": "en-ky-karat-001",
+    "en": "karat",
+    "ky": "карат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "карат",
+    "senses": [
+      "karat (unit of fineness of gold)"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-khagan-001",
+    "en": "khagan",
+    "ky": "хан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "каган",
+    "senses": [
+      "khagan (khan of khans",
+      "equal in status to an emperor)"
+    ],
+    "frequency": 1285,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-khagan-002",
+    "en": "khagan",
+    "ky": "каган",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "каган",
+    "senses": [
+      "khagan (khan of khans",
+      "equal in status to an emperor)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-khagan-003",
+    "en": "khagan",
+    "ky": "кан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "каган",
+    "senses": [
+      "khagan (khan of khans",
+      "equal in status to an emperor)"
+    ],
+    "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "frequency": 6011,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-kolomna-001",
+    "en": "Kolomna",
+    "ky": "Коломна",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Коломна",
+    "senses": [
+      "Kolomna (a city in Moscow Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-kaiser-or-kaiser-001",
+    "en": "Kaiser or kaiser",
+    "ky": "кайзер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кайзер",
+    "senses": [
+      "Kaiser or kaiser (a German or Austrian emperor)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D0%B7%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-kaluga,-great-siberian-sturgeon-001",
+    "en": "kaluga, great Siberian sturgeon",
+    "ky": "Калуга",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "калуга",
+    "senses": [
+      "kaluga, great Siberian sturgeon (type of sturgeon: Huso dauricus)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BB%D1%83%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-kamensk-uralsky,-kamensk-uralskiy-001",
+    "en": "Kamensk-Uralsky, Kamensk-Uralskiy",
+    "ky": "Каменск-Уральский",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Каменск-Уральский",
+    "senses": [
+      "Kamensk-Uralsky, Kamensk-Uralskiy (a town in Sverdlovsk Oblast, Russia)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA-%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9"
+  }
+]
