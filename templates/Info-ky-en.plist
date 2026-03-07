@@ -5,9 +5,9 @@
   <key>CFBundleDevelopmentRegion</key>
   <string>English</string>
   <key>CFBundleVersion</key>
-  <string>0.1.6</string>
+  <string>0.1.7</string>
   <key>CFBundleShortVersionString</key>
-  <string>0.1.6</string>
+  <string>0.1.7</string>
   <key>CFBundleIdentifier</key>
   <string>org.tilflow.ky-en-dictionary</string>
   <key>CFBundleDisplayName</key>
