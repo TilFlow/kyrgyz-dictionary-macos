@@ -1166,79 +1166,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D1%8B%D0%B7%D0%B0%D0%BA"
   },
   {
-    "id": "en-ky-job,-occupation-001",
-    "en": "job, occupation",
-    "ky": "жумуш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "работа",
-    "senses": [
-      "job, occupation"
-    ],
-    "etymology": "From earlier *ǰumuš, from Proto-Turkic *yumuĺ (“work, service”). Cognate with Kazakh жұмыс (jūmys), etc.",
-    "frequency": 105,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%88"
-  },
-  {
-    "id": "en-ky-job,-occupation-002",
-    "en": "job, occupation",
-    "ky": "иш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "работа",
-    "senses": [
-      "job, occupation"
-    ],
-    "pronunciation": "/iʃ/",
-    "etymology": "From Proto-Turkic *īĺč (“work, deed”).",
-    "frequency": 8089,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88"
-  },
-  {
-    "id": "en-ky-job,-occupation-003",
-    "en": "job, occupation",
-    "ky": "эмгек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "работа",
-    "senses": [
-      "job, occupation"
-    ],
-    "pronunciation": "/emˈɡek/",
-    "etymology": "From Proto-Turkic *emge- (“bother, worry, pains”). Compare to Southern Altai эмгектеер (emgekteer), эмгек (emgek), etc.",
-    "frequency": 1077,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B3%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-job,-occupation-004",
-    "en": "job, occupation",
-    "ky": "кызмат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "работа",
-    "senses": [
-      "job, occupation"
-    ],
-    "etymology": "From Persian خدمت (xedmat), from Arabic خِدْمَة (ḵidma). Cognate with Kazakh қызмет (qyzmet), Tajik хизмат (xizmat), Uzbek xizmat, Turkmen hyzmat, etc.",
-    "frequency": 4836,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D0%BC%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-job,-occupation-005",
-    "en": "job, occupation",
-    "ky": "тапшырма",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "работа",
-    "senses": [
-      "job, occupation"
-    ],
-    "pronunciation": "[tapʃɯrˈma]",
-    "etymology": "From тапшыр- (tapşır-, “to delegate”) + -ма (-ma).",
-    "frequency": 258,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BF%D1%88%D1%8B%D1%80%D0%BC%D0%B0"
-  },
-  {
     "id": "en-ky-january-002",
     "en": "January",
     "ky": "бирдин айы",
@@ -1273,46 +1200,6 @@
       "July"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%20%D0%BE%D0%BE%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-java-002",
-    "en": "Java",
-    "ky": "курбак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "жаба",
-    "senses": [
-      "Java (programming language)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-java-003",
-    "en": "Java",
-    "ky": "курбака",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "жаба",
-    "senses": [
-      "Java (programming language)"
-    ],
-    "frequency": 12,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%B1%D0%B0%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-java-004",
-    "en": "Java",
-    "ky": "бака",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "жаба",
-    "senses": [
-      "Java (programming language)"
-    ],
-    "pronunciation": "/bɑˈqɑ/",
-    "etymology": "From Proto-Turkic *bāka (“[uncertain meaning; possibilies include: frog or turtle/tortoise]”). Cognate with Old Turkic [script needed] (baka), Kazakh бақа (baqa), Crimean Tatar baqa, Kumyk бакъа (baqa), Tatar бака (baqa), Bashkir баҡа (baqa), Shor паға, Tuvan пага (paga), Western Yugur paqa, Uyghur پاقا (paqa), Yakut баҕа (bağa), Turkmen baga, Turkish bağa, etc.",
-    "frequency": 66,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-jar,-pot-001",
@@ -1379,19 +1266,6 @@
   {
     "id": "en-ky-jam,-varenye,-murabba-001",
     "en": "jam, varenye, murabba",
-    "ky": "варенье",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "варенье",
-    "senses": [
-      "jam, varenye, murabba (food",
-      "usually not as thick as джем, and with whole pieces of fruit or berry)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D1%8C%D0%B5"
-  },
-  {
-    "id": "en-ky-jam,-varenye,-murabba-002",
-    "en": "jam, varenye, murabba",
     "ky": "джем",
     "pos": "noun",
     "source": "pivot-ru",
@@ -1414,60 +1288,6 @@
     ],
     "etymology": "Borrowed from Russian бана́н (banán), from French banane, from Spanish or Portuguese banana, from Wolof banaana.",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BD%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-job,-position-001",
-    "en": "job, position",
-    "ky": "орун",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "место",
-    "senses": [
-      "job, position"
-    ],
-    "pronunciation": "/oˈrun/",
-    "etymology": "From Proto-Turkic *orun. Compare to Southern Altai орын (orïn), Bashkir урын (urın), Kazakh орын (oryn), Turkish orun, etc.",
-    "frequency": 4040,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%83%D0%BD"
-  },
-  {
-    "id": "en-ky-job,-position-002",
-    "en": "job, position",
-    "ky": "үзүм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "место",
-    "senses": [
-      "job, position"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B7%D2%AF%D0%BC"
-  },
-  {
-    "id": "en-ky-job,-position-003",
-    "en": "job, position",
-    "ky": "кесек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "место",
-    "senses": [
-      "job, position"
-    ],
-    "frequency": 17,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-job,-position-004",
-    "en": "job, position",
-    "ky": "бөлүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "место",
-    "senses": [
-      "job, position"
-    ],
-    "etymology": "From бөлүү (bölüü) + -үк (-ük). Compare to Southern Altai бӧлӱк (bölük), Kazakh бөлік (bölık), Bashkir бүлек (bülek), etc.",
-    "frequency": 2308,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
   },
   {
     "id": "en-ky-jinn,-jinni,-genie-001",
@@ -1497,58 +1317,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AB%D0%B9%D1%81%D0%B0"
   },
   {
-    "id": "en-ky-jewel-002",
-    "en": "jewel",
-    "ky": "таш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "камень",
-    "senses": [
-      "jewel (analog watch)"
-    ],
-    "pronunciation": "/tɑʂ/",
-    "etymology": "From Proto-Turkic *tāĺ.",
-    "frequency": 1232,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-jewel-003",
-    "en": "jewel",
-    "ky": "салмак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "камень",
-    "senses": [
-      "jewel (analog watch)"
-    ],
-    "frequency": 97,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BB%D0%BC%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-jewel-004",
-    "en": "jewel",
-    "ky": "процессор",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "камень",
-    "senses": [
-      "jewel (analog watch)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80"
-  },
-  {
-    "id": "en-ky-joke-005",
-    "en": "joke",
-    "ky": "анекдот",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "анекдот",
-    "senses": [
-      "joke (something fake or fictional)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B5%D0%BA%D0%B4%D0%BE%D1%82"
-  },
-  {
     "id": "en-ky-jelly-001",
     "en": "jelly",
     "ky": "гель",
@@ -1559,261 +1327,6 @@
       "jelly"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B5%D0%BB%D1%8C"
-  },
-  {
-    "id": "en-ky-judgment-001",
-    "en": "judgment",
-    "ky": "сот",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "frequency": 4546,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%82"
-  },
-  {
-    "id": "en-ky-judgment-002",
-    "en": "judgment",
-    "ky": "суд",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%B4"
-  },
-  {
-    "id": "en-ky-judgment-003",
-    "en": "judgment",
-    "ky": "трибунал",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%80%D0%B8%D0%B1%D1%83%D0%BD%D0%B0%D0%BB"
-  },
-  {
-    "id": "en-ky-judgment-004",
-    "en": "judgment",
-    "ky": "адилдик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-judgment-005",
-    "en": "judgment",
-    "ky": "адилеттик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "frequency": 207,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D1%82%D1%82%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-judgment-006",
-    "en": "judgment",
-    "ky": "юстиция",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "frequency": 142,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D1%81%D1%82%D0%B8%D1%86%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-judgment-007",
-    "en": "judgment",
-    "ky": "короо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "frequency": 207,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-judgment-008",
-    "en": "judgment",
-    "ky": "корт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "judgment"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D1%82"
-  },
-  {
-    "id": "en-ky-justice-004",
-    "en": "justice",
-    "ky": "сот",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "justice"
-    ],
-    "frequency": 4546,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%82"
-  },
-  {
-    "id": "en-ky-justice-005",
-    "en": "justice",
-    "ky": "суд",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "justice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%B4"
-  },
-  {
-    "id": "en-ky-justice-006",
-    "en": "justice",
-    "ky": "трибунал",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "justice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%80%D0%B8%D0%B1%D1%83%D0%BD%D0%B0%D0%BB"
-  },
-  {
-    "id": "en-ky-justice-007",
-    "en": "justice",
-    "ky": "короо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "justice"
-    ],
-    "frequency": 207,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-justice-008",
-    "en": "justice",
-    "ky": "корт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суд",
-    "senses": [
-      "justice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D1%82"
-  },
-  {
-    "id": "en-ky-justice-009",
-    "en": "justice",
-    "ky": "укук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "pronunciation": "/uquq/",
-    "etymology": "From Arabic حقوق (“right”)",
-    "frequency": 4086,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-justice-010",
-    "en": "justice",
-    "ky": "кай",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "frequency": 343,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9"
-  },
-  {
-    "id": "en-ky-justice-011",
-    "en": "justice",
-    "ky": "мыйзам",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "etymology": "From Persian نِظَام (nezâm).",
-    "frequency": 5350,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D0%B9%D0%B7%D0%B0%D0%BC"
-  },
-  {
-    "id": "en-ky-justice-012",
-    "en": "justice",
-    "ky": "закон",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD"
-  },
-  {
-    "id": "en-ky-justice-013",
-    "en": "justice",
-    "ky": "заң",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "pronunciation": "[zɑŋ]",
-    "etymology": "Borrowed from Mongolian зан (zan), itself possibly borrowed from a Turkic language. Ultimately from Chinese 樣 /样 (yàng, “form”).",
-    "frequency": 7,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D2%A3"
-  },
-  {
-    "id": "en-ky-justice-014",
-    "en": "justice",
-    "ky": "жосун",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D1%81%D1%83%D0%BD"
-  },
-  {
-    "id": "en-ky-justice-015",
-    "en": "justice",
-    "ky": "укук таануу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "право",
-    "senses": [
-      "justice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%83%D0%BA%20%D1%82%D0%B0%D0%B0%D0%BD%D1%83%D1%83"
   },
   {
     "id": "en-ky-jew,-yid,-kike-001",
@@ -1894,20 +1407,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83"
   },
   {
-    "id": "en-ky-joke-006",
-    "en": "joke",
-    "ky": "кабык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кора",
-    "senses": [
-      "joke"
-    ],
-    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
-  },
-  {
     "id": "en-ky-jump,-leap,-bound-001",
     "en": "jump, leap, bound",
     "ky": "секирик",
@@ -1921,378 +1420,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BA%D0%B8%D1%80%D0%B8%D0%BA"
   },
   {
-    "id": "en-ky-junction-001",
-    "en": "junction",
-    "ky": "түйүн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "узел",
-    "senses": [
-      "junction"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BD"
-  },
-  {
-    "id": "en-ky-joy,-pleasure-001",
-    "en": "joy, pleasure",
-    "ky": "майрам",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "праздник",
-    "senses": [
-      "joy, pleasure"
-    ],
-    "pronunciation": "/mɑjˈrɑm/",
-    "etymology": "From Proto-Turkic *badram (“feast, festivity”).",
-    "frequency": 82,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B9%D1%80%D0%B0%D0%BC"
-  },
-  {
-    "id": "en-ky-joy,-pleasure-002",
-    "en": "joy, pleasure",
-    "ky": "айт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "праздник",
-    "senses": [
-      "joy, pleasure"
-    ],
-    "frequency": 6635,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%82"
-  },
-  {
-    "id": "en-ky-joy,-pleasure-003",
-    "en": "joy, pleasure",
-    "ky": "фестиваль",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "праздник",
-    "senses": [
-      "joy, pleasure"
-    ],
-    "frequency": 15,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C"
-  },
-  {
-    "id": "en-ky-joy,-pleasure-004",
-    "en": "joy, pleasure",
-    "ky": "дем алыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "праздник",
-    "senses": [
-      "joy, pleasure"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%20%D0%B0%D0%BB%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-joy,-pleasure-005",
-    "en": "joy, pleasure",
-    "ky": "отпуск",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "праздник",
-    "senses": [
-      "joy, pleasure"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA"
-  },
-  {
-    "id": "en-ky-jacket-003",
-    "en": "jacket",
-    "ky": "көйнөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубашка",
-    "senses": [
-      "jacket"
-    ],
-    "etymology": "From Proto-Turkic *köyŋelek.",
-    "frequency": 176,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B9%D0%BD%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-jacket-004",
-    "en": "jacket",
-    "ky": "далы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубашка",
-    "senses": [
-      "jacket"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BB%D1%8B"
-  },
-  {
-    "id": "en-ky-joining,-junction-001",
-    "en": "joining, junction",
-    "ky": "союз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "соединение",
-    "senses": [
-      "joining, junction"
-    ],
-    "frequency": 127,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%8E%D0%B7"
-  },
-  {
-    "id": "en-ky-joining,-junction-002",
-    "en": "joining, junction",
-    "ky": "бирлик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "соединение",
-    "senses": [
-      "joining, junction"
-    ],
-    "frequency": 19,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BB%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-joint,-junction-001",
-    "en": "joint, junction",
-    "ky": "союз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "соединение",
-    "senses": [
-      "joint, junction"
-    ],
-    "frequency": 127,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%8E%D0%B7"
-  },
-  {
-    "id": "en-ky-joint,-junction-002",
-    "en": "joint, junction",
-    "ky": "бирлик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "соединение",
-    "senses": [
-      "joint, junction"
-    ],
-    "frequency": 19,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BB%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-joint,-elbow,-crank-001",
-    "en": "joint, elbow, crank",
-    "ky": "тизе",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, elbow, crank (pipes, tubing, rods)"
-    ],
-    "etymology": "From Proto-Turkic *tīŕ, *tǖŕ. Compare Southern Altai тизе (tize), Turkish diz.",
-    "frequency": 152,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B5"
-  },
-  {
-    "id": "en-ky-joint,-elbow,-crank-002",
-    "en": "joint, elbow, crank",
-    "ky": "уруу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, elbow, crank (pipes, tubing, rods)"
-    ],
-    "etymology": "From Proto-Turkic *urug (“seed; kin, relatives”). Cognate with Yakut уруу (uruu), Turkish uruk, etc.",
-    "frequency": 57,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-joint,-elbow,-crank-003",
-    "en": "joint, elbow, crank",
-    "ky": "тукум",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, elbow, crank (pipes, tubing, rods)"
-    ],
-    "frequency": 276,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BA%D1%83%D0%BC"
-  },
-  {
-    "id": "en-ky-joint,-elbow,-crank-004",
-    "en": "joint, elbow, crank",
-    "ky": "эл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, elbow, crank (pipes, tubing, rods)"
-    ],
-    "pronunciation": "/eɫ/",
-    "etymology": "From Proto-Turkic *ēl. Compare to Kazakh ел (el).",
-    "frequency": 7636,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB"
-  },
-  {
-    "id": "en-ky-joint,-elbow,-crank-005",
-    "en": "joint, elbow, crank",
-    "ky": "каш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, elbow, crank (pipes, tubing, rods)"
-    ],
-    "etymology": "From Proto-Turkic *kāĺ. Cognate to Southern Altai каш (kaš, “shore”).",
-    "frequency": 375,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-joint,-node-001",
-    "en": "joint, node",
-    "ky": "тизе",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, node"
-    ],
-    "etymology": "From Proto-Turkic *tīŕ, *tǖŕ. Compare Southern Altai тизе (tize), Turkish diz.",
-    "frequency": 152,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B5"
-  },
-  {
-    "id": "en-ky-joint,-node-002",
-    "en": "joint, node",
-    "ky": "уруу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, node"
-    ],
-    "etymology": "From Proto-Turkic *urug (“seed; kin, relatives”). Cognate with Yakut уруу (uruu), Turkish uruk, etc.",
-    "frequency": 57,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-joint,-node-003",
-    "en": "joint, node",
-    "ky": "тукум",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, node"
-    ],
-    "frequency": 276,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BA%D1%83%D0%BC"
-  },
-  {
-    "id": "en-ky-joint,-node-004",
-    "en": "joint, node",
-    "ky": "эл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, node"
-    ],
-    "pronunciation": "/eɫ/",
-    "etymology": "From Proto-Turkic *ēl. Compare to Kazakh ел (el).",
-    "frequency": 7636,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB"
-  },
-  {
-    "id": "en-ky-joint,-node-005",
-    "en": "joint, node",
-    "ky": "каш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "колено",
-    "senses": [
-      "joint, node"
-    ],
-    "etymology": "From Proto-Turkic *kāĺ. Cognate to Southern Altai каш (kaš, “shore”).",
-    "frequency": 375,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-jersey-001",
-    "en": "jersey",
-    "ky": "футболка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "майка",
-    "senses": [
-      "jersey"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-jersey-002",
-    "en": "jersey",
-    "ky": "тенниска",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "майка",
-    "senses": [
-      "jersey"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BD%D0%BD%D0%B8%D1%81%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-jersey-003",
-    "en": "jersey",
-    "ky": "майка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "майка",
-    "senses": [
-      "jersey"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-jersey-004",
-    "en": "jersey",
-    "ky": "токум",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "майка",
-    "senses": [
-      "jersey"
-    ],
-    "etymology": "Compare to Southern Altai токум (tokum, “singlet”), etc.",
-    "frequency": 63,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D1%83%D0%BC"
-  },
-  {
-    "id": "en-ky-justice-016",
-    "en": "justice",
-    "ky": "чындык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "правда",
-    "senses": [
-      "justice"
-    ],
-    "frequency": 184,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
     "id": "en-ky-joy,-delight-001",
-    "en": "joy, delight",
-    "ky": "бакыт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "радость",
-    "senses": [
-      "joy, delight"
-    ],
-    "frequency": 108,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D1%8B%D1%82"
-  },
-  {
-    "id": "en-ky-joy,-delight-002",
     "en": "joy, delight",
     "ky": "шаттык",
     "pos": "noun",
@@ -2304,7 +1432,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%82%D1%82%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-joy,-delight-003",
+    "id": "en-ky-joy,-delight-002",
     "en": "joy, delight",
     "ky": "кубаныч",
     "pos": "noun",
@@ -2317,7 +1445,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B1%D0%B0%D0%BD%D1%8B%D1%87"
   },
   {
-    "id": "en-ky-joy,-delight-004",
+    "id": "en-ky-joy,-delight-003",
     "en": "joy, delight",
     "ky": "суйүнүч",
     "pos": "noun",
@@ -2327,33 +1455,6 @@
       "joy, delight"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%B9%D2%AF%D0%BD%D2%AF%D1%87"
-  },
-  {
-    "id": "en-ky-journal,-datebook,-daybook-001",
-    "en": "journal, datebook, daybook",
-    "ky": "күндөлүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "дневник",
-    "senses": [
-      "journal, datebook, daybook"
-    ],
-    "pronunciation": "/kyndølyk/",
-    "etymology": "From күн (kün, “day”) + -дө (-dö) + -лүк (-lük).",
-    "frequency": 106,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D0%B4%D3%A9%D0%BB%D2%AF%D0%BA"
-  },
-  {
-    "id": "en-ky-journal,-datebook,-daybook-002",
-    "en": "journal, datebook, daybook",
-    "ky": "дневник",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "дневник",
-    "senses": [
-      "journal, datebook, daybook"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA"
   },
   {
     "id": "en-ky-juvenile-001",
@@ -2463,42 +1564,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD"
   },
   {
-    "id": "en-ky-journalist-002",
-    "en": "journalist",
-    "ky": "репортёр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "журналист",
-    "senses": [
-      "journalist"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%91%D1%80"
-  },
-  {
-    "id": "en-ky-jet,-tongue,-flare-001",
-    "en": "jet, tongue, flare",
-    "ky": "факел",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "факел",
-    "senses": [
-      "jet, tongue, flare"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D0%BA%D0%B5%D0%BB"
-  },
-  {
-    "id": "en-ky-jet,-tongue,-flare-002",
-    "en": "jet, tongue, flare",
-    "ky": "шамана",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "факел",
-    "senses": [
-      "jet, tongue, flare"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0"
-  },
-  {
     "id": "en-ky-journeyman-001",
     "en": "journeyman",
     "ky": "үйрөнчүк",
@@ -2606,69 +1671,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-judgement,-conviction-001",
-    "en": "judgement, conviction",
-    "ky": "өкүм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "приговор",
-    "senses": [
-      "judgement, conviction (of opinion)"
-    ],
-    "frequency": 646,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BA%D2%AF%D0%BC"
-  },
-  {
-    "id": "en-ky-judgement,-conviction-002",
-    "en": "judgement, conviction",
-    "ky": "чечим",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "приговор",
-    "senses": [
-      "judgement, conviction (of opinion)"
-    ],
-    "frequency": 2318,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%87%D0%B8%D0%BC"
-  },
-  {
-    "id": "en-ky-jumping-jack-001",
-    "en": "jumping jack",
-    "ky": "жылдызча",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "звёздочка",
-    "senses": [
-      "jumping jack"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%B7%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-jam-dish-001",
-    "en": "jam dish",
-    "ky": "розетка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "розетка",
-    "senses": [
-      "jam dish"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%B7%D0%B5%D1%82%D0%BA%D0%B0"
-  },
-  {
     "id": "en-ky-jug,-pitcher-001",
-    "en": "jug, pitcher",
-    "ky": "банка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кувшин",
-    "senses": [
-      "jug, pitcher"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-jug,-pitcher-002",
     "en": "jug, pitcher",
     "ky": "кумура",
     "pos": "noun",
@@ -2730,32 +1733,6 @@
     "etymology": "From Proto-Turkic *baltu (“axe”).\nCognate with\nOld Turkic [script needed] (baltu, “axe”),\nKazakh балта (balta), Bashkir балта (balta), Uzbek bolta, Southern Altai малта (malta), Khakas малта (malta), etc.",
     "frequency": 118,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D1%82%D0%B0"
-  },
-  {
-    "id": "en-ky-jacket,-casing-001",
-    "en": "jacket, casing",
-    "ky": "раковина",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "оболочка",
-    "senses": [
-      "jacket, casing"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-jacket,-casing-002",
-    "en": "jacket, casing",
-    "ky": "кабык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "оболочка",
-    "senses": [
-      "jacket, casing"
-    ],
-    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-judaean-001",
@@ -2823,33 +1800,6 @@
     "etymology": "From Persian عقل, from Arabic عَقْل (ʕaql, “understanding, reason, wisdom, sound judgment; mind”).",
     "frequency": 1161,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-judgment,-mind-002",
-    "en": "judgment, mind",
-    "ky": "эс",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рассудок",
-    "senses": [
-      "judgment, mind"
-    ],
-    "etymology": "From Proto-Turkic *es (“memory, mind”).\nCognate with Bashkir иҫ (iś, “memory, mind”), Chuvash ас (as, “memory”).",
-    "frequency": 1543,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81"
-  },
-  {
-    "id": "en-ky-judgment,-mind-003",
-    "en": "judgment, mind",
-    "ky": "интеллект",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рассудок",
-    "senses": [
-      "judgment, mind"
-    ],
-    "frequency": 2,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
   },
   {
     "id": "en-ky-joke,-anecdote-001",
@@ -3042,18 +1992,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D1%80%D1%81"
   },
   {
-    "id": "en-ky-junior-coder,-code-monkey-001",
-    "en": "junior coder, code monkey",
-    "ky": "индиялык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "индус",
-    "senses": [
-      "junior coder, code monkey (an inexperienced or unqualified software developer)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B4%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
-  },
-  {
     "id": "en-ky-justice,-fairness-001",
     "en": "justice, fairness",
     "ky": "адилдик",
@@ -3139,19 +2077,6 @@
       "justice, fairness"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%82%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-justice,-fairness-008",
-    "en": "justice, fairness",
-    "ky": "чындык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "справедливость",
-    "senses": [
-      "justice, fairness"
-    ],
-    "frequency": 184,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-jaded-001",
@@ -3316,58 +2241,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B4%D2%AF%D2%AF%20%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB%D0%B4%D0%B0%D1%82%D0%BA%D1%8B%D1%87"
   },
   {
-    "id": "en-ky-jeweler,-jeweller-001",
-    "en": "jeweler, jeweller",
-    "ky": "ювелир",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ювелир",
-    "senses": [
-      "jeweler, jeweller (a person whose job is making, repairing or selling jewelry)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D0%B2%D0%B5%D0%BB%D0%B8%D1%80"
-  },
-  {
-    "id": "en-ky-jeweler,-jeweller-002",
-    "en": "jeweler, jeweller",
-    "ky": "зергер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ювелир",
-    "senses": [
-      "jeweler, jeweller (a person whose job is making, repairing or selling jewelry)"
-    ],
-    "pronunciation": "[zʲerˈɡʲer]",
-    "etymology": "Borrowed from Classical Persian زَرْگَر (zargar, “goldsmith”).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D1%80%D0%B3%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-joining,-connection,-connecting-001",
-    "en": "joining, connection, connecting",
-    "ky": "аннексия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "присоединение",
-    "senses": [
-      "joining, connection, connecting"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%BD%D0%B5%D0%BA%D1%81%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-justification,-explanation-001",
-    "en": "justification, explanation",
-    "ky": "шылтоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "оправдание",
-    "senses": [
-      "justification, explanation"
-    ],
-    "pronunciation": "/ʃɯlˈtoː/",
-    "frequency": 69,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BB%D1%82%D0%BE%D0%BE"
-  },
-  {
     "id": "en-ky-joke,-witticism,-one-liner-001",
     "en": "joke, witticism, one-liner",
     "ky": "тамаша",
@@ -3395,106 +2268,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B8%D0%BB"
   },
   {
-    "id": "en-ky-juvenile-002",
-    "en": "juvenile",
-    "ky": "кичи",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "юношеский",
-    "senses": [
-      "juvenile"
-    ],
-    "frequency": 96,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%87%D0%B8"
-  },
-  {
-    "id": "en-ky-juvenile-003",
-    "en": "juvenile",
-    "ky": "кичүү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "юношеский",
-    "senses": [
-      "juvenile"
-    ],
-    "pronunciation": "/kiˈt͡ʃyː/",
-    "etymology": "From Proto-Turkic *kičüg.",
-    "frequency": 112,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%87%D2%AF%D2%AF"
-  },
-  {
-    "id": "en-ky-jointer-001",
-    "en": "jointer",
-    "ky": "иренде",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубанок",
-    "senses": [
-      "jointer"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%80%D0%B5%D0%BD%D0%B4%D0%B5"
-  },
-  {
-    "id": "en-ky-jointer-002",
-    "en": "jointer",
-    "ky": "ранда",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубанок",
-    "senses": [
-      "jointer"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%BD%D0%B4%D0%B0"
-  },
-  {
-    "id": "en-ky-jointer-003",
-    "en": "jointer",
-    "ky": "сүргү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубанок",
-    "senses": [
-      "jointer"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D1%80%D0%B3%D2%AF"
-  },
-  {
-    "id": "en-ky-jack-plane-001",
-    "en": "jack plane",
-    "ky": "иренде",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубанок",
-    "senses": [
-      "jack plane"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%80%D0%B5%D0%BD%D0%B4%D0%B5"
-  },
-  {
-    "id": "en-ky-jack-plane-002",
-    "en": "jack plane",
-    "ky": "ранда",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубанок",
-    "senses": [
-      "jack plane"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%BD%D0%B4%D0%B0"
-  },
-  {
-    "id": "en-ky-jack-plane-003",
-    "en": "jack plane",
-    "ky": "сүргү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "рубанок",
-    "senses": [
-      "jack plane"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D1%80%D0%B3%D2%AF"
-  },
-  {
     "id": "en-ky-jersey,-cardigan-001",
     "en": "jersey, cardigan",
     "ky": "свитер",
@@ -3515,30 +2288,6 @@
     "ruPivot": "кофта",
     "senses": [
       "jersey, cardigan (garment knitted from wool, worn over the upper body)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB%D0%BE%D0%B2%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-jumper-002",
-    "en": "jumper",
-    "ky": "свитер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "джемпер",
-    "senses": [
-      "jumper (woolen sweater or pullover)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B2%D0%B8%D1%82%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-jumper-003",
-    "en": "jumper",
-    "ky": "пуловер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "джемпер",
-    "senses": [
-      "jumper (woolen sweater or pullover)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB%D0%BE%D0%B2%D0%B5%D1%80"
   },
@@ -3609,32 +2358,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%88%D0%BE"
   },
   {
-    "id": "en-ky-jelly-002",
-    "en": "jelly",
-    "ky": "каймак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "молочко",
-    "senses": [
-      "jelly (a liquid that forms in the goiter or in the special glands of some birds and insects for feeding nestlings or larvae)"
-    ],
-    "pronunciation": "/qɑjˈmɑq/",
-    "etymology": "From Proto-Common Turkic *kańak.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D0%BC%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-jelly-003",
-    "en": "jelly",
-    "ky": "крем",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "молочко",
-    "senses": [
-      "jelly (a liquid that forms in the goiter or in the special glands of some birds and insects for feeding nestlings or larvae)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%80%D0%B5%D0%BC"
-  },
-  {
     "id": "en-ky-jezve,-turkish-coffee-pot-001",
     "en": "jezve, Turkish coffee pot",
     "ky": "күрп",
@@ -3697,85 +2420,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82"
   },
   {
-    "id": "en-ky-jaeger,-chasseur-001",
-    "en": "jaeger, chasseur",
-    "ky": "аңчы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "егерь",
-    "senses": [
-      "jaeger, chasseur (a type of light infantryman)"
-    ],
-    "etymology": "Compare to Southern Altai аҥчы (aŋčï), Kazakh аңшы (añşy), etc.",
-    "frequency": 12,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%D1%87%D1%8B"
-  },
-  {
-    "id": "en-ky-jump-combination-001",
-    "en": "jump combination",
-    "ky": "стадия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каскад",
-    "senses": [
-      "jump combination"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-jump-combination-002",
-    "en": "jump combination",
-    "ky": "баскыч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каскад",
-    "senses": [
-      "jump combination"
-    ],
-    "pronunciation": "/basˈqɯt͡ʃ/",
-    "etymology": "From бас- (bas-) + -кыч (-kıc). Compare to Southern Altai баскыш (baskïš), etc.",
-    "frequency": 38,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87"
-  },
-  {
-    "id": "en-ky-jump-combination-003",
-    "en": "jump combination",
-    "ky": "этап",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каскад",
-    "senses": [
-      "jump combination"
-    ],
-    "frequency": 76,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B0%D0%BF"
-  },
-  {
-    "id": "en-ky-jump-combination-004",
-    "en": "jump combination",
-    "ky": "сахна",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каскад",
-    "senses": [
-      "jump combination"
-    ],
-    "frequency": 67,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%85%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-jump-combination-005",
-    "en": "jump combination",
-    "ky": "сцена",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каскад",
-    "senses": [
-      "jump combination"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%86%D0%B5%D0%BD%D0%B0"
-  },
-  {
     "id": "en-ky-jump,-bound,-leap;-surge-001",
     "en": "jump, bound, leap; surge",
     "ky": "секирик",
@@ -3802,42 +2446,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D1%88%D0%B0%D0%BA%D3%A9%D0%B9"
   },
   {
-    "id": "en-ky-joy,-delight-005",
-    "en": "joy, delight",
-    "ky": "оюн-зоок",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "утеха",
-    "senses": [
-      "joy, delight"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD-%D0%B7%D0%BE%D0%BE%D0%BA"
-  },
-  {
-    "id": "en-ky-joy,-delight-006",
-    "en": "joy, delight",
-    "ky": "көңүл ачуу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "утеха",
-    "senses": [
-      "joy, delight"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D2%A3%D2%AF%D0%BB%20%D0%B0%D1%87%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-joy,-delight-007",
-    "en": "joy, delight",
-    "ky": "эрмек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "утеха",
-    "senses": [
-      "joy, delight"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%BC%D0%B5%D0%BA"
-  },
-  {
     "id": "en-ky-just,-exactly-001",
     "en": "just, exactly",
     "ky": "дал",
@@ -3862,62 +2470,6 @@
       "jamon (thigh of a hog cured for food, Spanish style)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-jerk-001",
-    "en": "jerk",
-    "ky": "шайтан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сатана",
-    "senses": [
-      "jerk"
-    ],
-    "pronunciation": "/ʃɑjˈtɑn/",
-    "etymology": "Borrowed from Arabic شَيْطَان (šayṭān, “Shaitan, Satan”).",
-    "frequency": 99,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%B9%D1%82%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-jerk-002",
-    "en": "jerk",
-    "ky": "азезил",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сатана",
-    "senses": [
-      "jerk"
-    ],
-    "etymology": "Borrowed from Arabic عَزَازِيل (ʕazāzīl).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B5%D0%B7%D0%B8%D0%BB"
-  },
-  {
-    "id": "en-ky-jerk-003",
-    "en": "jerk",
-    "ky": "жин",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сатана",
-    "senses": [
-      "jerk"
-    ],
-    "pronunciation": "/d͡ʒin/",
-    "etymology": "From Arabic جِنّ (jinn).",
-    "frequency": 286,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD"
-  },
-  {
-    "id": "en-ky-journal-003",
-    "en": "journal",
-    "ky": "кеме",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шип",
-    "senses": [
-      "journal (part of a shaft or axle that rests on bearings)"
-    ],
-    "frequency": 135,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5"
   },
   {
     "id": "en-ky-jasmine-001",
@@ -3992,135 +2544,6 @@
     "pronunciation": "/nɑjˈzɑ/",
     "etymology": "Borrowed from Classical Persian نیزه (nayza, “spear, lance, javelin”).",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B9%D0%B7%D0%B0"
-  },
-  {
-    "id": "en-ky-joint,-jug-001",
-    "en": "joint, jug",
-    "ky": "түрмө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "тюряга",
-    "senses": [
-      "joint, jug (prison, jail)"
-    ],
-    "frequency": 61,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BC%D3%A9"
-  },
-  {
-    "id": "en-ky-joint,-jug-002",
-    "en": "joint, jug",
-    "ky": "абак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "тюряга",
-    "senses": [
-      "joint, jug (prison, jail)"
-    ],
-    "frequency": 51,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-junction-002",
-    "en": "junction",
-    "ky": "жакталыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сопряжение",
-    "senses": [
-      "junction"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%82%D0%B0%D0%BB%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-junction-003",
-    "en": "junction",
-    "ky": "интерфейс",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сопряжение",
-    "senses": [
-      "junction"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81"
-  },
-  {
-    "id": "en-ky-junkie-001",
-    "en": "junkie",
-    "ky": "наркотик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наркота",
-    "senses": [
-      "junkie"
-    ],
-    "frequency": 2,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-junkie-002",
-    "en": "junkie",
-    "ky": "баңгизат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наркота",
-    "senses": [
-      "junkie"
-    ],
-    "frequency": 61,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D2%A3%D0%B3%D0%B8%D0%B7%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-junkies-001",
-    "en": "junkies",
-    "ky": "наркотик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наркота",
-    "senses": [
-      "junkies (in general)"
-    ],
-    "frequency": 2,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-junkies-002",
-    "en": "junkies",
-    "ky": "баңгизат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наркота",
-    "senses": [
-      "junkies (in general)"
-    ],
-    "frequency": 61,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D2%A3%D0%B3%D0%B8%D0%B7%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-joint,-link,-segment-001",
-    "en": "joint, link, segment",
-    "ky": "каш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "коленце",
-    "senses": [
-      "joint, link, segment"
-    ],
-    "etymology": "From Proto-Turkic *kāĺ. Cognate to Southern Altai каш (kaš, “shore”).",
-    "frequency": 375,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-january-003",
-    "en": "January",
-    "ky": "февраль",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сечень",
-    "senses": [
-      "January"
-    ],
-    "frequency": 152,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C"
   },
   {
     "id": "en-ky-justitia-001",

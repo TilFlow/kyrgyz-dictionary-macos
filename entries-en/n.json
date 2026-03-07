@@ -2544,111 +2544,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-now-002",
-    "en": "now",
-    "ky": "кайда",
-    "pos": "adv",
-    "source": "pivot-ru",
-    "ruPivot": "где",
-    "senses": [
-      "now (sometimes",
-      "occasionally)"
-    ],
-    "etymology": "From Proto-Turkic *ka- (“interrogative prefix”).",
-    "frequency": 690,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D0%B4%D0%B0"
-  },
-  {
-    "id": "en-ky-now-003",
-    "en": "now",
-    "ky": "каякка",
-    "pos": "adv",
-    "source": "pivot-ru",
-    "ruPivot": "где",
-    "senses": [
-      "now (sometimes",
-      "occasionally)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%8F%D0%BA%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-nibbling-machine,-blank-cutting-machine-001",
-    "en": "nibbling machine, blank-cutting machine",
-    "ky": "чиркей",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "комар",
-    "senses": [
-      "nibbling machine, blank-cutting machine"
-    ],
-    "frequency": 20,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D0%B5%D0%B9"
-  },
-  {
-    "id": "en-ky-neck-002",
-    "en": "neck",
-    "ky": "тамак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "горло",
-    "senses": [
-      "neck (of a vessel)"
-    ],
-    "pronunciation": "[tɑˈmɑq]",
-    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
-    "frequency": 429,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-neck-003",
-    "en": "neck",
-    "ky": "богуз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "горло",
-    "senses": [
-      "neck (of a vessel)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B3%D1%83%D0%B7"
-  },
-  {
-    "id": "en-ky-neck-004",
-    "en": "neck",
-    "ky": "булуң",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "горло",
-    "senses": [
-      "neck (of a vessel)"
-    ],
-    "frequency": 67,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB%D1%83%D2%A3"
-  },
-  {
-    "id": "en-ky-neck-005",
-    "en": "neck",
-    "ky": "өңгөч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "горло",
-    "senses": [
-      "neck (of a vessel)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D2%A3%D0%B3%D3%A9%D1%87"
-  },
-  {
-    "id": "en-ky-neck-006",
-    "en": "neck",
-    "ky": "кызыл өңгөч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "горло",
-    "senses": [
-      "neck (of a vessel)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D1%8B%D0%BB%20%D3%A9%D2%A3%D0%B3%D3%A9%D1%87"
-  },
-  {
     "id": "en-ky-night-person,-night-owl-001",
     "en": "night person, night owl",
     "ky": "жапалак үкү",
@@ -2687,46 +2582,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BA%D2%AF"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-001",
-    "en": "nominative/accusative plural",
-    "ky": "акча",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "деньги",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "pronunciation": "/ɑqˈtʃɑ/",
-    "etymology": "From Old Turkic [script needed] (*aqča, “money, coin”). Cognate with\nTatar акча (aqça),\nBashkir аҡса (aqsa),\nKazakh ақша (aqşa),\nSouthern Altai акча (akča),\nKumyk акъча (aqça),\nKarachay-Balkar ахча (axça),\nCrimean Tatar aqça,\nKhakas ахча (axça),\nShor ақча,\nTuvan акша (akşa, “money”),\nChuvash укҫа (ukśa, “coin”), etc.",
-    "frequency": 214,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-002",
-    "en": "nominative/accusative plural",
-    "ky": "пул",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "деньги",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 842,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-003",
-    "en": "nominative/accusative plural",
-    "ky": "накт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "деньги",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D1%82"
-  },
-  {
     "id": "en-ky-november-002",
     "en": "November",
     "ky": "бештин айы",
@@ -2752,260 +2607,6 @@
     "etymology": "From Proto-Turkic *ol (“he, she, it; that”).",
     "frequency": 40828,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB"
-  },
-  {
-    "id": "en-ky-nominative-feminine-001",
-    "en": "nominative feminine",
-    "ky": "эки",
-    "pos": "num",
-    "source": "pivot-ru",
-    "ruPivot": "две",
-    "senses": [
-      "nominative feminine"
-    ],
-    "pronunciation": "/eˈki/",
-    "etymology": "From Proto-Turkic *ẹk(k)i (“two”).",
-    "frequency": 5655,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D0%B8"
-  },
-  {
-    "id": "en-ky-neuter-001",
-    "en": "neuter",
-    "ky": "борбордук",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "средний",
-    "senses": [
-      "neuter"
-    ],
-    "frequency": 1854,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-noun-002",
-    "en": "noun",
-    "ky": "ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "имя",
-    "senses": [
-      "noun (broad sense)"
-    ],
-    "pronunciation": "/ɑt/",
-    "etymology": "From Proto-Turkic *āt (“name”).",
-    "frequency": 7631,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-noun-003",
-    "en": "noun",
-    "ky": "ысым",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "имя",
-    "senses": [
-      "noun (broad sense)"
-    ],
-    "frequency": 41,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D1%8B%D0%BC"
-  },
-  {
-    "id": "en-ky-name-003",
-    "en": "name",
-    "ky": "зат атооч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "имя",
-    "senses": [
-      "name (for inanimate things without intention to animate them)"
-    ],
-    "etymology": "From зат (zat, “entity, matter”) + атооч (atooc, “name”).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%82%20%D0%B0%D1%82%D0%BE%D0%BE%D1%87"
-  },
-  {
-    "id": "en-ky-nation-004",
-    "en": "nation",
-    "ky": "калк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "народ",
-    "senses": [
-      "nation"
-    ],
-    "pronunciation": "/qɑlq/",
-    "etymology": "Borrowed from Classical Persian خَلْق (xalq), from Arabic خَلْقٌ (ḵalqun). Compare to Kazakh халық (xalyq), Southern Altai калык (kalïk), Shor қалық, Khakas халых (xalıx), etc.",
-    "frequency": 1070,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BA"
-  },
-  {
-    "id": "en-ky-nation-005",
-    "en": "nation",
-    "ky": "эл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "народ",
-    "senses": [
-      "nation"
-    ],
-    "pronunciation": "/eɫ/",
-    "etymology": "From Proto-Turkic *ēl. Compare to Kazakh ел (el).",
-    "frequency": 7636,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB"
-  },
-  {
-    "id": "en-ky-nation-006",
-    "en": "nation",
-    "ky": "кишилер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "народ",
-    "senses": [
-      "nation"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%88%D0%B8%D0%BB%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-nation-007",
-    "en": "nation",
-    "ky": "коомчулук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "народ",
-    "senses": [
-      "nation"
-    ],
-    "frequency": 151,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BC%D1%87%D1%83%D0%BB%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-nation-008",
-    "en": "nation",
-    "ky": "коом",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "народ",
-    "senses": [
-      "nation"
-    ],
-    "etymology": "From Arabic قَوْم (qawm).",
-    "frequency": 527,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BC"
-  },
-  {
-    "id": "en-ky-nib,-quill-001",
-    "en": "nib, quill",
-    "ky": "калем",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos).",
-    "frequency": 28,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC"
-  },
-  {
-    "id": "en-ky-nib,-quill-002",
-    "en": "nib, quill",
-    "ky": "калемсап",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "etymology": "Borrowed from Arabic قَلَم (qalam), from Ancient Greek κάλαμος (kálamos). + From Proto-Turkic *sap (handle).\nкалем (kalem, “pencil”) + сап (sap, “handle”).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BC%D1%81%D0%B0%D0%BF"
-  },
-  {
-    "id": "en-ky-nib,-quill-003",
-    "en": "nib, quill",
-    "ky": "жазгыч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D1%87"
-  },
-  {
-    "id": "en-ky-nib,-quill-004",
-    "en": "nib, quill",
-    "ky": "канаттын бир талы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D1%8B%D0%BD%20%D0%B1%D0%B8%D1%80%20%D1%82%D0%B0%D0%BB%D1%8B"
-  },
-  {
-    "id": "en-ky-nib,-quill-005",
-    "en": "nib, quill",
-    "ky": "куштун бир тал жүнү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%88%D1%82%D1%83%D0%BD%20%D0%B1%D0%B8%D1%80%20%D1%82%D0%B0%D0%BB%20%D0%B6%D2%AF%D0%BD%D2%AF"
-  },
-  {
-    "id": "en-ky-nib,-quill-006",
-    "en": "nib, quill",
-    "ky": "сүзгүч канат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B7%D0%B3%D2%AF%D1%87%20%D0%BA%D0%B0%D0%BD%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nib,-quill-007",
-    "en": "nib, quill",
-    "ky": "бычак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "pronunciation": "/bɯˈtɕɑq/",
-    "etymology": "From Proto-Turkic *bïčgak (“knife”).",
-    "frequency": 96,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%8B%D1%87%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nib,-quill-008",
-    "en": "nib, quill",
-    "ky": "куйрук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "etymology": "From Proto-Turkic *kudruk (“tail”). Cognate with Old Turkic 𐰴𐰆𐰑𐰺𐰆𐰸 (qudruq, “tail”), Turkish kuyruk (“tail”).",
-    "frequency": 386,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B9%D1%80%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-nib,-quill-009",
-    "en": "nib, quill",
-    "ky": "дүм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перо",
-    "senses": [
-      "nib, quill (writing implement)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D2%AF%D0%BC"
   },
   {
     "id": "en-ky-north,-northern-001",
@@ -3077,55 +2678,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%88%D0%B8%D0%BB%D0%B5%D1%80"
   },
   {
-    "id": "en-ky-nave-001",
-    "en": "nave",
-    "ky": "кеме",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "корабль",
-    "senses": [
-      "nave"
-    ],
-    "frequency": 135,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5"
-  },
-  {
-    "id": "en-ky-nave-002",
-    "en": "nave",
-    "ky": "согуштук кеме",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "корабль",
-    "senses": [
-      "nave"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B3%D1%83%D1%88%D1%82%D1%83%D0%BA%20%D0%BA%D0%B5%D0%BC%D0%B5"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-004",
-    "en": "nominative/accusative plural",
-    "ky": "вена",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вена",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-005",
-    "en": "nominative/accusative plural",
-    "ky": "көк кан тамыры",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вена",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%20%D0%BA%D0%B0%D0%BD%20%D1%82%D0%B0%D0%BC%D1%8B%D1%80%D1%8B"
-  },
-  {
     "id": "en-ky-new-year's-party-for-children-001",
     "en": "New Year's party for children",
     "ky": "ёлка",
@@ -3136,194 +2688,6 @@
       "New Year's party for children"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%91%D0%BB%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-night,-nighttime-001",
-    "en": "night, nighttime",
-    "ky": "түн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ночь",
-    "senses": [
-      "night, nighttime (period of time from sundown to sunup)"
-    ],
-    "pronunciation": "/tyn/",
-    "etymology": "From Proto-Turkic *tün (“night, yesterday”).",
-    "frequency": 949,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD"
-  },
-  {
-    "id": "en-ky-night,-nighttime-002",
-    "en": "night, nighttime",
-    "ky": "эртең",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ночь",
-    "senses": [
-      "night, nighttime (period of time from sundown to sunup)"
-    ],
-    "pronunciation": "/erˈteŋ/",
-    "etymology": "From Proto-Turkic *ẹ̄r (“early”). Compare Turkmen ertir (“morning, tomorrow”), Uyghur ئەتە (ete, “tomorrow”), Uyghur ئەتىگەن (etigen, “morning”), Uzbek erta (“morning”), Uzbek ertaga (“tomorrow”), Kazakh ертең (erteñ, “morning, tomorrow”), Tatar иртә (irtä, “morning”), Tatar иртәгә (irtägä, “tomorrow”), etc.",
-    "frequency": 299,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D1%82%D0%B5%D2%A3"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-грудь-001",
-    "en": "nominative/accusative plural of грудь",
-    "ky": "төш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "груди",
-    "senses": [
-      "nominative/accusative plural of грудь (grudʹ)"
-    ],
-    "etymology": "From Proto-Turkic *tȫĺ (“breast”), compare Southern Altai тӧш (töš), Bashkir түш (tüş), Kumyk тёш (töş), Azerbaijani döş, Yakut түөс (tüös).",
-    "frequency": 179,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D3%A9%D1%88"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-грудь-002",
-    "en": "nominative/accusative plural of грудь",
-    "ky": "көкүрөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "груди",
-    "senses": [
-      "nominative/accusative plural of грудь (grudʹ)"
-    ],
-    "etymology": "From Proto-Turkic *kögüŕ (“chest”). Compare Turkish göğüs, Chuvash кӑкӑр (kăk̬ăr).",
-    "frequency": 323,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%D2%AF%D1%80%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-nominal-number-001",
-    "en": "nominal number",
-    "ky": "номер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "nominal number"
-    ],
-    "frequency": 83,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D0%BC%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-nominal-number-002",
-    "en": "nominal number",
-    "ky": "сан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "nominal number"
-    ],
-    "pronunciation": "/sɑn/",
-    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
-    "frequency": 1298,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-nominal-number-003",
-    "en": "nominal number",
-    "ky": "бөлмө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "nominal number"
-    ],
-    "frequency": 117,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D0%BC%D3%A9"
-  },
-  {
-    "id": "en-ky-nominal-number-004",
-    "en": "nominal number",
-    "ky": "размер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "nominal number"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-nominal-number-005",
-    "en": "nominal number",
-    "ky": "өлчөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "nominal number"
-    ],
-    "frequency": 1124,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%87%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-nominal-number-006",
-    "en": "nominal number",
-    "ky": "көлөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "nominal number"
-    ],
-    "frequency": 197,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-number-003",
-    "en": "number",
-    "ky": "бөлмө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number (various senses)"
-    ],
-    "frequency": 117,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D0%BC%D3%A9"
-  },
-  {
-    "id": "en-ky-number-004",
-    "en": "number",
-    "ky": "размер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number (various senses)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-number-005",
-    "en": "number",
-    "ky": "өлчөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number (various senses)"
-    ],
-    "frequency": 1124,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%87%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-number-006",
-    "en": "number",
-    "ky": "көлөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number (various senses)"
-    ],
-    "frequency": 197,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
   },
   {
     "id": "en-ky-number,-issue-001",
@@ -3339,72 +2703,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D0%BC%D0%B5%D1%80"
   },
   {
-    "id": "en-ky-number,-issue-002",
-    "en": "number, issue",
-    "ky": "сан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number, issue (e.g. of a magazine or a newspaper)"
-    ],
-    "pronunciation": "/sɑn/",
-    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
-    "frequency": 1298,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-number,-issue-003",
-    "en": "number, issue",
-    "ky": "бөлмө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number, issue (e.g. of a magazine or a newspaper)"
-    ],
-    "frequency": 117,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D0%BC%D3%A9"
-  },
-  {
-    "id": "en-ky-number,-issue-004",
-    "en": "number, issue",
-    "ky": "размер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number, issue (e.g. of a magazine or a newspaper)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-number,-issue-005",
-    "en": "number, issue",
-    "ky": "өлчөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number, issue (e.g. of a magazine or a newspaper)"
-    ],
-    "frequency": 1124,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%87%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-number,-issue-006",
-    "en": "number, issue",
-    "ky": "көлөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "номер",
-    "senses": [
-      "number, issue (e.g. of a magazine or a newspaper)"
-    ],
-    "frequency": 197,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-висо́к-001",
     "en": "nominative/accusative plural of висо́к",
     "ky": "виски",
@@ -3418,19 +2716,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D1%81%D0%BA%D0%B8"
   },
   {
-    "id": "en-ky-nightclub-002",
-    "en": "nightclub",
-    "ky": "клуб",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "клуб",
-    "senses": [
-      "nightclub"
-    ],
-    "frequency": 21,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D1%83%D0%B1"
-  },
-  {
     "id": "en-ky-naples-001",
     "en": "Naples",
     "ky": "Неаполь",
@@ -3441,76 +2726,6 @@
       "Naples (a port city and comune, the capital of the Metropolitan City of Naples and the region of Campania, Italy)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-час-001",
-    "en": "nominative/accusative plural of час",
-    "ky": "саат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "часы",
-    "senses": [
-      "nominative/accusative plural of час (čas)"
-    ],
-    "pronunciation": "/sɑːt/",
-    "etymology": "Derived from Arabic ساعة (sāʕa)",
-    "frequency": 479,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nominative-plural-001",
-    "en": "nominative plural",
-    "ky": "бала",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "дитя",
-    "senses": [
-      "nominative plural"
-    ],
-    "pronunciation": "/bɑˈlɑ/",
-    "etymology": "From Proto-Turkic *bāla.",
-    "frequency": 4331,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative-plural-002",
-    "en": "nominative plural",
-    "ky": "наристе",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "дитя",
-    "senses": [
-      "nominative plural"
-    ],
-    "frequency": 62,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B5"
-  },
-  {
-    "id": "en-ky-new-002",
-    "en": "new",
-    "ky": "жаш",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "молодой",
-    "senses": [
-      "new"
-    ],
-    "pronunciation": "/d͡ʒɑʃ/",
-    "etymology": "From Proto-Turkic *yāĺ, compare Kazakh жас (jas).",
-    "frequency": 2529,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-north-002",
-    "en": "north",
-    "ky": "Арктика",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "север",
-    "senses": [
-      "north"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-род-001",
@@ -3550,35 +2765,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D3%A9%D1%80%D3%A9%D1%82"
   },
   {
-    "id": "en-ky-nose-002",
-    "en": "nose",
-    "ky": "эрин",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нос",
-    "senses": [
-      "nose"
-    ],
-    "pronunciation": "/eˈrin/",
-    "etymology": "From Proto-Turkic *erin (“lip”).",
-    "frequency": 117,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%B8%D0%BD"
-  },
-  {
-    "id": "en-ky-nose-003",
-    "en": "nose",
-    "ky": "мүйүз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нос",
-    "senses": [
-      "nose"
-    ],
-    "etymology": "From Proto-Turkic *büńüŕ. Cognate with\nBashkir мөгөҙ (mögöź),\nSouthern Altai мӱӱс (müüs), Shor мӱӱс,\nCrimean Tatar müyüz/boynuz,\nAzerbaijani buynuz,\nKazakh мүйіз (müiız),\nTurkish boynuz, etc.",
-    "frequency": 70,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%B9%D2%AF%D0%B7"
-  },
-  {
     "id": "en-ky-new-york,-new-york-city-001",
     "en": "New York, New York City",
     "ky": "Жаңы Йорк",
@@ -3603,32 +2789,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA"
   },
   {
-    "id": "en-ky-native-soil-001",
-    "en": "native soil",
-    "ky": "континент",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "материк",
-    "senses": [
-      "native soil"
-    ],
-    "frequency": 5,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82"
-  },
-  {
-    "id": "en-ky-native-soil-002",
-    "en": "native soil",
-    "ky": "материк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "материк",
-    "senses": [
-      "native soil"
-    ],
-    "frequency": 2,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BA"
-  },
-  {
     "id": "en-ky-new-england-001",
     "en": "New England",
     "ky": "Жаңы Англия",
@@ -3651,167 +2811,6 @@
       "New Hampshire (a state of the United States)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D1%8C%D1%8E-%D0%93%D1%8D%D0%BC%D0%BF%D1%88%D0%B8%D1%80"
-  },
-  {
-    "id": "en-ky-new-003",
-    "en": "new",
-    "ky": "заманбап",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "новый",
-    "senses": [
-      "new"
-    ],
-    "pronunciation": "/zamanˈbap/",
-    "etymology": "From заман (zaman, “epoch, era, period”) + -бап (-bap).",
-    "frequency": 126,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%B0%D0%BD%D0%B1%D0%B0%D0%BF"
-  },
-  {
-    "id": "en-ky-novel-004",
-    "en": "novel",
-    "ky": "жаңы",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "новый",
-    "senses": [
-      "novel"
-    ],
-    "pronunciation": "/d͡ʒɑˈŋɯ/",
-    "etymology": "From Proto-Turkic *yaŋï, *yeŋi (“new”).",
-    "frequency": 1347,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B"
-  },
-  {
-    "id": "en-ky-novel-005",
-    "en": "novel",
-    "ky": "заманбап",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "новый",
-    "senses": [
-      "novel"
-    ],
-    "pronunciation": "/zamanˈbap/",
-    "etymology": "From заман (zaman, “epoch, era, period”) + -бап (-bap).",
-    "frequency": 126,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BC%D0%B0%D0%BD%D0%B1%D0%B0%D0%BF"
-  },
-  {
-    "id": "en-ky-narrow-002",
-    "en": "narrow",
-    "ky": "кууш",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "узкий",
-    "senses": [
-      "narrow"
-    ],
-    "frequency": 12,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%83%D1%88"
-  },
-  {
-    "id": "en-ky-narrow-003",
-    "en": "narrow",
-    "ky": "энсиз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "узкий",
-    "senses": [
-      "narrow"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D1%81%D0%B8%D0%B7"
-  },
-  {
-    "id": "en-ky-nobody-001",
-    "en": "nobody",
-    "ky": "коток",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "хуй",
-    "senses": [
-      "nobody"
-    ],
-    "pronunciation": "[qoˈtoq]",
-    "etymology": "From Proto-Turkic *kotak (“penis”).\nCognate with\nBashkir ҡутаҡ (qutaq),\nKazakh қотақ (qotaq),\nSouthern Altai коток (kotok),\nTatar кутак (qutaq),\nUzbek qoʻtoq (“penis”),\netc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BE%D0%BA"
-  },
-  {
-    "id": "en-ky-nobody-002",
-    "en": "nobody",
-    "ky": "пенис",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "хуй",
-    "senses": [
-      "nobody"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D0%BD%D0%B8%D1%81"
-  },
-  {
-    "id": "en-ky-not-the-first,-more-than-one-001",
-    "en": "not the first, more than one",
-    "ky": "ким",
-    "pos": "pron",
-    "source": "pivot-ru",
-    "ruPivot": "который",
-    "senses": [
-      "not the first, more than one"
-    ],
-    "etymology": "From Proto-Turkic *kem (“who”).",
-    "frequency": 2049,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BC"
-  },
-  {
-    "id": "en-ky-nucleus-002",
-    "en": "nucleus",
-    "ky": "өзөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nucleus (a vowel or syllabic consonant in a syllable)"
-    ],
-    "frequency": 94,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-nucleus-003",
-    "en": "nucleus",
-    "ky": "дан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nucleus (a vowel or syllabic consonant in a syllable)"
-    ],
-    "frequency": 101,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-nucleus-004",
-    "en": "nucleus",
-    "ky": "конус",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nucleus (a vowel or syllabic consonant in a syllable)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%83%D1%81"
-  },
-  {
-    "id": "en-ky-nucleus-005",
-    "en": "nucleus",
-    "ky": "тобурчак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nucleus (a vowel or syllabic consonant in a syllable)"
-    ],
-    "etymology": "From Proto-Turkic *tomurčuk. Cognate to Southern Altai тоорчык (toorčïk), Bashkir тубырсыҡ (tubırsıq), Tatar тубырчык (tubırçıq), Kazakh тобыршақ (tobyrşaq) etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B1%D1%83%D1%80%D1%87%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-nullspace,-kernel-001",
@@ -3840,44 +2839,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BD"
   },
   {
-    "id": "en-ky-nullspace,-kernel-003",
-    "en": "nullspace, kernel",
-    "ky": "ядро",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nullspace, kernel (set of all elements mapped to the zero element by a transformation)"
-    ],
-    "etymology": "Borrowed from Russian ядро́ (jadró).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE"
-  },
-  {
-    "id": "en-ky-nullspace,-kernel-004",
-    "en": "nullspace, kernel",
-    "ky": "конус",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nullspace, kernel (set of all elements mapped to the zero element by a transformation)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%83%D1%81"
-  },
-  {
-    "id": "en-ky-nullspace,-kernel-005",
-    "en": "nullspace, kernel",
-    "ky": "тобурчак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ядро",
-    "senses": [
-      "nullspace, kernel (set of all elements mapped to the zero element by a transformation)"
-    ],
-    "etymology": "From Proto-Turkic *tomurčuk. Cognate to Southern Altai тоорчык (toorčïk), Bashkir тубырсыҡ (tubırsıq), Tatar тубырчык (tubırçıq), Kazakh тобыршақ (tobyrşaq) etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B1%D1%83%D1%80%D1%87%D0%B0%D0%BA"
-  },
-  {
     "id": "en-ky-newspaper-003",
     "en": "newspaper",
     "ky": "кабаркагаз",
@@ -3890,19 +2851,6 @@
     "pronunciation": "/qɑˈβɑrˈqɑˈʁɑz/",
     "etymology": "From кабар (kabar, “news”) + кагаз (kagaz, “paper”). Calque of English newspaper",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80%D0%BA%D0%B0%D0%B3%D0%B0%D0%B7"
-  },
-  {
-    "id": "en-ky-newspaper-004",
-    "en": "newspaper",
-    "ky": "журнал",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газета",
-    "senses": [
-      "newspaper"
-    ],
-    "frequency": 51,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB"
   },
   {
     "id": "en-ky-neon-001",
@@ -3929,82 +2877,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B8%D0%BA%D0%B5%D0%BB%D1%8C"
   },
   {
-    "id": "en-ky-national-002",
-    "en": "national",
-    "ky": "мамлекеттик",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "государственный",
-    "senses": [
-      "national"
-    ],
-    "frequency": 5295,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%BB%D0%B5%D0%BA%D0%B5%D1%82%D1%82%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-national-003",
-    "en": "national",
-    "ky": "коомдук",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "государственный",
-    "senses": [
-      "national"
-    ],
-    "frequency": 761,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BC%D0%B4%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-nurse-003",
-    "en": "nurse",
-    "ky": "няня",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "няня",
-    "senses": [
-      "nurse"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D1%8F%D0%BD%D1%8F"
-  },
-  {
-    "id": "en-ky-nurse-004",
-    "en": "nurse",
-    "ky": "бала багуучу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "няня",
-    "senses": [
-      "nurse"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B0%20%D0%B1%D0%B0%D0%B3%D1%83%D1%83%D1%87%D1%83"
-  },
-  {
-    "id": "en-ky-nanny-003",
-    "en": "nanny",
-    "ky": "медсестра",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "няня",
-    "senses": [
-      "nanny"
-    ],
-    "frequency": 2,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D1%81%D0%B5%D1%81%D1%82%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-nanny-004",
-    "en": "nanny",
-    "ky": "медайым",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "няня",
-    "senses": [
-      "nanny"
-    ],
-    "frequency": 17,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D0%B0%D0%B9%D1%8B%D0%BC"
-  },
-  {
     "id": "en-ky-nominative-feminine-singular-of-кото́рый-001",
     "en": "nominative feminine singular of кото́рый",
     "ky": "ким",
@@ -4019,120 +2891,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BC"
   },
   {
-    "id": "en-ky-needle-002",
-    "en": "needle",
-    "ky": "стрелка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стрелка",
-    "senses": [
-      "needle"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-needle-003",
-    "en": "needle",
-    "ky": "жебе",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стрелка",
-    "senses": [
-      "needle"
-    ],
-    "etymology": "Relate to Kazakh жебе (jebe), Southern Altai јебе (ǰebe).",
-    "frequency": 98,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%B1%D0%B5"
-  },
-  {
-    "id": "en-ky-needle-004",
-    "en": "needle",
-    "ky": "бака",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стрелка",
-    "senses": [
-      "needle"
-    ],
-    "pronunciation": "/bɑˈqɑ/",
-    "etymology": "From Proto-Turkic *bāka (“[uncertain meaning; possibilies include: frog or turtle/tortoise]”). Cognate with Old Turkic [script needed] (baka), Kazakh бақа (baqa), Crimean Tatar baqa, Kumyk бакъа (baqa), Tatar бака (baqa), Bashkir баҡа (baqa), Shor паға, Tuvan пага (paga), Western Yugur paqa, Uyghur پاقا (paqa), Yakut баҕа (bağa), Turkmen baga, Turkish bağa, etc.",
-    "frequency": 66,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-needle-005",
-    "en": "needle",
-    "ky": "баскыч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стрелка",
-    "senses": [
-      "needle"
-    ],
-    "pronunciation": "/basˈqɯt͡ʃ/",
-    "etymology": "From бас- (bas-) + -кыч (-kıc). Compare to Southern Altai баскыш (baskïš), etc.",
-    "frequency": 38,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87"
-  },
-  {
-    "id": "en-ky-needle-006",
-    "en": "needle",
-    "ky": "тепкич",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стрелка",
-    "senses": [
-      "needle"
-    ],
-    "pronunciation": "/tepˈkit͡ʃ/",
-    "etymology": "From теп- (tep-) + -кич (-kic). Compare to Southern Altai тепкиш (tepkiš, “ladder, stair, staircase”), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BF%D0%BA%D0%B8%D1%87"
-  },
-  {
-    "id": "en-ky-needle-007",
-    "en": "needle",
-    "ky": "шаты",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стрелка",
-    "senses": [
-      "needle"
-    ],
-    "pronunciation": "/ʃaˈtɯ/",
-    "etymology": "Cognate with Kazakh саты (saty)",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%82%D1%8B"
-  },
-  {
-    "id": "en-ky-neuter,-neut.,-n.-001",
-    "en": "neuter, neut., n.",
-    "ky": "шаршемби",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ср.",
-    "senses": [
-      "neuter, neut., n."
-    ],
-    "pronunciation": "/ʂɑrʃemˈbi/",
-    "etymology": "From Persian چهارشنبه (čahâr-šanbe).",
-    "frequency": 3,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%88%D0%B5%D0%BC%D0%B1%D0%B8"
-  },
-  {
     "id": "en-ky-now,-at-present-001",
-    "en": "now, at present",
-    "ky": "эми",
-    "pos": "adv",
-    "source": "pivot-ru",
-    "ruPivot": "теперь",
-    "senses": [
-      "now, at present"
-    ],
-    "etymology": "From Proto-Turkic *em-. Cognate to Southern Altai эмди (emdi), Tatar инде (inde), Kumyk энни (enni), Azerbaijani indi, Uzbek endi, etc.",
-    "frequency": 2009,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B8"
-  },
-  {
-    "id": "en-ky-now,-at-present-002",
     "en": "now, at present",
     "ky": "азыр",
     "pos": "adv",
@@ -4143,167 +2902,6 @@
     ],
     "frequency": 1175,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D1%8B%D1%80"
-  },
-  {
-    "id": "en-ky-nominative-plural-003",
-    "en": "nominative plural",
-    "ky": "атыр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "духи",
-    "senses": [
-      "nominative plural"
-    ],
-    "pronunciation": "/ɑtɯr/",
-    "etymology": "From Persian عطر (atr, “perfume, scent”), from Arabic عِطْر (ʕiṭr, “perfume, scent”).",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%8B%D1%80"
-  },
-  {
-    "id": "en-ky-nominative-plural-004",
-    "en": "nominative plural",
-    "ky": "духи",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "духи",
-    "senses": [
-      "nominative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%83%D1%85%D0%B8"
-  },
-  {
-    "id": "en-ky-nutcrackers-001",
-    "en": "nutcrackers",
-    "ky": "аттиш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "щипцы",
-    "senses": [
-      "nutcrackers"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D0%B8%D1%88"
-  },
-  {
-    "id": "en-ky-nutcrackers-002",
-    "en": "nutcrackers",
-    "ky": "пинцет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "щипцы",
-    "senses": [
-      "nutcrackers"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BD%D1%86%D0%B5%D1%82"
-  },
-  {
-    "id": "en-ky-nutcrackers-003",
-    "en": "nutcrackers",
-    "ky": "искек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "щипцы",
-    "senses": [
-      "nutcrackers"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%81%D0%BA%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-мозг-001",
-    "en": "nominative/accusative plural of мозг",
-    "ky": "мээ",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "мозги",
-    "senses": [
-      "nominative/accusative plural of мозг (mozg)"
-    ],
-    "pronunciation": "/meː/",
-    "etymology": "From Proto-Turkic *bejŋi.\nCognate with\nOld Uyghur [script needed] (meŋi), [script needed] (meji, “brain”);\nKazakh ми (mi),\nBashkir мейе (meye),\nSouthern Altai мее (mee),\nCrimean Tatar miy,\nTurkish beyin,\nUzbek miya,\nUyghur مېڭە (më'nge),\nAzerbaijani beyin,\nYakut мэйии (meyii, “brain”), etc.",
-    "frequency": 98,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%8D%D1%8D"
-  },
-  {
-    "id": "en-ky-nauka-001",
-    "en": "Nauka",
-    "ky": "илим",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наука",
-    "senses": [
-      "Nauka (module of the International Space Station)"
-    ],
-    "pronunciation": "/iˈlim/",
-    "etymology": "From Arabic عِلْم (ʕilm, “knowledge, lore”).",
-    "frequency": 364,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%B8%D0%BC"
-  },
-  {
-    "id": "en-ky-nauka-002",
-    "en": "Nauka",
-    "ky": "сабак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наука",
-    "senses": [
-      "Nauka (module of the International Space Station)"
-    ],
-    "pronunciation": "/sɑˈβɑq/",
-    "etymology": "From *sabaq (“stem of plant; haulm; sprout”), which is a diminutive form from\nProto-Turkic *sāp (“stem of plant”).\nCognate with Bashkir һабаҡ (habaq), Tatar, Southern Altai сабак (sabaq), Shor, Kazakh сабақ (sabaq),\nKarachay-Balkar сабакъ (sabaq, “stem, stalk”);\nYakut сабаҕа (sabağa, “butt end of tree”).",
-    "frequency": 166,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nauka-003",
-    "en": "Nauka",
-    "ky": "дарыс",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наука",
-    "senses": [
-      "Nauka (module of the International Space Station)"
-    ],
-    "pronunciation": "/dɑˈɾɯs/",
-    "etymology": "From Arabic دَرْس (dars).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%8B%D1%81"
-  },
-  {
-    "id": "en-ky-national-004",
-    "en": "national",
-    "ky": "элдик",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "народный",
-    "senses": [
-      "national"
-    ],
-    "frequency": 175,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%D0%B4%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-name-of-the-letter-ч.-001",
-    "en": "name of the letter Ч.",
-    "ky": "курт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "червь",
-    "senses": [
-      "name of the letter Ч."
-    ],
-    "etymology": "From Proto-Turkic *kūrt.\nCognate with Kazakh құрт (qūrt), Southern Altai курт (kurt), Crimean Tatar qurt, Karachay-Balkar къурт (qurt), Kumyk къурт (qurt), Bashkir ҡорт (qort, “wolf”), Tatar корт (qort), Azerbaijani qurd, Turkish kurt (“wolf”),\nUzbek qurt, Uyghur قۇرت (qurt), Tuvan курт (kurt), Western Yugur qurt, etc.",
-    "frequency": 91,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%82"
-  },
-  {
-    "id": "en-ky-nominative-plural-005",
-    "en": "nominative plural",
-    "ky": "ача",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "черви",
-    "senses": [
-      "nominative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%B0"
   },
   {
     "id": "en-ky-noun,-substantive-001",
@@ -4425,34 +3023,6 @@
   {
     "id": "en-ky-nation,-people-001",
     "en": "nation, people",
-    "ky": "мамлекет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нация",
-    "senses": [
-      "nation, people"
-    ],
-    "etymology": "Borrowed from Classical Persian مَمْلَکَت (mamlakat, “state”), from Arabic مَمْلَكَة f (mamlaka, “kingdom”). Compare Kazakh мемлекет (memleket, “state”).",
-    "frequency": 1505,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%BB%D0%B5%D0%BA%D0%B5%D1%82"
-  },
-  {
-    "id": "en-ky-nation,-people-002",
-    "en": "nation, people",
-    "ky": "дөөлөт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нация",
-    "senses": [
-      "nation, people"
-    ],
-    "pronunciation": "/døːløt/",
-    "etymology": "From Arabic دَوْلَة (dawla). Cognate with Azerbaijani dövlət, Bashkir дәүләт (dəwlət), Kazakh дәулет (däulet), Turkish devlet, Uzbek davlat.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D3%A9%D3%A9%D0%BB%D3%A9%D1%82"
-  },
-  {
-    "id": "en-ky-nation,-people-003",
-    "en": "nation, people",
     "ky": "кишилер",
     "pos": "noun",
     "source": "pivot-ru",
@@ -4463,7 +3033,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%88%D0%B8%D0%BB%D0%B5%D1%80"
   },
   {
-    "id": "en-ky-nation,-people-004",
+    "id": "en-ky-nation,-people-002",
     "en": "nation, people",
     "ky": "калк",
     "pos": "noun",
@@ -4478,7 +3048,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%BA"
   },
   {
-    "id": "en-ky-nation,-people-005",
+    "id": "en-ky-nation,-people-003",
     "en": "nation, people",
     "ky": "эл",
     "pos": "noun",
@@ -4493,7 +3063,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB"
   },
   {
-    "id": "en-ky-nation,-people-006",
+    "id": "en-ky-nation,-people-004",
     "en": "nation, people",
     "ky": "улут",
     "pos": "noun",
@@ -4508,7 +3078,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83%D1%82"
   },
   {
-    "id": "en-ky-nation,-people-007",
+    "id": "en-ky-nation,-people-005",
     "en": "nation, people",
     "ky": "журт",
     "pos": "noun",
@@ -4520,227 +3090,6 @@
     "etymology": "From Proto-Turkic *yūrt (“dwelling place, home”).",
     "frequency": 1565,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%80%D1%82"
-  },
-  {
-    "id": "en-ky-number-007",
-    "en": "number",
-    "ky": "дата",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "число",
-    "senses": [
-      "number (cardinal)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%82%D0%B0"
-  },
-  {
-    "id": "en-ky-number-008",
-    "en": "number",
-    "ky": "число",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "число",
-    "senses": [
-      "number (cardinal)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%81%D0%BB%D0%BE"
-  },
-  {
-    "id": "en-ky-number-009",
-    "en": "number",
-    "ky": "курма",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "число",
-    "senses": [
-      "number (cardinal)"
-    ],
-    "frequency": 7,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%BC%D0%B0"
-  },
-  {
-    "id": "en-ky-not-quite-legal-001",
-    "en": "not quite legal",
-    "ky": "сур",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "серый",
-    "senses": [
-      "not quite legal"
-    ],
-    "frequency": 112,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80"
-  },
-  {
-    "id": "en-ky-not-quite-legal-002",
-    "en": "not quite legal",
-    "ky": "боз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "серый",
-    "senses": [
-      "not quite legal"
-    ],
-    "pronunciation": "/boz/",
-    "etymology": "From Proto-Turkic *boŕ.",
-    "frequency": 640,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B7"
-  },
-  {
-    "id": "en-ky-not-quite-legal-003",
-    "en": "not quite legal",
-    "ky": "көк",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "серый",
-    "senses": [
-      "not quite legal"
-    ],
-    "pronunciation": "/køk/",
-    "etymology": "From Proto-Turkic *kȫk",
-    "frequency": 2119,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-noon,-midday-001",
-    "en": "noon, midday",
-    "ky": "түш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "полдень",
-    "senses": [
-      "noon, midday"
-    ],
-    "frequency": 4617,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88"
-  },
-  {
-    "id": "en-ky-noon,-midday-002",
-    "en": "noon, midday",
-    "ky": "түштүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "полдень",
-    "senses": [
-      "noon, midday"
-    ],
-    "pronunciation": "/tyʃˈtyk/",
-    "frequency": 66,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D1%82%D2%AF%D0%BA"
-  },
-  {
-    "id": "en-ky-north-003",
-    "en": "north",
-    "ky": "түн ортосу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "полночь",
-    "senses": [
-      "north"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD%20%D0%BE%D1%80%D1%82%D0%BE%D1%81%D1%83"
-  },
-  {
-    "id": "en-ky-nut-004",
-    "en": "nut",
-    "ky": "токой жаңгагы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "орех",
-    "senses": [
-      "nut (tree",
-      "seed)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D0%BE%D0%B9%20%D0%B6%D0%B0%D2%A3%D0%B3%D0%B0%D0%B3%D1%8B"
-  },
-  {
-    "id": "en-ky-nut-coal;-chestnut-coal-001",
-    "en": "nut coal; chestnut coal",
-    "ky": "жаңгак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "орех",
-    "senses": [
-      "nut coal",
-      "chestnut coal"
-    ],
-    "etymology": "From Proto-Turkic *yaŋgak. Cognate with Kazakh жаңғақ (jañğaq), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D0%B3%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nut-coal;-chestnut-coal-002",
-    "en": "nut coal; chestnut coal",
-    "ky": "токой жаңгагы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "орех",
-    "senses": [
-      "nut coal",
-      "chestnut coal"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D0%BE%D0%B9%20%D0%B6%D0%B0%D2%A3%D0%B3%D0%B0%D0%B3%D1%8B"
-  },
-  {
-    "id": "en-ky-nut-coal;-chestnut-coal-003",
-    "en": "nut coal; chestnut coal",
-    "ky": "гайка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "орех",
-    "senses": [
-      "nut coal",
-      "chestnut coal"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-nut-coal;-chestnut-coal-004",
-    "en": "nut coal; chestnut coal",
-    "ky": "үлүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "орех",
-    "senses": [
-      "nut coal",
-      "chestnut coal"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BB%D2%AF%D0%BA"
-  },
-  {
-    "id": "en-ky-noon-002",
-    "en": "noon",
-    "ky": "түштөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "обед",
-    "senses": [
-      "noon"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D1%82%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-noon-003",
-    "en": "noon",
-    "ky": "обед",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "обед",
-    "senses": [
-      "noon"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D0%B5%D0%B4"
-  },
-  {
-    "id": "en-ky-navigation,-sailing-001",
-    "en": "navigation, sailing",
-    "ky": "сүзүү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "плавание",
-    "senses": [
-      "navigation, sailing"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B7%D2%AF%D2%AF"
   },
   {
     "id": "en-ky-new-year,-new-year's-day-001",
@@ -4780,60 +3129,6 @@
     "etymology": "Borrowed from Classical Persian عَیْنَک (aynak, “glasses, spectacles”). Cognate with Kazakh әйнек (äinek, “glass”), Uzbek oynak (“glass”), Uyghur ئەينەك (eynek, “glass”).",
     "frequency": 71,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BD%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-сило́-001",
-    "en": "nominative/accusative plural of сило́",
-    "ky": "күч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "nominative/accusative plural of сило́ (siló)"
-    ],
-    "pronunciation": "/kyt͡ʃ/",
-    "etymology": "From Proto-Turkic *kǖč.",
-    "frequency": 2295,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-сило́-002",
-    "en": "nominative/accusative plural of сило́",
-    "ky": "көлөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "nominative/accusative plural of сило́ (siló)"
-    ],
-    "frequency": 197,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-сило́-003",
-    "en": "nominative/accusative plural of сило́",
-    "ky": "том",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "nominative/accusative plural of сило́ (siló)"
-    ],
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BC"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-сило́-004",
-    "en": "nominative/accusative plural of сило́",
-    "ky": "энергия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "nominative/accusative plural of сило́ (siló)"
-    ],
-    "frequency": 189,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-name-day-001",
@@ -4896,157 +3191,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-006",
-    "en": "nominative/accusative plural",
-    "ky": "без",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "железа",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "etymology": "From Proto-Turkic *beŕ.",
-    "frequency": 75,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B7"
-  },
-  {
-    "id": "en-ky-note,-notice-001",
-    "en": "note, notice",
-    "ky": "ыкылас",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BA%D1%8B%D0%BB%D0%B0%D1%81"
-  },
-  {
-    "id": "en-ky-note,-notice-002",
-    "en": "note, notice",
-    "ky": "ынта",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "frequency": 19,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D1%82%D0%B0"
-  },
-  {
-    "id": "en-ky-note,-notice-003",
-    "en": "note, notice",
-    "ky": "назар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "frequency": 53,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B7%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-note,-notice-004",
-    "en": "note, notice",
-    "ky": "көңүл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "frequency": 1914,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D2%A3%D2%AF%D0%BB"
-  },
-  {
-    "id": "en-ky-note,-notice-005",
-    "en": "note, notice",
-    "ky": "көңүл буруу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D2%A3%D2%AF%D0%BB%20%D0%B1%D1%83%D1%80%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-note,-notice-006",
-    "en": "note, notice",
-    "ky": "дит",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D1%82"
-  },
-  {
-    "id": "en-ky-note,-notice-007",
-    "en": "note, notice",
-    "ky": "ыклас",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "frequency": 27,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BA%D0%BB%D0%B0%D1%81"
-  },
-  {
-    "id": "en-ky-note,-notice-008",
-    "en": "note, notice",
-    "ky": "кунт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BD%D1%82"
-  },
-  {
-    "id": "en-ky-note,-notice-009",
-    "en": "note, notice",
-    "ky": "урмат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "frequency": 264,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D0%BC%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-note,-notice-010",
-    "en": "note, notice",
-    "ky": "дыкат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%8B%D0%BA%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-note,-notice-011",
-    "en": "note, notice",
-    "ky": "көңүл бургула!",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "внимание",
-    "senses": [
-      "note, notice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D2%A3%D2%AF%D0%BB%20%D0%B1%D1%83%D1%80%D0%B3%D1%83%D0%BB%D0%B0!"
-  },
-  {
     "id": "en-ky-never,-nevermore-001",
     "en": "never, nevermore",
     "ky": "эч качан",
@@ -5087,18 +3231,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%87"
   },
   {
-    "id": "en-ky-node-001",
-    "en": "node",
-    "ky": "түйүн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "узел",
-    "senses": [
-      "node"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BD"
-  },
-  {
     "id": "en-ky-now,-nowadays,-today,-at-present-001",
     "en": "now, nowadays, today, at present",
     "ky": "азыр",
@@ -5124,30 +3256,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%A7%D0%B5%D0%BB%D0%BD"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-of-боеприпа́с-001",
-    "en": "nominative/accusative plural of боеприпа́с",
-    "ky": "ок-дары",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "боеприпасы",
-    "senses": [
-      "nominative/accusative plural of боеприпа́с (bojepripás)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA-%D0%B4%D0%B0%D1%80%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-боеприпа́с-002",
-    "en": "nominative/accusative plural of боеприпа́с",
-    "ky": "ок-дарылар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "боеприпасы",
-    "senses": [
-      "nominative/accusative plural of боеприпа́с (bojepripás)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA-%D0%B4%D0%B0%D1%80%D1%8B%D0%BB%D0%B0%D1%80"
-  },
-  {
     "id": "en-ky-navel,-belly-button,-umbilicus-001",
     "en": "navel, belly button, umbilicus",
     "ky": "киндик",
@@ -5159,19 +3267,6 @@
     ],
     "etymology": "From Proto-Turkic *kīn-dik.",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-о́пер-001",
-    "en": "nominative plural of о́пер",
-    "ky": "опера",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "опера",
-    "senses": [
-      "nominative plural of о́пер (óper)"
-    ],
-    "frequency": 110,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0"
   },
   {
     "id": "en-ky-northwest-001",
@@ -5186,20 +3281,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA-%D0%B1%D0%B0%D1%82%D1%8B%D1%88%D1%82%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-of-вожжа́-001",
-    "en": "nominative/accusative plural of вожжа́",
-    "ky": "тизгин",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вожжи",
-    "senses": [
-      "nominative/accusative plural of вожжа́ (vožžá)"
-    ],
-    "etymology": "From Proto-Turkic *tizgin.",
-    "frequency": 139,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B3%D0%B8%D0%BD"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-по́вод-001",
     "en": "nominative/accusative plural of по́вод",
     "ky": "тизгин",
@@ -5212,47 +3293,6 @@
     "etymology": "From Proto-Turkic *tizgin.",
     "frequency": 139,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B3%D0%B8%D0%BD"
-  },
-  {
-    "id": "en-ky-nurse-005",
-    "en": "nurse",
-    "ky": "эже",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сестра",
-    "senses": [
-      "nurse"
-    ],
-    "pronunciation": "/eˈd͡ʒe/",
-    "etymology": "From Proto-Turkic *eke. Compare to Southern Altai эје (eǰe), etc.",
-    "frequency": 157,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B6%D0%B5"
-  },
-  {
-    "id": "en-ky-nurse-006",
-    "en": "nurse",
-    "ky": "карындаш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сестра",
-    "senses": [
-      "nurse"
-    ],
-    "etymology": "From Proto-Turkic *karïn + -даш (-daş).",
-    "frequency": 68,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%8B%D0%BD%D0%B4%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-nurse-007",
-    "en": "nurse",
-    "ky": "синди",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сестра",
-    "senses": [
-      "nurse"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BD%D0%B4%D0%B8"
   },
   {
     "id": "en-ky-no-entry-traffic-sign-001",
@@ -5283,36 +3323,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-007",
-    "en": "nominative/accusative plural",
-    "ky": "жаңылык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вести",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "pronunciation": "[d͡ʒaŋɯˈlɯq]",
-    "etymology": "From жаңы (jaŋı, “new”) + -лык (-lık).",
-    "frequency": 67,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-008",
-    "en": "nominative/accusative plural",
-    "ky": "кабар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вести",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "pronunciation": "/qaˈβar/",
-    "etymology": "Borrowed from Arabic خَبَر (ḵabar). Cognate with Karachay-Balkar хапар (xapar), Azerbaijani xəbər, Bashkir хәбәр (xəbər), Kazakh хабар (xabar), Khakas хабар (xabar), Kumyk хабар (xabar), Nogai хабар (xabar), Ottoman Turkish خبر (haber), Shor қабар, Tatar хәбәр (xäbär), Turkmen habar, Uyghur خەۋەر (xewer), Uzbek xabar, Chuvash хыпар (hyp̬ar), etc.",
-    "frequency": 815,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
-  },
-  {
     "id": "en-ky-nail,-tack,-peg-001",
     "en": "nail, tack, peg",
     "ky": "мык",
@@ -5336,45 +3346,6 @@
       "nursery, crèche"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%81%D0%BB%D0%B8"
-  },
-  {
-    "id": "en-ky-nonsense,-rot-001",
-    "en": "nonsense, rot",
-    "ky": "ересь",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ересь",
-    "senses": [
-      "nonsense, rot"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%80%D0%B5%D1%81%D1%8C"
-  },
-  {
-    "id": "en-ky-nonsense,-rot-002",
-    "en": "nonsense, rot",
-    "ky": "бидъат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ересь",
-    "senses": [
-      "nonsense, rot"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B4%D1%8A%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-number-one-001",
-    "en": "number one",
-    "ky": "санарип",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "единица",
-    "senses": [
-      "number one (e.g. bus, tram, trolleybus, etc.)"
-    ],
-    "pronunciation": "/sanaˈrip/",
-    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
-    "frequency": 28,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-цвето́к-001",
@@ -5560,18 +3531,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%B5%D0%BA%D1%82%D2%AF%D2%AF"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-of-вес-001",
-    "en": "nominative/accusative plural of вес",
-    "ky": "тараза",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "весы",
-    "senses": [
-      "nominative/accusative plural of вес (ves)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D0%B0%D0%B7%D0%B0"
-  },
-  {
     "id": "en-ky-noble,-aristocratic,-wellborn-001",
     "en": "noble, aristocratic, wellborn",
     "ky": "асыл",
@@ -5583,59 +3542,6 @@
     ],
     "frequency": 352,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-noble-(in-spirit),-gentle-001",
-    "en": "noble (in spirit), gentle",
-    "ky": "асыл",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "благородный",
-    "senses": [
-      "noble (in spirit), gentle"
-    ],
-    "frequency": 352,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-009",
-    "en": "nominative/accusative plural",
-    "ky": "аары уясы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "соты",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B0%D1%80%D1%8B%20%D1%83%D1%8F%D1%81%D1%8B"
-  },
-  {
-    "id": "en-ky-nearest-001",
-    "en": "nearest",
-    "ky": "жакын",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "ближайший",
-    "senses": [
-      "nearest"
-    ],
-    "etymology": "From Proto-Turkic *yakïn, Proto-Turkic *yak- (“near; approach”).",
-    "frequency": 1078,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%8B%D0%BD"
-  },
-  {
-    "id": "en-ky-next-001",
-    "en": "next",
-    "ky": "жакын",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "ближайший",
-    "senses": [
-      "next"
-    ],
-    "etymology": "From Proto-Turkic *yakïn, Proto-Turkic *yak- (“near; approach”).",
-    "frequency": 1078,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%8B%D0%BD"
   },
   {
     "id": "en-ky-neutron-001",
@@ -5651,18 +3557,6 @@
   },
   {
     "id": "en-ky-necktie,-tie-001",
-    "en": "necktie, tie",
-    "ky": "шарф",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "галстук",
-    "senses": [
-      "necktie, tie"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%84"
-  },
-  {
-    "id": "en-ky-necktie,-tie-002",
     "en": "necktie, tie",
     "ky": "галстук",
     "pos": "noun",
@@ -5698,85 +3592,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B0%D0%BB%D1%81%D1%82%D1%83%D0%BA"
   },
   {
-    "id": "en-ky-noise,-radio-static-001",
-    "en": "noise, radio static",
-    "ky": "ызы-чуу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шум",
-    "senses": [
-      "noise, radio static"
-    ],
-    "frequency": 39,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B7%D1%8B-%D1%87%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-noise,-radio-static-002",
-    "en": "noise, radio static",
-    "ky": "тыбыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шум",
-    "senses": [
-      "noise, radio static"
-    ],
-    "etymology": "Compare to Southern Altai табыш (tabïš), Kazakh дыбыс (dybys), etc.",
-    "frequency": 3,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B1%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-noise,-radio-static-003",
-    "en": "noise, radio static",
-    "ky": "дабыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шум",
-    "senses": [
-      "noise, radio static"
-    ],
-    "etymology": "Alternative of добуш (dobuş), тыбыш (tıbış), тоош (tooş).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B1%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-noise,-radio-static-004",
-    "en": "noise, radio static",
-    "ky": "добуш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шум",
-    "senses": [
-      "noise, radio static"
-    ],
-    "etymology": "Compare to Southern Altai табыш (tabïš), Bashkir тауыш (tawış), etc.",
-    "frequency": 1923,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-010",
-    "en": "nominative/accusative plural",
-    "ky": "чаңгы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лыжи",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D2%A3%D0%B3%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-011",
-    "en": "nominative/accusative plural",
-    "ky": "лыжа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лыжи",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 7,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D1%8B%D0%B6%D0%B0"
-  },
-  {
     "id": "en-ky-nest,-aerie-001",
     "en": "nest, aerie",
     "ky": "уя",
@@ -5791,32 +3606,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%8F"
   },
   {
-    "id": "en-ky-nest,-aerie-002",
-    "en": "nest, aerie",
-    "ky": "розетка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "гнездо",
-    "senses": [
-      "nest, aerie"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%B7%D0%B5%D1%82%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-near,-nearby,-neighboring-001",
-    "en": "near, nearby, neighboring",
-    "ky": "жакын",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "ближний",
-    "senses": [
-      "near, nearby, neighboring"
-    ],
-    "etymology": "From Proto-Turkic *yakïn, Proto-Turkic *yak- (“near; approach”).",
-    "frequency": 1078,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%8B%D0%BD"
-  },
-  {
     "id": "en-ky-nearest,-next-001",
     "en": "nearest, next",
     "ky": "жакын",
@@ -5829,71 +3618,6 @@
     "etymology": "From Proto-Turkic *yakïn, Proto-Turkic *yak- (“near; approach”).",
     "frequency": 1078,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%8B%D0%BD"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-трус-001",
-    "en": "nominative plural of трус",
-    "ky": "трусик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "трусы",
-    "senses": [
-      "nominative plural of трус (trus, “coward”)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%80%D1%83%D1%81%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-news,-sign-001",
-    "en": "news, sign",
-    "ky": "кабар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слух",
-    "senses": [
-      "news, sign"
-    ],
-    "pronunciation": "/qaˈβar/",
-    "etymology": "Borrowed from Arabic خَبَر (ḵabar). Cognate with Karachay-Balkar хапар (xapar), Azerbaijani xəbər, Bashkir хәбәр (xəbər), Kazakh хабар (xabar), Khakas хабар (xabar), Kumyk хабар (xabar), Nogai хабар (xabar), Ottoman Turkish خبر (haber), Shor қабар, Tatar хәбәр (xäbär), Turkmen habar, Uyghur خەۋەر (xewer), Uzbek xabar, Chuvash хыпар (hyp̬ar), etc.",
-    "frequency": 815,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-news,-sign-002",
-    "en": "news, sign",
-    "ky": "дарек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слух",
-    "senses": [
-      "news, sign"
-    ],
-    "frequency": 180,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-news,-sign-003",
-    "en": "news, sign",
-    "ky": "ушак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слух",
-    "senses": [
-      "news, sign"
-    ],
-    "frequency": 73,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%88%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-news,-sign-004",
-    "en": "news, sign",
-    "ky": "угуу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слух",
-    "senses": [
-      "news, sign"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B3%D1%83%D1%83"
   },
   {
     "id": "en-ky-not-true-001",
@@ -5948,18 +3672,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA"
   },
   {
-    "id": "en-ky-nut-005",
-    "en": "nut",
-    "ky": "психопат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "псих",
-    "senses": [
-      "nut (a person who acts in a bizarre or dangerous manner)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BF%D0%B0%D1%82"
-  },
-  {
     "id": "en-ky-noodle,-noodles-001",
     "en": "noodle, noodles",
     "ky": "кесме",
@@ -5973,72 +3685,6 @@
     "etymology": "From кесүү (kesüü, “to cut”) + -ме (-me).",
     "frequency": 3,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BC%D0%B5"
-  },
-  {
-    "id": "en-ky-natural-gas-002",
-    "en": "natural gas",
-    "ky": "газ",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "natural gas"
-    ],
-    "frequency": 92,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B0%D0%B7"
-  },
-  {
-    "id": "en-ky-natural-gas-003",
-    "en": "natural gas",
-    "ky": "буу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "natural gas"
-    ],
-    "frequency": 485,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-natural-gas-004",
-    "en": "natural gas",
-    "ky": "пар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "natural gas"
-    ],
-    "frequency": 16,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-natural-gas-005",
-    "en": "natural gas",
-    "ky": "водка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "natural gas"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-natural-gas-006",
-    "en": "natural gas",
-    "ky": "арак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "natural gas"
-    ],
-    "pronunciation": "/ɑˈrɑq/",
-    "etymology": "From *araqï (“vodka”), from Persian عَرَق ('araq, “alcoholic drink”),\nfrom Arabic عَرَق (ʕaraq, “raisin liquor”).\nCognate with Bashkir араҡы (araqı, “vodka”),\nKazakh арақ (araq, “vodka”),\nKumyk гьаракъы (haraqı, “vodka”),\nKarachay-Balkar аракъы (araqı, “vodka”),\nSouthern Altai аракы (arakï, “vodka”),\nKhakas араға (arağa, “alcoholic drink”),\nTuvan арага (araga, “vodka; wine”),\nYakut арыгы (arïgï, “wine”), etc.",
-    "frequency": 122,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-nalchik-001",
@@ -6066,30 +3712,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%BA%D0%B5%D1%80%D1%82%D2%AF%D2%AF"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-012",
-    "en": "nominative/accusative plural",
-    "ky": "дойбу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шашки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B9%D0%B1%D1%83"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-013",
-    "en": "nominative/accusative plural",
-    "ky": "шашка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шашки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%88%D0%BA%D0%B0"
-  },
-  {
     "id": "en-ky-novosibirsk-001",
     "en": "Novosibirsk",
     "ky": "Новосибирск",
@@ -6102,96 +3724,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-of-во́йско-001",
-    "en": "nominative/accusative plural of во́йско",
-    "ky": "куралдуу күчтөр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "войска",
-    "senses": [
-      "nominative/accusative plural of во́йско (vójsko)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%B0%D0%BB%D0%B4%D1%83%D1%83%20%D0%BA%D2%AF%D1%87%D1%82%D3%A9%D1%80"
-  },
-  {
-    "id": "en-ky-nature-004",
-    "en": "nature",
-    "ky": "мүнөз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "характер",
-    "senses": [
-      "nature"
-    ],
-    "frequency": 409,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BD%D3%A9%D0%B7"
-  },
-  {
-    "id": "en-ky-nature-005",
-    "en": "nature",
-    "ky": "тип",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "характер",
-    "senses": [
-      "nature"
-    ],
-    "frequency": 32,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BF"
-  },
-  {
-    "id": "en-ky-nature-006",
-    "en": "nature",
-    "ky": "түр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "характер",
-    "senses": [
-      "nature"
-    ],
-    "frequency": 1742,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80"
-  },
-  {
-    "id": "en-ky-notebook,-passport-001",
-    "en": "notebook, passport",
-    "ky": "китеп",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "книжка",
-    "senses": [
-      "notebook, passport"
-    ],
-    "pronunciation": "/kiˈtep/",
-    "etymology": "Borrowed from Classical Persian کتاب (kitāb), from Arabic كِتَاب (kitāb).",
-    "frequency": 326,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%82%D0%B5%D0%BF"
-  },
-  {
-    "id": "en-ky-notebook,-passport-002",
-    "en": "notebook, passport",
-    "ky": "брошюра",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "книжка",
-    "senses": [
-      "notebook, passport"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%80%D0%BE%D1%88%D1%8E%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-notebook,-passport-003",
-    "en": "notebook, passport",
-    "ky": "китепче",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "книжка",
-    "senses": [
-      "notebook, passport"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%82%D0%B5%D0%BF%D1%87%D0%B5"
-  },
-  {
     "id": "en-ky-news-reporter-001",
     "en": "news reporter",
     "ky": "репортёр",
@@ -6202,19 +3734,6 @@
       "news reporter"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%91%D1%80"
-  },
-  {
-    "id": "en-ky-notorious-001",
-    "en": "notorious",
-    "ky": "белгилүү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "известный",
-    "senses": [
-      "notorious"
-    ],
-    "frequency": 1110,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8%D0%BB%D2%AF%D2%AF"
   },
   {
     "id": "en-ky-navvy,-digger-001",
@@ -6277,18 +3796,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D0%BE%D0%BE%D0%BB%D1%83%D1%83%20%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-014",
-    "en": "nominative/accusative plural",
-    "ky": "мумия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "мумия",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BC%D0%B8%D1%8F"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-у́хо-001",
     "en": "nominative/accusative plural of у́хо",
     "ky": "кулак",
@@ -6317,97 +3824,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D0%BA%D0%B0%D0%BF"
   },
   {
-    "id": "en-ky-nude,-painting-of-a-nude-person-001",
-    "en": "nude, painting of a nude person",
-    "ky": "иш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "акт",
-    "senses": [
-      "nude, painting of a nude person"
-    ],
-    "pronunciation": "/iʃ/",
-    "etymology": "From Proto-Turkic *īĺč (“work, deed”).",
-    "frequency": 8089,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88"
-  },
-  {
-    "id": "en-ky-nude,-painting-of-a-nude-person-002",
-    "en": "nude, painting of a nude person",
-    "ky": "иш аракет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "акт",
-    "senses": [
-      "nude, painting of a nude person"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88%20%D0%B0%D1%80%D0%B0%D0%BA%D0%B5%D1%82"
-  },
-  {
-    "id": "en-ky-nude,-painting-of-a-nude-person-003",
-    "en": "nude, painting of a nude person",
-    "ky": "аракет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "акт",
-    "senses": [
-      "nude, painting of a nude person"
-    ],
-    "frequency": 1424,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA%D0%B5%D1%82"
-  },
-  {
-    "id": "en-ky-nude,-painting-of-a-nude-person-004",
-    "en": "nude, painting of a nude person",
-    "ky": "кыймыл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "акт",
-    "senses": [
-      "nude, painting of a nude person"
-    ],
-    "etymology": "Compare to Southern Altai кыймык (kïymïk, “movement”), Kazakh қимыл (qimyl).",
-    "frequency": 231,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-nude,-painting-of-a-nude-person-005",
-    "en": "nude, painting of a nude person",
-    "ky": "квитанция",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "акт",
-    "senses": [
-      "nude, painting of a nude person"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B2%D0%B8%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-nude,-painting-of-a-nude-person-006",
-    "en": "nude, painting of a nude person",
-    "ky": "дүмүрчөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "акт",
-    "senses": [
-      "nude, painting of a nude person"
-    ],
-    "pronunciation": "/dymyrˈt͡ʃøc/",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D2%AF%D0%BC%D2%AF%D1%80%D1%87%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-015",
-    "en": "nominative/accusative plural",
-    "ky": "суши",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "суши",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%88%D0%B8"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-нард-001",
     "en": "nominative/accusative plural of нард",
     "ky": "нарды",
@@ -6418,70 +3834,6 @@
       "nominative/accusative plural of нард (nard)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%B4%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-016",
-    "en": "nominative/accusative plural",
-    "ky": "ложа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ложа",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%BE%D0%B6%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-017",
-    "en": "nominative/accusative plural",
-    "ky": "коробка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ложа",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-018",
-    "en": "nominative/accusative plural",
-    "ky": "куту",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ложа",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 30,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-019",
-    "en": "nominative/accusative plural",
-    "ky": "ящик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ложа",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-020",
-    "en": "nominative/accusative plural",
-    "ky": "эшик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "двери",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "pronunciation": "/eˈʃik/",
-    "etymology": "From Proto-Turkic *ēĺü-k (“door”).\nCognate with\nOld Turkic 𐰀𐱁𐰚 (ešik, “door”),\nBashkir ишек (işek), Kazakh есік (esık), Karachay-Balkar эшик (eşik), Shor эжик, Turkish eşik, Uzbek eshik, etc.",
-    "frequency": 767,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%88%D0%B8%D0%BA"
   },
   {
     "id": "en-ky-nominative-plural-of-клещ-001",
@@ -6506,30 +3858,6 @@
       "nuclear winter"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%BA%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-nagorno-karabakh-002",
-    "en": "Nagorno-Karabakh",
-    "ky": "Карабак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Карабах",
-    "senses": [
-      "Nagorno-Karabakh"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nagorno-karabakh-republic-002",
-    "en": "Nagorno-Karabakh Republic",
-    "ky": "Карабак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Карабах",
-    "senses": [
-      "Nagorno-Karabakh Republic"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-narcotic-001",
@@ -6599,138 +3927,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D0%BE%D0%BE"
   },
   {
-    "id": "en-ky-nationality-002",
-    "en": "nationality",
-    "ky": "граждандык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданство",
-    "senses": [
-      "nationality (state of owing allegiance to a state)"
-    ],
-    "frequency": 30,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-nationality-003",
-    "en": "nationality",
-    "ky": "жарандык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданство",
-    "senses": [
-      "nationality (state of owing allegiance to a state)"
-    ],
-    "pronunciation": "/d͡ʒɑrɑndɯq/",
-    "etymology": "From жаран (jaran, “citizen”) + -дык (-dık, noun-forming suffix).",
-    "frequency": 915,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-nationality-004",
-    "en": "nationality",
-    "ky": "атуулдук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданство",
-    "senses": [
-      "nationality (state of owing allegiance to a state)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%83%D1%83%D0%BB%D0%B4%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-numerical-place,-digit-001",
-    "en": "numerical place, digit",
-    "ky": "класс",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "разряд",
-    "senses": [
-      "numerical place, digit"
-    ],
-    "frequency": 167,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B0%D1%81%D1%81"
-  },
-  {
-    "id": "en-ky-numerical-place,-digit-002",
-    "en": "numerical place, digit",
-    "ky": "сынып",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "разряд",
-    "senses": [
-      "numerical place, digit"
-    ],
-    "etymology": "From Arabic صِنْف (ṣinf).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D1%8B%D0%BF"
-  },
-  {
-    "id": "en-ky-norm,-standard-001",
-    "en": "norm, standard",
-    "ky": "норма",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "норма",
-    "senses": [
-      "norm, standard"
-    ],
-    "frequency": 34,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D1%80%D0%BC%D0%B0"
-  },
-  {
-    "id": "en-ky-net-(used-for-catching-fish),-mesh-001",
-    "en": "net (used for catching fish), mesh",
-    "ky": "тармак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сеть",
-    "senses": [
-      "net (used for catching fish), mesh"
-    ],
-    "etymology": "From *tarma, compare Yakut тарбах (tarbaq).",
-    "frequency": 602,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-net-(used-for-catching-fish),-mesh-002",
-    "en": "net (used for catching fish), mesh",
-    "ky": "тор",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сеть",
-    "senses": [
-      "net (used for catching fish), mesh"
-    ],
-    "etymology": "From Proto-Common Turkic *tor.",
-    "frequency": 91,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%80"
-  },
-  {
-    "id": "en-ky-net-(used-for-catching-fish),-mesh-003",
-    "en": "net (used for catching fish), mesh",
-    "ky": "панжара",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сеть",
-    "senses": [
-      "net (used for catching fish), mesh"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B6%D0%B0%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-net-(used-for-catching-fish),-mesh-004",
-    "en": "net (used for catching fish), mesh",
-    "ky": "интернет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сеть",
-    "senses": [
-      "net (used for catching fish), mesh"
-    ],
-    "frequency": 227,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82"
-  },
-  {
     "id": "en-ky-network,-system-001",
     "en": "network, system",
     "ky": "тармак",
@@ -6757,31 +3953,6 @@
     "etymology": "From Proto-Common Turkic *tor.",
     "frequency": 91,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%80"
-  },
-  {
-    "id": "en-ky-network,-system-003",
-    "en": "network, system",
-    "ky": "панжара",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сеть",
-    "senses": [
-      "network, system"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B6%D0%B0%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-network,-system-004",
-    "en": "network, system",
-    "ky": "интернет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сеть",
-    "senses": [
-      "network, system"
-    ],
-    "frequency": 227,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82"
   },
   {
     "id": "en-ky-notebook,-pocketbook-001",
@@ -6823,31 +3994,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BF%D1%82%D3%A9%D0%B3%D3%A9%D0%BD"
   },
   {
-    "id": "en-ky-nazi-002",
-    "en": "Nazi",
-    "ky": "фашист",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "фашист",
-    "senses": [
-      "Nazi (during World War II)"
-    ],
-    "frequency": 3,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D1%88%D0%B8%D1%81%D1%82"
-  },
-  {
-    "id": "en-ky-nonrepresentational,-nonfigurative-001",
-    "en": "nonrepresentational, nonfigurative",
-    "ky": "керксүз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "безобразный",
-    "senses": [
-      "nonrepresentational, nonfigurative"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%BA%D1%81%D2%AF%D0%B7"
-  },
-  {
     "id": "en-ky-necrology-001",
     "en": "necrology",
     "ky": "некролог",
@@ -6858,21 +4004,6 @@
       "necrology"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%BA%D1%80%D0%BE%D0%BB%D0%BE%D0%B3"
-  },
-  {
-    "id": "en-ky-nickname-of-a-bear-in-folklore-001",
-    "en": "nickname of a bear in folklore",
-    "ky": "аюу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Мишка",
-    "senses": [
-      "nickname of a bear in folklore"
-    ],
-    "pronunciation": "/ɑˈjuː/",
-    "etymology": "From Proto-Turkic *adïg (“bear”). Cognate with Old Turkic 𐰑𐰍 (adïɣ, “bear”), Bashkir айыу (ayıw, “bear”), Kazakh аю (aü, “bear”), Khakas азығ (azığ, “bear”), Turkish ayı (“bear”), Tuvan адыг (adıg, “bear”), Uzbek ayiq (“bear”), Southern Altai айу (ayu), etc.",
-    "frequency": 142,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8E%D1%83"
   },
   {
     "id": "en-ky-necessary,-required-001",
@@ -6911,70 +4042,6 @@
     ],
     "frequency": 104,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%B5%D0%BA%D1%82%D2%AF%D2%AF"
-  },
-  {
-    "id": "en-ky-need,-want,-request-001",
-    "en": "need, want, request",
-    "ky": "зарылдык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нужда",
-    "senses": [
-      "need, want, request"
-    ],
-    "frequency": 167,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%80%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-need,-want,-request-002",
-    "en": "need, want, request",
-    "ky": "зарылчылык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нужда",
-    "senses": [
-      "need, want, request"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%80%D1%8B%D0%BB%D1%87%D1%8B%D0%BB%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-need,-want,-request-003",
-    "en": "need, want, request",
-    "ky": "муктаждык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нужда",
-    "senses": [
-      "need, want, request"
-    ],
-    "frequency": 72,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BA%D1%82%D0%B0%D0%B6%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-need,-want,-request-004",
-    "en": "need, want, request",
-    "ky": "кедейлик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нужда",
-    "senses": [
-      "need, want, request"
-    ],
-    "pronunciation": "[kʲedejˈlik]",
-    "etymology": "кедей (kedey) + -лик (-lik).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B4%D0%B5%D0%B9%D0%BB%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-need,-want,-request-005",
-    "en": "need, want, request",
-    "ky": "жакырчылык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нужда",
-    "senses": [
-      "need, want, request"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%8B%D1%80%D1%87%D1%8B%D0%BB%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-need,-indigence-001",
@@ -7109,79 +4176,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%8C%D0%B5"
   },
   {
-    "id": "en-ky-name-004",
-    "en": "name",
-    "ky": "үй айбандарына коюлган ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кличка",
-    "senses": [
-      "name (of an animal)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9%20%D0%B0%D0%B9%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%8B%D0%BD%D0%B0%20%D0%BA%D0%BE%D1%8E%D0%BB%D0%B3%D0%B0%D0%BD%20%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-name-005",
-    "en": "name",
-    "ky": "адамга коюлган жасама ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кличка",
-    "senses": [
-      "name (of an animal)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B0%D0%BC%D0%B3%D0%B0%20%D0%BA%D0%BE%D1%8E%D0%BB%D0%B3%D0%B0%D0%BD%20%D0%B6%D0%B0%D1%81%D0%B0%D0%BC%D0%B0%20%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-name-006",
-    "en": "name",
-    "ky": "ылакап ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кличка",
-    "senses": [
-      "name (of an animal)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D0%BA%D0%B0%D0%BF%20%D0%B0%D1%82"
-  },
-  {
     "id": "en-ky-nickname,-alias-001",
     "en": "nickname, alias",
-    "ky": "үй айбандарына коюлган ат",
+    "ky": "ылакап ат",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "кличка",
     "senses": [
       "nickname, alias"
     ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9%20%D0%B0%D0%B9%D0%B1%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%8B%D0%BD%D0%B0%20%D0%BA%D0%BE%D1%8E%D0%BB%D0%B3%D0%B0%D0%BD%20%D0%B0%D1%82"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D0%BA%D0%B0%D0%BF%20%D0%B0%D1%82"
   },
   {
     "id": "en-ky-nickname,-alias-002",
-    "en": "nickname, alias",
-    "ky": "адамга коюлган жасама ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кличка",
-    "senses": [
-      "nickname, alias"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B0%D0%BC%D0%B3%D0%B0%20%D0%BA%D0%BE%D1%8E%D0%BB%D0%B3%D0%B0%D0%BD%20%D0%B6%D0%B0%D1%81%D0%B0%D0%BC%D0%B0%20%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nickname,-alias-003",
-    "en": "nickname, alias",
-    "ky": "ылакап ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кличка",
-    "senses": [
-      "nickname, alias"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D0%BA%D0%B0%D0%BF%20%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nickname,-alias-004",
     "en": "nickname, alias",
     "ky": "ат",
     "pos": "noun",
@@ -7196,19 +4203,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82"
   },
   {
-    "id": "en-ky-nickname,-alias-005",
-    "en": "nickname, alias",
-    "ky": "ысым",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кличка",
-    "senses": [
-      "nickname, alias"
-    ],
-    "frequency": 41,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D1%8B%D0%BC"
-  },
-  {
     "id": "en-ky-nanosecond-001",
     "en": "nanosecond",
     "ky": "наносекунда",
@@ -7219,30 +4213,6 @@
       "nanosecond (measure of time)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B0"
-  },
-  {
-    "id": "en-ky-nomad,-vagabond,-tramp-001",
-    "en": "nomad, vagabond, tramp",
-    "ky": "саргаыл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перекати-поле",
-    "senses": [
-      "nomad, vagabond, tramp"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%80%D0%B3%D0%B0%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-nomad,-vagabond,-tramp-002",
-    "en": "nomad, vagabond, tramp",
-    "ky": "дөңгөлөк чөп",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "перекати-поле",
-    "senses": [
-      "nomad, vagabond, tramp"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D3%A9%D2%A3%D0%B3%D3%A9%D0%BB%D3%A9%D0%BA%20%D1%87%D3%A9%D0%BF"
   },
   {
     "id": "en-ky-narration,-narrative-001",
@@ -7257,45 +4227,6 @@
     "pronunciation": "/baˈjan/",
     "frequency": 59,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%8F%D0%BD"
-  },
-  {
-    "id": "en-ky-nose-004",
-    "en": "nose",
-    "ky": "бет",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ебальник",
-    "senses": [
-      "nose"
-    ],
-    "pronunciation": "/bet/",
-    "etymology": "From Proto-Turkic *bĕt (“face; page”).",
-    "frequency": 1486,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82"
-  },
-  {
-    "id": "en-ky-nakhodka-001",
-    "en": "Nakhodka",
-    "ky": "Находка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Находка",
-    "senses": [
-      "Nakhodka (a port city in Primorsky Krai, Russia)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-nakhodka-bay-001",
-    "en": "Nakhodka Bay",
-    "ky": "Находка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Находка",
-    "senses": [
-      "Nakhodka Bay"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-name-day-woman-or-girl-001",
@@ -7370,18 +4301,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-nonsense,-bosh,-rubbish,-rot-001",
-    "en": "nonsense, bosh, rubbish, rot",
-    "ky": "ойноо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "дичь",
-    "senses": [
-      "nonsense, bosh, rubbish, rot"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%BD%D0%BE%D0%BE"
-  },
-  {
     "id": "en-ky-novokuznetsk-001",
     "en": "Novokuznetsk",
     "ky": "Новокузнецк",
@@ -7404,20 +4323,6 @@
       "nervous system"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D1%80%D0%B2%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%81%D1%8B"
-  },
-  {
-    "id": "en-ky-nothing,-fuck-all-001",
-    "en": "nothing, fuck all",
-    "ky": "котокбаш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "залупа",
-    "senses": [
-      "nothing, fuck all"
-    ],
-    "pronunciation": "/qotoqˈbaʃ/",
-    "etymology": "Compound of коток (kotok) + баш (baş). Related to Kazakh қотақбас (qotaqbas).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BE%D0%BA%D0%B1%D0%B0%D1%88"
   },
   {
     "id": "en-ky-name,-appellation,-title-001",
@@ -7448,45 +4353,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D1%8B%D0%BC"
   },
   {
-    "id": "en-ky-nominative-plural-006",
-    "en": "nominative plural",
-    "ky": "коньки",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "коньки",
-    "senses": [
-      "nominative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8"
-  },
-  {
-    "id": "en-ky-name;-nominal,-nominative-001",
-    "en": "name; nominal, nominative",
-    "ky": "аттуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "именной",
-    "senses": [
-      "name",
-      "nominal, nominative"
-    ],
-    "frequency": 173,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-noun-004",
-    "en": "noun",
-    "ky": "аттуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "именной",
-    "senses": [
-      "noun"
-    ],
-    "frequency": 173,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D1%83%D1%83"
-  },
-  {
     "id": "en-ky-norilsk-001",
     "en": "Norilsk",
     "ky": "Норильск",
@@ -7499,7 +4365,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%BE%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA"
   },
   {
-    "id": "en-ky-night,-nighttime-003",
+    "id": "en-ky-night,-nighttime-001",
     "en": "night, nighttime",
     "ky": "түндөг",
     "pos": "adj",
@@ -7521,77 +4387,6 @@
       "nocturnal"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD%D0%B4%D3%A9%D0%B3"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-ус-001",
-    "en": "nominative/accusative plural of ус",
-    "ky": "мурут",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "усы",
-    "senses": [
-      "nominative/accusative plural of ус (us)"
-    ],
-    "pronunciation": "/muˈrut/",
-    "etymology": "From Classical Persian بُرُوت (burūt) with the initial b nativised into m.",
-    "frequency": 251,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D1%80%D1%83%D1%82"
-  },
-  {
-    "id": "en-ky-nipple-002",
-    "en": "nipple",
-    "ky": "көчүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ягодица",
-    "senses": [
-      "nipple"
-    ],
-    "frequency": 87,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%87%D2%AF%D0%BA"
-  },
-  {
-    "id": "en-ky-nipple-003",
-    "en": "nipple",
-    "ky": "жамбаш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ягодица",
-    "senses": [
-      "nipple"
-    ],
-    "etymology": "Ultimately from Proto-Turkic *jān. Cognate to Southern Altai јалмаш (ǰalmaš), Kazakh жанбас (janbas), Karakalpak janbas, Nogai янбас (yanbas), Karaim janbaš, Kumyk янбаш (yanbaş), Bashkir янбаш (yanbaş), Uzbek yonbosh, etc.",
-    "frequency": 29,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%B1%D0%B0%D1%88"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-021",
-    "en": "nominative/accusative plural",
-    "ky": "сан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ягодицы",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "pronunciation": "/sɑn/",
-    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
-    "frequency": 1298,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-nominative-plural-007",
-    "en": "nominative plural",
-    "ky": "баары",
-    "pos": "pron",
-    "source": "pivot-ru",
-    "ruPivot": "все",
-    "senses": [
-      "nominative plural"
-    ],
-    "etymology": "From бар + -ы. Compare Kazakh бәрі (bärı), Kumyk бары (barı), Yakut бары (barï),",
-    "frequency": 3531,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D1%80%D1%8B"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-яйцо́-001",
@@ -7636,44 +4431,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%83%D1%81%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-nimble-001",
-    "en": "nimble",
-    "ky": "акылдуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "лихой",
-    "senses": [
-      "nimble"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BB%D0%B4%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-nimble-002",
-    "en": "nimble",
-    "ky": "эстүү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "лихой",
-    "senses": [
-      "nimble"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D2%AF%D2%AF"
-  },
-  {
-    "id": "en-ky-nominative-plural-008",
-    "en": "nominative plural",
-    "ky": "канчык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "падла",
-    "senses": [
-      "nominative plural"
-    ],
-    "pronunciation": "[qanˈt͡ʃɯq]",
-    "etymology": "Compare Turkish kancık (“female dog; bitch (vulgar)”).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%87%D1%8B%D0%BA"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-но́готь-001",
     "en": "nominative/accusative plural of но́готь",
     "ky": "тырмак",
@@ -7686,59 +4443,6 @@
     "etymology": "From Proto-Turkic *tïrŋa-k (“finger-nail, claw”). Cognate with Old Turkic 𐱃𐰃𐰺𐰭𐰴 (tïrŋaq, “fingernail”), Kazakh тырнақ (tyrnaq), Southern Altai тырмак (tïrmak), Crimean Tatar tırnak, Kumyk тырнакъ (tırnaq), Azerbaijani dırnaq, Turkish tırnak, Khakas тырғах (tırğax), Shor тырбақ, Western Yugur tïrmaq/ tïrğaq, etc.",
     "frequency": 75,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%80%D0%BC%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-стих-001",
-    "en": "nominative plural of стих",
-    "ky": "ыр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стихи",
-    "senses": [
-      "nominative plural of стих (stix, “verse”)"
-    ],
-    "pronunciation": "/ɯr/",
-    "etymology": "From Proto-Turkic *yïr (“song”).",
-    "frequency": 591,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%80"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-стих-002",
-    "en": "nominative plural of стих",
-    "ky": "казал",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стихи",
-    "senses": [
-      "nominative plural of стих (stix, “verse”)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-стих-003",
-    "en": "nominative plural of стих",
-    "ky": "поэма",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стихи",
-    "senses": [
-      "nominative plural of стих (stix, “verse”)"
-    ],
-    "frequency": 54,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%8D%D0%BC%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-стих-004",
-    "en": "nominative plural of стих",
-    "ky": "өлөң",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стихи",
-    "senses": [
-      "nominative plural of стих (stix, “verse”)"
-    ],
-    "etymology": "Cognates with Kazakh өлең (öleñ)",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D3%A9%D2%A3"
   },
   {
     "id": "en-ky-naturally-001",
@@ -7769,19 +4473,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BC%D0%B0"
   },
   {
-    "id": "en-ky-national-005",
-    "en": "national",
-    "ky": "этникалык",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "национальный",
-    "senses": [
-      "national"
-    ],
-    "frequency": 13,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA"
-  },
-  {
     "id": "en-ky-narrative,-story,-tale-001",
     "en": "narrative, story, tale",
     "ky": "жомок",
@@ -7807,45 +4498,6 @@
     ],
     "frequency": 97,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%D0%B3%D0%B5%D0%BC%D0%B5"
-  },
-  {
-    "id": "en-ky-narrative,-story,-tale-003",
-    "en": "narrative, story, tale",
-    "ky": "роман",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "повесть",
-    "senses": [
-      "narrative, story, tale"
-    ],
-    "etymology": "Borrowed from Russian рома́н (román), from French roman, from Old French romanz.",
-    "frequency": 58,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-narrative,-story,-tale-004",
-    "en": "narrative, story, tale",
-    "ky": "новелла",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "повесть",
-    "senses": [
-      "narrative, story, tale"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0"
-  },
-  {
-    "id": "en-ky-narrative,-story,-tale-005",
-    "en": "narrative, story, tale",
-    "ky": "повесть",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "повесть",
-    "senses": [
-      "narrative, story, tale"
-    ],
-    "frequency": 21,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C"
   },
   {
     "id": "en-ky-novella-001",
@@ -7914,46 +4566,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C"
   },
   {
-    "id": "en-ky-notice,-knowledge-001",
-    "en": "notice, knowledge",
-    "ky": "информация",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сведение",
-    "senses": [
-      "notice, knowledge"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-notice,-knowledge-002",
-    "en": "notice, knowledge",
-    "ky": "маалымат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сведение",
-    "senses": [
-      "notice, knowledge"
-    ],
-    "etymology": "Borrowed from Arabic مَعْلُومَات (maʕlūmāt, “information”). Cognate with Bashkir мәғлүмәт (məğlümət), Kazakh мағлұмат (mağlūmat) etc.",
-    "frequency": 1896,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BB%D1%8B%D0%BC%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-notice,-knowledge-003",
-    "en": "notice, knowledge",
-    "ky": "билме",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сведение",
-    "senses": [
-      "notice, knowledge"
-    ],
-    "pronunciation": "/bilˈme/",
-    "etymology": "From билүү (bilüü, “to know”) + -ме (-me).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%BC%D0%B5"
-  },
-  {
     "id": "en-ky-necessity,-need-001",
     "en": "necessity, need",
     "ky": "зарылдык",
@@ -7992,85 +4604,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BA%D1%82%D0%B0%D0%B6%D0%B4%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-novelty-002",
-    "en": "novelty",
-    "ky": "кабар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "новость",
-    "senses": [
-      "novelty"
-    ],
-    "pronunciation": "/qaˈβar/",
-    "etymology": "Borrowed from Arabic خَبَر (ḵabar). Cognate with Karachay-Balkar хапар (xapar), Azerbaijani xəbər, Bashkir хәбәр (xəbər), Kazakh хабар (xabar), Khakas хабар (xabar), Kumyk хабар (xabar), Nogai хабар (xabar), Ottoman Turkish خبر (haber), Shor қабар, Tatar хәбәр (xäbär), Turkmen habar, Uyghur خەۋەر (xewer), Uzbek xabar, Chuvash хыпар (hyp̬ar), etc.",
-    "frequency": 815,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-need,-want-001",
-    "en": "need, want",
-    "ky": "талап",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "потребность",
-    "senses": [
-      "need, want"
-    ],
-    "frequency": 1284,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BB%D0%B0%D0%BF"
-  },
-  {
-    "id": "en-ky-need,-want-002",
-    "en": "need, want",
-    "ky": "зарылдык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "потребность",
-    "senses": [
-      "need, want"
-    ],
-    "frequency": 167,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%80%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-need,-want-003",
-    "en": "need, want",
-    "ky": "зарылчылык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "потребность",
-    "senses": [
-      "need, want"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%80%D1%8B%D0%BB%D1%87%D1%8B%D0%BB%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-need,-want-004",
-    "en": "need, want",
-    "ky": "муктаждык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "потребность",
-    "senses": [
-      "need, want"
-    ],
-    "frequency": 72,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BA%D1%82%D0%B0%D0%B6%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-native,-home-001",
-    "en": "native, home",
-    "ky": "патриоттук",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "отечественный",
-    "senses": [
-      "native, home"
-    ],
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D1%82%D1%83%D0%BA"
-  },
-  {
     "id": "en-ky-nizhny-tagil-001",
     "en": "Nizhny Tagil",
     "ky": "Төмөнкү Тагил",
@@ -8105,46 +4638,6 @@
       "Nizhnekamsk (a city in Tatarstan, Russia)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA"
-  },
-  {
-    "id": "en-ky-nerd-001",
-    "en": "nerd",
-    "ky": "ботаник",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ботаник",
-    "senses": [
-      "nerd"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative-plural-009",
-    "en": "nominative plural",
-    "ky": "акча",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бабки",
-    "senses": [
-      "nominative plural"
-    ],
-    "pronunciation": "/ɑqˈtʃɑ/",
-    "etymology": "From Old Turkic [script needed] (*aqča, “money, coin”). Cognate with\nTatar акча (aqça),\nBashkir аҡса (aqsa),\nKazakh ақша (aqşa),\nSouthern Altai акча (akča),\nKumyk акъча (aqça),\nKarachay-Balkar ахча (axça),\nCrimean Tatar aqça,\nKhakas ахча (axça),\nShor ақча,\nTuvan акша (akşa, “money”),\nChuvash укҫа (ukśa, “coin”), etc.",
-    "frequency": 214,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative-plural-010",
-    "en": "nominative plural",
-    "ky": "пул",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бабки",
-    "senses": [
-      "nominative plural"
-    ],
-    "frequency": 842,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-се́мя-001",
@@ -8186,45 +4679,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BD%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-022",
-    "en": "nominative/accusative plural",
-    "ky": "бакалоор",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "жабры",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%BE%D0%BE%D1%80"
-  },
-  {
-    "id": "en-ky-number-of-printed-copies-001",
-    "en": "number of printed copies",
-    "ky": "сурөт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "тираж",
-    "senses": [
-      "number of printed copies"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80%D3%A9%D1%82"
-  },
-  {
-    "id": "en-ky-number-of-printed-copies-002",
-    "en": "number of printed copies",
-    "ky": "чийме",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "тираж",
-    "senses": [
-      "number of printed copies"
-    ],
-    "pronunciation": "[t͡ʃijˈme]",
-    "etymology": "From чий- (ciy-, “to draw, to draw up, to plot”) + -ме (-me).",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D0%B9%D0%BC%D0%B5"
-  },
-  {
     "id": "en-ky-neschastny-sluchai-001",
     "en": "Neschastny Sluchai",
     "ky": "авария",
@@ -8262,18 +4716,6 @@
     ],
     "frequency": 78,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D1%8F"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-023",
-    "en": "nominative/accusative plural",
-    "ky": "авиакомпания",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "авиалинии",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-notification,-notice,-alert-001",
@@ -8318,112 +4760,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82"
   },
   {
-    "id": "en-ky-nickname,-sobriquet,-byname,-cognomen,-soubriquet-003",
-    "en": "nickname, sobriquet, byname, cognomen, soubriquet",
-    "ky": "фамилия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "прозвище",
-    "senses": [
-      "nickname, sobriquet, byname, cognomen, soubriquet"
-    ],
-    "frequency": 87,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-nickname,-sobriquet,-byname,-cognomen,-soubriquet-004",
-    "en": "nickname, sobriquet, byname, cognomen, soubriquet",
-    "ky": "атанаама",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "прозвище",
-    "senses": [
-      "nickname, sobriquet, byname, cognomen, soubriquet"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D0%B0%D0%BD%D0%B0%D0%B0%D0%BC%D0%B0"
-  },
-  {
-    "id": "en-ky-nickname,-sobriquet,-byname,-cognomen,-soubriquet-005",
-    "en": "nickname, sobriquet, byname, cognomen, soubriquet",
-    "ky": "теги",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "прозвище",
-    "senses": [
-      "nickname, sobriquet, byname, cognomen, soubriquet"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B3%D0%B8"
-  },
-  {
-    "id": "en-ky-nickname,-sobriquet,-byname,-cognomen,-soubriquet-006",
-    "en": "nickname, sobriquet, byname, cognomen, soubriquet",
-    "ky": "уругат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "прозвище",
-    "senses": [
-      "nickname, sobriquet, byname, cognomen, soubriquet"
-    ],
-    "pronunciation": "[uruˈʁat]",
-    "etymology": "урук (uruk, “generation”) + ат (at, “name”).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%B3%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nerd-002",
-    "en": "nerd",
-    "ky": "билгич",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "задрот",
-    "senses": [
-      "nerd (no-lifer)"
-    ],
-    "pronunciation": "/bilɡit͡ʃ/",
-    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
-  },
-  {
-    "id": "en-ky-nonsense-003",
-    "en": "nonsense",
-    "ky": "бурганак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пурга",
-    "senses": [
-      "nonsense"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nonsense-004",
-    "en": "nonsense",
-    "ky": "бороон",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пурга",
-    "senses": [
-      "nonsense"
-    ],
-    "pronunciation": "/boˈroːn/",
-    "etymology": "From Proto-Turkic *bora-.",
-    "frequency": 59,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%BE%D0%BE%D0%BD"
-  },
-  {
-    "id": "en-ky-near-002",
-    "en": "near",
-    "ky": "окшош",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "сходный",
-    "senses": [
-      "near"
-    ],
-    "etymology": "From *oqšaš (“similar”), from *ogša- (“to be similar”).\nCognate with Southern Altai ошкош (oškoš),\nTatar охшаш (oxşaş),\nKazakh ұқсас (ūqsas),\nKarachay-Balkar ушаш (uşaş),\nNorthern Altai ошкош (oškoš),\nKhakas осхас (osxas),\nUzbek o'xshash,\nTurkmen ogşaş (“similar to”).",
-    "frequency": 125,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%88%D0%BE%D1%88"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-рукоплеска́ние-001",
     "en": "nominative/accusative plural of рукоплеска́ние",
     "ky": "кол чабуулар",
@@ -8436,106 +4772,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%20%D1%87%D0%B0%D0%B1%D1%83%D1%83%D0%BB%D0%B0%D1%80"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-024",
-    "en": "nominative/accusative plural",
-    "ky": "фекалия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "испражнения",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D0%BA%D0%B0%D0%BB%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-025",
-    "en": "nominative/accusative plural",
-    "ky": "жарыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "гонки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 16,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-026",
-    "en": "nominative/accusative plural",
-    "ky": "раса",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "гонки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 15,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D1%81%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-027",
-    "en": "nominative/accusative plural",
-    "ky": "момун",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бубны",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 163,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BC%D1%83%D0%BD"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-бу́бен-001",
-    "en": "nominative/accusative plural of бу́бен",
-    "ky": "момун",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бубны",
-    "senses": [
-      "nominative/accusative plural of бу́бен (búben)"
-    ],
-    "frequency": 163,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BC%D1%83%D0%BD"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-028",
-    "en": "nominative/accusative plural",
-    "ky": "чырым",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "трефы",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D1%8B%D0%BC"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-029",
-    "en": "nominative/accusative plural",
-    "ky": "чытыр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "трефы",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%82%D1%8B%D1%80"
-  },
-  {
-    "id": "en-ky-nitwit,-nit-001",
-    "en": "nitwit, nit",
-    "ky": "токой жаңгагы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лесной орех",
-    "senses": [
-      "nitwit, nit"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BA%D0%BE%D0%B9%20%D0%B6%D0%B0%D2%A3%D0%B3%D0%B0%D0%B3%D1%8B"
-  },
-  {
     "id": "en-ky-naiad-001",
     "en": "naiad",
     "ky": "суу периси",
@@ -8546,145 +4782,6 @@
       "naiad"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%20%D0%BF%D0%B5%D1%80%D0%B8%D1%81%D0%B8"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-030",
-    "en": "nominative/accusative plural",
-    "ky": "ушак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сплетни",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 73,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%88%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-слух-001",
-    "en": "nominative/accusative plural of слух",
-    "ky": "ушак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слухи",
-    "senses": [
-      "nominative/accusative plural of слух (slux)"
-    ],
-    "frequency": 73,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%88%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-слух-002",
-    "en": "nominative/accusative plural of слух",
-    "ky": "кабар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слухи",
-    "senses": [
-      "nominative/accusative plural of слух (slux)"
-    ],
-    "pronunciation": "/qaˈβar/",
-    "etymology": "Borrowed from Arabic خَبَر (ḵabar). Cognate with Karachay-Balkar хапар (xapar), Azerbaijani xəbər, Bashkir хәбәр (xəbər), Kazakh хабар (xabar), Khakas хабар (xabar), Kumyk хабар (xabar), Nogai хабар (xabar), Ottoman Turkish خبر (haber), Shor қабар, Tatar хәбәр (xäbär), Turkmen habar, Uyghur خەۋەر (xewer), Uzbek xabar, Chuvash хыпар (hyp̬ar), etc.",
-    "frequency": 815,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-слух-003",
-    "en": "nominative/accusative plural of слух",
-    "ky": "дарек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "слухи",
-    "senses": [
-      "nominative/accusative plural of слух (slux)"
-    ],
-    "frequency": 180,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-noose-001",
-    "en": "noose",
-    "ky": "илмек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "etymology": "Compare to Southern Altai илмек (ilmek, “hoop”), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%BC%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-noose-002",
-    "en": "noose",
-    "ky": "топчулук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF%D1%87%D1%83%D0%BB%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-noose-003",
-    "en": "noose",
-    "ky": "ан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-noose-004",
-    "en": "noose",
-    "ky": "чыйыры",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%B9%D1%8B%D1%80%D1%8B"
-  },
-  {
-    "id": "en-ky-noose-005",
-    "en": "noose",
-    "ky": "аң изи",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%20%D0%B8%D0%B7%D0%B8"
-  },
-  {
-    "id": "en-ky-noose-006",
-    "en": "noose",
-    "ky": "андын ийри-муйру изи",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BD%D0%B4%D1%8B%D0%BD%20%D0%B8%D0%B9%D1%80%D0%B8-%D0%BC%D1%83%D0%B9%D1%80%D1%83%20%D0%B8%D0%B7%D0%B8"
-  },
-  {
-    "id": "en-ky-noose-007",
-    "en": "noose",
-    "ky": "сыйыртмак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "петля",
-    "senses": [
-      "noose"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B9%D1%8B%D1%80%D1%82%D0%BC%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-not-in-one's-right-mind,-crazy-001",
@@ -8700,45 +4797,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD%D0%B4%D0%B8"
   },
   {
-    "id": "en-ky-nominative-plural-of-пра́во-(právo):-rights-001",
-    "en": "nominative plural of пра́во (právo): rights",
-    "ky": "укук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "права",
-    "senses": [
-      "nominative plural of пра́во (právo): rights"
-    ],
-    "pronunciation": "/uquq/",
-    "etymology": "From Arabic حقوق (“right”)",
-    "frequency": 4086,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-пра́во-(právo):-rights-002",
-    "en": "nominative plural of пра́во (právo): rights",
-    "ky": "алып жүрүү укуктары",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "права",
-    "senses": [
-      "nominative plural of пра́во (právo): rights"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%8B%D0%BF%20%D0%B6%D2%AF%D1%80%D2%AF%D2%AF%20%D1%83%D0%BA%D1%83%D0%BA%D1%82%D0%B0%D1%80%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-пра́во-(právo):-rights-003",
-    "en": "nominative plural of пра́во (právo): rights",
-    "ky": "айдоочунун күбөлүгү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "права",
-    "senses": [
-      "nominative plural of пра́во (právo): rights"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%B4%D0%BE%D0%BE%D1%87%D1%83%D0%BD%D1%83%D0%BD%20%D0%BA%D2%AF%D0%B1%D3%A9%D0%BB%D2%AF%D0%B3%D2%AF"
-  },
-  {
     "id": "en-ky-natural-selection-001",
     "en": "natural selection",
     "ky": "табигый тандалуу",
@@ -8751,89 +4809,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D1%83%D1%83"
   },
   {
-    "id": "en-ky-nature-007",
-    "en": "nature",
-    "ky": "чындык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature (the natural world)"
-    ],
-    "frequency": 184,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-nature-008",
-    "en": "nature",
-    "ky": "акыйкат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature (the natural world)"
-    ],
-    "etymology": "Borrowed from Classical Persian حَقِیقَت (haqīqat), from Arabic حَقِيقَة (ḥaqīqa).",
-    "frequency": 111,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nature-009",
-    "en": "nature",
-    "ky": "дене",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature (the natural world)"
-    ],
-    "pronunciation": "/deˈne/",
-    "etymology": "From Persian تنه (tane, “body”).",
-    "frequency": 311,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BD%D0%B5"
-  },
-  {
-    "id": "en-ky-nature-010",
-    "en": "nature",
-    "ky": "тулку",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature (the natural world)"
-    ],
-    "frequency": 18,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BB%D0%BA%D1%83"
-  },
-  {
     "id": "en-ky-nature,-character-001",
-    "en": "nature, character",
-    "ky": "чындык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature, character (of a person)"
-    ],
-    "frequency": 184,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-nature,-character-002",
-    "en": "nature, character",
-    "ky": "акыйкат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature, character (of a person)"
-    ],
-    "etymology": "Borrowed from Classical Persian حَقِیقَت (haqīqat), from Arabic حَقِيقَة (ḥaqīqa).",
-    "frequency": 111,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-nature,-character-003",
     "en": "nature, character",
     "ky": "жаратылыш",
     "pos": "noun",
@@ -8846,7 +4822,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D1%82%D1%8B%D0%BB%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-nature,-character-004",
+    "id": "en-ky-nature,-character-002",
     "en": "nature, character",
     "ky": "табият",
     "pos": "noun",
@@ -8860,7 +4836,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D1%8F%D1%82"
   },
   {
-    "id": "en-ky-nature,-character-005",
+    "id": "en-ky-nature,-character-003",
     "en": "nature, character",
     "ky": "натура",
     "pos": "noun",
@@ -8871,34 +4847,6 @@
     ],
     "etymology": "From Russian натура (natura).",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-nature,-character-006",
-    "en": "nature, character",
-    "ky": "дене",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature, character (of a person)"
-    ],
-    "pronunciation": "/deˈne/",
-    "etymology": "From Persian تنه (tane, “body”).",
-    "frequency": 311,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BD%D0%B5"
-  },
-  {
-    "id": "en-ky-nature,-character-007",
-    "en": "nature, character",
-    "ky": "тулку",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "натура",
-    "senses": [
-      "nature, character (of a person)"
-    ],
-    "frequency": 18,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BB%D0%BA%D1%83"
   },
   {
     "id": "en-ky-natural,-real-001",
@@ -8925,33 +4873,6 @@
     ],
     "frequency": 186,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%81%D0%BA%D0%BE%D0%BE%D0%BB%D0%B4%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-normative,-standard-001",
-    "en": "normative, standard",
-    "ky": "нормативдик",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "нормативный",
-    "senses": [
-      "normative, standard"
-    ],
-    "frequency": 3,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%B4%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-031",
-    "en": "nominative/accusative plural",
-    "ky": "тизгин",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бразды",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "etymology": "From Proto-Turkic *tizgin.",
-    "frequency": 139,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B3%D0%B8%D0%BD"
   },
   {
     "id": "en-ky-nominative/accusative-neuter-singular-of-оди́н-001",
@@ -9022,46 +4943,6 @@
   {
     "id": "en-ky-name,-title-001",
     "en": "name, title",
-    "ky": "атоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наименование",
-    "senses": [
-      "name, title"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-name,-title-002",
-    "en": "name, title",
-    "ky": "аталыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наименование",
-    "senses": [
-      "name, title"
-    ],
-    "frequency": 25,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D0%B0%D0%BB%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-name,-title-003",
-    "en": "name, title",
-    "ky": "ат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наименование",
-    "senses": [
-      "name, title"
-    ],
-    "pronunciation": "/ɑt/",
-    "etymology": "From Proto-Turkic *āt (“name”).",
-    "frequency": 7631,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-name,-title-004",
-    "en": "name, title",
     "ky": "ысым",
     "pos": "noun",
     "source": "pivot-ru",
@@ -9096,20 +4977,6 @@
     "ruPivot": "обнажённый",
     "senses": [
       "naked, bare (of a person)"
-    ],
-    "etymology": "From Proto-Turkic *yalaŋač (“bare, naked”), from Proto-Turkic *yalïŋ (“bare, naked”). Cognate with Kazakh жалаңаш (jalañaş).",
-    "frequency": 41,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B0%D2%A3%D0%B0%D1%87"
-  },
-  {
-    "id": "en-ky-not-having-leaves-001",
-    "en": "not having leaves",
-    "ky": "жылаңач",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "обнажённый",
-    "senses": [
-      "not having leaves"
     ],
     "etymology": "From Proto-Turkic *yalaŋač (“bare, naked”), from Proto-Turkic *yalïŋ (“bare, naked”). Cognate with Kazakh жалаңаш (jalañaş).",
     "frequency": 41,
@@ -9158,22 +5025,6 @@
   {
     "id": "en-ky-news,-piece-of-news,-message;-tidings-001",
     "en": "news, piece of news, message; tidings",
-    "ky": "кабар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "весть",
-    "senses": [
-      "news, piece of news, message",
-      "tidings"
-    ],
-    "pronunciation": "/qaˈβar/",
-    "etymology": "Borrowed from Arabic خَبَر (ḵabar). Cognate with Karachay-Balkar хапар (xapar), Azerbaijani xəbər, Bashkir хәбәр (xəbər), Kazakh хабар (xabar), Khakas хабар (xabar), Kumyk хабар (xabar), Nogai хабар (xabar), Ottoman Turkish خبر (haber), Shor қабар, Tatar хәбәр (xäbär), Turkmen habar, Uyghur خەۋەر (xewer), Uzbek xabar, Chuvash хыпар (hyp̬ar), etc.",
-    "frequency": 815,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-news,-piece-of-news,-message;-tidings-002",
-    "en": "news, piece of news, message; tidings",
     "ky": "жаңылык",
     "pos": "noun",
     "source": "pivot-ru",
@@ -9199,18 +5050,6 @@
     ],
     "frequency": 178,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%B8%D1%81%D1%82"
-  },
-  {
-    "id": "en-ky-non-official-holiday-maker-001",
-    "en": "non-official holiday-maker",
-    "ky": "варвар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "дикарь",
-    "senses": [
-      "non-official holiday-maker (without a tour group or a prepaid hotel)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D1%80%D0%B2%D0%B0%D1%80"
   },
   {
     "id": "en-ky-naturalness-001",
@@ -9305,19 +5144,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83%D1%82%D1%82%D0%B0%D1%88%D1%82%D1%8B%D1%80%D0%BC%D0%B0"
   },
   {
-    "id": "en-ky-novel-006",
-    "en": "novel",
-    "ky": "аңгеме",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "новелла",
-    "senses": [
-      "novel"
-    ],
-    "frequency": 97,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%D0%B3%D0%B5%D0%BC%D0%B5"
-  },
-  {
     "id": "en-ky-new-product,-new-arrival-001",
     "en": "new product, new arrival",
     "ky": "жаңылык",
@@ -9344,19 +5170,6 @@
     ],
     "frequency": 12,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%BE%D1%82%D0%B0%D1%80%D0%B8%D1%83%D1%81"
-  },
-  {
-    "id": "en-ky-note,-record-001",
-    "en": "note, record",
-    "ky": "баалоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "отметка",
-    "senses": [
-      "note, record"
-    ],
-    "etymology": "From баа (baa, “price, value”) + -ла (-la, “verb-forming suffix”). Compare to Southern Altai баала- (baala-, “appraise, price, evaluate, estimate”), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-nappy/diaper,-swaddling-cloth-001",
@@ -9410,124 +5223,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%80"
   },
   {
-    "id": "en-ky-net,-netting-002",
-    "en": "net, netting",
-    "ky": "панжара",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сетка",
-    "senses": [
-      "net, netting"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B6%D0%B0%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-net,-netting-003",
-    "en": "net, netting",
-    "ky": "кабырчык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сетка",
-    "senses": [
-      "net, netting"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D1%80%D1%87%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-net,-netting-004",
-    "en": "net, netting",
-    "ky": "кабык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сетка",
-    "senses": [
-      "net, netting"
-    ],
-    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-net-002",
-    "en": "net",
-    "ky": "панжара",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сетка",
-    "senses": [
-      "net"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B6%D0%B0%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-net-003",
-    "en": "net",
-    "ky": "кабырчык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сетка",
-    "senses": [
-      "net"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D1%80%D1%87%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-net-004",
-    "en": "net",
-    "ky": "кабык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сетка",
-    "senses": [
-      "net"
-    ],
-    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
-  },
-  {
     "id": "en-ky-notice,-notification-001",
-    "en": "notice, notification",
-    "ky": "билдирүү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "уведомление",
-    "senses": [
-      "notice, notification"
-    ],
-    "frequency": 51,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B4%D0%B8%D1%80%D2%AF%D2%AF"
-  },
-  {
-    "id": "en-ky-notice,-notification-002",
-    "en": "notice, notification",
-    "ky": "кабарлоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "уведомление",
-    "senses": [
-      "notice, notification"
-    ],
-    "frequency": 4,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80%D0%BB%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-notice,-notification-003",
-    "en": "notice, notification",
-    "ky": "кабар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "уведомление",
-    "senses": [
-      "notice, notification"
-    ],
-    "pronunciation": "/qaˈβar/",
-    "etymology": "Borrowed from Arabic خَبَر (ḵabar). Cognate with Karachay-Balkar хапар (xapar), Azerbaijani xəbər, Bashkir хәбәр (xəbər), Kazakh хабар (xabar), Khakas хабар (xabar), Kumyk хабар (xabar), Nogai хабар (xabar), Ottoman Turkish خبر (haber), Shor қабар, Tatar хәбәр (xäbär), Turkmen habar, Uyghur خەۋەر (xewer), Uzbek xabar, Chuvash хыпар (hyp̬ar), etc.",
-    "frequency": 815,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-notice,-notification-004",
     "en": "notice, notification",
     "ky": "билдирме",
     "pos": "noun",
@@ -9542,32 +5238,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B4%D0%B8%D1%80%D0%BC%D0%B5"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-032",
-    "en": "nominative/accusative plural",
-    "ky": "чана",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нарты",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 5,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-нарт-001",
-    "en": "nominative plural of нарт",
-    "ky": "чана",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "нарты",
-    "senses": [
-      "nominative plural of нарт (nart)"
-    ],
-    "frequency": 5,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BD%D0%B0"
-  },
-  {
     "id": "en-ky-number;-numeric,-numerical-001",
     "en": "number; numeric, numerical",
     "ky": "сандык",
@@ -9580,32 +5250,6 @@
     ],
     "frequency": 97,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-narrow-part-of-an-object-001",
-    "en": "narrow part of an object",
-    "ky": "куйрук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шейка",
-    "senses": [
-      "narrow part of an object"
-    ],
-    "etymology": "From Proto-Turkic *kudruk (“tail”). Cognate with Old Turkic 𐰴𐰆𐰑𐰺𐰆𐰸 (qudruq, “tail”), Turkish kuyruk (“tail”).",
-    "frequency": 386,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B9%D1%80%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-narrow-part-of-an-object-002",
-    "en": "narrow part of an object",
-    "ky": "дүм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шейка",
-    "senses": [
-      "narrow part of an object"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D2%AF%D0%BC"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-нару́чник-001",
@@ -9671,57 +5315,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BC%D1%83%D0%BD"
   },
   {
-    "id": "en-ky-nominative-plural-011",
-    "en": "nominative plural",
-    "ky": "кулаккап",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наушники",
-    "senses": [
-      "nominative plural"
-    ],
-    "pronunciation": "/qulaqˈqap/",
-    "etymology": "кулак (kulak) + кап (kap).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D0%BA%D0%B0%D0%BF"
-  },
-  {
-    "id": "en-ky-nominative-plural-012",
-    "en": "nominative plural",
-    "ky": "кулакчын",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "наушники",
-    "senses": [
-      "nominative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D1%87%D1%8B%D0%BD"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-отбро́с-001",
-    "en": "nominative/accusative plural of отбро́с",
-    "ky": "таштанды",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "отбросы",
-    "senses": [
-      "nominative/accusative plural of отбро́с (otbrós)"
-    ],
-    "frequency": 27,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%B4%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-отбро́с-002",
-    "en": "nominative/accusative plural of отбро́с",
-    "ky": "шыпырынды",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "отбросы",
-    "senses": [
-      "nominative/accusative plural of отбро́с (otbrós)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF%D1%8B%D1%80%D1%8B%D0%BD%D0%B4%D1%8B"
-  },
-  {
     "id": "en-ky-nagaika-001",
     "en": "nagaika",
     "ky": "камчы",
@@ -9748,42 +5341,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%B1%D1%8B%D1%80%D1%82%D0%BA%D1%8B"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-033",
-    "en": "nominative/accusative plural",
-    "ky": "карта оюну",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "карты",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BE%D1%8E%D0%BD%D1%83"
-  },
-  {
-    "id": "en-ky-naive-001",
-    "en": "naive",
-    "ky": "күнөөсүз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "невинный",
-    "senses": [
-      "naive"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D3%A9%D3%A9%D1%81%D2%AF%D0%B7"
-  },
-  {
-    "id": "en-ky-naive-002",
-    "en": "naive",
-    "ky": "айыпсыз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "невинный",
-    "senses": [
-      "naive"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BF%D1%81%D1%8B%D0%B7"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-за́морозок-001",
     "en": "nominative/accusative plural of за́морозок",
     "ky": "аяз",
@@ -9808,60 +5365,6 @@
     ],
     "frequency": 210,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-national-006",
-    "en": "national",
-    "ky": "гражданин",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданный",
-    "senses": [
-      "national (a person owing allegiance to a state)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD"
-  },
-  {
-    "id": "en-ky-national-007",
-    "en": "national",
-    "ky": "жаран",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданный",
-    "senses": [
-      "national (a person owing allegiance to a state)"
-    ],
-    "pronunciation": "/d͡ʒɑrɑn/",
-    "etymology": "From жара- (jara-, “to suit, to be beneficial”).",
-    "frequency": 1185,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-national-008",
-    "en": "national",
-    "ky": "атуул",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданный",
-    "senses": [
-      "national (a person owing allegiance to a state)"
-    ],
-    "frequency": 16,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%83%D1%83%D0%BB"
-  },
-  {
-    "id": "en-ky-national-009",
-    "en": "national",
-    "ky": "ээ",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "подданный",
-    "senses": [
-      "national (a person owing allegiance to a state)"
-    ],
-    "etymology": "From Proto-Turkic *idi (“host”).",
-    "frequency": 1442,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%8D"
   },
   {
     "id": "en-ky-non-governmental-001",
@@ -9917,18 +5420,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%88%D0%B0%D0%BA"
   },
   {
-    "id": "en-ky-nose-piece-001",
-    "en": "nose-piece",
-    "ky": "суу аткыч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "брандспойт",
-    "senses": [
-      "nose-piece"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%20%D0%B0%D1%82%D0%BA%D1%8B%D1%87"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-лист-001",
     "en": "nominative/accusative plural of лист",
     "ky": "жалбырак",
@@ -9954,18 +5445,6 @@
     ],
     "frequency": 7,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%81%D0%BA%D0%B0%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-034",
-    "en": "nominative/accusative plural",
-    "ky": "мемуарлар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "воспоминания",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BC%D1%83%D0%B0%D1%80%D0%BB%D0%B0%D1%80"
   },
   {
     "id": "en-ky-nominative-plural-of-америка́нец-001",
@@ -10020,31 +5499,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D2%A3%D0%B3%D1%83"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-035",
-    "en": "nominative/accusative plural",
-    "ky": "багаж",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сумки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-036",
-    "en": "nominative/accusative plural",
-    "ky": "жүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сумки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 329,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BA"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-оста́ток-001",
     "en": "nominative/accusative plural of оста́ток",
     "ky": "калдык",
@@ -10056,30 +5510,6 @@
     ],
     "frequency": 61,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-037",
-    "en": "nominative/accusative plural",
-    "ky": "сатып алуу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "покупки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D1%8B%D0%BF%20%D0%B0%D0%BB%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-038",
-    "en": "nominative/accusative plural",
-    "ky": "мелочи",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "мелочи",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BB%D0%BE%D1%87%D0%B8"
   },
   {
     "id": "en-ky-nominative-plural-of-внук-001",
@@ -10104,82 +5534,6 @@
       "nominative plural of внук (vnuk)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B1%D0%B8%D1%80%D0%B5"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-са́хар-001",
-    "en": "nominative/accusative plural of са́хар",
-    "ky": "Сакар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сахара",
-    "senses": [
-      "nominative/accusative plural of са́хар (sáxar)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%B0%D0%BA%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-039",
-    "en": "nominative/accusative plural",
-    "ky": "саты",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ступеньки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-040",
-    "en": "nominative/accusative plural",
-    "ky": "тепкич",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ступеньки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "pronunciation": "/tepˈkit͡ʃ/",
-    "etymology": "From теп- (tep-) + -кич (-kic). Compare to Southern Altai тепкиш (tepkiš, “ladder, stair, staircase”), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BF%D0%BA%D0%B8%D1%87"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-041",
-    "en": "nominative/accusative plural",
-    "ky": "киреше",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "поступления",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 299,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%B5%D1%88%D0%B5"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-042",
-    "en": "nominative/accusative plural",
-    "ky": "доход",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "поступления",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D1%85%D0%BE%D0%B4"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-043",
-    "en": "nominative/accusative plural",
-    "ky": "Кашкар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каши",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 62,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%88%D0%BA%D0%B0%D1%80"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-фрукт-001",
@@ -10209,18 +5563,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D0%BC%D3%A9"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-044",
-    "en": "nominative/accusative plural",
-    "ky": "Шахты",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шахты",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%8B"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-пустя́к-001",
     "en": "nominative/accusative plural of пустя́к",
     "ky": "мелочи",
@@ -10243,58 +5585,6 @@
       "nominative plural of пожа́рный (požárnyj)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D1%82%20%D3%A9%D1%87%D2%AF%D1%80%D2%AF%D2%AF%D1%87%D2%AF%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-045",
-    "en": "nominative/accusative plural",
-    "ky": "ача",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "червы",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-nominative-plural-013",
-    "en": "nominative plural",
-    "ky": "деңиз балыры",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "водоросли",
-    "senses": [
-      "nominative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BB%D1%8B%D1%80%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-of-скачо́к-001",
-    "en": "nominative/accusative plural of скачо́к",
-    "ky": "байге",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "скачки",
-    "senses": [
-      "nominative/accusative plural of скачо́к (skačók)"
-    ],
-    "etymology": "From Proto-Turkic *bay-ga (“horse race; the prize at such race”).",
-    "frequency": 141,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9%D0%B3%D0%B5"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-046",
-    "en": "nominative/accusative plural",
-    "ky": "байге",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "скачки",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "etymology": "From Proto-Turkic *bay-ga (“horse race; the prize at such race”).",
-    "frequency": 141,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9%D0%B3%D0%B5"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-трофе́й-001",
@@ -10323,20 +5613,6 @@
     "etymology": "Compare to Southern Altai одын (odïn), etc.",
     "frequency": 45,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82%D1%83%D0%BD"
-  },
-  {
-    "id": "en-ky-nominative-plural-014",
-    "en": "nominative plural",
-    "ky": "бит",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вши",
-    "senses": [
-      "nominative plural"
-    ],
-    "etymology": "From Proto-Turkic *bït, Compare to Southern Altai бийт (biyt), Kazakh бит (bit), etc.",
-    "frequency": 74,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%82"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-зада́ток-001",
@@ -10417,43 +5693,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC%D0%B4%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-noctuid,-owlet-moth-001",
-    "en": "noctuid, owlet moth",
-    "ky": "Оруссия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "совка",
-    "senses": [
-      "noctuid, owlet moth"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-noctuid,-owlet-moth-002",
-    "en": "noctuid, owlet moth",
-    "ky": "Россия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "совка",
-    "senses": [
-      "noctuid, owlet moth"
-    ],
-    "frequency": 333,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-noctuid,-owlet-moth-003",
-    "en": "noctuid, owlet moth",
-    "ky": "Советтер Союз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "совка",
-    "senses": [
-      "noctuid, owlet moth"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%82%D0%B5%D1%80%20%D0%A1%D0%BE%D1%8E%D0%B7"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-боево́й-припа́с-001",
     "en": "nominative/accusative plural of боево́й припа́с",
     "ky": "ок-дары",
@@ -10502,18 +5741,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D0%B7.%D1%88%D1%8B%D0%BC"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-047",
-    "en": "nominative/accusative plural",
-    "ky": "боулинг",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кегли",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%83%D0%BB%D0%B8%D0%BD%D0%B3"
-  },
-  {
     "id": "en-ky-nominative/accusative-plural-of-полово́й-о́рган-001",
     "en": "nominative/accusative plural of полово́й о́рган",
     "ky": "жыныс органы",
@@ -10524,86 +5751,6 @@
       "nominative/accusative plural of полово́й о́рган (polovój órgan)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BD%D1%8B%D1%81%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B"
-  },
-  {
-    "id": "en-ky-nominative-plural-015",
-    "en": "nominative plural",
-    "ky": "орус",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "русские",
-    "senses": [
-      "nominative plural"
-    ],
-    "pronunciation": "/oˈrus/",
-    "frequency": 1003,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%83%D1%81"
-  },
-  {
-    "id": "en-ky-nominative-plural-016",
-    "en": "nominative plural",
-    "ky": "ورۇس",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "русские",
-    "senses": [
-      "nominative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D9%88%D8%B1%DB%87%D8%B3"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-ру́сская-001",
-    "en": "nominative plural of ру́сская",
-    "ky": "орус",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "русские",
-    "senses": [
-      "nominative plural of ру́сская (rússkaja)"
-    ],
-    "pronunciation": "/oˈrus/",
-    "frequency": 1003,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%83%D1%81"
-  },
-  {
-    "id": "en-ky-nominative-plural-of-ру́сская-002",
-    "en": "nominative plural of ру́сская",
-    "ky": "ورۇس",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "русские",
-    "senses": [
-      "nominative plural of ру́сская (rússkaja)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D9%88%D8%B1%DB%87%D8%B3"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-048",
-    "en": "nominative/accusative plural",
-    "ky": "төш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сиськи",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "etymology": "From Proto-Turkic *tȫĺ (“breast”), compare Southern Altai тӧш (töš), Bashkir түш (tüş), Kumyk тёш (töş), Azerbaijani döş, Yakut түөс (tüös).",
-    "frequency": 179,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D3%A9%D1%88"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-049",
-    "en": "nominative/accusative plural",
-    "ky": "көкүрөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сиськи",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "etymology": "From Proto-Turkic *kögüŕ (“chest”). Compare Turkish göğüs, Chuvash кӑкӑр (kăk̬ăr).",
-    "frequency": 323,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%D2%AF%D1%80%D3%A9%D0%BA"
   },
   {
     "id": "en-ky-nominative/accusative-plural-of-субти́тр-001",
@@ -10717,19 +5864,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%90%D0%AD"
   },
   {
-    "id": "en-ky-national,-nationwide-001",
-    "en": "national, nationwide",
-    "ky": "коомдук",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "всенародный",
-    "senses": [
-      "national, nationwide"
-    ],
-    "frequency": 761,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BC%D0%B4%D1%83%D0%BA"
-  },
-  {
     "id": "en-ky-never-ever-(followed-by-не-(ne))-001",
     "en": "never ever (followed by не (ne))",
     "ky": "дайыма",
@@ -10791,18 +5925,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D0%B9%D1%8B%D0%BC"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-of-выходно́й-001",
-    "en": "nominative/accusative plural of выходно́й",
-    "ky": "демалыш күндөрү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "выходные",
-    "senses": [
-      "nominative/accusative plural of выходно́й (vyxodnój)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%D0%B0%D0%BB%D1%8B%D1%88%20%D0%BA%D2%AF%D0%BD%D0%B4%D3%A9%D1%80%D2%AF"
-  },
-  {
     "id": "en-ky-nucleotide-001",
     "en": "nucleotide",
     "ky": "нуклеотид",
@@ -10837,45 +5959,6 @@
       "nominative/accusative plural of пле́чико (pléčiko)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%BC%D0%B5"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-050",
-    "en": "nominative/accusative plural",
-    "ky": "телекоммуникация",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "телекоммуникации",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "frequency": 10,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-051",
-    "en": "nominative/accusative plural",
-    "ky": "чердак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "антресоли",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B4%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-nominative/accusative-plural-052",
-    "en": "nominative/accusative plural",
-    "ky": "чатыр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "антресоли",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "etymology": "From Proto-Turkic *čātïr. Cognate to Southern Altai чадыр (čadïr) / чатыр (čatïr) / шатыр (šatïr), Kazakh шатыр (şatyr), Karaim čatyr / čadyr, catyr, Kumyk чатыр (çatır), Tatar чатыр (çatır), Bashkir сатыр (satır), etc.",
-    "frequency": 119,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80"
   },
   {
     "id": "en-ky-nonchalance-001",
@@ -10966,18 +6049,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD%D0%B4%D0%B8"
   },
   {
-    "id": "en-ky-nominative/accusative-plural-053",
-    "en": "nominative/accusative plural",
-    "ky": "жүктөө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бутсы",
-    "senses": [
-      "nominative/accusative plural"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BA%D1%82%D3%A9%D3%A9"
-  },
-  {
     "id": "en-ky-nonportable-001",
     "en": "nonportable",
     "ky": "чыдагыс",
@@ -11000,71 +6071,6 @@
       "nonportable"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%B4%D0%B0%D0%B9%20%D0%B0%D0%BB%D0%B3%D1%8B"
-  },
-  {
-    "id": "en-ky-name-for-anglo-saxon-and-germanic-pfennigs-001",
-    "en": "name for Anglo-Saxon and Germanic pfennigs",
-    "ky": "акча",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пенязь",
-    "senses": [
-      "name for Anglo-Saxon and Germanic pfennigs"
-    ],
-    "pronunciation": "/ɑqˈtʃɑ/",
-    "etymology": "From Old Turkic [script needed] (*aqča, “money, coin”). Cognate with\nTatar акча (aqça),\nBashkir аҡса (aqsa),\nKazakh ақша (aqşa),\nSouthern Altai акча (akča),\nKumyk акъча (aqça),\nKarachay-Balkar ахча (axça),\nCrimean Tatar aqça,\nKhakas ахча (axça),\nShor ақча,\nTuvan акша (akşa, “money”),\nChuvash укҫа (ukśa, “coin”), etc.",
-    "frequency": 214,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-name-for-anglo-saxon-and-germanic-pfennigs-002",
-    "en": "name for Anglo-Saxon and Germanic pfennigs",
-    "ky": "пул",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пенязь",
-    "senses": [
-      "name for Anglo-Saxon and Germanic pfennigs"
-    ],
-    "frequency": 842,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB"
-  },
-  {
-    "id": "en-ky-name-for-anglo-saxon-and-germanic-pfennigs-003",
-    "en": "name for Anglo-Saxon and Germanic pfennigs",
-    "ky": "монета",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пенязь",
-    "senses": [
-      "name for Anglo-Saxon and Germanic pfennigs"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B0"
-  },
-  {
-    "id": "en-ky-name-for-anglo-saxon-and-germanic-pfennigs-004",
-    "en": "name for Anglo-Saxon and Germanic pfennigs",
-    "ky": "жетон",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пенязь",
-    "senses": [
-      "name for Anglo-Saxon and Germanic pfennigs"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%82%D0%BE%D0%BD"
-  },
-  {
-    "id": "en-ky-not-useless,-needed,-necessary-001",
-    "en": "not useless, needed, necessary",
-    "ky": "пайдалуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "нелишний",
-    "senses": [
-      "not useless, needed, necessary"
-    ],
-    "frequency": 99,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB%D1%83%D1%83"
   },
   {
     "id": "en-ky-novelist,-fiction-writer-001",

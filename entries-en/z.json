@@ -254,61 +254,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B0%D2%A3%D1%8B-%D3%A8%D0%B7%D3%A9%D0%BD"
   },
   {
-    "id": "en-ky-zone,-region-001",
-    "en": "zone, region",
-    "ky": "кур",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пояс",
-    "senses": [
-      "zone, region"
-    ],
-    "etymology": "From Proto-Turkic *kur (“belt”). Compare Southern Altai кур (kur).",
-    "frequency": 1467,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80"
-  },
-  {
-    "id": "en-ky-zone,-region-002",
-    "en": "zone, region",
-    "ky": "кемер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пояс",
-    "senses": [
-      "zone, region"
-    ],
-    "frequency": 27,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-zone,-region-003",
-    "en": "zone, region",
-    "ky": "илгич",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пояс",
-    "senses": [
-      "zone, region"
-    ],
-    "pronunciation": "/iɫˈɡit͡ʃ/",
-    "etymology": "From илүү (ilüü) + -гич (-gic). Cognate to Southern Altai илгиш (ilgiš), etc.",
-    "frequency": 8,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
-  },
-  {
-    "id": "en-ky-zone,-region-004",
-    "en": "zone, region",
-    "ky": "кайыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пояс",
-    "senses": [
-      "zone, region"
-    ],
-    "etymology": "From Proto-Common Turkic *kadï-.\nCognate with\nOld Turkic [script needed] (qaðïš, “belt”);\nKazakh қайыс (qaiys, “rawhide”);\nBashkir ҡайыш (qayış, “belt”),\nSouthern Altai кайыш (kayïš, “belt”)\nUzbek qayish (“belt”),\nKhakas хаас (xaas, “belt”),\nYakut хатыс (qatïs, “leather strap/belt”),\netc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D1%88"
-  },
-  {
     "id": "en-ky-zebra-crossing-001",
     "en": "zebra crossing",
     "ky": "зебра",
@@ -319,47 +264,6 @@
       "zebra crossing (a pedestrian crosswalk)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B5%D0%B1%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-zvezda-001",
-    "en": "Zvezda",
-    "ky": "жылдыз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "звезда",
-    "senses": [
-      "Zvezda (module of the International Space Station)"
-    ],
-    "pronunciation": "/d͡ʒɯɫˈdɯz/",
-    "etymology": "From Proto-Turkic *yulduŕ (“star”).",
-    "frequency": 240,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%B7"
-  },
-  {
-    "id": "en-ky-zvezda-002",
-    "en": "Zvezda",
-    "ky": "жылдызча",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "звезда",
-    "senses": [
-      "Zvezda (module of the International Space Station)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%B7%D1%87%D0%B0"
-  },
-  {
-    "id": "en-ky-zvezda-003",
-    "en": "Zvezda",
-    "ky": "жөргөмүш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "звезда",
-    "senses": [
-      "Zvezda (module of the International Space Station)"
-    ],
-    "etymology": "From Proto-Turkic *ȫr-. Cognate to Southern Altai јӧргӧмӧш (ǰörgömöš), etc.",
-    "frequency": 6,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D1%80%D0%B3%D3%A9%D0%BC%D2%AF%D1%88"
   },
   {
     "id": "en-ky-zürich-001",
@@ -426,18 +330,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D1%8B%D0%BC%D0%BF%D0%B5%D0%BB"
   },
   {
-    "id": "en-ky-zero-002",
-    "en": "zero",
-    "ky": "нөлүнчү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "нулевой",
-    "senses": [
-      "zero"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D3%A9%D0%BB%D2%AF%D0%BD%D1%87%D2%AF"
-  },
-  {
     "id": "en-ky-zander,-pike-perch-001",
     "en": "zander, pike-perch",
     "ky": "Судак",
@@ -451,21 +343,6 @@
   },
   {
     "id": "en-ky-zipper,-zip,-zip-fastener-001",
-    "en": "zipper, zip, zip fastener",
-    "ky": "чагылган",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "молния",
-    "senses": [
-      "zipper, zip, zip fastener"
-    ],
-    "pronunciation": "/t͡ʃɑʁɯɫˈʁɑn/",
-    "etymology": "Borrowed from Mongolian цахилгаан (caxilgaan, “lightning”).",
-    "frequency": 11,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%B3%D1%8B%D0%BB%D0%B3%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-zipper,-zip,-zip-fastener-002",
     "en": "zipper, zip, zip fastener",
     "ky": "молния",
     "pos": "noun",
@@ -501,33 +378,6 @@
     ],
     "frequency": 51,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-zarya-001",
-    "en": "Zarya",
-    "ky": "таң",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "заря",
-    "senses": [
-      "Zarya (module of the International Space Station)"
-    ],
-    "pronunciation": "/tɑŋ/",
-    "etymology": "From Proto-Common Turkic *taŋ.",
-    "frequency": 835,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D2%A3"
-  },
-  {
-    "id": "en-ky-zarya-002",
-    "en": "Zarya",
-    "ky": "күн чыгышы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "заря",
-    "senses": [
-      "Zarya (module of the International Space Station)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%20%D1%87%D1%8B%D0%B3%D1%8B%D1%88%D1%8B"
   },
   {
     "id": "en-ky-zipper,-zip-fastener-001",

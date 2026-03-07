@@ -78,19 +78,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B0%D0%B9%D0%B4%D1%8B%D0%BB%D0%B4%D0%B0%20%D0%91%D0%B0%D0%B7%D0%B0%D1%80"
   },
   {
-    "id": "en-ky-xhosa-001",
-    "en": "Xhosa",
-    "ky": "чалгы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "коса",
-    "senses": [
-      "Xhosa"
-    ],
-    "etymology": "From Proto-Turkic *čal-.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BB%D0%B3%D1%8B"
-  },
-  {
     "id": "en-ky-xenon-001",
     "en": "xenon",
     "ky": "ксенон",

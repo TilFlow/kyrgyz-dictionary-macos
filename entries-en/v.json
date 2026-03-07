@@ -1700,34 +1700,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F"
   },
   {
-    "id": "en-ky-view,-opinion-001",
-    "en": "view, opinion",
-    "ky": "көз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "глаз",
-    "senses": [
-      "view, opinion"
-    ],
-    "pronunciation": "/køz/",
-    "etymology": "From Proto-Turkic *köŕ (“eye”).",
-    "frequency": 6166,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7"
-  },
-  {
-    "id": "en-ky-view,-opinion-002",
-    "en": "view, opinion",
-    "ky": "көрүү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "глаз",
-    "senses": [
-      "view, opinion"
-    ],
-    "frequency": 21,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D2%AF%D2%AF"
-  },
-  {
     "id": "en-ky-veinlet-001",
     "en": "veinlet",
     "ky": "вена",
@@ -1752,65 +1724,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%20%D0%BA%D0%B0%D0%BD%20%D1%82%D0%B0%D0%BC%D1%8B%D1%80%D1%8B"
   },
   {
-    "id": "en-ky-vixen,-female-fox-001",
-    "en": "vixen, female fox",
-    "ky": "түлкү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лиса",
-    "senses": [
-      "vixen, female fox"
-    ],
-    "pronunciation": "/tyɫˈky/",
-    "etymology": "Inherited from Proto-Turkic *tilkü.",
-    "frequency": 302,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BB%D0%BA%D2%AF"
-  },
-  {
-    "id": "en-ky-value-003",
-    "en": "value",
-    "ky": "баа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "цена",
-    "senses": [
-      "value"
-    ],
-    "pronunciation": "/bɑː/",
-    "etymology": "From Classical Persian بَها (bahā). Cognate with Kazakh баға (bağa), Southern Altai баа (baa), Karachay-Balkar багъа (bağa), Kumyk багьа (baha), Tatar бәя (bäyä), Azerbaijani baha, Turkish paha, Turkmen baha, Uzbek baho, Uyghur باھا (baha),\nShor паа, etc.",
-    "frequency": 641,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0"
-  },
-  {
-    "id": "en-ky-value-004",
-    "en": "value",
-    "ky": "нарк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "цена",
-    "senses": [
-      "value"
-    ],
-    "frequency": 160,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%BA"
-  },
-  {
     "id": "en-ky-vocabulary,-glossary-001",
-    "en": "vocabulary, glossary",
-    "ky": "сөздүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "словарь",
-    "senses": [
-      "vocabulary, glossary"
-    ],
-    "pronunciation": "/søzˈdyk/",
-    "etymology": "From сөз (söz, “word”) + -дүк (-dük, noun-forming suffix).",
-    "frequency": 25,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D0%B7%D0%B4%D2%AF%D0%BA"
-  },
-  {
-    "id": "en-ky-vocabulary,-glossary-002",
     "en": "vocabulary, glossary",
     "ky": "сөздүкчө",
     "pos": "noun",
@@ -1822,7 +1736,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D0%B7%D0%B4%D2%AF%D0%BA%D1%87%D3%A9"
   },
   {
-    "id": "en-ky-vocabulary,-glossary-003",
+    "id": "en-ky-vocabulary,-glossary-002",
     "en": "vocabulary, glossary",
     "ky": "сөзкурам",
     "pos": "noun",
@@ -1836,58 +1750,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D0%B7%D0%BA%D1%83%D1%80%D0%B0%D0%BC"
   },
   {
-    "id": "en-ky-vehicle-001",
-    "en": "vehicle",
-    "ky": "автомобиль",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "автомобиль",
-    "senses": [
-      "vehicle"
-    ],
-    "frequency": 66,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C"
-  },
-  {
-    "id": "en-ky-vehicle-002",
-    "en": "vehicle",
-    "ky": "машина",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "автомобиль",
-    "senses": [
-      "vehicle"
-    ],
-    "frequency": 104,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-vehicle-003",
-    "en": "vehicle",
-    "ky": "автомашина",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "автомобиль",
-    "senses": [
-      "vehicle"
-    ],
-    "frequency": 24,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-vehicle-004",
-    "en": "vehicle",
-    "ky": "унаа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "автомобиль",
-    "senses": [
-      "vehicle"
-    ],
-    "frequency": 91,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D0%B0%D0%B0"
-  },
-  {
     "id": "en-ky-vale,-dale-001",
     "en": "vale, dale",
     "ky": "өрөөн",
@@ -1899,254 +1761,6 @@
     ],
     "frequency": 68,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D3%A9%D3%A9%D0%BD"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-001",
-    "en": "vigorous, vivacious",
-    "ky": "ойготуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%B3%D0%BE%D1%82%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-002",
-    "en": "vigorous, vivacious",
-    "ky": "сезимин козгоо",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B7%D0%B8%D0%BC%D0%B8%D0%BD%20%D0%BA%D0%BE%D0%B7%D0%B3%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-003",
-    "en": "vigorous, vivacious",
-    "ky": "ойгонуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%B3%D0%BE%D0%BD%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-004",
-    "en": "vigorous, vivacious",
-    "ky": "козголуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B7%D0%B3%D0%BE%D0%BB%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-005",
-    "en": "vigorous, vivacious",
-    "ky": "жандануу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B4%D0%B0%D0%BD%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-006",
-    "en": "vigorous, vivacious",
-    "ky": "баамдоо",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BC%D0%B4%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-007",
-    "en": "vigorous, vivacious",
-    "ky": "түшүнүү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D2%AF%D2%AF"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-008",
-    "en": "vigorous, vivacious",
-    "ky": "ойгоо",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%B3%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-009",
-    "en": "vigorous, vivacious",
-    "ky": "уктабаган",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%82%D0%B0%D0%B1%D0%B0%D0%B3%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-010",
-    "en": "vigorous, vivacious",
-    "ky": "уйкусуз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "etymology": "уйку (uyku) + -суз (-suz)",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B9%D0%BA%D1%83%D1%81%D1%83%D0%B7"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-011",
-    "en": "vigorous, vivacious",
-    "ky": "түшүнүүчү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D2%AF%D0%BD%D2%AF%D2%AF%D1%87%D2%AF"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-012",
-    "en": "vigorous, vivacious",
-    "ky": "сак",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "frequency": 177,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-013",
-    "en": "vigorous, vivacious",
-    "ky": "абайлагыч",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%B9%D0%BB%D0%B0%D0%B3%D1%8B%D1%87"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-014",
-    "en": "vigorous, vivacious",
-    "ky": "этият",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "frequency": 35,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D1%8F%D1%82"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-015",
-    "en": "vigorous, vivacious",
-    "ky": "этияттуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%82%D0%B8%D1%8F%D1%82%D1%82%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-016",
-    "en": "vigorous, vivacious",
-    "ky": "акырын",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "frequency": 996,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D1%80%D1%8B%D0%BD"
-  },
-  {
-    "id": "en-ky-vigorous,-vivacious-017",
-    "en": "vigorous, vivacious",
-    "ky": "тың",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бодрый",
-    "senses": [
-      "vigorous, vivacious"
-    ],
-    "pronunciation": "/tɯŋ/",
-    "frequency": 51,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D2%A3"
-  },
-  {
-    "id": "en-ky-vintage-001",
-    "en": "vintage",
-    "ky": "жүзүм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "виноград",
-    "senses": [
-      "vintage"
-    ],
-    "frequency": 3,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%B7%D2%AF%D0%BC"
-  },
-  {
-    "id": "en-ky-vine-001",
-    "en": "vine",
-    "ky": "жүзүм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "виноград",
-    "senses": [
-      "vine"
-    ],
-    "frequency": 3,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%B7%D2%AF%D0%BC"
-  },
-  {
-    "id": "en-ky-vienna-002",
-    "en": "Vienna",
-    "ky": "көк кан тамыры",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Вена",
-    "senses": [
-      "Vienna (the capital and largest city of Austria)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%20%D0%BA%D0%B0%D0%BD%20%D1%82%D0%B0%D0%BC%D1%8B%D1%80%D1%8B"
   },
   {
     "id": "en-ky-verandah-001",
@@ -2186,61 +1800,8 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD%D0%B4%D2%AF%D2%AF"
   },
   {
-    "id": "en-ky-voice-004",
-    "en": "voice",
-    "ky": "вотум",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "голос",
-    "senses": [
-      "voice"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D1%82%D1%83%D0%BC"
-  },
-  {
     "id": "en-ky-voice,-word,-remark,-opinion-001",
     "en": "voice, word, remark, opinion",
-    "ky": "үн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "голос",
-    "senses": [
-      "voice, word, remark, opinion"
-    ],
-    "pronunciation": "/yn/",
-    "etymology": "From Proto-Turkic *ǖn (“voice, sound”). Southern Altai ӱн (ün), etc.",
-    "frequency": 1390,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD"
-  },
-  {
-    "id": "en-ky-voice,-word,-remark,-opinion-002",
-    "en": "voice, word, remark, opinion",
-    "ky": "добуш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "голос",
-    "senses": [
-      "voice, word, remark, opinion"
-    ],
-    "etymology": "Compare to Southern Altai табыш (tabïš), Bashkir тауыш (tawış), etc.",
-    "frequency": 1923,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88"
-  },
-  {
-    "id": "en-ky-voice,-word,-remark,-opinion-003",
-    "en": "voice, word, remark, opinion",
-    "ky": "вотум",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "голос",
-    "senses": [
-      "voice, word, remark, opinion"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D1%82%D1%83%D0%BC"
-  },
-  {
-    "id": "en-ky-voice,-word,-remark,-opinion-004",
-    "en": "voice, word, remark, opinion",
     "ky": "мамиле",
     "pos": "noun",
     "source": "pivot-ru",
@@ -2252,75 +1813,6 @@
     "etymology": "From Arabic مُعَامَلَة (muʕāmala)",
     "frequency": 513,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%B8%D0%BB%D0%B5"
-  },
-  {
-    "id": "en-ky-vote-004",
-    "en": "vote",
-    "ky": "үн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "голос",
-    "senses": [
-      "vote"
-    ],
-    "pronunciation": "/yn/",
-    "etymology": "From Proto-Turkic *ǖn (“voice, sound”). Southern Altai ӱн (ün), etc.",
-    "frequency": 1390,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD"
-  },
-  {
-    "id": "en-ky-vote-005",
-    "en": "vote",
-    "ky": "мамиле",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "голос",
-    "senses": [
-      "vote"
-    ],
-    "pronunciation": "/maˈmiˈle/",
-    "etymology": "From Arabic مُعَامَلَة (muʕāmala)",
-    "frequency": 513,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%B8%D0%BB%D0%B5"
-  },
-  {
-    "id": "en-ky-vase-002",
-    "en": "vase",
-    "ky": "табак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ваза",
-    "senses": [
-      "vase"
-    ],
-    "etymology": "From Arabic طَبَق (ṭabaq, “plate”). Cognate with Bashkir табаҡ (tabaq, “bowl”), Southern Altai табак (tabak, “plate”), Uzbek tovoq (“bowl”), etc.",
-    "frequency": 89,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-vase-003",
-    "en": "vase",
-    "ky": "чөйчөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ваза",
-    "senses": [
-      "vase"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D0%B9%D1%87%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-vase-004",
-    "en": "vase",
-    "ky": "чыны",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ваза",
-    "senses": [
-      "vase"
-    ],
-    "frequency": 22,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D1%8B"
   },
   {
     "id": "en-ky-very-small-fruit,-tubers,-etc.-001",
@@ -2350,44 +1842,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B8%D0%BA%D1%83%D0%BB"
   },
   {
-    "id": "en-ky-vacation-(u.s.),-holiday-002",
-    "en": "vacation (U.S.), holiday",
-    "ky": "отпуск",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каникулы",
-    "senses": [
-      "vacation (U.S.), holiday (UK)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82%D0%BF%D1%83%D1%81%D0%BA"
-  },
-  {
-    "id": "en-ky-vacation-(u.s.),-holiday-003",
-    "en": "vacation (U.S.), holiday",
-    "ky": "дем алыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "каникулы",
-    "senses": [
-      "vacation (U.S.), holiday (UK)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%20%D0%B0%D0%BB%D1%8B%D1%88"
-  },
-  {
     "id": "en-ky-very,-really,-much,-very-much-001",
-    "en": "very, really, much, very much",
-    "ky": "абдан",
-    "pos": "adv",
-    "source": "pivot-ru",
-    "ruPivot": "очень",
-    "senses": [
-      "very, really, much, very much"
-    ],
-    "frequency": 337,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B4%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-very,-really,-much,-very-much-002",
     "en": "very, really, much, very much",
     "ky": "өтө",
     "pos": "adv",
@@ -2398,59 +1853,6 @@
     ],
     "frequency": 596,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%82%D3%A9"
-  },
-  {
-    "id": "en-ky-verse-002",
-    "en": "verse",
-    "ky": "ыр",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стих",
-    "senses": [
-      "verse"
-    ],
-    "pronunciation": "/ɯr/",
-    "etymology": "From Proto-Turkic *yïr (“song”).",
-    "frequency": 591,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%80"
-  },
-  {
-    "id": "en-ky-verse-003",
-    "en": "verse",
-    "ky": "казал",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стих",
-    "senses": [
-      "verse"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB"
-  },
-  {
-    "id": "en-ky-verse-004",
-    "en": "verse",
-    "ky": "поэма",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стих",
-    "senses": [
-      "verse"
-    ],
-    "frequency": 54,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%8D%D0%BC%D0%B0"
-  },
-  {
-    "id": "en-ky-verse-005",
-    "en": "verse",
-    "ky": "өлөң",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "стих",
-    "senses": [
-      "verse"
-    ],
-    "etymology": "Cognates with Kazakh өлең (öleñ)",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D3%A9%D2%A3"
   },
   {
     "id": "en-ky-voting,-poll,-polling-001",
@@ -2501,151 +1903,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88%D0%BA%D0%B0%20%D0%BA%D0%BE%D1%8E%D1%83"
   },
   {
-    "id": "en-ky-velocity-001",
-    "en": "velocity",
-    "ky": "тездик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "скорость",
-    "senses": [
-      "velocity"
-    ],
-    "frequency": 21,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B7%D0%B4%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-velocity-002",
-    "en": "velocity",
-    "ky": "ылдамдык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "скорость",
-    "senses": [
-      "velocity"
-    ],
-    "frequency": 31,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B4%D0%B0%D0%BC%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-vestige,-particle,-atom,-hint-001",
-    "en": "vestige, particle, atom, hint",
-    "ky": "көлөкө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "тень",
-    "senses": [
-      "vestige, particle, atom, hint"
-    ],
-    "etymology": "Inherited from Proto-Turkic *köl- (“shadow, shade”). Cognate with Bashkir күләгә (küləgə) and Tuvan хөлеге (xölege, “shadow, shade”).",
-    "frequency": 119,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BA%D3%A9"
-  },
-  {
-    "id": "en-ky-verdant,-lush-with-vegetation-001",
-    "en": "verdant, lush with vegetation",
-    "ky": "жашыл",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "зелёный",
-    "senses": [
-      "verdant, lush with vegetation (of a place)"
-    ],
-    "frequency": 134,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-verdant,-lush-with-vegetation-002",
-    "en": "verdant, lush with vegetation",
-    "ky": "көк",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "зелёный",
-    "senses": [
-      "verdant, lush with vegetation (of a place)"
-    ],
-    "pronunciation": "/køk/",
-    "etymology": "From Proto-Turkic *kȫk",
-    "frequency": 2119,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-vacuum-tube-001",
-    "en": "vacuum tube",
-    "ky": "лампа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лампа",
-    "senses": [
-      "vacuum tube"
-    ],
-    "frequency": 2,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0"
-  },
-  {
-    "id": "en-ky-vacuum-tube-002",
-    "en": "vacuum tube",
-    "ky": "чырак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лампа",
-    "senses": [
-      "vacuum tube"
-    ],
-    "frequency": 106,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-vacuum-tube-003",
-    "en": "vacuum tube",
-    "ky": "лампочка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лампа",
-    "senses": [
-      "vacuum tube"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-vacuum-tube-004",
-    "en": "vacuum tube",
-    "ky": "шам",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лампа",
-    "senses": [
-      "vacuum tube"
-    ],
-    "pronunciation": "/ʂɑm/",
-    "etymology": "From Persian شمع (šam'), from Arabic شَمْع (šamʕ, “candle”).",
-    "frequency": 62,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC"
-  },
-  {
-    "id": "en-ky-vacuum-tube-005",
-    "en": "vacuum tube",
-    "ky": "факел",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лампа",
-    "senses": [
-      "vacuum tube"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D0%BA%D0%B5%D0%BB"
-  },
-  {
-    "id": "en-ky-vacuum-tube-006",
-    "en": "vacuum tube",
-    "ky": "шамана",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "лампа",
-    "senses": [
-      "vacuum tube"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0"
-  },
-  {
     "id": "en-ky-vaseline-001",
     "en": "vaseline",
     "ky": "вазелин",
@@ -2656,18 +1913,6 @@
       "vaseline"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%B7%D0%B5%D0%BB%D0%B8%D0%BD"
-  },
-  {
-    "id": "en-ky-virus-002",
-    "en": "virus",
-    "ky": "вирустук",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "вирусный",
-    "senses": [
-      "virus"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%D1%83%D0%BA"
   },
   {
     "id": "en-ky-viral-001",
@@ -2682,18 +1927,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%82%D1%83%D0%BA"
   },
   {
-    "id": "en-ky-voyage,-trip-001",
-    "en": "voyage, trip",
-    "ky": "сүзүү",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "плавание",
-    "senses": [
-      "voyage, trip (by ship)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B7%D2%AF%D2%AF"
-  },
-  {
     "id": "en-ky-volgograd-001",
     "en": "Volgograd",
     "ky": "Волгоград",
@@ -2704,18 +1937,6 @@
       "Volgograd (an oblast in southwestern Russia)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4"
-  },
-  {
-    "id": "en-ky-vampire-bat-001",
-    "en": "vampire bat",
-    "ky": "вампир",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вампир",
-    "senses": [
-      "vampire bat"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BC%D0%BF%D0%B8%D1%80"
   },
   {
     "id": "en-ky-vyborg-001",
@@ -2730,142 +1951,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3"
   },
   {
-    "id": "en-ky-vigor-001",
-    "en": "vigor",
-    "ky": "күч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "vigor"
-    ],
-    "pronunciation": "/kyt͡ʃ/",
-    "etymology": "From Proto-Turkic *kǖč.",
-    "frequency": 2295,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87"
-  },
-  {
-    "id": "en-ky-vigor-002",
-    "en": "vigor",
-    "ky": "көлөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "vigor"
-    ],
-    "frequency": 197,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-vigor-003",
-    "en": "vigor",
-    "ky": "том",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "vigor"
-    ],
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BC"
-  },
-  {
-    "id": "en-ky-vigor-004",
-    "en": "vigor",
-    "ky": "энергия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "vigor"
-    ],
-    "frequency": 189,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-volume-003",
-    "en": "volume",
-    "ky": "күч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "volume"
-    ],
-    "pronunciation": "/kyt͡ʃ/",
-    "etymology": "From Proto-Turkic *kǖč.",
-    "frequency": 2295,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87"
-  },
-  {
-    "id": "en-ky-volume-004",
-    "en": "volume",
-    "ky": "энергия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сила",
-    "senses": [
-      "volume"
-    ],
-    "frequency": 189,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-volt-002",
-    "en": "volt",
-    "ky": "тегерек",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вольт",
-    "senses": [
-      "volt"
-    ],
-    "etymology": "From Proto-Turkic *teker, compare Turkish tekerlek (“wheel”), Southern Altai тегерик (tegerik, “circle, round”), Kumyk дёгерек (dögerek), Yakut төгүрүк (tögürük, “round”).",
-    "frequency": 176,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B3%D0%B5%D1%80%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-vitality-001",
-    "en": "vitality",
-    "ky": "энергия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "энергия",
-    "senses": [
-      "vitality"
-    ],
-    "frequency": 189,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-vent,-stop-001",
-    "en": "vent, stop",
-    "ky": "клапан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "клапан",
-    "senses": [
-      "vent, stop (of a musical instrument)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BB%D0%B0%D0%BF%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-vore-001",
-    "en": "vore",
-    "ky": "ууру",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вор",
-    "senses": [
-      "vore (sexual fetish)"
-    ],
-    "pronunciation": "/uːru/",
-    "etymology": "From an early Turkic *uğru, from Proto-Turkic *ogrï. Related to Kazakh ұры (ūry).",
-    "frequency": 231,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D1%80%D1%83"
-  },
-  {
     "id": "en-ky-vanadium-001",
     "en": "vanadium",
     "ky": "ванадий",
@@ -2878,7 +1963,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BD%D0%B0%D0%B4%D0%B8%D0%B9"
   },
   {
-    "id": "en-ky-view,-opinion-003",
+    "id": "en-ky-view,-opinion-001",
     "en": "view, opinion",
     "ky": "пикир",
     "pos": "noun",
@@ -2892,7 +1977,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B8%D0%BA%D0%B8%D1%80"
   },
   {
-    "id": "en-ky-view,-opinion-004",
+    "id": "en-ky-view,-opinion-002",
     "en": "view, opinion",
     "ky": "ой",
     "pos": "noun",
@@ -2904,43 +1989,6 @@
     "etymology": "From Proto-Turkic *ōj.",
     "frequency": 2479,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9"
-  },
-  {
-    "id": "en-ky-vivid,-memorizable-001",
-    "en": "vivid, memorizable",
-    "ky": "жарык",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "яркий",
-    "senses": [
-      "vivid, memorizable"
-    ],
-    "frequency": 457,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-vivid,-memorizable-002",
-    "en": "vivid, memorizable",
-    "ky": "жаркыраган",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "яркий",
-    "senses": [
-      "vivid, memorizable"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-vivid,-memorizable-003",
-    "en": "vivid, memorizable",
-    "ky": "жаркырап турган",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "яркий",
-    "senses": [
-      "vivid, memorizable"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0%D0%BF%20%D1%82%D1%83%D1%80%D0%B3%D0%B0%D0%BD"
   },
   {
     "id": "en-ky-vocalist,-singer-001",
@@ -2969,98 +2017,6 @@
     "etymology": "From noun ыр (song) + affix -чы. Compare to Tatar җырчы (cırçı), Shor ырчы.",
     "frequency": 123,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%80%D1%87%D1%8B"
-  },
-  {
-    "id": "en-ky-verity,-reality-001",
-    "en": "verity, reality",
-    "ky": "чындык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "истина",
-    "senses": [
-      "verity, reality"
-    ],
-    "frequency": 184,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-vein-003",
-    "en": "vein",
-    "ky": "сиңир",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "жила",
-    "senses": [
-      "vein"
-    ],
-    "etymology": "From Proto-Turkic *siŋir.",
-    "frequency": 47,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D2%A3%D0%B8%D1%80"
-  },
-  {
-    "id": "en-ky-vein-004",
-    "en": "vein",
-    "ky": "тарамыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "жила",
-    "senses": [
-      "vein"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D0%B0%D0%BC%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-violence,-force,-coercion-001",
-    "en": "violence, force, coercion",
-    "ky": "зомбулук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "насилие",
-    "senses": [
-      "violence, force, coercion"
-    ],
-    "pronunciation": "/zombuˈluq/",
-    "etymology": "From зомбу (zombu) + -лук (-luk)",
-    "frequency": 178,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BE%D0%BC%D0%B1%D1%83%D0%BB%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-violence,-force,-coercion-002",
-    "en": "violence, force, coercion",
-    "ky": "зордуктоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "насилие",
-    "senses": [
-      "violence, force, coercion"
-    ],
-    "frequency": 9,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BE%D1%80%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-violence,-force,-coercion-003",
-    "en": "violence, force, coercion",
-    "ky": "басымчалоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "насилие",
-    "senses": [
-      "violence, force, coercion"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D1%8B%D0%BC%D1%87%D0%B0%D0%BB%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-viennese-001",
-    "en": "Viennese",
-    "ky": "таажы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "венец",
-    "senses": [
-      "Viennese"
-    ],
-    "frequency": 57,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B0%D0%B6%D1%8B"
   },
   {
     "id": "en-ky-valuable,-precious,-costly,-dear-001",
@@ -3104,65 +2060,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB"
   },
   {
-    "id": "en-ky-virgin-land-001",
-    "en": "virgin land",
-    "ky": "мамиле",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "залог",
-    "senses": [
-      "virgin land (land that has never been plowed)"
-    ],
-    "pronunciation": "/maˈmiˈle/",
-    "etymology": "From Arabic مُعَامَلَة (muʕāmala)",
-    "frequency": 513,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%B8%D0%BB%D0%B5"
-  },
-  {
-    "id": "en-ky-virgin-land-002",
-    "en": "virgin land",
-    "ky": "үн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "залог",
-    "senses": [
-      "virgin land (land that has never been plowed)"
-    ],
-    "pronunciation": "/yn/",
-    "etymology": "From Proto-Turkic *ǖn (“voice, sound”). Southern Altai ӱн (ün), etc.",
-    "frequency": 1390,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BD"
-  },
-  {
-    "id": "en-ky-virgin-land-003",
-    "en": "virgin land",
-    "ky": "добуш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "залог",
-    "senses": [
-      "virgin land (land that has never been plowed)"
-    ],
-    "etymology": "Compare to Southern Altai табыш (tabïš), Bashkir тауыш (tawış), etc.",
-    "frequency": 1923,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88"
-  },
-  {
-    "id": "en-ky-vulture-001",
-    "en": "vulture",
-    "ky": "моюн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "гриф",
-    "senses": [
-      "vulture (bird)"
-    ],
-    "pronunciation": "/moˈjun/",
-    "etymology": "From Proto-Turkic *bōń.",
-    "frequency": 699,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD"
-  },
-  {
     "id": "en-ky-vacuum-001",
     "en": "vacuum",
     "ky": "вакуум",
@@ -3177,80 +2074,26 @@
   {
     "id": "en-ky-value,-importance,-worth-001",
     "en": "value, importance, worth",
-    "ky": "барк",
+    "ky": "баалуулук",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "ценность",
     "senses": [
       "value, importance, worth"
     ],
-    "frequency": 232,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D0%BA"
+    "pronunciation": "/baːˈluːˈluq/",
+    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
   },
   {
     "id": "en-ky-value,-importance,-worth-002",
     "en": "value, importance, worth",
-    "ky": "баалуулук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ценность",
-    "senses": [
-      "value, importance, worth"
-    ],
-    "pronunciation": "/baːˈluːˈluq/",
-    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-value,-importance,-worth-003",
-    "en": "value, importance, worth",
     "ky": "маани",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "ценность",
     "senses": [
       "value, importance, worth"
-    ],
-    "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
-    "frequency": 685,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8"
-  },
-  {
-    "id": "en-ky-valuable-002",
-    "en": "valuable",
-    "ky": "барк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ценность",
-    "senses": [
-      "valuable (often in plural)"
-    ],
-    "frequency": 232,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D0%BA"
-  },
-  {
-    "id": "en-ky-valuable-003",
-    "en": "valuable",
-    "ky": "баалуулук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ценность",
-    "senses": [
-      "valuable (often in plural)"
-    ],
-    "pronunciation": "/baːˈluːˈluq/",
-    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
-  },
-  {
-    "id": "en-ky-valuable-004",
-    "en": "valuable",
-    "ky": "маани",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ценность",
-    "senses": [
-      "valuable (often in plural)"
     ],
     "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
     "frequency": 685,
@@ -3281,18 +2124,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%80%D0%B8%D0%BC"
   },
   {
-    "id": "en-ky-vortex,-swirl-001",
-    "en": "vortex, swirl",
-    "ky": "куюн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вихрь",
-    "senses": [
-      "vortex, swirl"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%8E%D0%BD"
-  },
-  {
     "id": "en-ky-verbatim,-literally,-word-for-word-001",
     "en": "verbatim, literally, word for word",
     "ky": "сөзмө-сөз",
@@ -3306,84 +2137,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D0%B7%D0%BC%D3%A9-%D1%81%D3%A9%D0%B7"
   },
   {
-    "id": "en-ky-value-005",
-    "en": "value",
-    "ky": "өлчөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "величина",
-    "senses": [
-      "value"
-    ],
-    "frequency": 1124,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%87%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-value-006",
-    "en": "value",
-    "ky": "көлөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "величина",
-    "senses": [
-      "value"
-    ],
-    "frequency": 197,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-value-007",
-    "en": "value",
-    "ky": "сан",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "величина",
-    "senses": [
-      "value"
-    ],
-    "pronunciation": "/sɑn/",
-    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
-    "frequency": 1298,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-valve-002",
-    "en": "valve",
-    "ky": "кран",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кран",
-    "senses": [
-      "valve (a ball valve, a plug valve, or similar rotating device controlling flow through a pipe)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%80%D0%B0%D0%BD"
-  },
-  {
-    "id": "en-ky-valve-003",
-    "en": "valve",
-    "ky": "каркыра",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кран",
-    "senses": [
-      "valve (a ball valve, a plug valve, or similar rotating device controlling flow through a pipe)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%BA%D1%8B%D1%80%D0%B0"
-  },
-  {
-    "id": "en-ky-vertex,-apex-001",
-    "en": "vertex, apex",
-    "ky": "чоку",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вершина",
-    "senses": [
-      "vertex, apex"
-    ],
-    "frequency": 128,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D0%BA%D1%83"
-  },
-  {
     "id": "en-ky-violinist,-fiddler-001",
     "en": "violinist, fiddler",
     "ky": "скрипкачы",
@@ -3394,18 +2147,6 @@
       "violinist, fiddler (person who plays violin)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%B0%D1%87%D1%8B"
-  },
-  {
-    "id": "en-ky-verse-006",
-    "en": "verse",
-    "ky": "строфа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "строфа",
-    "senses": [
-      "verse"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0"
   },
   {
     "id": "en-ky-vodka,-usually-in-a-ukrainian-context.-001",
@@ -3447,70 +2188,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D1%8F%20%D0%BA%D3%A9%D0%BA"
   },
   {
-    "id": "en-ky-valuation,-appraisal,-feedback-001",
-    "en": "valuation, appraisal, feedback",
-    "ky": "баалоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "оценка",
-    "senses": [
-      "valuation, appraisal, feedback"
-    ],
-    "etymology": "From баа (baa, “price, value”) + -ла (-la, “verb-forming suffix”). Compare to Southern Altai баала- (baala-, “appraise, price, evaluate, estimate”), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-vodka-003",
-    "en": "vodka",
-    "ky": "газ",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "vodka"
-    ],
-    "frequency": 92,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B0%D0%B7"
-  },
-  {
-    "id": "en-ky-vodka-004",
-    "en": "vodka",
-    "ky": "буу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "vodka"
-    ],
-    "frequency": 485,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-vodka-005",
-    "en": "vodka",
-    "ky": "пар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "vodka"
-    ],
-    "frequency": 16,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-vodka-006",
-    "en": "vodka",
-    "ky": "табигый газ",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "газ",
-    "senses": [
-      "vodka"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D0%B3%D0%B0%D0%B7"
-  },
-  {
     "id": "en-ky-voronezh-001",
     "en": "Voronezh",
     "ky": "Воронеж",
@@ -3521,19 +2198,6 @@
       "Voronezh (an oblast of Russia)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6"
-  },
-  {
-    "id": "en-ky-version,-edition-001",
-    "en": "version, edition",
-    "ky": "редакция",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "редакция",
-    "senses": [
-      "version, edition"
-    ],
-    "frequency": 828,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-vologda-001",
@@ -3711,21 +2375,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82"
   },
   {
-    "id": "en-ky-vessel-004",
-    "en": "vessel",
-    "ky": "бак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "сосуд",
-    "senses": [
-      "vessel (container)"
-    ],
-    "pronunciation": "/bɑq/",
-    "etymology": "From Persian باغ (“garden”).",
-    "frequency": 1140,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA"
-  },
-  {
     "id": "en-ky-vietnamese-person-001",
     "en": "Vietnamese person",
     "ky": "вьетнамдык",
@@ -3752,20 +2401,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BD%D1%81%D0%B0%D0%BF"
   },
   {
-    "id": "en-ky-video-game-002",
-    "en": "video game",
-    "ky": "оюнчук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "игрушка",
-    "senses": [
-      "video game"
-    ],
-    "etymology": "From Proto-Turkic *oy- +-чук (-cuk).",
-    "frequency": 12,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD%D1%87%D1%83%D0%BA"
-  },
-  {
     "id": "en-ky-vegetarian-001",
     "en": "vegetarian",
     "ky": "вегетарианец",
@@ -3776,44 +2411,6 @@
       "vegetarian"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D0%B3%D0%B5%D1%82%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D0%B5%D1%86"
-  },
-  {
-    "id": "en-ky-voltage-002",
-    "en": "voltage",
-    "ky": "стресс",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "напряжение",
-    "senses": [
-      "voltage"
-    ],
-    "frequency": 4,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B5%D1%81%D1%81"
-  },
-  {
-    "id": "en-ky-village-004",
-    "en": "village",
-    "ky": "айыл",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "сельский",
-    "senses": [
-      "village"
-    ],
-    "frequency": 3328,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-village-005",
-    "en": "village",
-    "ky": "селолук",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "сельский",
-    "senses": [
-      "village"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BB%D0%BE%D0%BB%D1%83%D0%BA"
   },
   {
     "id": "en-ky-vaccination-001",
@@ -3840,33 +2437,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B4%D3%A9%D3%A9"
   },
   {
-    "id": "en-ky-vault-002",
-    "en": "vault",
-    "ky": "мүрзө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "склеп",
-    "senses": [
-      "vault (a secure, enclosed area)"
-    ],
-    "frequency": 19,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D1%80%D0%B7%D3%A9"
-  },
-  {
     "id": "en-ky-version,-revision,-edition-001",
-    "en": "version, revision, edition",
-    "ky": "вариант",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вариант",
-    "senses": [
-      "version, revision, edition (of a work)"
-    ],
-    "frequency": 141,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82"
-  },
-  {
-    "id": "en-ky-version,-revision,-edition-002",
     "en": "version, revision, edition",
     "ky": "версия",
     "pos": "noun",
@@ -3878,7 +2449,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F"
   },
   {
-    "id": "en-ky-version,-revision,-edition-003",
+    "id": "en-ky-version,-revision,-edition-002",
     "en": "version, revision, edition",
     "ky": "нуска",
     "pos": "noun",
@@ -3893,75 +2464,24 @@
   {
     "id": "en-ky-version,-idea-001",
     "en": "version, idea",
-    "ky": "вариант",
+    "ky": "версия",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "вариант",
     "senses": [
       "version, idea (personal take on a thing or concept)"
     ],
-    "frequency": 141,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-version,-idea-002",
     "en": "version, idea",
-    "ky": "версия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вариант",
-    "senses": [
-      "version, idea (personal take on a thing or concept)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-version,-idea-003",
-    "en": "version, idea",
     "ky": "нуска",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "вариант",
     "senses": [
       "version, idea (personal take on a thing or concept)"
-    ],
-    "frequency": 82,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D1%83%D1%81%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-variant-001",
-    "en": "variant",
-    "ky": "вариант",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вариант",
-    "senses": [
-      "variant"
-    ],
-    "frequency": 141,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82"
-  },
-  {
-    "id": "en-ky-variant-002",
-    "en": "variant",
-    "ky": "версия",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вариант",
-    "senses": [
-      "variant"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-variant-003",
-    "en": "variant",
-    "ky": "нуска",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вариант",
-    "senses": [
-      "variant"
     ],
     "frequency": 82,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D1%83%D1%81%D0%BA%D0%B0"
@@ -4065,54 +2585,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF%D1%8B%D1%80%D1%8B%D0%BD%D0%B4%D1%8B"
   },
   {
-    "id": "en-ky-vint-001",
-    "en": "vint",
-    "ky": "болт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "винт",
-    "senses": [
-      "vint (card game, variety of whist)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BB%D1%82"
-  },
-  {
-    "id": "en-ky-vint-002",
-    "en": "vint",
-    "ky": "шуруп",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "винт",
-    "senses": [
-      "vint (card game, variety of whist)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%83%D1%80%D1%83%D0%BF"
-  },
-  {
-    "id": "en-ky-vint-003",
-    "en": "vint",
-    "ky": "пропеллер",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "винт",
-    "senses": [
-      "vint (card game, variety of whist)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%BF%D0%B5%D0%BB%D0%BB%D0%B5%D1%80"
-  },
-  {
-    "id": "en-ky-viper,-snake-001",
-    "en": "viper, snake",
-    "ky": "ехидна",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ехидна",
-    "senses": [
-      "viper, snake"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B5%D1%85%D0%B8%D0%B4%D0%BD%D0%B0"
-  },
-  {
     "id": "en-ky-verbal-noun-of-нарека́ть-001",
     "en": "verbal noun of нарека́ть",
     "ky": "сөгүш",
@@ -4177,68 +2649,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%82%D3%A9"
   },
   {
-    "id": "en-ky-vesicle-001",
-    "en": "vesicle",
-    "ky": "раковина",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "раковина",
-    "senses": [
-      "vesicle"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-vesicle-002",
-    "en": "vesicle",
-    "ky": "кабык",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "раковина",
-    "senses": [
-      "vesicle"
-    ],
-    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
-    "frequency": 14,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-vesicle-003",
-    "en": "vesicle",
-    "ky": "умывальник",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "раковина",
-    "senses": [
-      "vesicle"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-vesicle-004",
-    "en": "vesicle",
-    "ky": "жуунгуч",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "раковина",
-    "senses": [
-      "vesicle"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D1%83%D0%BD%D0%B3%D1%83%D1%87"
-  },
-  {
-    "id": "en-ky-vesicle-005",
-    "en": "vesicle",
-    "ky": "умувальник",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "раковина",
-    "senses": [
-      "vesicle"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BC%D1%83%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA"
-  },
-  {
     "id": "en-ky-violet-002",
     "en": "violet",
     "ky": "алагүл",
@@ -4249,47 +2659,6 @@
       "violet"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B0%D0%B3%D2%AF%D0%BB"
-  },
-  {
-    "id": "en-ky-vain,-ungrounded-001",
-    "en": "vain, ungrounded",
-    "ky": "бош",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "пустой",
-    "senses": [
-      "vain, ungrounded"
-    ],
-    "etymology": "From Proto-Turkic *boĺ (“free, empty”).",
-    "frequency": 293,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%88"
-  },
-  {
-    "id": "en-ky-vain,-ungrounded-002",
-    "en": "vain, ungrounded",
-    "ky": "куру",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "пустой",
-    "senses": [
-      "vain, ungrounded"
-    ],
-    "frequency": 146,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83"
-  },
-  {
-    "id": "en-ky-vain,-ungrounded-003",
-    "en": "vain, ungrounded",
-    "ky": "тайыз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "пустой",
-    "senses": [
-      "vain, ungrounded"
-    ],
-    "etymology": "Compare to Southern Altai тайыс (tayïs), etc.",
-    "frequency": 16,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B9%D1%8B%D0%B7"
   },
   {
     "id": "en-ky-vindictive,-vengeful-001",
@@ -4362,49 +2731,6 @@
       "valiant, brave, courageous, gallant"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%82%D1%8B%D0%BC%D0%B4%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-very-old,-distant,-ancient-001",
-    "en": "very old, distant, ancient",
-    "ky": "сур",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "седой",
-    "senses": [
-      "very old, distant, ancient"
-    ],
-    "frequency": 112,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80"
-  },
-  {
-    "id": "en-ky-very-old,-distant,-ancient-002",
-    "en": "very old, distant, ancient",
-    "ky": "боз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "седой",
-    "senses": [
-      "very old, distant, ancient"
-    ],
-    "pronunciation": "/boz/",
-    "etymology": "From Proto-Turkic *boŕ.",
-    "frequency": 640,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B7"
-  },
-  {
-    "id": "en-ky-very-old,-distant,-ancient-003",
-    "en": "very old, distant, ancient",
-    "ky": "көк",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "седой",
-    "senses": [
-      "very old, distant, ancient"
-    ],
-    "pronunciation": "/køk/",
-    "etymology": "From Proto-Turkic *kȫk",
-    "frequency": 2119,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA"
   },
   {
     "id": "en-ky-vanity,-vainglory-001",
@@ -4518,46 +2844,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D2%A3%D0%BA%D2%AF%D1%80"
   },
   {
-    "id": "en-ky-volunteer-002",
-    "en": "volunteer",
-    "ky": "аңчы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "охотник",
-    "senses": [
-      "volunteer"
-    ],
-    "etymology": "Compare to Southern Altai аҥчы (aŋčï), Kazakh аңшы (añşy), etc.",
-    "frequency": 12,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%D1%87%D1%8B"
-  },
-  {
-    "id": "en-ky-volunteer-003",
-    "en": "volunteer",
-    "ky": "уучу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "охотник",
-    "senses": [
-      "volunteer"
-    ],
-    "etymology": "From Proto-Turkic *ābčï. Cognate to Southern Altai уучы (uučï), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%83%D1%87%D1%83"
-  },
-  {
-    "id": "en-ky-volunteer-004",
-    "en": "volunteer",
-    "ky": "мергенчи",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "охотник",
-    "senses": [
-      "volunteer"
-    ],
-    "etymology": "мерген (mergen) + -чи (-ci)",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D1%87%D0%B8"
-  },
-  {
     "id": "en-ky-vest,-waistcoat-001",
     "en": "vest, waistcoat",
     "ky": "желетке",
@@ -4581,30 +2867,6 @@
     ],
     "frequency": 146,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BA"
-  },
-  {
-    "id": "en-ky-valiant,-intrepid,-bold,-daring-001",
-    "en": "valiant, intrepid, bold, daring",
-    "ky": "акылдуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "лихой",
-    "senses": [
-      "valiant, intrepid, bold, daring"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BB%D0%B4%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-valiant,-intrepid,-bold,-daring-002",
-    "en": "valiant, intrepid, bold, daring",
-    "ky": "эстүү",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "лихой",
-    "senses": [
-      "valiant, intrepid, bold, daring"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D1%82%D2%AF%D2%AF"
   },
   {
     "id": "en-ky-vegetable-garden,-kitchen-garden-001",
@@ -4669,43 +2931,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D0%BE%D0%BA"
   },
   {
-    "id": "en-ky-vessel-005",
-    "en": "vessel",
-    "ky": "пенис",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "уд",
-    "senses": [
-      "vessel"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D0%BD%D0%B8%D1%81"
-  },
-  {
-    "id": "en-ky-vessel-006",
-    "en": "vessel",
-    "ky": "кол-аяк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "уд",
-    "senses": [
-      "vessel"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB-%D0%B0%D1%8F%D0%BA"
-  },
-  {
-    "id": "en-ky-vessel-007",
-    "en": "vessel",
-    "ky": "кайырмак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "уд",
-    "senses": [
-      "vessel"
-    ],
-    "frequency": 5,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D1%80%D0%BC%D0%B0%D0%BA"
-  },
-  {
     "id": "en-ky-vanillin-001",
     "en": "vanillin",
     "ky": "ванилин",
@@ -4716,21 +2941,6 @@
       "vanillin"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D0%BD"
-  },
-  {
-    "id": "en-ky-victim-of-a-rook-001",
-    "en": "victim of a rook",
-    "ky": "деңиз",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "понт",
-    "senses": [
-      "victim of a rook"
-    ],
-    "pronunciation": "/deˈŋiz/",
-    "etymology": "From Proto-Turkic *teŋiŕ.",
-    "frequency": 53,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7"
   },
   {
     "id": "en-ky-veal-001",
@@ -4755,50 +2965,6 @@
       "video game console"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D1%84%D0%B8%D0%BA%D1%81"
-  },
-  {
-    "id": "en-ky-vivid-001",
-    "en": "vivid",
-    "ky": "ысык",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "пылкий",
-    "senses": [
-      "vivid"
-    ],
-    "pronunciation": "/ɯˈsɯq/",
-    "etymology": "Cognate with Kazakh ыстық (ystyq), Uzbek issiq, Uyghur ئىسسىق (issiq).",
-    "frequency": 182,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-violent,-vehement-001",
-    "en": "violent, vehement",
-    "ky": "жылуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "страстный",
-    "senses": [
-      "violent, vehement"
-    ],
-    "etymology": "From Proto-Turkic *yïlïg.",
-    "frequency": 267,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D1%83%D1%83"
-  },
-  {
-    "id": "en-ky-very-003",
-    "en": "very",
-    "ky": "улуу",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "сущий",
-    "senses": [
-      "very"
-    ],
-    "pronunciation": "/uˈluː/",
-    "etymology": "From Proto-Turkic *ulug (“big, great, grown-up”).\nCognate with Bashkir оло (olo), Kazakh ұлы (ūly), Tatar олы (olı), Turkish ulu, Turkmen uly.",
-    "frequency": 597,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83%D1%83"
   },
   {
     "id": "en-ky-vain,-vainglorious,-conceited,-arrogant-001",
@@ -4877,7 +3043,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BA"
   },
   {
-    "id": "en-ky-vehicle-005",
+    "id": "en-ky-vehicle-001",
     "en": "vehicle",
     "ky": "транспорттук каражат",
     "pos": "noun",
@@ -4902,73 +3068,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
   },
   {
-    "id": "en-ky-volume,-capacity,-bulk-002",
-    "en": "volume, capacity, bulk",
-    "ky": "өлчөм",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "объём",
-    "senses": [
-      "volume, capacity, bulk"
-    ],
-    "frequency": 1124,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%87%D3%A9%D0%BC"
-  },
-  {
-    "id": "en-ky-video-clip-001",
-    "en": "video clip",
-    "ky": "табак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ролик",
-    "senses": [
-      "video clip"
-    ],
-    "etymology": "From Arabic طَبَق (ṭabaq, “plate”). Cognate with Bashkir табаҡ (tabaq, “bowl”), Southern Altai табак (tabak, “plate”), Uzbek tovoq (“bowl”), etc.",
-    "frequency": 89,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-video-clip-002",
-    "en": "video clip",
-    "ky": "чөйчөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ролик",
-    "senses": [
-      "video clip"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D0%B9%D1%87%D3%A9%D0%BA"
-  },
-  {
-    "id": "en-ky-video-clip-003",
-    "en": "video clip",
-    "ky": "чыны",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ролик",
-    "senses": [
-      "video clip"
-    ],
-    "frequency": 22,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D1%8B"
-  },
-  {
-    "id": "en-ky-vessel,-bottle-001",
-    "en": "vessel, bottle",
-    "ky": "бак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "ёмкость",
-    "senses": [
-      "vessel, bottle (anything that can hold liquid, usually of higher capacity)"
-    ],
-    "pronunciation": "/bɑq/",
-    "etymology": "From Persian باغ (“garden”).",
-    "frequency": 1140,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA"
-  },
-  {
     "id": "en-ky-volost,-district,-county-001",
     "en": "volost, district, county",
     "ky": "болуш",
@@ -4982,88 +3081,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BB%D1%83%D1%88"
   },
   {
-    "id": "en-ky-vietka,-vetka-001",
-    "en": "Vietka, Vetka",
-    "ky": "бутак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Ветка",
-    "senses": [
-      "Vietka, Vetka (a town in Belarus, near Gomel)"
-    ],
-    "etymology": "From Proto-Turkic *būtak.",
-    "frequency": 59,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-vietka,-vetka-002",
-    "en": "Vietka, Vetka",
-    "ky": "шак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Ветка",
-    "senses": [
-      "Vietka, Vetka (a town in Belarus, near Gomel)"
-    ],
-    "frequency": 99,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-vietka,-vetka-003",
-    "en": "Vietka, Vetka",
-    "ky": "тармак",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Ветка",
-    "senses": [
-      "Vietka, Vetka (a town in Belarus, near Gomel)"
-    ],
-    "etymology": "From *tarma, compare Yakut тарбах (tarbaq).",
-    "frequency": 602,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D0%BC%D0%B0%D0%BA"
-  },
-  {
-    "id": "en-ky-vietka,-vetka-004",
-    "en": "Vietka, Vetka",
-    "ky": "жип",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Ветка",
-    "senses": [
-      "Vietka, Vetka (a town in Belarus, near Gomel)"
-    ],
-    "etymology": "From Proto-Turkic *yïp.",
-    "frequency": 95,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BF"
-  },
-  {
-    "id": "en-ky-veil-002",
-    "en": "veil",
-    "ky": "көрпө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "покрывало",
-    "senses": [
-      "veil"
-    ],
-    "frequency": 43,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%BF%D3%A9"
-  },
-  {
-    "id": "en-ky-video-002",
-    "en": "video",
-    "ky": "видео",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "видео",
-    "senses": [
-      "video"
-    ],
-    "etymology": "Borrowed from Russian ви́део (vídeo).",
-    "frequency": 138,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE"
-  },
-  {
     "id": "en-ky-valency-001",
     "en": "valency",
     "ky": "валенттүүлүк",
@@ -5074,31 +3091,6 @@
       "valency"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D1%82%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
-  },
-  {
-    "id": "en-ky-vertical,-vertical-line-001",
-    "en": "vertical, vertical line",
-    "ky": "файл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вертикаль",
-    "senses": [
-      "vertical, vertical line"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D0%B9%D0%BB"
-  },
-  {
-    "id": "en-ky-vertical,-vertical-line-002",
-    "en": "vertical, vertical line",
-    "ky": "өгөө",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вертикаль",
-    "senses": [
-      "vertical, vertical line"
-    ],
-    "etymology": "From Proto-Turkic *ẹ̄ke- (“file”).\nCognate with Kazakh егеу (egeu),Southern Altai эгӱ (egü),\nUzbek egov, Tuvan эгээ (egee), Tatar игәү (igäw), Karachay-Balkar егеу (yegeu), Bashkir игәү (igəw), Kumyk эгев (egew), Uyghur ekek, Nogai эгев (égev),Yakut игии (igii), Turkish eğe (“file”), etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B3%D3%A9%D3%A9"
   },
   {
     "id": "en-ky-virology-001",
@@ -5166,32 +3158,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9"
   },
   {
-    "id": "en-ky-voyage,-trip-002",
-    "en": "voyage, trip",
-    "ky": "саякат",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вояж",
-    "senses": [
-      "voyage, trip (formal)"
-    ],
-    "frequency": 12,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D0%BA%D0%B0%D1%82"
-  },
-  {
-    "id": "en-ky-voyage,-trip-003",
-    "en": "voyage, trip",
-    "ky": "сапар",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "вояж",
-    "senses": [
-      "voyage, trip (formal)"
-    ],
-    "frequency": 278,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF%D0%B0%D1%80"
-  },
-  {
     "id": "en-ky-vital-activity-001",
     "en": "vital activity",
     "ky": "жашоо иш-аракети",
@@ -5254,18 +3220,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF"
   },
   {
-    "id": "en-ky-violator-001",
-    "en": "violator",
-    "ky": "зомбучул",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "насильник",
-    "senses": [
-      "violator"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%BE%D0%BC%D0%B1%D1%83%D1%87%D1%83%D0%BB"
-  },
-  {
     "id": "en-ky-vegetation,-verdure-001",
     "en": "vegetation, verdure",
     "ky": "чач",
@@ -5305,42 +3259,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%86%D0%B5%D0%BD%D0%B0"
   },
   {
-    "id": "en-ky-voskhod-001",
-    "en": "Voskhod",
-    "ky": "күн чыгышы",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "восход",
-    "senses": [
-      "Voskhod (Soviet spacecraft)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%20%D1%87%D1%8B%D0%B3%D1%8B%D1%88%D1%8B"
-  },
-  {
-    "id": "en-ky-voskhod-002",
-    "en": "Voskhod",
-    "ky": "чығыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "восход",
-    "senses": [
-      "Voskhod (Soviet spacecraft)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D2%93%D1%8B%D1%88"
-  },
-  {
-    "id": "en-ky-voskhod-003",
-    "en": "Voskhod",
-    "ky": "күн чығыш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "восход",
-    "senses": [
-      "Voskhod (Soviet spacecraft)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%20%D1%87%D1%8B%D2%93%D1%8B%D1%88"
-  },
-  {
     "id": "en-ky-virtual-001",
     "en": "virtual",
     "ky": "виртуалдык",
@@ -5351,19 +3269,6 @@
       "virtual"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-video-camera-002",
-    "en": "video camera",
-    "ky": "камера",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "видеокамера",
-    "senses": [
-      "video camera"
-    ],
-    "frequency": 18,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0"
   },
   {
     "id": "en-ky-voodoo-001",
@@ -5429,18 +3334,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD"
   },
   {
-    "id": "en-ky-vial,-flask,-bottle,-glass-002",
-    "en": "vial, flask, bottle, glass",
-    "ky": "банка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "склянка",
-    "senses": [
-      "vial, flask, bottle, glass (any kind of small glass vessel)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0"
-  },
-  {
     "id": "en-ky-veneer-sheet-001",
     "en": "veneer sheet",
     "ky": "коргошун",
@@ -5456,19 +3349,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B3%D0%BE%D1%88%D1%83%D0%BD"
   },
   {
-    "id": "en-ky-victim-003",
-    "en": "victim",
-    "ky": "жабырлануучу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "пострадавший",
-    "senses": [
-      "victim"
-    ],
-    "frequency": 387,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B1%D1%8B%D1%80%D0%BB%D0%B0%D0%BD%D1%83%D1%83%D1%87%D1%83"
-  },
-  {
     "id": "en-ky-veterinary-001",
     "en": "veterinary",
     "ky": "ветеринардык",
@@ -5479,18 +3359,6 @@
       "veterinary"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0%D1%80%D0%B4%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-very-pale,-pallid-001",
-    "en": "very pale, pallid",
-    "ky": "кансыз",
-    "pos": "adj",
-    "source": "pivot-ru",
-    "ruPivot": "бескровный",
-    "senses": [
-      "very pale, pallid"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%81%D1%8B%D0%B7"
   },
   {
     "id": "en-ky-vest-001",
@@ -5581,19 +3449,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BD%D1%8F"
   },
   {
-    "id": "en-ky-village,-hamlet,-a-small-settlement-004",
-    "en": "village, hamlet, a small settlement",
-    "ky": "кыштоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "кишлак",
-    "senses": [
-      "village, hamlet, a small settlement"
-    ],
-    "frequency": 10,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88%D1%82%D0%BE%D0%BE"
-  },
-  {
     "id": "en-ky-veil,-voile-001",
     "en": "veil, voile",
     "ky": "парда",
@@ -5605,30 +3460,6 @@
     ],
     "frequency": 5,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B4%D0%B0"
-  },
-  {
-    "id": "en-ky-vestige,-rudiment-001",
-    "en": "vestige, rudiment",
-    "ky": "эмбрион",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "зачаток",
-    "senses": [
-      "vestige, rudiment"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BD"
-  },
-  {
-    "id": "en-ky-vestige,-rudiment-002",
-    "en": "vestige, rudiment",
-    "ky": "түйүлдүк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "зачаток",
-    "senses": [
-      "vestige, rudiment"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B9%D2%AF%D0%BB%D0%B4%D2%AF%D0%BA"
   },
   {
     "id": "en-ky-video-film-001",
@@ -5660,55 +3491,6 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BD"
   },
   {
-    "id": "en-ky-van-002",
-    "en": "van",
-    "ky": "грузовик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "фура",
-    "senses": [
-      "van"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA"
-  },
-  {
-    "id": "en-ky-van-003",
-    "en": "van",
-    "ky": "жүк ташуучу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "фура",
-    "senses": [
-      "van"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BA%20%D1%82%D0%B0%D1%88%D1%83%D1%83%D1%87%D1%83"
-  },
-  {
-    "id": "en-ky-venality-001",
-    "en": "venality",
-    "ky": "коррупция",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "продажность",
-    "senses": [
-      "venality"
-    ],
-    "frequency": 169,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D1%8F"
-  },
-  {
-    "id": "en-ky-venality-002",
-    "en": "venality",
-    "ky": "жемкорлук",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "продажность",
-    "senses": [
-      "venality"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC%D0%BA%D0%BE%D1%80%D0%BB%D1%83%D0%BA"
-  },
-  {
     "id": "en-ky-variety-show,-vaudeville-001",
     "en": "variety show, vaudeville",
     "ky": "водевиль",
@@ -5719,19 +3501,6 @@
       "variety show, vaudeville"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%BB%D1%8C"
-  },
-  {
-    "id": "en-ky-vale-of-tears-001",
-    "en": "vale of tears",
-    "ky": "өрөөн",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "юдоль",
-    "senses": [
-      "vale of tears"
-    ],
-    "frequency": 68,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D3%A9%D3%A9%D0%BD"
   },
   {
     "id": "en-ky-villain;-an-evil-person-001",
@@ -5812,21 +3581,6 @@
   {
     "id": "en-ky-village,-hamlet-001",
     "en": "village, hamlet",
-    "ky": "айыл",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "деревня",
-    "senses": [
-      "village, hamlet"
-    ],
-    "pronunciation": "/ɑˈjɯɫ/",
-    "etymology": "From Proto-Turkic *āgïl, from Proto-Turkic *āg- (“to enclose”).",
-    "frequency": 3328,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%8B%D0%BB"
-  },
-  {
-    "id": "en-ky-village,-hamlet-002",
-    "en": "village, hamlet",
     "ky": "кыштак",
     "pos": "noun",
     "source": "pivot-ru",
@@ -5838,7 +3592,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88%D1%82%D0%B0%D0%BA"
   },
   {
-    "id": "en-ky-village,-hamlet-003",
+    "id": "en-ky-village,-hamlet-002",
     "en": "village, hamlet",
     "ky": "деревня",
     "pos": "noun",
@@ -5875,44 +3629,6 @@
       "vermilion (pigment, color)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%80"
-  },
-  {
-    "id": "en-ky-vodka-007",
-    "en": "vodka",
-    "ky": "Ак Эдил",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "белая",
-    "senses": [
-      "vodka"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%90%D0%BA%20%D0%AD%D0%B4%D0%B8%D0%BB"
-  },
-  {
-    "id": "en-ky-virgin-001",
-    "en": "virgin",
-    "ky": "чие",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "целка",
-    "senses": [
-      "virgin"
-    ],
-    "pronunciation": "/t͡ʃiˈje/",
-    "etymology": "Relate to Bashkir сейә (seyə), Kazakh шие (şie), Kumyk жие (jiye), Tatar чия (çiyä) etc.",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D0%B5"
-  },
-  {
-    "id": "en-ky-virgin-002",
-    "en": "virgin",
-    "ky": "алча",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "целка",
-    "senses": [
-      "virgin"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%87%D0%B0"
   },
   {
     "id": "en-ky-velociraptor-001",
@@ -5962,17 +3678,5 @@
     ],
     "frequency": 11,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D0%BA"
-  },
-  {
-    "id": "en-ky-vocative-singular-001",
-    "en": "vocative singular",
-    "ky": "Улуу Ата-Мекендик согуш",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "Вов",
-    "senses": [
-      "vocative singular"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A3%D0%BB%D1%83%D1%83%20%D0%90%D1%82%D0%B0-%D0%9C%D0%B5%D0%BA%D0%B5%D0%BD%D0%B4%D0%B8%D0%BA%20%D1%81%D0%BE%D0%B3%D1%83%D1%88"
   }
 ]
