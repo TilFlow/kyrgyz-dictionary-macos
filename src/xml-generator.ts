@@ -162,44 +162,48 @@ function scoreAndDedupTranslations(
   return result;
 }
 
-function collectIndexValues(entry: DictionaryEntry): Set<string> {
+function collectIndexValues(entry: DictionaryEntry, direction: DictDirection): Set<string> {
   const indices = new Set<string>();
-  indices.add(entry.ru);
-  indices.add(entry.ky);
 
-  if (entry.morphology?.forms) {
-    for (const value of Object.values(entry.morphology.forms)) {
-      indices.add(value);
-    }
-  }
-  if (entry.morphology?.pluralForms) {
-    for (const value of Object.values(entry.morphology.pluralForms)) {
-      indices.add(value);
-    }
-  }
+  if (direction === "ru-ky") {
+    // Only index Russian headwords
+    indices.add(entry.ru);
+  } else {
+    // ky-ru: index Kyrgyz headword + morphological forms
+    indices.add(entry.ky);
 
-  // Generate plural nominative + possessive + case forms at build time for indexing
-  if (entry.pos === "noun") {
-    const stem = classifyStem(entry.ky);
-    indices.add(generatePlural(entry.ky, stem));
-    for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
-      indices.add(form);
+    if (entry.morphology?.forms) {
+      for (const value of Object.values(entry.morphology.forms)) {
+        indices.add(value);
+      }
     }
-    for (const form of generateAttributiveForms(entry.ky, stem)) {
-      indices.add(form);
+    if (entry.morphology?.pluralForms) {
+      for (const value of Object.values(entry.morphology.pluralForms)) {
+        indices.add(value);
+      }
     }
-    for (const form of generatePluralCaseForms(entry.ky, stem)) {
-      indices.add(form);
-    }
-    for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) {
-      indices.add(form);
-    }
-  }
 
-  // Generate verb conjugation forms at build time for indexing
-  if (entry.pos === "verb") {
-    for (const form of generateVerbForms(entry.ky)) {
-      indices.add(form);
+    if (entry.pos === "noun") {
+      const stem = classifyStem(entry.ky);
+      indices.add(generatePlural(entry.ky, stem));
+      for (const form of generatePossessiveCaseForms(entry.ky, stem)) {
+        indices.add(form);
+      }
+      for (const form of generateAttributiveForms(entry.ky, stem)) {
+        indices.add(form);
+      }
+      for (const form of generatePluralCaseForms(entry.ky, stem)) {
+        indices.add(form);
+      }
+      for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) {
+        indices.add(form);
+      }
+    }
+
+    if (entry.pos === "verb") {
+      for (const form of generateVerbForms(entry.ky)) {
+        indices.add(form);
+      }
     }
   }
 
@@ -207,7 +211,7 @@ function collectIndexValues(entry: DictionaryEntry): Set<string> {
 }
 
 function generateIndexElements(entry: DictionaryEntry, direction: DictDirection = "ru-ky"): string {
-  const indices = collectIndexValues(entry);
+  const indices = collectIndexValues(entry, direction);
   const title = direction === "ky-ru" ? entry.ky : entry.ru;
   return Array.from(indices)
     .map((v) => `<d:index d:value="${escapeXml(v)}" d:title="${escapeXml(title)}"/>`)
@@ -477,7 +481,7 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
   // Collect all index values from all entries, deduplicating
   const allValues = new Set<string>();
   for (const entry of group) {
-    for (const v of collectIndexValues(entry)) {
+    for (const v of collectIndexValues(entry, direction)) {
       allValues.add(v);
     }
   }
