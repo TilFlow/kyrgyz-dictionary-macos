@@ -11,7 +11,8 @@
     "stats": "bun run scripts/stats.ts",
     "add": "bun run scripts/add.ts",
     "package": "bun run scripts/package.ts",
-    "update": "bun run scripts/update.ts"
+    "update": "bun run scripts/update.ts",
+    "audit": "bun run scripts/audit.ts"
   },
   "devDependencies": {
     "@types/bun": "latest",
