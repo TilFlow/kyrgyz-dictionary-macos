@@ -591,6 +591,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D1%87%D1%83%D0%BA%D0%BF%D0%BE%D0%BE"
   },
   {
+    "id": "en-ky-quiet,-still-003",
+    "en": "quiet, still",
+    "ky": "акырын",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "тихий",
+    "senses": [
+      "quiet, still"
+    ],
+    "frequency": 996,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D1%80%D1%8B%D0%BD"
+  },
+  {
+    "id": "en-ky-quiet,-still-004",
+    "en": "quiet, still",
+    "ky": "жай",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "тихий",
+    "senses": [
+      "quiet, still"
+    ],
+    "frequency": 2179,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B9"
+  },
+  {
     "id": "en-ky-quoin-001",
     "en": "quoin",
     "ky": "шынаа",
@@ -680,6 +706,59 @@
       "queen"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B4%D0%B0%D0%BC"
+  },
+  {
+    "id": "en-ky-question-005",
+    "en": "question",
+    "ky": "проблема",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вопрос",
+    "senses": [
+      "question"
+    ],
+    "frequency": 18,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-question-006",
+    "en": "question",
+    "ky": "көйгөй",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вопрос",
+    "senses": [
+      "question"
+    ],
+    "pronunciation": "[køjˈɡøj]",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B9%D0%B3%D3%A9%D0%B9"
+  },
+  {
+    "id": "en-ky-question-007",
+    "en": "question",
+    "ky": "маселе",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вопрос",
+    "senses": [
+      "question"
+    ],
+    "pronunciation": "[masʲeˈle]",
+    "etymology": "From Arabic مَسْأَلَة (masʔala).",
+    "frequency": 1704,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D0%B5%D0%BB%D0%B5"
+  },
+  {
+    "id": "en-ky-quantitative-001",
+    "en": "quantitative",
+    "ky": "түп-тамырынан",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "количественный",
+    "senses": [
+      "quantitative"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BF-%D1%82%D0%B0%D0%BC%D1%8B%D1%80%D1%8B%D0%BD%D0%B0%D0%BD"
   },
   {
     "id": "en-ky-quark,-cottage-cheese,-tvorog-001",
@@ -886,6 +965,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B7%D0%B5%D0%BA"
   },
   {
+    "id": "en-ky-queue,-line-002",
+    "en": "queue, line",
+    "ky": "фаза",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "очередь",
+    "senses": [
+      "queue, line"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D0%B7%D0%B0"
+  },
+  {
+    "id": "en-ky-queue,-line-003",
+    "en": "queue, line",
+    "ky": "баскыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "очередь",
+    "senses": [
+      "queue, line"
+    ],
+    "pronunciation": "/basˈqɯt͡ʃ/",
+    "etymology": "From бас- (bas-) + -кыч (-kıc). Compare to Southern Altai баскыш (baskïš), etc.",
+    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87"
+  },
+  {
     "id": "en-ky-quantity,-amount-001",
     "en": "quantity, amount",
     "ky": "өлчөм",
@@ -910,6 +1017,49 @@
     ],
     "frequency": 197,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
+  },
+  {
+    "id": "en-ky-quantity,-amount-003",
+    "en": "quantity, amount",
+    "ky": "сан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "величина",
+    "senses": [
+      "quantity, amount"
+    ],
+    "pronunciation": "/sɑn/",
+    "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
+    "frequency": 1298,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-quantity,-amount-004",
+    "en": "quantity, amount",
+    "ky": "баалуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "величина",
+    "senses": [
+      "quantity, amount"
+    ],
+    "pronunciation": "/baːˈluːˈluq/",
+    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-quantity,-amount-005",
+    "en": "quantity, amount",
+    "ky": "маани",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "величина",
+    "senses": [
+      "quantity, amount"
+    ],
+    "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
+    "frequency": 685,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8"
   },
   {
     "id": "en-ky-quantity-002",
@@ -938,6 +1088,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
   },
   {
+    "id": "en-ky-quantity-004",
+    "en": "quantity",
+    "ky": "баалуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "величина",
+    "senses": [
+      "quantity"
+    ],
+    "pronunciation": "/baːˈluːˈluq/",
+    "etymology": "From баа (baa) + -луу (-luu) + лук (luk).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-quantity-005",
+    "en": "quantity",
+    "ky": "маани",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "величина",
+    "senses": [
+      "quantity"
+    ],
+    "etymology": "Borrowed from Arabic مَعْنَى (maʕnā).",
+    "frequency": 685,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8"
+  },
+  {
     "id": "en-ky-quality-002",
     "en": "quality",
     "ky": "мүмкүнчүлүк",
@@ -949,6 +1127,76 @@
     ],
     "frequency": 557,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D1%87%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-quality-003",
+    "en": "quality",
+    "ky": "талант",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "способность",
+    "senses": [
+      "quality"
+    ],
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BB%D0%B0%D0%BD%D1%82"
+  },
+  {
+    "id": "en-ky-quality-004",
+    "en": "quality",
+    "ky": "бийлик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "способность",
+    "senses": [
+      "quality"
+    ],
+    "pronunciation": "/bijˈɫik/",
+    "etymology": "From бий (biy) + -лик (-lik). Cognate with Kazakh билік (bilık).",
+    "frequency": 993,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B9%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-quality-005",
+    "en": "quality",
+    "ky": "күч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "способность",
+    "senses": [
+      "quality"
+    ],
+    "pronunciation": "/kyt͡ʃ/",
+    "etymology": "From Proto-Turkic *kǖč.",
+    "frequency": 2295,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87"
+  },
+  {
+    "id": "en-ky-quality-006",
+    "en": "quality",
+    "ky": "энергия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "способность",
+    "senses": [
+      "quality"
+    ],
+    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-quality-007",
+    "en": "quality",
+    "ky": "факультет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "способность",
+    "senses": [
+      "quality"
+    ],
+    "etymology": "Borrowed from Russian факульте́т (fakulʹtét), from German Fakultät, from Latin facultas (“power, capability”).",
+    "frequency": 50,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82"
   },
   {
     "id": "en-ky-quill,-spine,-bristle-001",
@@ -1093,6 +1341,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20m%20%D0%BC%D0%B0%D0%B0%D0%BB%D0%B5%20m%20%D0%B0%D0%B9%D1%8B%D0%BB"
   },
   {
+    "id": "en-ky-quarter,-district-002",
+    "en": "quarter, district",
+    "ky": "чейрек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "квартал",
+    "senses": [
+      "quarter, district (of a city",
+      "in various expressions)"
+    ],
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%B9%D1%80%D0%B5%D0%BA"
+  },
+  {
     "id": "en-ky-quarrel-001",
     "en": "quarrel",
     "ky": "айтыш",
@@ -1194,6 +1456,31 @@
       "quantum"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B2%D0%B0%D0%BD%D1%82"
+  },
+  {
+    "id": "en-ky-quality,-grade-001",
+    "en": "quality, grade",
+    "ky": "марка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сорт",
+    "senses": [
+      "quality, grade"
+    ],
+    "frequency": 39,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%80%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-quality,-grade-002",
+    "en": "quality, grade",
+    "ky": "бренд",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сорт",
+    "senses": [
+      "quality, grade"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%80%D0%B5%D0%BD%D0%B4"
   },
   {
     "id": "en-ky-quarter,-fourth-001",
@@ -1387,6 +1674,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B7"
   },
   {
+    "id": "en-ky-quick-chess-game,-sudden-death-game-001",
+    "en": "quick chess game, sudden-death game",
+    "ky": "фонарча",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "блиц",
+    "senses": [
+      "quick chess game, sudden-death game"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BE%D0%BD%D0%B0%D1%80%D1%87%D0%B0"
+  },
+  {
+    "id": "en-ky-quick-chess-game,-sudden-death-game-002",
+    "en": "quick chess game, sudden-death game",
+    "ky": "колчырак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "блиц",
+    "senses": [
+      "quick chess game, sudden-death game"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%87%D1%8B%D1%80%D0%B0%D0%BA"
+  },
+  {
     "id": "en-ky-quick-witted,-astute,-clever-001",
     "en": "quick-witted, astute, clever",
     "ky": "курч",
@@ -1503,6 +1814,30 @@
     ],
     "frequency": 10,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88%D1%82%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-quit-rent-001",
+    "en": "quit-rent",
+    "ky": "эл каттоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ценз",
+    "senses": [
+      "quit-rent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%20%D0%BA%D0%B0%D1%82%D1%82%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-qualification,-restriction,-eligibility-criterion-001",
+    "en": "qualification, restriction, eligibility criterion",
+    "ky": "эл каттоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ценз",
+    "senses": [
+      "qualification, restriction, eligibility criterion (e.g. restriction on the right to vote, based on age, gender, education, possession of property, etc.)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%20%D0%BA%D0%B0%D1%82%D1%82%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-quack,-witch-doctor,-sangoma,-shaman-001",

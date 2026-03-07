@@ -51,6 +51,28 @@
     "id": "ru-заявление-001"
   },
   {
+    "ru": "звонок",
+    "ky": "чалуу",
+    "pos": "noun",
+    "senses": [
+      "звонок",
+      "вызов"
+    ],
+    "source": "manual",
+    "id": "ru-звонок-001"
+  },
+  {
+    "ru": "звонить",
+    "ky": "чалуу",
+    "pos": "verb",
+    "senses": [
+      "звонить",
+      "вызывать"
+    ],
+    "source": "manual",
+    "id": "ru-звонить-001"
+  },
+  {
     "ru": "змея",
     "ky": "жылан",
     "pos": "noun",
@@ -4312,7 +4334,7 @@
     "ruGender": "m",
     "frequency": 40,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D2%A3%D0%B3%D1%83%D1%80%D0%BE%D0%BE",
-    "id": "ru-звонок-001"
+    "id": "ru-звонок-002"
   },
   {
     "ru": "звонок",
@@ -4325,7 +4347,7 @@
     "ruAccented": "звоно'к",
     "ruGender": "m",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA",
-    "id": "ru-звонок-002"
+    "id": "ru-звонок-003"
   },
   {
     "ru": "заря",
@@ -5254,7 +5276,7 @@
     ],
     "ruAccented": "звони'ть",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D2%A3%D0%B3%D1%8B%D1%80%D0%B0%D1%82%D1%83%D1%83",
-    "id": "ru-звонить-001"
+    "id": "ru-звонить-002"
   },
   {
     "ru": "злокачественная опухоль",

@@ -5665,6 +5665,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%82"
   },
   {
+    "id": "en-ky-mongrel,-cur,-bastard-002",
+    "en": "mongrel, cur, bastard",
+    "ky": "түлкү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "собака",
+    "senses": [
+      "mongrel, cur, bastard (a detestable person)"
+    ],
+    "pronunciation": "/tyɫˈky/",
+    "etymology": "Inherited from Proto-Turkic *tilkü.",
+    "frequency": 302,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BB%D0%BA%D2%AF"
+  },
+  {
     "id": "en-ky-mayhem,-chaos,-disorder-001",
     "en": "mayhem, chaos, disorder",
     "ky": "погром",
@@ -5744,6 +5759,21 @@
     "etymology": "From Proto-Turkic *baĺč (“head”).",
     "frequency": 7780,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-mind;-brains-002",
+    "en": "mind; brains",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "голова",
+    "senses": [
+      "mind",
+      "brains"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
   },
   {
     "id": "en-ky-male-fox-001",
@@ -5965,6 +5995,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80"
   },
   {
+    "id": "en-ky-milksop,-old-woman-004",
+    "en": "milksop, old woman",
+    "ky": "кой",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баба",
+    "senses": [
+      "milksop, old woman (weak man)"
+    ],
+    "etymology": "From Proto-Turkic; cognate with Kazakh қой (qoi), Uzbek qoʻy, Azerbaijani qoyun, Turkmen goýun, Turkish koyun.",
+    "frequency": 6424,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B9"
+  },
+  {
+    "id": "en-ky-milksop,-old-woman-005",
+    "en": "milksop, old woman",
+    "ky": "кочкор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баба",
+    "senses": [
+      "milksop, old woman (weak man)"
+    ],
+    "frequency": 209,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%87%D0%BA%D0%BE%D1%80"
+  },
+  {
     "id": "en-ky-midst-001",
     "en": "midst",
     "ky": "шейшемби",
@@ -6140,6 +6197,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%87%D1%83%D1%80"
   },
   {
+    "id": "en-ky-mastodon-001",
+    "en": "mastodon",
+    "ky": "дөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мастодонт",
+    "senses": [
+      "mastodon"
+    ],
+    "frequency": 55,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-mastodon-002",
+    "en": "mastodon",
+    "ky": "алп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мастодонт",
+    "senses": [
+      "mastodon"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BF"
+  },
+  {
     "id": "en-ky-money-order-001",
     "en": "money order",
     "ky": "котормо",
@@ -6197,6 +6279,18 @@
     "etymology": "Ultimately from Arabic هَوَاء (hawāʔ).",
     "frequency": 456,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0"
+  },
+  {
+    "id": "en-ky-money-005",
+    "en": "money",
+    "ky": "ария",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "воздух",
+    "senses": [
+      "money"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-minor-planet-001",
@@ -6260,6 +6354,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B9%D0%BB%D3%A9%D3%A9"
   },
   {
+    "id": "en-ky-middle-002",
+    "en": "middle",
+    "ky": "борбордук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "средний",
+    "senses": [
+      "middle"
+    ],
+    "frequency": 1854,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-medium-004",
+    "en": "medium",
+    "ky": "борбордук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "средний",
+    "senses": [
+      "medium"
+    ],
+    "frequency": 1854,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-mean-001",
+    "en": "mean",
+    "ky": "борбордук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "средний",
+    "senses": [
+      "mean"
+    ],
+    "frequency": 1854,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-mare-002",
     "en": "mare",
     "ky": "деңиз",
@@ -6299,6 +6432,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9"
   },
   {
+    "id": "en-ky-mercury-preparation-as-used-in-medicine-002",
+    "en": "mercury preparation as used in medicine",
+    "ky": "сымап",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "меркурий",
+    "senses": [
+      "mercury preparation as used in medicine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BC%D0%B0%D0%BF"
+  },
+  {
     "id": "en-ky-matchbox-of-marijuana-001",
     "en": "matchbox of marijuana",
     "ky": "кеме",
@@ -6310,6 +6455,18 @@
     ],
     "frequency": 135,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-matchbox-of-marijuana-002",
+    "en": "matchbox of marijuana",
+    "ky": "согуштук кеме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "корабль",
+    "senses": [
+      "matchbox of marijuana"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B3%D1%83%D1%88%D1%82%D1%83%D0%BA%20%D0%BA%D0%B5%D0%BC%D0%B5"
   },
   {
     "id": "en-ky-means-001",
@@ -6526,33 +6683,46 @@
   {
     "id": "en-ky-mama,-mummy,-mommy,-mum,-mom-001",
     "en": "mama, mummy, mommy, mum, mom",
-    "ky": "эне",
+    "ky": "апа",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "мама",
     "senses": [
       "mama, mummy, mommy, mum, mom (mother)"
     ],
-    "pronunciation": "/eˈne/",
-    "etymology": "from Proto-Turkic *eńe (“mother”), a front vowel parallel to *ana (“mother”).\nCognate with Bashkir инәй (inəy, “mother; address to old woman”), Tatar әни (äni, “mother”), Southern Altai эне (ene, “mother”), Kazakh ене (ene, “mother-in-law”), Yakut ийе (iye, “mother”); Khakas иней (iney, “old woman”), etc.",
-    "frequency": 1030,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5"
+    "frequency": 162,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B0"
   },
   {
     "id": "en-ky-mama,-mummy,-mommy,-mum,-mom-002",
     "en": "mama, mummy, mommy, mum, mom",
-    "ky": "апа",
+    "ky": "эне",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "мама",
     "senses": [
       "mama, mummy, mommy, mum, mom (mother)"
     ],
+    "pronunciation": "/eˈne/",
+    "etymology": "from Proto-Turkic *eńe (“mother”), a front vowel parallel to *ana (“mother”).\nCognate with Bashkir инәй (inəy, “mother; address to old woman”), Tatar әни (äni, “mother”), Southern Altai эне (ene, “mother”), Kazakh ене (ene, “mother-in-law”), Yakut ийе (iye, “mother”); Khakas иней (iney, “old woman”), etc.",
+    "frequency": 1030,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5"
+  },
+  {
+    "id": "en-ky-motherboard-001",
+    "en": "motherboard",
+    "ky": "апа",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мама",
+    "senses": [
+      "motherboard"
+    ],
     "frequency": 162,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B0"
   },
   {
-    "id": "en-ky-motherboard-001",
+    "id": "en-ky-motherboard-002",
     "en": "motherboard",
     "ky": "эне",
     "pos": "noun",
@@ -6565,19 +6735,6 @@
     "etymology": "from Proto-Turkic *eńe (“mother”), a front vowel parallel to *ana (“mother”).\nCognate with Bashkir инәй (inəy, “mother; address to old woman”), Tatar әни (äni, “mother”), Southern Altai эне (ene, “mother”), Kazakh ене (ene, “mother-in-law”), Yakut ийе (iye, “mother”); Khakas иней (iney, “old woman”), etc.",
     "frequency": 1030,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5"
-  },
-  {
-    "id": "en-ky-motherboard-002",
-    "en": "motherboard",
-    "ky": "апа",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "мама",
-    "senses": [
-      "motherboard"
-    ],
-    "frequency": 162,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%B0"
   },
   {
     "id": "en-ky-monarchy,-kingship-001",
@@ -6864,6 +7021,171 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD"
   },
   {
+    "id": "en-ky-mind-005",
+    "en": "mind",
+    "ky": "дем алуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%20%D0%B0%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-mind-006",
+    "en": "mind",
+    "ky": "дем тартуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%20%D1%82%D0%B0%D1%80%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-mind-007",
+    "en": "mind",
+    "ky": "дем",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "frequency": 514,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC"
+  },
+  {
+    "id": "en-ky-mind-008",
+    "en": "mind",
+    "ky": "ичке дем тартуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%BA%D0%B5%20%D0%B4%D0%B5%D0%BC%20%D1%82%D0%B0%D1%80%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-mind-009",
+    "en": "mind",
+    "ky": "өмүр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "pronunciation": "/øˈmyr/",
+    "etymology": "Borrowed from Persian عمر ('omr), from Arabic عُمْر (ʕumr).",
+    "frequency": 727,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BC%D2%AF%D1%80"
+  },
+  {
+    "id": "en-ky-mind-010",
+    "en": "mind",
+    "ky": "тиричилик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "frequency": 93,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B8%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-mind-011",
+    "en": "mind",
+    "ky": "болмуш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BB%D0%BC%D1%83%D1%88"
+  },
+  {
+    "id": "en-ky-mind-012",
+    "en": "mind",
+    "ky": "жашоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-mind-013",
+    "en": "mind",
+    "ky": "турмуш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "frequency": 389,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%80%D0%BC%D1%83%D1%88"
+  },
+  {
+    "id": "en-ky-mind-014",
+    "en": "mind",
+    "ky": "желдөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B4%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-mind-015",
+    "en": "mind",
+    "ky": "кайрат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "etymology": "From Classical Persian غیرت (ġayrat)",
+    "frequency": 263,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-mind-016",
+    "en": "mind",
+    "ky": "кайраттуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0%D1%82%D1%82%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-mind-017",
+    "en": "mind",
+    "ky": "жүрөктүүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "mind"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D3%A9%D0%BA%D1%82%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
     "id": "en-ky-modern-002",
     "en": "modern",
     "ky": "жаңы",
@@ -6879,7 +7201,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B"
   },
   {
-    "id": "en-ky-mind-005",
+    "id": "en-ky-mind-018",
     "en": "mind",
     "ky": "эс",
     "pos": "noun",
@@ -6893,7 +7215,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81"
   },
   {
-    "id": "en-ky-mind-006",
+    "id": "en-ky-mind-019",
     "en": "mind",
     "ky": "интеллект",
     "pos": "noun",
@@ -6904,6 +7226,21 @@
     ],
     "frequency": 2,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82"
+  },
+  {
+    "id": "en-ky-mind-020",
+    "en": "mind",
+    "ky": "себеп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ум",
+    "senses": [
+      "mind"
+    ],
+    "pronunciation": "/seˈbep/",
+    "etymology": "From Arabic سَبَب (sabab, “cause; reason”).\nCognate with Azerbaijani səbəb,\nBashkir сәбәп (səbəp), Crimean Tatar sebep, Georgian საბაბი (sababi),\nIndonesian sebab, Kazakh себеп (sebep),\nTajik сабаб (sabab), Tatar сәбәп (säbäp),\nTurkish sebep, Turkmen sebäp,\nUyghur سەۋەب (seweb), Urdu سبب (sabab),\nUzbek sabab, etc.",
+    "frequency": 392,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D0%B5%D0%BF"
   },
   {
     "id": "en-ky-male-socket-001",
@@ -6971,6 +7308,46 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D0%B5"
   },
   {
+    "id": "en-ky-male-socket-006",
+    "en": "male socket",
+    "ky": "аш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "папа",
+    "senses": [
+      "male socket"
+    ],
+    "frequency": 1758,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-male-socket-007",
+    "en": "male socket",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "папа",
+    "senses": [
+      "male socket"
+    ],
+    "pronunciation": "[tɑˈmɑq]",
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "frequency": 429,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-male-socket-008",
+    "en": "male socket",
+    "ky": "тамак-аш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "папа",
+    "senses": [
+      "male socket"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA-%D0%B0%D1%88"
+  },
+  {
     "id": "en-ky-manner,-custom,-discipline-001",
     "en": "manner, custom, discipline",
     "ky": "мүнөз",
@@ -6982,6 +7359,43 @@
     ],
     "frequency": 409,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BD%D3%A9%D0%B7"
+  },
+  {
+    "id": "en-ky-manner,-custom,-discipline-002",
+    "en": "manner, custom, discipline",
+    "ky": "бажы алымы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "нрав",
+    "senses": [
+      "manner, custom, discipline"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B6%D1%8B%20%D0%B0%D0%BB%D1%8B%D0%BC%D1%8B"
+  },
+  {
+    "id": "en-ky-manner,-custom,-discipline-003",
+    "en": "manner, custom, discipline",
+    "ky": "бажы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "нрав",
+    "senses": [
+      "manner, custom, discipline"
+    ],
+    "frequency": 282,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B6%D1%8B"
+  },
+  {
+    "id": "en-ky-manner,-custom,-discipline-004",
+    "en": "manner, custom, discipline",
+    "ky": "пошлина",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "нрав",
+    "senses": [
+      "manner, custom, discipline"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%88%D0%BB%D0%B8%D0%BD%D0%B0"
   },
   {
     "id": "en-ky-middle-of-nowhere,-bumfuck-001",
@@ -7011,7 +7425,35 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
   },
   {
+    "id": "en-ky-middle-003",
+    "en": "middle",
+    "ky": "шаршемби",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "середа",
+    "senses": [
+      "middle"
+    ],
+    "pronunciation": "/ʂɑrʃemˈbi/",
+    "etymology": "From Persian چهارشنبه (čahâr-šanbe).",
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80%D1%88%D0%B5%D0%BC%D0%B1%D0%B8"
+  },
+  {
     "id": "en-ky-mode,-manner,-way-001",
+    "en": "mode, manner, way",
+    "ky": "образ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "mode, manner, way"
+    ],
+    "frequency": 50,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-mode,-manner,-way-002",
     "en": "mode, manner, way",
     "ky": "сүрөт",
     "pos": "noun",
@@ -7024,7 +7466,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D1%80%D3%A9%D1%82"
   },
   {
-    "id": "en-ky-mode,-manner,-way-002",
+    "id": "en-ky-mode,-manner,-way-003",
     "en": "mode, manner, way",
     "ky": "икона",
     "pos": "noun",
@@ -7036,17 +7478,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0"
   },
   {
-    "id": "en-ky-mode,-manner,-way-003",
+    "id": "en-ky-mode,-manner,-way-004",
     "en": "mode, manner, way",
-    "ky": "образ",
+    "ky": "тип",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "образ",
     "senses": [
       "mode, manner, way"
     ],
-    "frequency": 50,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7"
+    "frequency": 32,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-mode,-manner,-way-005",
+    "en": "mode, manner, way",
+    "ky": "түр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "mode, manner, way"
+    ],
+    "frequency": 1742,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80"
   },
   {
     "id": "en-ky-merchant,-especially-one-that-trades-overseas.-001",
@@ -7168,6 +7623,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80"
   },
   {
+    "id": "en-ky-milletgrass-002",
+    "en": "milletgrass",
+    "ky": "дрель",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бор",
+    "senses": [
+      "milletgrass"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%80%D0%B5%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-magnesium-001",
     "en": "magnesium",
     "ky": "магний",
@@ -7216,6 +7683,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D1%88%D0%BC%D0%B0"
   },
   {
+    "id": "en-ky-mortar,-grout-004",
+    "en": "mortar, grout",
+    "ky": "чыгаруу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "раствор",
+    "senses": [
+      "mortar, grout"
+    ],
+    "frequency": 25,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%B3%D0%B0%D1%80%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-mortar,-grout-005",
+    "en": "mortar, grout",
+    "ky": "чечүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "раствор",
+    "senses": [
+      "mortar, grout"
+    ],
+    "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%87%D2%AF%D2%AF"
+  },
+  {
     "id": "en-ky-mark-002",
     "en": "mark",
     "ky": "марка",
@@ -7253,6 +7746,46 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%87%D1%82%D0%B0%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D1%81%D1%8B"
   },
   {
+    "id": "en-ky-mark-005",
+    "en": "mark",
+    "ky": "мөөр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "mark (mostly historical unit of currency in various countries)"
+    ],
+    "pronunciation": "[møːr]",
+    "etymology": "From Arabic مُهْر (muhr).",
+    "frequency": 103,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80"
+  },
+  {
+    "id": "en-ky-mark-006",
+    "en": "mark",
+    "ky": "печать",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "mark (mostly historical unit of currency in various countries)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C"
+  },
+  {
+    "id": "en-ky-mark-007",
+    "en": "mark",
+    "ky": "штамп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "mark (mostly historical unit of currency in various countries)"
+    ],
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF"
+  },
+  {
     "id": "en-ky-march,-mark-001",
     "en": "march, mark",
     "ky": "марка",
@@ -7288,6 +7821,59 @@
       "march, mark (medieval administrative unit used for borderlands)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%87%D1%82%D0%B0%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-march,-mark-004",
+    "en": "march, mark",
+    "ky": "баалоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "march, mark (medieval administrative unit used for borderlands)"
+    ],
+    "etymology": "From баа (baa, “price, value”) + -ла (-la, “verb-forming suffix”). Compare to Southern Altai баала- (baala-, “appraise, price, evaluate, estimate”), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-march,-mark-005",
+    "en": "march, mark",
+    "ky": "мөөр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "march, mark (medieval administrative unit used for borderlands)"
+    ],
+    "pronunciation": "[møːr]",
+    "etymology": "From Arabic مُهْر (muhr).",
+    "frequency": 103,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80"
+  },
+  {
+    "id": "en-ky-march,-mark-006",
+    "en": "march, mark",
+    "ky": "печать",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "march, mark (medieval administrative unit used for borderlands)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C"
+  },
+  {
+    "id": "en-ky-march,-mark-007",
+    "en": "march, mark",
+    "ky": "штамп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "march, mark (medieval administrative unit used for borderlands)"
+    ],
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF"
   },
   {
     "id": "en-ky-moth-001",
@@ -7368,6 +7954,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D1%80%D0%BA%D0%BE%D0%BE%D0%BB%D1%83%D1%83"
   },
   {
+    "id": "en-ky-morbid-004",
+    "en": "morbid",
+    "ky": "күчсүз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "больной",
+    "senses": [
+      "morbid"
+    ],
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87%D1%81%D2%AF%D0%B7"
+  },
+  {
+    "id": "en-ky-morbid-005",
+    "en": "morbid",
+    "ky": "алсыз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "больной",
+    "senses": [
+      "morbid"
+    ],
+    "frequency": 141,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%81%D1%8B%D0%B7"
+  },
+  {
     "id": "en-ky-many-001",
     "en": "many",
     "ky": "көп",
@@ -7417,6 +8029,33 @@
     ],
     "etymology": "күн (kün) + -чө (-cö). Calque of Turkish günce",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D1%87%D3%A9"
+  },
+  {
+    "id": "en-ky-magazine,-periodical,-journal-004",
+    "en": "magazine, periodical, journal",
+    "ky": "күндөлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "журнал",
+    "senses": [
+      "magazine, periodical, journal"
+    ],
+    "pronunciation": "/kyndølyk/",
+    "etymology": "From күн (kün, “day”) + -дө (-dö) + -лүк (-lük).",
+    "frequency": 106,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D0%B4%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-magazine,-periodical,-journal-005",
+    "en": "magazine, periodical, journal",
+    "ky": "дневник",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "журнал",
+    "senses": [
+      "magazine, periodical, journal"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA"
   },
   {
     "id": "en-ky-mood-001",
@@ -7472,6 +8111,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D3%A9%D2%A3"
   },
   {
+    "id": "en-ky-mood-005",
+    "en": "mood",
+    "ky": "сап",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стих",
+    "senses": [
+      "mood"
+    ],
+    "etymology": "From Proto-Turkic *sap. Cognate to Southern Altai сап (sap), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BF"
+  },
+  {
     "id": "en-ky-moose-(u.s.,-canada),-elk-(british)-001",
     "en": "moose (U.S., Canada), elk (British)",
     "ky": "багыш",
@@ -7483,6 +8135,21 @@
     ],
     "frequency": 9,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B3%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-monthly-visitor,-period,-the-curse-001",
+    "en": "monthly visitor, period, the curse",
+    "ky": "аял",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тётка",
+    "senses": [
+      "monthly visitor, period, the curse"
+    ],
+    "pronunciation": "/ɑˈjɑɫ/",
+    "etymology": "From Persian عيال, from Arabic عَيَال (ʕayāl, “offspring”).",
+    "frequency": 634,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%BB"
   },
   {
     "id": "en-ky-marmalade,-fruit-jelly-001",
@@ -7794,6 +8461,18 @@
       "morning coat"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D0%B7%D0%B8%D1%82%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0%D1%81%D1%8B"
+  },
+  {
+    "id": "en-ky-membrane-001",
+    "en": "membrane",
+    "ky": "диафрагма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мембрана",
+    "senses": [
+      "membrane"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D0%B0%D1%84%D1%80%D0%B0%D0%B3%D0%BC%D0%B0"
   },
   {
     "id": "en-ky-miracle,-marvel-001",
@@ -8120,6 +8799,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80"
   },
   {
+    "id": "en-ky-man,-guy-003",
+    "en": "man, guy",
+    "ky": "мүнөз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тип",
+    "senses": [
+      "man, guy"
+    ],
+    "frequency": 409,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BD%D3%A9%D0%B7"
+  },
+  {
     "id": "en-ky-mystery,-enigma-001",
     "en": "mystery, enigma",
     "ky": "табышмак",
@@ -8210,6 +8902,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D0%B8%D1%84%D0%BE%D1%80%D0%BC%D0%B0"
   },
   {
+    "id": "en-ky-model-008",
+    "en": "model",
+    "ky": "көк дат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "форма",
+    "senses": [
+      "model"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%20%D0%B4%D0%B0%D1%82"
+  },
+  {
     "id": "en-ky-mold-002",
     "en": "mold",
     "ky": "форма",
@@ -8272,6 +8976,33 @@
     ],
     "frequency": 2,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D0%B8%D1%84%D0%BE%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-mold-007",
+    "en": "mold",
+    "ky": "модель",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "форма",
+    "senses": [
+      "mold"
+    ],
+    "frequency": 19,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-mold-008",
+    "en": "mold",
+    "ky": "үлгү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "форма",
+    "senses": [
+      "mold"
+    ],
+    "etymology": "Inherited from Proto-Turkic *ülgǖ. Cognate with Bashkir өлгө (ölgö, “model, example”), Kazakh үлгі (ülgı, “model, example”), Southern Altai ӱлгӱ (ülgü, “example”), Uyghur ئۈلگە (ülge, “model, example”),\nShor ӱлге (ülge, “footwear pattern”),\netc.",
+    "frequency": 490,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BB%D0%B3%D2%AF"
   },
   {
     "id": "en-ky-mail-(u.s.),-post-001",
@@ -8361,6 +9092,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4"
   },
   {
+    "id": "en-ky-movement,-draught-004",
+    "en": "movement, draught",
+    "ky": "консультация",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "приём",
+    "senses": [
+      "movement, draught"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-method,-way-001",
     "en": "method, way",
     "ky": "усул",
@@ -8399,6 +9142,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4"
   },
   {
+    "id": "en-ky-method,-way-004",
+    "en": "method, way",
+    "ky": "консультация",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "приём",
+    "senses": [
+      "method, way"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%86%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-middle-age-001",
     "en": "middle age",
     "ky": "түш",
@@ -8410,6 +9165,34 @@
     ],
     "frequency": 4617,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88"
+  },
+  {
+    "id": "en-ky-middle-age-002",
+    "en": "middle age",
+    "ky": "түштүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полдень",
+    "senses": [
+      "middle age"
+    ],
+    "pronunciation": "/tyʃˈtyk/",
+    "frequency": 66,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D1%82%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-midnight-002",
+    "en": "midnight",
+    "ky": "түндүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полночь",
+    "senses": [
+      "midnight"
+    ],
+    "pronunciation": "/tynˈdyk/",
+    "frequency": 122,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA"
   },
   {
     "id": "en-ky-mistake,-error,-fault-001",
@@ -8476,6 +9259,58 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82"
   },
   {
+    "id": "en-ky-magazine-003",
+    "en": "magazine",
+    "ky": "кампа",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "магазин",
+    "senses": [
+      "magazine (ammunition holder enabling multiple rounds of ammunition to be fed to a gun)"
+    ],
+    "frequency": 42,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0"
+  },
+  {
+    "id": "en-ky-magazine-004",
+    "en": "magazine",
+    "ky": "склад",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "магазин",
+    "senses": [
+      "magazine (ammunition holder enabling multiple rounds of ammunition to be fed to a gun)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4"
+  },
+  {
+    "id": "en-ky-meat-002",
+    "en": "meat",
+    "ky": "тоют",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мясо",
+    "senses": [
+      "meat"
+    ],
+    "frequency": 54,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%8E%D1%82"
+  },
+  {
+    "id": "en-ky-meat-003",
+    "en": "meat",
+    "ky": "жем",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мясо",
+    "senses": [
+      "meat"
+    ],
+    "etymology": "From Proto-Turkic *yē-m (deverbal noun from *yē-). Refer to жөө (jöö).",
+    "frequency": 109,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC"
+  },
+  {
     "id": "en-ky-movie,-motion-picture,-film-001",
     "en": "movie, motion picture, film",
     "ky": "кино",
@@ -8532,6 +9367,19 @@
   {
     "id": "en-ky-move,-step,-action,-initiative-001",
     "en": "move, step, action, initiative",
+    "ky": "кадам",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шаг",
+    "senses": [
+      "move, step, action, initiative"
+    ],
+    "frequency": 172,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D0%B0%D0%BC"
+  },
+  {
+    "id": "en-ky-move,-step,-action,-initiative-002",
+    "en": "move, step, action, initiative",
     "ky": "адым",
     "pos": "noun",
     "source": "pivot-ru",
@@ -8540,6 +9388,20 @@
       "move, step, action, initiative"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-move,-step,-action,-initiative-003",
+    "en": "move, step, action, initiative",
+    "ky": "сейил",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шаг",
+    "senses": [
+      "move, step, action, initiative"
+    ],
+    "etymology": "From Arabic سَيْر (sayr).",
+    "frequency": 18,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D0%B8%D0%BB"
   },
   {
     "id": "en-ky-mist,-haze-001",
@@ -8582,6 +9444,73 @@
     ],
     "frequency": 192,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-matter,-issue-002",
+    "en": "matter, issue",
+    "ky": "проблема",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вопрос",
+    "senses": [
+      "matter, issue"
+    ],
+    "frequency": 18,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-matter,-issue-003",
+    "en": "matter, issue",
+    "ky": "көйгөй",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вопрос",
+    "senses": [
+      "matter, issue"
+    ],
+    "pronunciation": "[køjˈɡøj]",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B9%D0%B3%D3%A9%D0%B9"
+  },
+  {
+    "id": "en-ky-matter,-issue-004",
+    "en": "matter, issue",
+    "ky": "маселе",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вопрос",
+    "senses": [
+      "matter, issue"
+    ],
+    "pronunciation": "[masʲeˈle]",
+    "etymology": "From Arabic مَسْأَلَة (masʔala).",
+    "frequency": 1704,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D0%B5%D0%BB%D0%B5"
+  },
+  {
+    "id": "en-ky-mesh-001",
+    "en": "mesh",
+    "ky": "карыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отверстие",
+    "senses": [
+      "mesh (of a screen)"
+    ],
+    "frequency": 77,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-mesh-002",
+    "en": "mesh",
+    "ky": "сөөм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отверстие",
+    "senses": [
+      "mesh (of a screen)"
+    ],
+    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D3%A9%D3%A9%D0%BC"
   },
   {
     "id": "en-ky-motion,-movement,-travel,-progress,-locomotion,-headway-001",
@@ -8769,6 +9698,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB%D0%B4%D0%B0%D1%82%D0%BA%D1%8B%D1%87"
   },
   {
+    "id": "en-ky-motor,-engine-003",
+    "en": "motor, engine",
+    "ky": "жүрөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мотор",
+    "senses": [
+      "motor, engine"
+    ],
+    "pronunciation": "/d͡ʒyˈrøc/",
+    "etymology": "From Proto-Turkic *yürek (“heart”).\nCognate with\nOld Turkic [script needed] (yüräk, “heart”),\nKazakh жүрек (jürek, “heart”),\nUzbek yurak (“heart”),\netc.",
+    "frequency": 897,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D3%A9%D0%BA"
+  },
+  {
     "id": "en-ky-male-dog-002",
     "en": "male dog",
     "ky": "катынпоз",
@@ -8857,6 +9801,86 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D1%87%D3%A9"
   },
   {
+    "id": "en-ky-member-of-an-organization-005",
+    "en": "member of an organization",
+    "ky": "макала",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member of an organization"
+    ],
+    "pronunciation": "/mɑˈqɑˈlɑ/",
+    "etymology": "From Arabic مقالة (maqāla).",
+    "frequency": 57,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-member-of-an-organization-006",
+    "en": "member of an organization",
+    "ky": "артикль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member of an organization"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-member-of-an-organization-007",
+    "en": "member of an organization",
+    "ky": "бөлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member of an organization"
+    ],
+    "etymology": "From бөлүү (bölüü) + -үк (-ük). Compare to Southern Altai бӧлӱк (bölük), Kazakh бөлік (bölık), Bashkir бүлек (bülek), etc.",
+    "frequency": 2308,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-member-of-an-organization-008",
+    "en": "member of an organization",
+    "ky": "бөлчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member of an organization"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-member-of-an-organization-009",
+    "en": "member of an organization",
+    "ky": "бөлүм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member of an organization"
+    ],
+    "etymology": "From the verb бөлүү (divide).",
+    "frequency": 856,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-member-of-an-organization-010",
+    "en": "member of an organization",
+    "ky": "роль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member of an organization"
+    ],
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-member,-penis-001",
     "en": "member, penis",
     "ky": "коток",
@@ -8908,6 +9932,86 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D1%87%D3%A9"
   },
   {
+    "id": "en-ky-member,-penis-005",
+    "en": "member, penis",
+    "ky": "макала",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member, penis"
+    ],
+    "pronunciation": "/mɑˈqɑˈlɑ/",
+    "etymology": "From Arabic مقالة (maqāla).",
+    "frequency": 57,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-member,-penis-006",
+    "en": "member, penis",
+    "ky": "артикль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member, penis"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-member,-penis-007",
+    "en": "member, penis",
+    "ky": "бөлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member, penis"
+    ],
+    "etymology": "From бөлүү (bölüü) + -үк (-ük). Compare to Southern Altai бӧлӱк (bölük), Kazakh бөлік (bölık), Bashkir бүлек (bülek), etc.",
+    "frequency": 2308,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-member,-penis-008",
+    "en": "member, penis",
+    "ky": "бөлчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member, penis"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-member,-penis-009",
+    "en": "member, penis",
+    "ky": "бөлүм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member, penis"
+    ],
+    "etymology": "From the verb бөлүү (divide).",
+    "frequency": 856,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-member,-penis-010",
+    "en": "member, penis",
+    "ky": "роль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "член",
+    "senses": [
+      "member, penis"
+    ],
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-machine-002",
     "en": "machine",
     "ky": "автомобиль",
@@ -8947,7 +10051,44 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D0%B0%D0%B0"
   },
   {
+    "id": "en-ky-machine-005",
+    "en": "machine",
+    "ky": "компьютер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "машина",
+    "senses": [
+      "machine"
+    ],
+    "frequency": 33,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-machine-006",
+    "en": "machine",
+    "ky": "эсепкер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "машина",
+    "senses": [
+      "machine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%B5%D0%BF%D0%BA%D0%B5%D1%80"
+  },
+  {
     "id": "en-ky-mechanism,-device-001",
+    "en": "mechanism, device",
+    "ky": "түзмөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "mechanism, device"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B7%D0%BC%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-mechanism,-device-002",
     "en": "mechanism, device",
     "ky": "машина",
     "pos": "noun",
@@ -8958,18 +10099,6 @@
     ],
     "frequency": 104,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-mechanism,-device-002",
-    "en": "mechanism, device",
-    "ky": "түзмөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "устройство",
-    "senses": [
-      "mechanism, device"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B7%D0%BC%D3%A9%D0%BA"
   },
   {
     "id": "en-ky-mechanism,-device-003",
@@ -8983,6 +10112,72 @@
     ],
     "frequency": 286,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-mechanism,-device-004",
+    "en": "mechanism, device",
+    "ky": "система",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "mechanism, device"
+    ],
+    "frequency": 715,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-mechanism,-device-005",
+    "en": "mechanism, device",
+    "ky": "тутум",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "mechanism, device"
+    ],
+    "etymology": "From тутуу (tutuu, “to hold”). Cognate with Yakut тутул (tutul).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%82%D1%83%D0%BC"
+  },
+  {
+    "id": "en-ky-mechanism,-device-006",
+    "en": "mechanism, device",
+    "ky": "уюм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "mechanism, device"
+    ],
+    "pronunciation": "/uˈjum/",
+    "frequency": 898,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%8E%D0%BC"
+  },
+  {
+    "id": "en-ky-mechanism,-device-007",
+    "en": "mechanism, device",
+    "ky": "мекеме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "mechanism, device"
+    ],
+    "frequency": 741,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BA%D0%B5%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-mechanism,-device-008",
+    "en": "mechanism, device",
+    "ky": "жабдуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "mechanism, device"
+    ],
+    "frequency": 158,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B1%D0%B4%D1%83%D1%83"
   },
   {
     "id": "en-ky-mill,-machine-001",
@@ -9021,6 +10216,30 @@
     ],
     "frequency": 4,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-map-003",
+    "en": "map",
+    "ky": "меню",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "карта",
+    "senses": [
+      "map"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%D1%8E"
+  },
+  {
+    "id": "en-ky-map-004",
+    "en": "map",
+    "ky": "аштизме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "карта",
+    "senses": [
+      "map"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88%D1%82%D0%B8%D0%B7%D0%BC%D0%B5"
   },
   {
     "id": "en-ky-menu-003",
@@ -9192,7 +10411,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB"
   },
   {
-    "id": "en-ky-middle-002",
+    "id": "en-ky-middle-004",
     "en": "middle",
     "ky": "борбор",
     "pos": "noun",
@@ -9205,7 +10424,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80"
   },
   {
-    "id": "en-ky-middle-003",
+    "id": "en-ky-middle-005",
     "en": "middle",
     "ky": "центр",
     "pos": "noun",
@@ -9303,6 +10522,49 @@
       "management"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-management-005",
+    "en": "management",
+    "ky": "өкмөт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "управление",
+    "senses": [
+      "management"
+    ],
+    "pronunciation": "/øk.møt/",
+    "etymology": "Etymology tree\nArabic حَكَمَ (ḥakama)\nArabic حُكُومَة (ḥukūma)bor.\nClassical Persian حُکُومَت (hukūmat)bor.\nKyrgyz өкмөт\nBorrowed from Classical Persian حُکُومَت (hukūmat), borrowed from Arabic حُكُومَة (ḥukūma), from حَكَمَ (ḥakama).",
+    "frequency": 3524,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BA%D0%BC%D3%A9%D1%82"
+  },
+  {
+    "id": "en-ky-management-006",
+    "en": "management",
+    "ky": "такта",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "управление",
+    "senses": [
+      "management"
+    ],
+    "pronunciation": "/tɑqˈtɑ/",
+    "etymology": "From Persian تخته (taxte).",
+    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BA%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-management-007",
+    "en": "management",
+    "ky": "стол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "управление",
+    "senses": [
+      "management"
+    ],
+    "frequency": 49,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB"
   },
   {
     "id": "en-ky-milksop,-scatterbrain-001",
@@ -9936,7 +11198,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%BE%D1%80%D0%BC%D0%B4%D1%83%D1%83%20(%D0%B0%D0%B1%D0%B0%20%D1%8B%D1%80%D0%B0%D0%B9%D1%8B%20(%C5%9Ftormduu"
   },
   {
-    "id": "en-ky-model-008",
+    "id": "en-ky-model-009",
     "en": "model",
     "ky": "шөкөт",
     "pos": "noun",
@@ -10057,6 +11319,19 @@
   {
     "id": "en-ky-master,-craftsman,-expert-001",
     "en": "master, craftsman, expert",
+    "ky": "устат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мастер",
+    "senses": [
+      "master, craftsman, expert"
+    ],
+    "frequency": 36,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-master,-craftsman,-expert-002",
+    "en": "master, craftsman, expert",
     "ky": "уста",
     "pos": "noun",
     "source": "pivot-ru",
@@ -10068,7 +11343,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0"
   },
   {
-    "id": "en-ky-master,-craftsman,-expert-002",
+    "id": "en-ky-master,-craftsman,-expert-003",
     "en": "master, craftsman, expert",
     "ky": "чебер",
     "pos": "noun",
@@ -10082,7 +11357,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%B1%D0%B5%D1%80"
   },
   {
-    "id": "en-ky-master,-craftsman,-expert-003",
+    "id": "en-ky-master,-craftsman,-expert-004",
     "en": "master, craftsman, expert",
     "ky": "кол өнөрчү",
     "pos": "noun",
@@ -10094,17 +11369,28 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%20%D3%A9%D0%BD%D3%A9%D1%80%D1%87%D2%AF"
   },
   {
-    "id": "en-ky-master,-craftsman,-expert-004",
+    "id": "en-ky-master,-craftsman,-expert-005",
     "en": "master, craftsman, expert",
-    "ky": "устат",
+    "ky": "жадыгер",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "мастер",
     "senses": [
       "master, craftsman, expert"
     ],
-    "frequency": 36,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0%D1%82"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B4%D1%8B%D0%B3%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-master,-craftsman,-expert-006",
+    "en": "master, craftsman, expert",
+    "ky": "сыйкырчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мастер",
+    "senses": [
+      "master, craftsman, expert"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B9%D0%BA%D1%8B%D1%80%D1%87%D1%8B"
   },
   {
     "id": "en-ky-movement,-motion,-stirring-001",
@@ -10173,6 +11459,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0"
   },
   {
+    "id": "en-ky-matter,-business-002",
+    "en": "matter, business",
+    "ky": "артикль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "статья",
+    "senses": [
+      "matter, business"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-maid,-housemaid-001",
     "en": "maid, housemaid",
     "ky": "кызматкер",
@@ -10212,6 +11510,76 @@
       "male sex organ"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%B3%D1%8B"
+  },
+  {
+    "id": "en-ky-male-sex-organ-002",
+    "en": "male sex organ",
+    "ky": "өлүм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "конец",
+    "senses": [
+      "male sex organ"
+    ],
+    "pronunciation": "/ølym/",
+    "etymology": "From өл- (öl-) + -үм (-üm). Cognates with Kazakh өлім (ölım), Turkish ölüm, Uzbek o‘lim.",
+    "frequency": 645,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-male-sex-organ-003",
+    "en": "male sex organ",
+    "ky": "ажал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "конец",
+    "senses": [
+      "male sex organ"
+    ],
+    "frequency": 381,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-male-sex-organ-004",
+    "en": "male sex organ",
+    "ky": "аркан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "конец",
+    "senses": [
+      "male sex organ"
+    ],
+    "etymology": "From Proto-Turkic *arkan. Cognate to Southern Altai аркан (arkan), Kazakh арқан (arqan), Kumyk аркъан (arqan), etc.",
+    "frequency": 156,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-male-sex-organ-005",
+    "en": "male sex organ",
+    "ky": "жип",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "конец",
+    "senses": [
+      "male sex organ"
+    ],
+    "etymology": "From Proto-Turkic *yïp.",
+    "frequency": 95,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-male-sex-organ-006",
+    "en": "male sex organ",
+    "ky": "боо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "конец",
+    "senses": [
+      "male sex organ"
+    ],
+    "etymology": "From Proto-Turkic *bāg.",
+    "frequency": 72,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-miser,-niggard,-skinflint-001",
@@ -10327,6 +11695,18 @@
   {
     "id": "en-ky-medicine,-drug-001",
     "en": "medicine, drug",
+    "ky": "дары-дармек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лекарство",
+    "senses": [
+      "medicine, drug (substance which promotes healing)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%8B-%D0%B4%D0%B0%D1%80%D0%BC%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-medicine,-drug-002",
+    "en": "medicine, drug",
     "ky": "дары",
     "pos": "noun",
     "source": "pivot-ru",
@@ -10340,16 +11720,69 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%8B"
   },
   {
-    "id": "en-ky-medicine,-drug-002",
-    "en": "medicine, drug",
-    "ky": "дары-дармек",
+    "id": "en-ky-mediator,-intermediary,-middleman-001",
+    "en": "mediator, intermediary, middleman",
+    "ky": "секунда",
     "pos": "noun",
     "source": "pivot-ru",
-    "ruPivot": "лекарство",
+    "ruPivot": "секундант",
     "senses": [
-      "medicine, drug (substance which promotes healing)"
+      "mediator, intermediary, middleman"
     ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%8B-%D0%B4%D0%B0%D1%80%D0%BC%D0%B5%D0%BA"
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D0%B0"
+  },
+  {
+    "id": "en-ky-music-002",
+    "en": "music",
+    "ky": "бизнес",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "музыка",
+    "senses": [
+      "music"
+    ],
+    "frequency": 132,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81"
+  },
+  {
+    "id": "en-ky-music-003",
+    "en": "music",
+    "ky": "фирма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "музыка",
+    "senses": [
+      "music"
+    ],
+    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B8%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-music-004",
+    "en": "music",
+    "ky": "компания",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "музыка",
+    "senses": [
+      "music"
+    ],
+    "frequency": 181,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-music-005",
+    "en": "music",
+    "ky": "ишкана",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "музыка",
+    "senses": [
+      "music"
+    ],
+    "frequency": 525,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88%D0%BA%D0%B0%D0%BD%D0%B0"
   },
   {
     "id": "en-ky-male-turkey-(bird),-turkeycock,-tom-001",
@@ -10416,6 +11849,19 @@
     ],
     "frequency": 79,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-machinery,-equipment-003",
+    "en": "machinery, equipment",
+    "ky": "материал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "техника",
+    "senses": [
+      "machinery, equipment"
+    ],
+    "frequency": 544,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB"
   },
   {
     "id": "en-ky-material-006",
@@ -10581,6 +12027,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%81%D0%BC%D0%B0"
   },
   {
+    "id": "en-ky-mine-004",
+    "en": "mine",
+    "ky": "торпеда",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мина",
+    "senses": [
+      "mine (explosive device)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BF%D0%B5%D0%B4%D0%B0"
+  },
+  {
     "id": "en-ky-mortar-round-001",
     "en": "mortar round",
     "ky": "мина",
@@ -10592,6 +12050,42 @@
     ],
     "frequency": 6,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-mortar-round-002",
+    "en": "mortar round",
+    "ky": "шахта",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мина",
+    "senses": [
+      "mortar round"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%85%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-mortar-round-003",
+    "en": "mortar round",
+    "ky": "рудник",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мина",
+    "senses": [
+      "mortar round"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-mortar-round-004",
+    "en": "mortar round",
+    "ky": "торпеда",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мина",
+    "senses": [
+      "mortar round"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BF%D0%B5%D0%B4%D0%B0"
   },
   {
     "id": "en-ky-million-002",
@@ -10791,6 +12285,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%83%D1%81%D0%B0%D1%80"
   },
   {
+    "id": "en-ky-mobile-001",
+    "en": "mobile",
+    "ky": "мобилдик",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мобильный",
+    "senses": [
+      "mobile"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B4%D0%B8%D0%BA"
+  },
+  {
     "id": "en-ky-meter,-metre-001",
     "en": "meter, metre",
     "ky": "өлчөм",
@@ -10918,6 +12424,18 @@
     ],
     "frequency": 18,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-mud-003",
+    "en": "mud",
+    "ky": "кирдөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "грязь",
+    "senses": [
+      "mud"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%B4%D3%A9%D3%A9"
   },
   {
     "id": "en-ky-mother-country,-home-country,-homeland-001",
@@ -11089,6 +12607,30 @@
     ],
     "frequency": 24,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%8E%D1%80%D0%BE"
+  },
+  {
+    "id": "en-ky-massage-parlor-005",
+    "en": "massage parlor",
+    "ky": "билүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кабинет",
+    "senses": [
+      "massage parlor"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-massage-parlor-006",
+    "en": "massage parlor",
+    "ky": "үйрөнүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кабинет",
+    "senses": [
+      "massage parlor"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9%D1%80%D3%A9%D0%BD%D2%AF%D2%AF"
   },
   {
     "id": "en-ky-military-man,-military-personnel,-serviceman,-soldier-001",
@@ -11271,6 +12813,59 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D1%81%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-match-007",
+    "en": "match",
+    "ky": "бөлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "match (a candidate for matrimony)"
+    ],
+    "etymology": "From бөлүү (bölüü) + -үк (-ük). Compare to Southern Altai бӧлӱк (bölük), Kazakh бөлік (bölık), Bashkir бүлек (bülek), etc.",
+    "frequency": 2308,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-match-008",
+    "en": "match",
+    "ky": "бөлчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "match (a candidate for matrimony)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-match-009",
+    "en": "match",
+    "ky": "бөлүм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "match (a candidate for matrimony)"
+    ],
+    "etymology": "From the verb бөлүү (divide).",
+    "frequency": 856,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-match-010",
+    "en": "match",
+    "ky": "роль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "match (a candidate for matrimony)"
+    ],
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-martagon-001",
     "en": "martagon",
     "ky": "чегиртке",
@@ -11413,6 +13008,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%80%D0%B0"
   },
   {
+    "id": "en-ky-measure-002",
+    "en": "measure",
+    "ky": "жол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мера",
+    "senses": [
+      "measure"
+    ],
+    "pronunciation": "/d͡ʒol/",
+    "etymology": "From Proto-Turkic *yōl (“road, way”).",
+    "frequency": 4929,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB"
+  },
+  {
     "id": "en-ky-measure,-step,-action-001",
     "en": "measure, step, action",
     "ky": "чара",
@@ -11424,6 +13034,21 @@
     ],
     "frequency": 1826,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-measure,-step,-action-002",
+    "en": "measure, step, action",
+    "ky": "жол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мера",
+    "senses": [
+      "measure, step, action"
+    ],
+    "pronunciation": "/d͡ʒol/",
+    "etymology": "From Proto-Turkic *yōl (“road, way”).",
+    "frequency": 4929,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB"
   },
   {
     "id": "en-ky-motorway,-highway,-freeway-001",
@@ -11727,7 +13352,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%B8%D0%BB%D0%B5"
   },
   {
-    "id": "en-ky-magazine-003",
+    "id": "en-ky-magazine-005",
     "en": "magazine",
     "ky": "погреб",
     "pos": "noun",
@@ -11739,7 +13364,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B3%D1%80%D0%B5%D0%B1"
   },
   {
-    "id": "en-ky-magazine-004",
+    "id": "en-ky-magazine-006",
     "en": "magazine",
     "ky": "подвал",
     "pos": "noun",
@@ -11751,7 +13376,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB"
   },
   {
-    "id": "en-ky-magazine-005",
+    "id": "en-ky-magazine-007",
     "en": "magazine",
     "ky": "жертөлө",
     "pos": "noun",
@@ -11826,6 +13451,46 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D0%B7"
   },
   {
+    "id": "en-ky-mouth,-maw,-jaws-002",
+    "en": "mouth, maw, jaws",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пасть",
+    "senses": [
+      "mouth, maw, jaws (of an animal, reptile or fish)"
+    ],
+    "pronunciation": "[tɑˈmɑq]",
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "frequency": 429,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-mouth,-maw,-jaws-003",
+    "en": "mouth, maw, jaws",
+    "ky": "богуз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пасть",
+    "senses": [
+      "mouth, maw, jaws (of an animal, reptile or fish)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B3%D1%83%D0%B7"
+  },
+  {
+    "id": "en-ky-mouth,-maw,-jaws-004",
+    "en": "mouth, maw, jaws",
+    "ky": "булуң",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пасть",
+    "senses": [
+      "mouth, maw, jaws (of an animal, reptile or fish)"
+    ],
+    "frequency": 67,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB%D1%83%D2%A3"
+  },
+  {
     "id": "en-ky-mouth,-piehole-001",
     "en": "mouth, piehole",
     "ky": "ооз",
@@ -11838,6 +13503,46 @@
     "etymology": "From Proto-Turkic *āgïŕ. Cognate with\nOld Turkic 𐰍𐰕 (ǧz /⁠aɣïz⁠/, “mouth”),\nKhakas, Shor, Tuvan аас (aas),\nSouthern Altai оос (oos),\nKazakh ауыз (auyz),\nBashkir ауыҙ (awıź),\nKarachay-Balkar аууз (awuz),\nKumyk авуз (awuz),\nNogai, Tatar авыз (awız),\nUzbek ogʻiz,\nAzerbaijani, Crimean Tatar, Turkish ağız,\nGagauz aaz, Turkmen agyz (“mouth”), etc.",
     "frequency": 1532,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-mouth,-piehole-002",
+    "en": "mouth, piehole",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пасть",
+    "senses": [
+      "mouth, piehole"
+    ],
+    "pronunciation": "[tɑˈmɑq]",
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "frequency": 429,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-mouth,-piehole-003",
+    "en": "mouth, piehole",
+    "ky": "богуз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пасть",
+    "senses": [
+      "mouth, piehole"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B3%D1%83%D0%B7"
+  },
+  {
+    "id": "en-ky-mouth,-piehole-004",
+    "en": "mouth, piehole",
+    "ky": "булуң",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пасть",
+    "senses": [
+      "mouth, piehole"
+    ],
+    "frequency": 67,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB%D1%83%D2%A3"
   },
   {
     "id": "en-ky-manual-001",
@@ -11904,6 +13609,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D1%84"
   },
   {
+    "id": "en-ky-myth,-fable-005",
+    "en": "myth, fable",
+    "ky": "легенда",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "миф",
+    "senses": [
+      "myth, fable"
+    ],
+    "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0"
+  },
+  {
     "id": "en-ky-mellow-001",
     "en": "mellow",
     "ky": "жумшак",
@@ -11918,6 +13636,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%88%D0%B0%D0%BA"
   },
   {
+    "id": "en-ky-mellow-002",
+    "en": "mellow",
+    "ky": "жаңы",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мягкий",
+    "senses": [
+      "mellow"
+    ],
+    "pronunciation": "/d͡ʒɑˈŋɯ/",
+    "etymology": "From Proto-Turkic *yaŋï, *yeŋi (“new”).",
+    "frequency": 1347,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B"
+  },
+  {
+    "id": "en-ky-mellow-003",
+    "en": "mellow",
+    "ky": "таза",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мягкий",
+    "senses": [
+      "mellow"
+    ],
+    "frequency": 420,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B7%D0%B0"
+  },
+  {
     "id": "en-ky-mild-001",
     "en": "mild",
     "ky": "жумшак",
@@ -11930,6 +13676,34 @@
     "etymology": "From Proto-Turkic *yɨm-ĺča-k (“soft”). Cognate with\nOld Uyghur jumšaq (“soft”);\nTatar йомшак (yomşaq),\nKazakh жұмсақ (jūmsaq),\nSouthern Altai јымжак (ǰïmžak),\nTurkish yumuşak,\nKhakas нымзах (nımzax),\nTuvan чымчак (çımçak),\nYakut сымна (sïmna), сымнаҕас (sïmnağas),\nChuvash ҫемҫе (śemś̬e, “soft”),\netc.",
     "frequency": 150,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%88%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-mild-002",
+    "en": "mild",
+    "ky": "жаңы",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мягкий",
+    "senses": [
+      "mild"
+    ],
+    "pronunciation": "/d͡ʒɑˈŋɯ/",
+    "etymology": "From Proto-Turkic *yaŋï, *yeŋi (“new”).",
+    "frequency": 1347,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B"
+  },
+  {
+    "id": "en-ky-mild-003",
+    "en": "mild",
+    "ky": "таза",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мягкий",
+    "senses": [
+      "mild"
+    ],
+    "frequency": 420,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B7%D0%B0"
   },
   {
     "id": "en-ky-murmansk-001",
@@ -11996,6 +13770,19 @@
   {
     "id": "en-ky-meeting,-encounter-001",
     "en": "meeting, encounter",
+    "ky": "жолугушуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "встреча",
+    "senses": [
+      "meeting, encounter"
+    ],
+    "frequency": 22,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB%D1%83%D0%B3%D1%83%D1%88%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-meeting,-encounter-002",
+    "en": "meeting, encounter",
     "ky": "чогулуш",
     "pos": "noun",
     "source": "pivot-ru",
@@ -12007,7 +13794,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D0%B3%D1%83%D0%BB%D1%83%D1%88"
   },
   {
-    "id": "en-ky-meeting,-encounter-002",
+    "id": "en-ky-meeting,-encounter-003",
     "en": "meeting, encounter",
     "ky": "жыйылыш",
     "pos": "noun",
@@ -12019,7 +13806,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%B9%D1%8B%D0%BB%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-meeting,-encounter-003",
+    "id": "en-ky-meeting,-encounter-004",
     "en": "meeting, encounter",
     "ky": "жыйналыш",
     "pos": "noun",
@@ -12031,7 +13818,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%B9%D0%BD%D0%B0%D0%BB%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-meeting,-encounter-004",
+    "id": "en-ky-meeting,-encounter-005",
     "en": "meeting, encounter",
     "ky": "собрание",
     "pos": "noun",
@@ -12043,7 +13830,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5"
   },
   {
-    "id": "en-ky-meeting,-encounter-005",
+    "id": "en-ky-meeting,-encounter-006",
     "en": "meeting, encounter",
     "ky": "жыйын",
     "pos": "noun",
@@ -12057,7 +13844,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%B9%D1%8B%D0%BD"
   },
   {
-    "id": "en-ky-meeting,-encounter-006",
+    "id": "en-ky-meeting,-encounter-007",
     "en": "meeting, encounter",
     "ky": "саммит",
     "pos": "noun",
@@ -12070,17 +13857,41 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BC%D0%BC%D0%B8%D1%82"
   },
   {
-    "id": "en-ky-meeting,-encounter-007",
+    "id": "en-ky-meeting,-encounter-008",
     "en": "meeting, encounter",
-    "ky": "жолугушуу",
+    "ky": "курма",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "встреча",
     "senses": [
       "meeting, encounter"
     ],
-    "frequency": 22,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB%D1%83%D0%B3%D1%83%D1%88%D1%83%D1%83"
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-meeting,-encounter-009",
+    "en": "meeting, encounter",
+    "ky": "дата",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "встреча",
+    "senses": [
+      "meeting, encounter"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-meeting,-encounter-010",
+    "en": "meeting, encounter",
+    "ky": "число",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "встреча",
+    "senses": [
+      "meeting, encounter"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%81%D0%BB%D0%BE"
   },
   {
     "id": "en-ky-muster,-assembly-001",
@@ -12296,7 +14107,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D1%84%D0%BE%D0%BD"
   },
   {
-    "id": "en-ky-mouth,-piehole-002",
+    "id": "en-ky-mistake,-error-001",
+    "en": "mistake, error",
+    "ky": "жаңылыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "погрешность",
+    "senses": [
+      "mistake, error"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-mistake,-error-002",
+    "en": "mistake, error",
+    "ky": "ката",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "погрешность",
+    "senses": [
+      "mistake, error"
+    ],
+    "etymology": "From Arabic خَطَأ (ḵaṭaʔ).",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-mouth,-piehole-005",
     "en": "mouth, piehole",
     "ky": "бет",
     "pos": "noun",
@@ -12348,6 +14185,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81"
   },
   {
+    "id": "en-ky-means,-facility-002",
+    "en": "means, facility",
+    "ky": "өндүрүм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "средство",
+    "senses": [
+      "means, facility"
+    ],
+    "etymology": "Deverbal from өндүр- (öndür-, “to produce”).",
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BD%D0%B4%D2%AF%D1%80%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-means,-facility-003",
+    "en": "means, facility",
+    "ky": "көбөйтүндү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "средство",
+    "senses": [
+      "means, facility"
+    ],
+    "pronunciation": "/køˈβøjˈtyˈndy/",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B1%D3%A9%D0%B9%D1%82%D2%AF%D0%BD%D0%B4%D2%AF"
+  },
+  {
     "id": "en-ky-mobile-phone-003",
     "en": "mobile phone",
     "ky": "труба",
@@ -12397,6 +14261,21 @@
     ],
     "frequency": 90,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%82%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-mobile-phone-007",
+    "en": "mobile phone",
+    "ky": "телефон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "труба",
+    "senses": [
+      "mobile phone"
+    ],
+    "pronunciation": "/teleˈfon/",
+    "etymology": "Borrowed from Russian телефо́н (telefón).",
+    "frequency": 139,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD"
   },
   {
     "id": "en-ky-metrology-001",
@@ -12502,6 +14381,19 @@
   {
     "id": "en-ky-military-transport,-train-001",
     "en": "military transport, train",
+    "ky": "транспорт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "транспорт",
+    "senses": [
+      "military transport, train"
+    ],
+    "frequency": 469,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82"
+  },
+  {
+    "id": "en-ky-military-transport,-train-002",
+    "en": "military transport, train",
     "ky": "унаа",
     "pos": "noun",
     "source": "pivot-ru",
@@ -12513,17 +14405,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D0%B0%D0%B0"
   },
   {
-    "id": "en-ky-military-transport,-train-002",
-    "en": "military transport, train",
-    "ky": "транспорт",
+    "id": "en-ky-merit,-desert-001",
+    "en": "merit, desert",
+    "ky": "кызмат",
     "pos": "noun",
     "source": "pivot-ru",
-    "ruPivot": "транспорт",
+    "ruPivot": "заслуга",
     "senses": [
-      "military transport, train"
+      "merit, desert"
     ],
-    "frequency": 469,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82"
+    "etymology": "From Persian خدمت (xedmat), from Arabic خِدْمَة (ḵidma). Cognate with Kazakh қызмет (qyzmet), Tajik хизмат (xizmat), Uzbek xizmat, Turkmen hyzmat, etc.",
+    "frequency": 4836,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D0%BC%D0%B0%D1%82"
   },
   {
     "id": "en-ky-madam,-ma'am,-mrs.,-miss-001",
@@ -12550,6 +14443,31 @@
       "madam, ma'am, Mrs., Miss (polite, formal term of address for a woman)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B4%D0%B0%D0%BC"
+  },
+  {
+    "id": "en-ky-madam,-ma'am,-mrs.,-miss-003",
+    "en": "madam, ma'am, Mrs., Miss",
+    "ky": "тамыр аял",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "госпожа",
+    "senses": [
+      "madam, ma'am, Mrs., Miss (polite, formal term of address for a woman)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D1%8B%D1%80%20%D0%B0%D1%8F%D0%BB"
+  },
+  {
+    "id": "en-ky-madam,-ma'am,-mrs.,-miss-004",
+    "en": "madam, ma'am, Mrs., Miss",
+    "ky": "ойнош",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "госпожа",
+    "senses": [
+      "madam, ma'am, Mrs., Miss (polite, formal term of address for a woman)"
+    ],
+    "pronunciation": "/ojˈnoʃ/",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%BD%D0%BE%D1%88"
   },
   {
     "id": "en-ky-mistress-003",
@@ -12905,6 +14823,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0"
   },
   {
+    "id": "en-ky-model-number,-item-code-001",
+    "en": "model number, item code",
+    "ky": "макала",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "артикул",
+    "senses": [
+      "model number, item code"
+    ],
+    "pronunciation": "/mɑˈqɑˈlɑ/",
+    "etymology": "From Arabic مقالة (maqāla).",
+    "frequency": 57,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-model-number,-item-code-002",
+    "en": "model number, item code",
+    "ky": "артикль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "артикул",
+    "senses": [
+      "model number, item code"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-measure,-test-001",
     "en": "measure, test",
     "ky": "критерий",
@@ -13083,6 +15028,19 @@
     ],
     "frequency": 8,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B4%D0%B0"
+  },
+  {
+    "id": "en-ky-mode-003",
+    "en": "mode",
+    "ky": "адат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мода",
+    "senses": [
+      "mode"
+    ],
+    "frequency": 210,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B0%D1%82"
   },
   {
     "id": "en-ky-male-czech-001",
@@ -13667,6 +15625,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%87%D0%B5%D1%82%D0%B5"
   },
   {
+    "id": "en-ky-mast-002",
+    "en": "mast",
+    "ky": "мунара",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мачта",
+    "senses": [
+      "mast"
+    ],
+    "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-mast-003",
+    "en": "mast",
+    "ky": "бурана",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мачта",
+    "senses": [
+      "mast"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%80%D0%B0%D0%BD%D0%B0"
+  },
+  {
     "id": "en-ky-marjoram-001",
     "en": "marjoram",
     "ky": "майоран",
@@ -13823,6 +15806,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D0%BD"
   },
   {
+    "id": "en-ky-male-dance-partner-001",
+    "en": "male dance partner",
+    "ky": "рыцарь",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кавалер",
+    "senses": [
+      "male dance partner"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C"
+  },
+  {
+    "id": "en-ky-male-dance-partner-002",
+    "en": "male dance partner",
+    "ky": "ат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кавалер",
+    "senses": [
+      "male dance partner"
+    ],
+    "pronunciation": "/ɑt/",
+    "etymology": "From Proto-Turkic *āt (“name”).",
+    "frequency": 7631,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82"
+  },
+  {
     "id": "en-ky-methamphetamine-002",
     "en": "methamphetamine",
     "ky": "болт",
@@ -13869,6 +15879,48 @@
       "measure, bar"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B8%D1%82%D0%BC"
+  },
+  {
+    "id": "en-ky-measure,-bar-002",
+    "en": "measure, bar",
+    "ky": "саат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "такт",
+    "senses": [
+      "measure, bar"
+    ],
+    "pronunciation": "/sɑːt/",
+    "etymology": "Derived from Arabic ساعة (sāʕa)",
+    "frequency": 479,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-measure,-bar-003",
+    "en": "measure, bar",
+    "ky": "убакыт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "такт",
+    "senses": [
+      "measure, bar"
+    ],
+    "pronunciation": "/uβɑˈqɯt/",
+    "etymology": "From Persian وقت, from Arabic وَقْت (waqt, “time”). Cognate with Bashkir ваҡыт (vaqıt), Kazakh уақыт (uaqyt), Tatar вакыт (waqıt), Turkish vakit, Uzbek vaqt, etc.",
+    "frequency": 423,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B1%D0%B0%D0%BA%D1%8B%D1%82"
+  },
+  {
+    "id": "en-ky-measure,-bar-004",
+    "en": "measure, bar",
+    "ky": "убакты",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "такт",
+    "senses": [
+      "measure, bar"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%B1%D0%B0%D0%BA%D1%82%D1%8B"
   },
   {
     "id": "en-ky-myocardium-001",
@@ -14006,6 +16058,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BD%D1%91%D0%B2%D1%80"
   },
   {
+    "id": "en-ky-membrane-002",
+    "en": "membrane",
+    "ky": "раковина",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "оболочка",
+    "senses": [
+      "membrane"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-membrane-003",
+    "en": "membrane",
+    "ky": "кабык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "оболочка",
+    "senses": [
+      "membrane"
+    ],
+    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
+  },
+  {
     "id": "en-ky-married,-having-a-wife-001",
     "en": "married, having a wife",
     "ky": "үйлөнгөн",
@@ -14043,6 +16121,20 @@
     "etymology": "From Proto-Turkic *bĕt (“face; page”).",
     "frequency": 1486,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-mouth,-piehole-006",
+    "en": "mouth, piehole",
+    "ky": "мурун",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ебальник",
+    "senses": [
+      "mouth, piehole"
+    ],
+    "etymology": "From Proto-Turkic *burun (*burïn). Cognate with Kazakh мұрын (mūryn), Bashkir морон (moron), Crimean Tatar burun, Kumyk бурун (burun), Southern Altai мурун (murun), Azerbaijani burun, Turkish burun, Turkmen burun, Uzbek burun, Khakas пурун (purun), Shor пурун, Western Yugur pïrïn (“before”), etc.",
+    "frequency": 571,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D1%80%D1%83%D0%BD"
   },
   {
     "id": "en-ky-misdeed,-outrage,-villainy,-atrocity-001",
@@ -14261,6 +16353,19 @@
   {
     "id": "en-ky-ministry,-department-001",
     "en": "ministry, department",
+    "ky": "министрлик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "министерство",
+    "senses": [
+      "ministry, department (a department of government, headed by a minister)"
+    ],
+    "frequency": 1374,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-ministry,-department-002",
+    "en": "ministry, department",
     "ky": "министерство",
     "pos": "noun",
     "source": "pivot-ru",
@@ -14271,7 +16376,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE"
   },
   {
-    "id": "en-ky-ministry,-department-002",
+    "id": "en-ky-ministry,-department-003",
     "en": "ministry, department",
     "ky": "бөлүм",
     "pos": "noun",
@@ -14283,19 +16388,6 @@
     "etymology": "From the verb бөлүү (divide).",
     "frequency": 856,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BC"
-  },
-  {
-    "id": "en-ky-ministry,-department-003",
-    "en": "ministry, department",
-    "ky": "министрлик",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "министерство",
-    "senses": [
-      "ministry, department (a department of government, headed by a minister)"
-    ],
-    "frequency": 1374,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%BB%D0%B8%D0%BA"
   },
   {
     "id": "en-ky-mental-illness,-madness,-insanity-001",
@@ -14626,6 +16718,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D2%AF%D1%87%D0%B1%D0%B0%D1%80%D0%B0"
   },
   {
+    "id": "en-ky-misrepresentation,-bias,-falsification,-twisting,-contortion-001",
+    "en": "misrepresentation, bias, falsification, twisting, contortion",
+    "ky": "коррупция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "искажение",
+    "senses": [
+      "misrepresentation, bias, falsification, twisting, contortion (of the truth, etc.)"
+    ],
+    "frequency": 169,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-misrepresentation,-bias,-falsification,-twisting,-contortion-002",
+    "en": "misrepresentation, bias, falsification, twisting, contortion",
+    "ky": "жемкорлук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "искажение",
+    "senses": [
+      "misrepresentation, bias, falsification, twisting, contortion (of the truth, etc.)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BC%D0%BA%D0%BE%D1%80%D0%BB%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-massage-table-001",
     "en": "massage table",
     "ky": "диван",
@@ -14637,6 +16754,34 @@
     ],
     "frequency": 15,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D0%B2%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-machine-man,-mechanic-001",
+    "en": "machine-man, mechanic",
+    "ky": "хирург",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "оператор",
+    "senses": [
+      "machine-man, mechanic"
+    ],
+    "frequency": 16,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B8%D1%80%D1%83%D1%80%D0%B3"
+  },
+  {
+    "id": "en-ky-morning-star-001",
+    "en": "morning star",
+    "ky": "таң",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "денница",
+    "senses": [
+      "morning star"
+    ],
+    "pronunciation": "/tɑŋ/",
+    "etymology": "From Proto-Common Turkic *taŋ.",
+    "frequency": 835,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D2%A3"
   },
   {
     "id": "en-ky-mountaineer,-alpinist-001",
@@ -14703,6 +16848,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D0%B0%D0%BD%D0%BA%D1%8B"
   },
   {
+    "id": "en-ky-mass-003",
+    "en": "mass",
+    "ky": "жер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "масса",
+    "senses": [
+      "mass"
+    ],
+    "pronunciation": "/d͡ʒer/",
+    "etymology": "From Proto-Turkic *yẹr (“earth”).",
+    "frequency": 3009,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80"
+  },
+  {
     "id": "en-ky-mass,-paste-001",
     "en": "mass, paste",
     "ky": "масса",
@@ -14716,6 +16876,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%81%D0%B0"
   },
   {
+    "id": "en-ky-mass,-paste-002",
+    "en": "mass, paste",
+    "ky": "жер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "масса",
+    "senses": [
+      "mass, paste"
+    ],
+    "pronunciation": "/d͡ʒer/",
+    "etymology": "From Proto-Turkic *yẹr (“earth”).",
+    "frequency": 3009,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-mass,-paste-003",
+    "en": "mass, paste",
+    "ky": "месса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "масса",
+    "senses": [
+      "mass, paste"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%81%D1%81%D0%B0"
+  },
+  {
     "id": "en-ky-mass,-bulk-001",
     "en": "mass, bulk",
     "ky": "масса",
@@ -14727,6 +16914,33 @@
     ],
     "frequency": 6,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-mass,-bulk-002",
+    "en": "mass, bulk",
+    "ky": "жер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "масса",
+    "senses": [
+      "mass, bulk"
+    ],
+    "pronunciation": "/d͡ʒer/",
+    "etymology": "From Proto-Turkic *yẹr (“earth”).",
+    "frequency": 3009,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-mass,-bulk-003",
+    "en": "mass, bulk",
+    "ky": "месса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "масса",
+    "senses": [
+      "mass, bulk"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%81%D1%81%D0%B0"
   },
   {
     "id": "en-ky-mixing-001",
@@ -14798,6 +17012,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B7%D0%BC%D0%B5"
   },
   {
+    "id": "en-ky-manifestation,-display,-demonstration-001",
+    "en": "manifestation, display, demonstration",
+    "ky": "өнүгүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "проявление",
+    "senses": [
+      "manifestation, display, demonstration"
+    ],
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BD%D2%AF%D0%B3%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-manifestation,-display,-demonstration-002",
+    "en": "manifestation, display, demonstration",
+    "ky": "дамытуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "проявление",
+    "senses": [
+      "manifestation, display, demonstration"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BC%D1%8B%D1%82%D1%83%D1%83"
+  },
+  {
     "id": "en-ky-medicine,-drug,-preparation-001",
     "en": "medicine, drug, preparation",
     "ky": "каражат",
@@ -14839,7 +17078,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0%D0%BB%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-mass,-bulk-002",
+    "id": "en-ky-mass,-bulk-004",
     "en": "mass, bulk",
     "ky": "массалык",
     "pos": "adj",
@@ -15160,6 +17399,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%82"
   },
   {
+    "id": "en-ky-mark,-grade,-score-004",
+    "en": "mark, grade, score",
+    "ky": "точка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "балл",
+    "senses": [
+      "mark, grade, score"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%87%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-mark,-grade,-score-005",
+    "en": "mark, grade, score",
+    "ky": "чекит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "балл",
+    "senses": [
+      "mark, grade, score"
+    ],
+    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%BA%D0%B8%D1%82"
+  },
+  {
     "id": "en-ky-monkey-wrench,-pipe-wrench,-adjustable-spanner-001",
     "en": "monkey wrench, pipe wrench, adjustable spanner",
     "ky": "сан",
@@ -15173,6 +17437,31 @@
     "etymology": "From Proto-Turkic *sā-n (“number”), from Proto-Turkic *sā- (“to count”). Compare to Kazakh сан (san), Shor сан, etc.",
     "frequency": 1298,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-monkey-wrench,-pipe-wrench,-adjustable-spanner-002",
+    "en": "monkey wrench, pipe wrench, adjustable spanner",
+    "ky": "тоту",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "попка",
+    "senses": [
+      "monkey wrench, pipe wrench, adjustable spanner"
+    ],
+    "etymology": "Borrowed from Persian طوطی (tuti, “parrot”).\nCompare to Southern Altai тотты (tottï), Kazakh тоты (toty), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%82%D1%83"
+  },
+  {
+    "id": "en-ky-monkey-wrench,-pipe-wrench,-adjustable-spanner-003",
+    "en": "monkey wrench, pipe wrench, adjustable spanner",
+    "ky": "тоту куш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "попка",
+    "senses": [
+      "monkey wrench, pipe wrench, adjustable spanner"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%82%D1%83%20%D0%BA%D1%83%D1%88"
   },
   {
     "id": "en-ky-manicure-001",
@@ -15355,6 +17644,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%88%D0%BA%D0%B0%D0%BD%D0%B0"
   },
   {
+    "id": "en-ky-mettlesome-001",
+    "en": "mettlesome",
+    "ky": "ысык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "пылкий",
+    "senses": [
+      "mettlesome"
+    ],
+    "pronunciation": "/ɯˈsɯq/",
+    "etymology": "Cognate with Kazakh ыстық (ystyq), Uzbek issiq, Uyghur ئىسسىق (issiq).",
+    "frequency": 182,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D1%8B%D0%BA"
+  },
+  {
     "id": "en-ky-master-of-ceremonies,-host-001",
     "en": "master of ceremonies, host",
     "ky": "администратор",
@@ -15480,6 +17784,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA-%D0%B4%D0%B0%D1%80%D1%8B%D0%BB%D0%B0%D1%80"
   },
   {
+    "id": "en-ky-match,-equal,-peer,-compeer-001",
+    "en": "match, equal, peer, compeer",
+    "ky": "координат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ровня",
+    "senses": [
+      "match, equal, peer, compeer (attribute equaling or exceeding)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82"
+  },
+  {
     "id": "en-ky-motion-003",
     "en": "motion",
     "ky": "өтүнүч",
@@ -15506,6 +17822,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80%D0%BE%D0%BE"
   },
   {
+    "id": "en-ky-motion-005",
+    "en": "motion",
+    "ky": "костюм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ходатайство",
+    "senses": [
+      "motion"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC"
+  },
+  {
     "id": "en-ky-modernism-001",
     "en": "modernism",
     "ky": "модернизм",
@@ -15516,6 +17844,34 @@
       "modernism (movement of art)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%BC"
+  },
+  {
+    "id": "en-ky-messuage-001",
+    "en": "messuage",
+    "ky": "орун",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "усадьба",
+    "senses": [
+      "messuage"
+    ],
+    "pronunciation": "/oˈrun/",
+    "etymology": "From Proto-Turkic *orun. Compare to Southern Altai орын (orïn), Bashkir урын (urın), Kazakh орын (oryn), Turkish orun, etc.",
+    "frequency": 4040,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%83%D0%BD"
+  },
+  {
+    "id": "en-ky-messuage-002",
+    "en": "messuage",
+    "ky": "зал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "усадьба",
+    "senses": [
+      "messuage"
+    ],
+    "frequency": 111,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BB"
   },
   {
     "id": "en-ky-mailman,-postman,-letter-carrier,-mail-carrier-001",
@@ -15576,6 +17932,21 @@
       "massif, mountain mass"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2"
+  },
+  {
+    "id": "en-ky-mere-001",
+    "en": "mere",
+    "ky": "улуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "сущий",
+    "senses": [
+      "mere"
+    ],
+    "pronunciation": "/uˈluː/",
+    "etymology": "From Proto-Turkic *ulug (“big, great, grown-up”).\nCognate with Bashkir оло (olo), Kazakh ұлы (ūly), Tatar олы (olı), Turkish ulu, Turkmen uly.",
+    "frequency": 597,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83%D1%83"
   },
   {
     "id": "en-ky-mujahid-002",
@@ -15658,6 +18029,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%82%D3%A9%D1%80%D2%AF%D0%BB%D2%AF%D1%88"
   },
   {
+    "id": "en-ky-mechanical-001",
+    "en": "mechanical",
+    "ky": "автоматтык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "механический",
+    "senses": [
+      "mechanical (related to mechanics",
+      "done by machine)"
+    ],
+    "frequency": 34,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-mechanical-002",
+    "en": "mechanical",
+    "ky": "автоматтуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "механический",
+    "senses": [
+      "mechanical (related to mechanics",
+      "done by machine)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%82%D1%83%D1%83"
+  },
+  {
     "id": "en-ky-means-of-transportation-001",
     "en": "means of transportation",
     "ky": "транспорттук каражат",
@@ -15695,6 +18093,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0"
   },
   {
+    "id": "en-ky-miniature-or-toy-car-002",
+    "en": "miniature or toy car",
+    "ky": "жазуучу машинка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "машинка",
+    "senses": [
+      "miniature or toy car"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D1%83%D1%83%D1%87%D1%83%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BA%D0%B0"
+  },
+  {
     "id": "en-ky-minority-001",
     "en": "minority",
     "ky": "азчылык",
@@ -15706,6 +18116,127 @@
     ],
     "frequency": 3,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D1%87%D1%8B%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-most-of-all-001",
+    "en": "most of all",
+    "ky": "эң",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "больше всего",
+    "senses": [
+      "most of all (to a greater extent than anything else)"
+    ],
+    "frequency": 1038,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D2%A3"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-001",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "чындык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "frequency": 184,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-002",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "акыйкат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "etymology": "Borrowed from Classical Persian حَقِیقَت (haqīqat), from Arabic حَقِيقَة (ḥaqīqa).",
+    "frequency": 111,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%B9%D0%BA%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-003",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "жаратылыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "frequency": 41,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D1%82%D1%8B%D0%BB%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-004",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "табият",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "etymology": "From Persian طبیعت (tabi'at), from Arabic طَبِيعَة (ṭabīʕa).",
+    "frequency": 78,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D1%8F%D1%82"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-005",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "натура",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "etymology": "From Russian натура (natura).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-006",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "дене",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "pronunciation": "/deˈne/",
+    "etymology": "From Persian تنه (tane, “body”).",
+    "frequency": 311,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BD%D0%B5"
+  },
+  {
+    "id": "en-ky-model-(to-draw/paint-from),-(living)-subject-007",
+    "en": "model (to draw/paint from), (living) subject",
+    "ky": "тулку",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "натура",
+    "senses": [
+      "model (to draw/paint from), (living) subject"
+    ],
+    "frequency": 18,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BB%D0%BA%D1%83"
+  },
+  {
+    "id": "en-ky-moral,-ethical-001",
+    "en": "moral, ethical",
+    "ky": "моралдык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "нравственный",
+    "senses": [
+      "moral, ethical (conforming to a standard of right behavior)"
+    ],
+    "frequency": 106,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%80%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-misfortune,-mishap,-bad-luck,-failure-001",
@@ -15754,6 +18285,32 @@
       "memory loss, especially in old age"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BA%D0%BB%D0%B5%D1%80%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-moving-off,-moving-away-001",
+    "en": "moving off, moving away",
+    "ky": "аралык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "удаление",
+    "senses": [
+      "moving off, moving away"
+    ],
+    "frequency": 295,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-moving-off,-moving-away-002",
+    "en": "moving off, moving away",
+    "ky": "ара",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "удаление",
+    "senses": [
+      "moving off, moving away"
+    ],
+    "frequency": 1219,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0"
   },
   {
     "id": "en-ky-merger-001",
@@ -15809,6 +18366,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D1%8B"
   },
   {
+    "id": "en-ky-market,-mart,-bazaar-001",
+    "en": "market, mart, bazaar",
+    "ky": "аукцион",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "торг",
+    "senses": [
+      "market, mart, bazaar"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%83%D0%BA%D1%86%D0%B8%D0%BE%D0%BD"
+  },
+  {
     "id": "en-ky-miser,-moneygrubber,-penny-pincher,-cheapskate-001",
     "en": "miser, moneygrubber, penny pincher, cheapskate",
     "ky": "кулак",
@@ -15833,6 +18402,18 @@
       "muzzle (of a firearm)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B2%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-muzzle-002",
+    "en": "muzzle",
+    "ky": "бочка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дуло",
+    "senses": [
+      "muzzle (of a firearm)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%87%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-media-001",
@@ -16005,6 +18586,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80"
   },
   {
+    "id": "en-ky-marker,-highlighter-002",
+    "en": "marker, highlighter",
+    "ky": "ок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "маркер",
+    "senses": [
+      "marker, highlighter (writing instrument)"
+    ],
+    "etymology": "From Proto-Turkic *ok (“arrow”).",
+    "frequency": 1029,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA"
+  },
+  {
     "id": "en-ky-marker-001",
     "en": "marker",
     "ky": "фломастер",
@@ -16017,6 +18612,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80"
   },
   {
+    "id": "en-ky-marker-002",
+    "en": "marker",
+    "ky": "ок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "маркер",
+    "senses": [
+      "marker (morpheme that marks the grammatical role of words, phrases or sentences)"
+    ],
+    "etymology": "From Proto-Turkic *ok (“arrow”).",
+    "frequency": 1029,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA"
+  },
+  {
     "id": "en-ky-marker-beacon-001",
     "en": "marker beacon",
     "ky": "фломастер",
@@ -16027,6 +18636,20 @@
       "marker beacon"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-marker-beacon-002",
+    "en": "marker beacon",
+    "ky": "ок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "маркер",
+    "senses": [
+      "marker beacon"
+    ],
+    "etymology": "From Proto-Turkic *ok (“arrow”).",
+    "frequency": 1029,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA"
   },
   {
     "id": "en-ky-materialism-001",
@@ -16536,6 +19159,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
   },
   {
+    "id": "en-ky-moving-into-separate-homes-001",
+    "en": "moving into separate homes",
+    "ky": "кетүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "разъезд",
+    "senses": [
+      "moving into separate homes"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-mounted-patrol-001",
+    "en": "mounted patrol",
+    "ky": "кетүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "разъезд",
+    "senses": [
+      "mounted patrol"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D2%AF%D2%AF"
+  },
+  {
     "id": "en-ky-maternity-home,-maternity-hospital-001",
     "en": "maternity home, maternity hospital",
     "ky": "төрөт үйү",
@@ -16596,6 +19243,32 @@
       "mesh, gauze"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B6%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-mesh,-gauze-003",
+    "en": "mesh, gauze",
+    "ky": "кабырчык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сетка",
+    "senses": [
+      "mesh, gauze"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D1%80%D1%87%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-mesh,-gauze-004",
+    "en": "mesh, gauze",
+    "ky": "кабык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сетка",
+    "senses": [
+      "mesh, gauze"
+    ],
+    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-motor-ship-001",
@@ -16825,6 +19498,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BD%D1%83%D1%84%D0%B0%D0%BA%D1%82%D1%83%D1%80%D0%B0"
   },
   {
+    "id": "en-ky-mute-001",
+    "en": "mute",
+    "ky": "унчукпоо",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "бессловесный",
+    "senses": [
+      "mute (unable to speak)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D1%87%D1%83%D0%BA%D0%BF%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-meek,-humble,-lowly-001",
+    "en": "meek, humble, lowly",
+    "ky": "унчукпоо",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "бессловесный",
+    "senses": [
+      "meek, humble, lowly (especially in being unwilling to express one's opinion)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D1%87%D1%83%D0%BA%D0%BF%D0%BE%D0%BE"
+  },
+  {
     "id": "en-ky-magnetics-001",
     "en": "magnetics",
     "ky": "магнетизм",
@@ -16895,6 +19592,102 @@
       "marl, malm"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%80%D0%B3%D0%B5%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-machine-for-soil-cultivation-001",
+    "en": "machine for soil cultivation",
+    "ky": "роутер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "machine for soil cultivation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D1%83%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-machine-for-soil-cultivation-002",
+    "en": "machine for soil cultivation",
+    "ky": "раутер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "machine for soil cultivation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D1%83%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-machine-for-soil-cultivation-003",
+    "en": "machine for soil cultivation",
+    "ky": "рутер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "machine for soil cultivation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-machine-for-soil-cultivation-004",
+    "en": "machine for soil cultivation",
+    "ky": "маршрутизатор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "machine for soil cultivation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-milling-machine-001",
+    "en": "milling machine",
+    "ky": "роутер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "milling machine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D1%83%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-milling-machine-002",
+    "en": "milling machine",
+    "ky": "раутер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "milling machine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D1%83%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-milling-machine-003",
+    "en": "milling machine",
+    "ky": "рутер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "milling machine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%83%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-milling-machine-004",
+    "en": "milling machine",
+    "ky": "маршрутизатор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фрезер",
+    "senses": [
+      "milling machine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80"
   },
   {
     "id": "en-ky-meaningful-001",
@@ -16973,6 +19766,123 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D1%83%D1%80%D0%B3%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
   },
   {
+    "id": "en-ky-marvelous,-wonderful-001",
+    "en": "marvelous, wonderful",
+    "ky": "сулуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "pronunciation": "/suˈluː/",
+    "etymology": "Compare to Southern Altai сылу (sïlu), etc.",
+    "frequency": 380,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-002",
+    "en": "marvelous, wonderful",
+    "ky": "көркөм",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%BA%D3%A9%D0%BC"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-003",
+    "en": "marvelous, wonderful",
+    "ky": "кооз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "pronunciation": "/qoːz/",
+    "frequency": 78,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-004",
+    "en": "marvelous, wonderful",
+    "ky": "сонун",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "frequency": 199,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BD%D1%83%D0%BD"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-005",
+    "en": "marvelous, wonderful",
+    "ky": "чырайлуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "etymology": "equivalent to чырай (cıray, “(line of) face”) + -луу (-luu, ornative suffix).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%B9%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-006",
+    "en": "marvelous, wonderful",
+    "ky": "чырай жүздүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%B9%20%D0%B6%D2%AF%D0%B7%D0%B4%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-007",
+    "en": "marvelous, wonderful",
+    "ky": "укмуштай",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D0%BC%D1%83%D1%88%D1%82%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-008",
+    "en": "marvelous, wonderful",
+    "ky": "ажайып",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "frequency": 90,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D0%B0%D0%B9%D1%8B%D0%BF"
+  },
+  {
+    "id": "en-ky-marvelous,-wonderful-009",
+    "en": "marvelous, wonderful",
+    "ky": "көйүткөн",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чудный",
+    "senses": [
+      "marvelous, wonderful"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B9%D2%AF%D1%82%D0%BA%D3%A9%D0%BD"
+  },
+  {
     "id": "en-ky-macroeconomic-001",
     "en": "macroeconomic",
     "ky": "макроэкономикалык",
@@ -17044,6 +19954,19 @@
       "mother-of-pearl, nacre"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B4%D0%B5%D0%BF"
+  },
+  {
+    "id": "en-ky-malapropism,-howler-001",
+    "en": "malapropism, howler",
+    "ky": "бермет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "перл",
+    "senses": [
+      "malapropism, howler"
+    ],
+    "pronunciation": "/berˈmet/",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D1%80%D0%BC%D0%B5%D1%82"
   },
   {
     "id": "en-ky-messenger,-liaison-001",
@@ -17164,6 +20087,20 @@
     ],
     "frequency": 28,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD%D0%B4%D0%B8"
+  },
+  {
+    "id": "en-ky-male-equivalent-of-мышь-(myšʹ):-001",
+    "en": "male equivalent of мышь (myšʹ):",
+    "ky": "чычкан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мыш",
+    "senses": [
+      "male equivalent of мышь (myšʹ):"
+    ],
+    "etymology": "From Proto-Turkic *sïčgan (“mouse”).\nOften considered a nomen agentis from the verb *sïč- (“to defecate”). Cognate with\nOld Uyghur syčγ՚n (sïčɣan, “mouse”);\nKarakhanid سِجْغانْ (sïčɣān, “mouse”),\nTatar тычкан (tıçqan),\nBashkir сысҡан (sısqan),\nSouthern Altai чычкан (čïčkan),\nCrimean Tatar sıçan,\nKumyk чычкъан (çıçqan),\nKazakh шышқан (şyşqan),\nShor шышқан (šïšqan),\nUzbek sichqon,\nUyghur چاشقان (chashqan),\nAzerbaijani siçan,\nTurkmen syçan,\nTurkish sıçan (“rat”),\netc.\nThe computing sense is a semantic loan from English mouse.",
+    "frequency": 10,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%87%D0%BA%D0%B0%D0%BD"
   },
   {
     "id": "en-ky-magnetosphere-001",
@@ -17306,6 +20243,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-mezzanine-001",
+    "en": "mezzanine",
+    "ky": "чердак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "антресоль",
+    "senses": [
+      "mezzanine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B4%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-mezzanine-002",
+    "en": "mezzanine",
+    "ky": "чатыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "антресоль",
+    "senses": [
+      "mezzanine"
+    ],
+    "etymology": "From Proto-Turkic *čātïr. Cognate to Southern Altai чадыр (čadïr) / чатыр (čatïr) / шатыр (šatïr), Kazakh шатыр (şatyr), Karaim čatyr / čadyr, catyr, Kumyk чатыр (çatır), Tatar чатыр (çatır), Bashkir сатыр (satır), etc.",
+    "frequency": 119,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80"
+  },
+  {
     "id": "en-ky-madness,-insanity-001",
     "en": "madness, insanity",
     "ky": "жиндилик",
@@ -17316,6 +20279,32 @@
       "madness, insanity"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD%D0%B4%D0%B8%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-marking-001",
+    "en": "marking",
+    "ky": "баалоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "разметка",
+    "senses": [
+      "marking"
+    ],
+    "etymology": "From баа (baa, “price, value”) + -ла (-la, “verb-forming suffix”). Compare to Southern Altai баала- (baala-, “appraise, price, evaluate, estimate”), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-markup-001",
+    "en": "markup",
+    "ky": "баалоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "разметка",
+    "senses": [
+      "markup"
+    ],
+    "etymology": "From баа (baa, “price, value”) + -ла (-la, “verb-forming suffix”). Compare to Southern Altai баала- (baala-, “appraise, price, evaluate, estimate”), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-monotheistic-001",
@@ -17364,6 +20353,34 @@
       "microclimate"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BA%D0%BB%D0%B8%D0%BC%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-moisturization,-humidification,-hydration-001",
+    "en": "moisturization, humidification, hydration",
+    "ky": "ым",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "увлажнение",
+    "senses": [
+      "moisturization, humidification, hydration"
+    ],
+    "frequency": 34,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-moisturization,-humidification,-hydration-002",
+    "en": "moisturization, humidification, hydration",
+    "ky": "ным",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "увлажнение",
+    "senses": [
+      "moisturization, humidification, hydration"
+    ],
+    "pronunciation": "/nɯm/",
+    "etymology": "From Persian نم (nam)",
+    "frequency": 34,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D1%8B%D0%BC"
   },
   {
     "id": "en-ky-manti,-mantou-001",
@@ -17439,6 +20456,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%80%D0%B1%D3%A9%D0%B1%D3%A9%D0%BA"
   },
   {
+    "id": "en-ky-molding-001",
+    "en": "molding",
+    "ky": "жол болбоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "облом",
+    "senses": [
+      "molding"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB%20%D0%B1%D0%BE%D0%BB%D0%B1%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-molding-002",
+    "en": "molding",
+    "ky": "иш ордунан чыкпай калуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "облом",
+    "senses": [
+      "molding"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88%20%D0%BE%D1%80%D0%B4%D1%83%D0%BD%D0%B0%D0%BD%20%D1%87%D1%8B%D0%BA%D0%BF%D0%B0%D0%B9%20%D0%BA%D0%B0%D0%BB%D1%83%D1%83"
+  },
+  {
     "id": "en-ky-medvedka-001",
     "en": "Medvedka",
     "ky": "аюучук",
@@ -17463,6 +20504,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B7%D0%BC"
   },
   {
+    "id": "en-ky-magnificent-building,-palace-001",
+    "en": "magnificent building, palace",
+    "ky": "зал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "чертог",
+    "senses": [
+      "magnificent building, palace"
+    ],
+    "frequency": 111,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BB"
+  },
+  {
     "id": "en-ky-mentally-sick,-insane,-mad,-crazy,-lunatic-001",
     "en": "mentally sick, insane, mad, crazy, lunatic",
     "ky": "жинди",
@@ -17474,6 +20528,58 @@
     ],
     "frequency": 28,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD%D0%B4%D0%B8"
+  },
+  {
+    "id": "en-ky-manner-of-speech-001",
+    "en": "manner of speech",
+    "ky": "юрист",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "говорок",
+    "senses": [
+      "manner of speech"
+    ],
+    "frequency": 17,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D1%80%D0%B8%D1%81%D1%82"
+  },
+  {
+    "id": "en-ky-manner-of-speech-002",
+    "en": "manner of speech",
+    "ky": "адвокат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "говорок",
+    "senses": [
+      "manner of speech"
+    ],
+    "frequency": 336,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B2%D0%BE%D0%BA%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-murmur-005",
+    "en": "murmur",
+    "ky": "юрист",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "говорок",
+    "senses": [
+      "murmur"
+    ],
+    "frequency": 17,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D1%80%D0%B8%D1%81%D1%82"
+  },
+  {
+    "id": "en-ky-murmur-006",
+    "en": "murmur",
+    "ky": "адвокат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "говорок",
+    "senses": [
+      "murmur"
+    ],
+    "frequency": 336,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B2%D0%BE%D0%BA%D0%B0%D1%82"
   },
   {
     "id": "en-ky-meningitis-001",
@@ -17512,6 +20618,18 @@
     ],
     "frequency": 125,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9-%D0%B1%D2%AF%D0%BB%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-mistrustfulness,-suspiciousness-001",
+    "en": "mistrustfulness, suspiciousness",
+    "ky": "ипохондрия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мнительность",
+    "senses": [
+      "mistrustfulness, suspiciousness"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BF%D0%BE%D1%85%D0%BE%D0%BD%D0%B4%D1%80%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-monkey-003",
@@ -17657,6 +20775,42 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%83%D0%BB"
   },
   {
+    "id": "en-ky-money-006",
+    "en": "money",
+    "ky": "монета",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пенязь",
+    "senses": [
+      "money"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-money-007",
+    "en": "money",
+    "ky": "жетон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пенязь",
+    "senses": [
+      "money"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D1%82%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-meringue-001",
+    "en": "meringue",
+    "ky": "өбүш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "безе",
+    "senses": [
+      "meringue (mixture)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B1%D2%AF%D1%88"
+  },
+  {
     "id": "en-ky-militarist-001",
     "en": "militarist",
     "ky": "милитарист",
@@ -17695,6 +20849,35 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B3%D0%B0%D0%BD%D1%87%D1%8B"
   },
   {
+    "id": "en-ky-message-004",
+    "en": "message",
+    "ky": "жамаат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "соо",
+    "senses": [
+      "message (in an online chat or messenger application)"
+    ],
+    "pronunciation": "/d͡ʒɑmɑːt/",
+    "etymology": "From Arabic جَمَاعَة (jamāʕa).",
+    "frequency": 101,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%B0%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-message-005",
+    "en": "message",
+    "ky": "коом",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "соо",
+    "senses": [
+      "message (in an online chat or messenger application)"
+    ],
+    "etymology": "From Arabic قَوْم (qawm).",
+    "frequency": 527,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BC"
+  },
+  {
     "id": "en-ky-militiaman,-militia-member-001",
     "en": "militiaman, militia member",
     "ky": "милиционер",
@@ -17705,6 +20888,43 @@
       "militiaman, militia member"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%BB%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-moth,-night-fly-001",
+    "en": "moth, night fly",
+    "ky": "проститутка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ночная бабочка",
+    "senses": [
+      "moth, night fly"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-moth,-night-fly-002",
+    "en": "moth, night fly",
+    "ky": "сойку",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ночная бабочка",
+    "senses": [
+      "moth, night fly"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B9%D0%BA%D1%83"
+  },
+  {
+    "id": "en-ky-moth,-night-fly-003",
+    "en": "moth, night fly",
+    "ky": "жалап",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ночная бабочка",
+    "senses": [
+      "moth, night fly"
+    ],
+    "etymology": "Borrowed from Persian جلب, from Arabic جَلَب (jalab, “merchendise”). Cognates with Kazakh жәлеп (jälep).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%BF"
   },
   {
     "id": "en-ky-milk-container-001",
@@ -17731,6 +20951,31 @@
       "meniscus"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%D0%B8%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-marlinspike-001",
+    "en": "marlinspike",
+    "ky": "миз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "свайка",
+    "senses": [
+      "marlinspike"
+    ],
+    "etymology": "From Proto-Turkic *bińŕ.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-marlinspike-002",
+    "en": "marlinspike",
+    "ky": "шибеге",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "свайка",
+    "senses": [
+      "marlinspike"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D0%B1%D0%B5%D0%B3%D0%B5"
   },
   {
     "id": "en-ky-maltose-001",
@@ -17805,5 +21050,33 @@
       "myrtle"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D1%80%D1%82"
+  },
+  {
+    "id": "en-ky-mass-murder-002",
+    "en": "mass murder",
+    "ky": "согуш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кровопускание",
+    "senses": [
+      "mass murder"
+    ],
+    "pronunciation": "/soˈʁuʃ/",
+    "etymology": "From *soquš (“war”), from Proto-Turkic *sok- (“to hit, to beat”). Cognate with Bashkir һуғыш (huğış), Kazakh соғыс (soğys), Shor соғуш (“fighting, battle”), and Tatar сугыш (suğış).",
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B3%D1%83%D1%88"
+  },
+  {
+    "id": "en-ky-mass-murder-003",
+    "en": "mass murder",
+    "ky": "уруш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кровопускание",
+    "senses": [
+      "mass murder"
+    ],
+    "frequency": 84,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D1%88"
   }
 ]

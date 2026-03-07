@@ -3526,6 +3526,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83%D1%83"
   },
   {
+    "id": "en-ky-grown-up-003",
+    "en": "grown-up",
+    "ky": "маанилүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "большой",
+    "senses": [
+      "grown-up"
+    ],
+    "frequency": 239,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%B0%D0%BD%D0%B8%D0%BB%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-grown-up-004",
+    "en": "grown-up",
+    "ky": "олуттуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "большой",
+    "senses": [
+      "grown-up"
+    ],
+    "pronunciation": "/olutːuː/",
+    "etymology": "From олут (olut) + -туу (-tuu)",
+    "frequency": 261,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BB%D1%83%D1%82%D1%82%D1%83%D1%83"
+  },
+  {
     "id": "en-ky-grapnel,-drag-001",
     "en": "grapnel, drag",
     "ky": "мышык",
@@ -3647,6 +3675,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B0"
   },
   {
+    "id": "en-ky-genitive-plural-of-лука́-003",
+    "en": "genitive plural of лука́",
+    "ky": "смычок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лук",
+    "senses": [
+      "genitive plural of лука́ (luká)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BC%D1%8B%D1%87%D0%BE%D0%BA"
+  },
+  {
     "id": "en-ky-genitive-plural-of-ка́ка-001",
     "en": "genitive plural of ка́ка",
     "ky": "-дай",
@@ -3720,6 +3760,18 @@
       "grip"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D0%B3%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-grip-005",
+    "en": "grip",
+    "ky": "рычаг",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ручка",
+    "senses": [
+      "grip"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D1%8B%D1%87%D0%B0%D0%B3"
   },
   {
     "id": "en-ky-gnat-001",
@@ -3803,6 +3855,21 @@
     ],
     "frequency": 67,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%BB%D1%83%D2%A3"
+  },
+  {
+    "id": "en-ky-gullet-006",
+    "en": "gullet",
+    "ky": "моюн",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "горло",
+    "senses": [
+      "gullet"
+    ],
+    "pronunciation": "/moˈjun/",
+    "etymology": "From Proto-Turkic *bōń.",
+    "frequency": 699,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%8E%D0%BD"
   },
   {
     "id": "en-ky-gentleman-001",
@@ -4030,6 +4097,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80"
   },
   {
+    "id": "en-ky-grandma,-granny-(short-for-ба́бушка-(bábuška))-004",
+    "en": "grandma, granny (short for ба́бушка (bábuška))",
+    "ky": "кой",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баба",
+    "senses": [
+      "grandma, granny (short for ба́бушка (bábuška))"
+    ],
+    "etymology": "From Proto-Turkic; cognate with Kazakh қой (qoi), Uzbek qoʻy, Azerbaijani qoyun, Turkmen goýun, Turkish koyun.",
+    "frequency": 6424,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B9"
+  },
+  {
+    "id": "en-ky-grandma,-granny-(short-for-ба́бушка-(bábuška))-005",
+    "en": "grandma, granny (short for ба́бушка (bábuška))",
+    "ky": "кочкор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баба",
+    "senses": [
+      "grandma, granny (short for ба́бушка (bábuška))"
+    ],
+    "frequency": 209,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%87%D0%BA%D0%BE%D1%80"
+  },
+  {
     "id": "en-ky-genitive-plural-of-но́ска-001",
     "en": "genitive plural of но́ска",
     "ky": "байпак",
@@ -4073,18 +4167,6 @@
   {
     "id": "en-ky-glitter,-sparkle,-radiance-001",
     "en": "glitter, sparkle, radiance",
-    "ky": "ойноо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "игра",
-    "senses": [
-      "glitter, sparkle, radiance (of precious stones)"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%BD%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-glitter,-sparkle,-radiance-002",
-    "en": "glitter, sparkle, radiance",
     "ky": "оюн",
     "pos": "noun",
     "source": "pivot-ru",
@@ -4096,6 +4178,18 @@
     "etymology": "From Proto-Turkic *ōyun (“game, amusement”), from Proto-Turkic *ōy- (“to play; to jump”).",
     "frequency": 195,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD"
+  },
+  {
+    "id": "en-ky-glitter,-sparkle,-radiance-002",
+    "en": "glitter, sparkle, radiance",
+    "ky": "ойноо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "игра",
+    "senses": [
+      "glitter, sparkle, radiance (of precious stones)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B9%D0%BD%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-genitive-singular-of-пенёк-001",
@@ -4137,6 +4231,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%87%D0%BA%D0%B8"
   },
   {
+    "id": "en-ky-goat,-he-goat,-billygoat-002",
+    "en": "goat, he-goat, billygoat",
+    "ky": "кумса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козёл",
+    "senses": [
+      "goat, he-goat, billygoat"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-goat,-he-goat,-billygoat-003",
+    "en": "goat, he-goat, billygoat",
+    "ky": "гомосексуалист",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козёл",
+    "senses": [
+      "goat, he-goat, billygoat"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BC%D0%BE%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D0%B8%D1%81%D1%82"
+  },
+  {
     "id": "en-ky-game-of-dominoes-001",
     "en": "game of dominoes",
     "ky": "эчки",
@@ -4150,6 +4268,30 @@
     "etymology": "From Proto-Turkic *äčkü (“goat”).",
     "frequency": 237,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%87%D0%BA%D0%B8"
+  },
+  {
+    "id": "en-ky-game-of-dominoes-002",
+    "en": "game of dominoes",
+    "ky": "кумса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козёл",
+    "senses": [
+      "game of dominoes"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-game-of-dominoes-003",
+    "en": "game of dominoes",
+    "ky": "гомосексуалист",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козёл",
+    "senses": [
+      "game of dominoes"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BC%D0%BE%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D0%B8%D1%81%D1%82"
   },
   {
     "id": "en-ky-genitive-plural-of-ле́то-001",
@@ -4206,6 +4348,18 @@
     "etymology": "From Proto-Turkic *tütün.",
     "frequency": 282,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%82%D2%AF%D0%BD"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-кол-001",
+    "en": "genitive singular of кол",
+    "ky": "Кока-кола",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кола",
+    "senses": [
+      "genitive singular of кол (kol)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BB%D0%B0"
   },
   {
     "id": "en-ky-grade-(united-states);-form-(british)-001",
@@ -4455,6 +4609,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D1%81%D1%82%D0%B0%D0%BD"
   },
   {
+    "id": "en-ky-genitive/accusative-singular-of-жира́ф-001",
+    "en": "genitive/accusative singular of жира́ф",
+    "ky": "жираф",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "жирафа",
+    "senses": [
+      "genitive/accusative singular of жира́ф (žiráf)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D1%80%D0%B0%D1%84"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-жира́ф-002",
+    "en": "genitive/accusative singular of жира́ф",
+    "ky": "акыра",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "жирафа",
+    "senses": [
+      "genitive/accusative singular of жира́ф (žiráf)"
+    ],
+    "pronunciation": "/ɑqɯˈrɑ/",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D1%80%D0%B0"
+  },
+  {
     "id": "en-ky-genitive/accusative-plural-of-жира́фа-001",
     "en": "genitive/accusative plural of жира́фа",
     "ky": "жираф",
@@ -4572,6 +4751,20 @@
     "pronunciation": "[qanˈt͡ʃɯq]",
     "etymology": "Compare Turkish kancık (“female dog; bitch (vulgar)”).",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%87%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-лук-001",
+    "en": "genitive singular of лук",
+    "ky": "каш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лука",
+    "senses": [
+      "genitive singular of лук (luk)"
+    ],
+    "etymology": "From Proto-Turkic *kāĺ. Cognate to Southern Altai каш (kaš, “shore”).",
+    "frequency": 375,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88"
   },
   {
     "id": "en-ky-good,-nice,-fine-001",
@@ -4749,6 +4942,33 @@
       "genitive singular of банк (bank)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-glib,-fluent-001",
+    "en": "glib, fluent",
+    "ky": "курч",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "бойкий",
+    "senses": [
+      "glib, fluent"
+    ],
+    "etymology": "From Proto-Turkic *kurč (“hard, firm, stout”).\nCognate with\nOld Uyghur qurč (“firm, stout”);\nSouthern Altai курч (kurč, “steel; sharp”),\nTatar корыч (qorıç, “steel”),\nBashkir ҡорос (qoros, “steel”),\nKarachay-Balkar къурч (qurç, “steel”),\nKumyk къурч (qurç, “brisk, vigorous”), etc.",
+    "frequency": 160,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%87"
+  },
+  {
+    "id": "en-ky-glib,-fluent-002",
+    "en": "glib, fluent",
+    "ky": "кескин",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "бойкий",
+    "senses": [
+      "glib, fluent"
+    ],
+    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B8%D0%BD"
   },
   {
     "id": "en-ky-genitive-plural-of-ве́ко-001",
@@ -4930,6 +5150,18 @@
       "genitive singular"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-genitive-singular-011",
+    "en": "genitive singular",
+    "ky": "айры",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вилка",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%80%D1%8B"
   },
   {
     "id": "en-ky-ghost,-spectre-001",
@@ -5308,6 +5540,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB"
   },
   {
+    "id": "en-ky-genitive-plural-of-пола́-004",
+    "en": "genitive plural of пола́",
+    "ky": "жарым",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пол",
+    "senses": [
+      "genitive plural of пола́ (polá)"
+    ],
+    "etymology": "From жар- (jar-) + -ым (-ım). Cognate with Southern Altai јарым (ǰarïm), Turkish yarım.",
+    "frequency": 419,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-пола́-005",
+    "en": "genitive plural of пола́",
+    "ky": "жарты",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пол",
+    "senses": [
+      "genitive plural of пола́ (polá)"
+    ],
+    "frequency": 33,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%82%D1%8B"
+  },
+  {
     "id": "en-ky-genitive/accusative-plural-of-ба́рин-001",
     "en": "genitive/accusative plural of ба́рин",
     "ky": "араккана",
@@ -5410,7 +5669,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B5"
   },
   {
-    "id": "en-ky-genitive-singular-011",
+    "id": "en-ky-genitive-singular-012",
     "en": "genitive singular",
     "ky": "бала",
     "pos": "noun",
@@ -5425,7 +5684,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-012",
+    "id": "en-ky-genitive-singular-013",
     "en": "genitive singular",
     "ky": "наристе",
     "pos": "noun",
@@ -5609,6 +5868,186 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BD"
   },
   {
+    "id": "en-ky-ghost-004",
+    "en": "ghost",
+    "ky": "акыл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "pronunciation": "/ɑˈqɯɫ/",
+    "etymology": "From Persian عقل, from Arabic عَقْل (ʕaql, “understanding, reason, wisdom, sound judgment; mind”).",
+    "frequency": 1161,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-ghost-005",
+    "en": "ghost",
+    "ky": "дем алуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%20%D0%B0%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-ghost-006",
+    "en": "ghost",
+    "ky": "дем тартуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC%20%D1%82%D0%B0%D1%80%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-ghost-007",
+    "en": "ghost",
+    "ky": "дем",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "frequency": 514,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%BC"
+  },
+  {
+    "id": "en-ky-ghost-008",
+    "en": "ghost",
+    "ky": "ичке дем тартуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%BA%D0%B5%20%D0%B4%D0%B5%D0%BC%20%D1%82%D0%B0%D1%80%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-ghost-009",
+    "en": "ghost",
+    "ky": "өмүр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "pronunciation": "/øˈmyr/",
+    "etymology": "Borrowed from Persian عمر ('omr), from Arabic عُمْر (ʕumr).",
+    "frequency": 727,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BC%D2%AF%D1%80"
+  },
+  {
+    "id": "en-ky-ghost-010",
+    "en": "ghost",
+    "ky": "тиричилик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "frequency": 93,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%B8%D1%87%D0%B8%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-ghost-011",
+    "en": "ghost",
+    "ky": "болмуш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BB%D0%BC%D1%83%D1%88"
+  },
+  {
+    "id": "en-ky-ghost-012",
+    "en": "ghost",
+    "ky": "жашоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-ghost-013",
+    "en": "ghost",
+    "ky": "турмуш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "frequency": 389,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%80%D0%BC%D1%83%D1%88"
+  },
+  {
+    "id": "en-ky-ghost-014",
+    "en": "ghost",
+    "ky": "желдөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B4%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-ghost-015",
+    "en": "ghost",
+    "ky": "кайрат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "etymology": "From Classical Persian غیرت (ġayrat)",
+    "frequency": 263,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-ghost-016",
+    "en": "ghost",
+    "ky": "кайраттуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0%D1%82%D1%82%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-ghost-017",
+    "en": "ghost",
+    "ky": "жүрөктүүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дух",
+    "senses": [
+      "ghost"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D1%80%D3%A9%D0%BA%D1%82%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
     "id": "en-ky-genitive-singular-of-душ-001",
     "en": "genitive singular of душ",
     "ky": "рух",
@@ -5783,6 +6222,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80"
   },
   {
+    "id": "en-ky-genitive-plural-of-бора́-002",
+    "en": "genitive plural of бора́",
+    "ky": "дрель",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бор",
+    "senses": [
+      "genitive plural of бора́ (borá)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%80%D0%B5%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-genitive-plural-of-бо́ра-001",
     "en": "genitive plural of бо́ра",
     "ky": "бор",
@@ -5794,6 +6245,18 @@
     ],
     "frequency": 23,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-бо́ра-002",
+    "en": "genitive plural of бо́ра",
+    "ky": "дрель",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бор",
+    "senses": [
+      "genitive plural of бо́ра (bóra)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%80%D0%B5%D0%BB%D1%8C"
   },
   {
     "id": "en-ky-genitive-plural-of-лития́-001",
@@ -5848,6 +6311,18 @@
     "etymology": "From Persian جفتای (joftây).",
     "frequency": 117,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%B1%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-пар-004",
+    "en": "genitive singular of пар",
+    "ky": "костюм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пара",
+    "senses": [
+      "genitive singular of пар (par)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC"
   },
   {
     "id": "en-ky-genitive-plural-001",
@@ -5939,6 +6414,59 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%87%D1%82%D0%B0%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B0%D1%81%D1%8B"
   },
   {
+    "id": "en-ky-grade,-quality-004",
+    "en": "grade, quality",
+    "ky": "баалоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "grade, quality (of a product)"
+    ],
+    "etymology": "From баа (baa, “price, value”) + -ла (-la, “verb-forming suffix”). Compare to Southern Altai баала- (baala-, “appraise, price, evaluate, estimate”), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D0%BB%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-grade,-quality-005",
+    "en": "grade, quality",
+    "ky": "мөөр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "grade, quality (of a product)"
+    ],
+    "pronunciation": "[møːr]",
+    "etymology": "From Arabic مُهْر (muhr).",
+    "frequency": 103,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D3%A9%D1%80"
+  },
+  {
+    "id": "en-ky-grade,-quality-006",
+    "en": "grade, quality",
+    "ky": "печать",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "grade, quality (of a product)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C"
+  },
+  {
+    "id": "en-ky-grade,-quality-007",
+    "en": "grade, quality",
+    "ky": "штамп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "марка",
+    "senses": [
+      "grade, quality (of a product)"
+    ],
+    "frequency": 7,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D0%BC%D0%BF"
+  },
+  {
     "id": "en-ky-genitive/accusative-singular-of-поли́тик-001",
     "en": "genitive/accusative singular of поли́тик",
     "ky": "саясат",
@@ -6004,6 +6532,50 @@
     "etymology": "From Kipchak كویاگو (küyägü), from Proto-Turkic *küdegü (“young husband; son-in-law”).",
     "frequency": 370,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B9%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-great-man-003",
+    "en": "great man",
+    "ky": "эркек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "муж",
+    "senses": [
+      "great man (man at the forefront of his field or discipline)"
+    ],
+    "pronunciation": "/erˈkek/",
+    "etymology": "From Proto-Turkic *ẹrkek. Cognate with Kazakh еркек (erkek), Crimean Tatar erkek, Kumyk эркек (erkek), Azerbaijani erkək, Turkish erkek, etc.",
+    "frequency": 390,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%80%D0%BA%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-great-man-004",
+    "en": "great man",
+    "ky": "киши",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "муж",
+    "senses": [
+      "great man (man at the forefront of his field or discipline)"
+    ],
+    "etymology": "From Proto-Turkic *kiĺi.",
+    "frequency": 2479,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%88%D0%B8"
+  },
+  {
+    "id": "en-ky-great-man-005",
+    "en": "great man",
+    "ky": "адам",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "муж",
+    "senses": [
+      "great man (man at the forefront of his field or discipline)"
+    ],
+    "pronunciation": "/ɑˈdɑm/",
+    "etymology": "From Persian آدم (âdam), from Arabic آدَم (ʔādam).",
+    "frequency": 6300,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B0%D0%BC"
   },
   {
     "id": "en-ky-genitive/accusative-plural-of-супру́га-001",
@@ -6138,6 +6710,21 @@
     "etymology": "From *sabaq (“stem of plant; haulm; sprout”), which is a diminutive form from\nProto-Turkic *sāp (“stem of plant”).\nCognate with Bashkir һабаҡ (habaq), Tatar, Southern Altai сабак (sabaq), Shor, Kazakh сабақ (sabaq),\nKarachay-Balkar сабакъ (sabaq, “stem, stalk”);\nYakut сабаҕа (sabağa, “butt end of tree”).",
     "frequency": 166,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-у́рка-004",
+    "en": "genitive/accusative plural of у́рка",
+    "ky": "тапшырма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "урок",
+    "senses": [
+      "genitive/accusative plural of у́рка (úrka)"
+    ],
+    "pronunciation": "[tapʃɯrˈma]",
+    "etymology": "From тапшыр- (tapşır-, “to delegate”) + -ма (-ma).",
+    "frequency": 258,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BF%D1%88%D1%8B%D1%80%D0%BC%D0%B0"
   },
   {
     "id": "en-ky-genitive-plural-of-ра́ка-001",
@@ -6279,6 +6866,92 @@
       "genitive/accusative singular of стрело́к (strelók)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-стрело́к-002",
+    "en": "genitive/accusative singular of стрело́к",
+    "ky": "жебе",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стрелка",
+    "senses": [
+      "genitive/accusative singular of стрело́к (strelók)"
+    ],
+    "etymology": "Relate to Kazakh жебе (jebe), Southern Altai јебе (ǰebe).",
+    "frequency": 98,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%B1%D0%B5"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-стрело́к-003",
+    "en": "genitive/accusative singular of стрело́к",
+    "ky": "ийне",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стрелка",
+    "senses": [
+      "genitive/accusative singular of стрело́к (strelók)"
+    ],
+    "etymology": "From Proto-Turkic *igne.",
+    "frequency": 55,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B9%D0%BD%D0%B5"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-стрело́к-004",
+    "en": "genitive/accusative singular of стрело́к",
+    "ky": "бака",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стрелка",
+    "senses": [
+      "genitive/accusative singular of стрело́к (strelók)"
+    ],
+    "pronunciation": "/bɑˈqɑ/",
+    "etymology": "From Proto-Turkic *bāka (“[uncertain meaning; possibilies include: frog or turtle/tortoise]”). Cognate with Old Turkic [script needed] (baka), Kazakh бақа (baqa), Crimean Tatar baqa, Kumyk бакъа (baqa), Tatar бака (baqa), Bashkir баҡа (baqa), Shor паға, Tuvan пага (paga), Western Yugur paqa, Uyghur پاقا (paqa), Yakut баҕа (bağa), Turkmen baga, Turkish bağa, etc.",
+    "frequency": 66,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-стрело́к-005",
+    "en": "genitive/accusative singular of стрело́к",
+    "ky": "баскыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стрелка",
+    "senses": [
+      "genitive/accusative singular of стрело́к (strelók)"
+    ],
+    "pronunciation": "/basˈqɯt͡ʃ/",
+    "etymology": "From бас- (bas-) + -кыч (-kıc). Compare to Southern Altai баскыш (baskïš), etc.",
+    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-стрело́к-006",
+    "en": "genitive/accusative singular of стрело́к",
+    "ky": "тепкич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стрелка",
+    "senses": [
+      "genitive/accusative singular of стрело́к (strelók)"
+    ],
+    "pronunciation": "/tepˈkit͡ʃ/",
+    "etymology": "From теп- (tep-) + -кич (-kic). Compare to Southern Altai тепкиш (tepkiš, “ladder, stair, staircase”), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BF%D0%BA%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-стрело́к-007",
+    "en": "genitive/accusative singular of стрело́к",
+    "ky": "шаты",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стрелка",
+    "senses": [
+      "genitive/accusative singular of стрело́к (strelók)"
+    ],
+    "pronunciation": "/ʃaˈtɯ/",
+    "etymology": "Cognate with Kazakh саты (saty)",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%82%D1%8B"
   },
   {
     "id": "en-ky-grandfather-003",
@@ -6503,7 +7176,145 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA"
   },
   {
+    "id": "en-ky-generation-006",
+    "en": "generation",
+    "ky": "жарыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "племя",
+    "senses": [
+      "generation"
+    ],
+    "frequency": 16,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-generation-007",
+    "en": "generation",
+    "ky": "раса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "племя",
+    "senses": [
+      "generation"
+    ],
+    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-generation-008",
+    "en": "generation",
+    "ky": "порода",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "племя",
+    "senses": [
+      "generation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%80%D0%BE%D0%B4%D0%B0"
+  },
+  {
+    "id": "en-ky-gas-water-heater-001",
+    "en": "gas water heater",
+    "ky": "түркүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колонка",
+    "senses": [
+      "gas water heater"
+    ],
+    "pronunciation": "[tyrˈcyc]",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BA%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-gas-water-heater-002",
+    "en": "gas water heater",
+    "ky": "столб",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колонка",
+    "senses": [
+      "gas water heater"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB%D0%B1"
+  },
+  {
+    "id": "en-ky-gas-water-heater-003",
+    "en": "gas water heater",
+    "ky": "колонна",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колонка",
+    "senses": [
+      "gas water heater"
+    ],
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-колоно́к-001",
+    "en": "genitive/accusative singular of колоно́к",
+    "ky": "түркүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колонка",
+    "senses": [
+      "genitive/accusative singular of колоно́к (kolonók)"
+    ],
+    "pronunciation": "[tyrˈcyc]",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BA%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-колоно́к-002",
+    "en": "genitive/accusative singular of колоно́к",
+    "ky": "столб",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колонка",
+    "senses": [
+      "genitive/accusative singular of колоно́к (kolonók)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB%D0%B1"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-колоно́к-003",
+    "en": "genitive/accusative singular of колоно́к",
+    "ky": "колонна",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колонка",
+    "senses": [
+      "genitive/accusative singular of колоно́к (kolonók)"
+    ],
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0"
+  },
+  {
     "id": "en-ky-gasoline-pump-001",
+    "en": "gasoline pump",
+    "ky": "бензоколонка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бензозаправочная колонка",
+    "senses": [
+      "gasoline pump"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gasoline-pump-002",
+    "en": "gasoline pump",
+    "ky": "бензозаправка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бензозаправочная колонка",
+    "senses": [
+      "gasoline pump"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gasoline-pump-003",
     "en": "gasoline pump",
     "ky": "бензин насосу",
     "pos": "noun",
@@ -6515,7 +7326,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD%20%D0%BD%D0%B0%D1%81%D0%BE%D1%81%D1%83"
   },
   {
-    "id": "en-ky-gasoline-pump-002",
+    "id": "en-ky-gasoline-pump-004",
     "en": "gasoline pump",
     "ky": "жанар май насосу",
     "pos": "noun",
@@ -6525,30 +7336,6 @@
       "gasoline pump"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BD%D0%B0%D1%80%20%D0%BC%D0%B0%D0%B9%20%D0%BD%D0%B0%D1%81%D0%BE%D1%81%D1%83"
-  },
-  {
-    "id": "en-ky-gasoline-pump-003",
-    "en": "gasoline pump",
-    "ky": "бензоколонка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бензоколонка",
-    "senses": [
-      "gasoline pump"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B0"
-  },
-  {
-    "id": "en-ky-gasoline-pump-004",
-    "en": "gasoline pump",
-    "ky": "бензозаправка",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "бензоколонка",
-    "senses": [
-      "gasoline pump"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-gas-station-003",
@@ -6664,6 +7451,32 @@
     ],
     "frequency": 670,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-тур-001",
+    "en": "genitive plural of тур",
+    "ky": "кезек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тур",
+    "senses": [
+      "genitive plural of тур (tur)"
+    ],
+    "frequency": 383,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B7%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-тура́-001",
+    "en": "genitive plural of тура́",
+    "ky": "кезек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тур",
+    "senses": [
+      "genitive plural of тура́ (turá)"
+    ],
+    "frequency": 383,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B7%D0%B5%D0%BA"
   },
   {
     "id": "en-ky-genitive-plural-of-дуга́-001",
@@ -6811,6 +7624,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%BF%D1%8B"
   },
   {
+    "id": "en-ky-general-003",
+    "en": "general",
+    "ky": "күнүмдүк",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "общий",
+    "senses": [
+      "general"
+    ],
+    "pronunciation": "/kynymˈdyk/",
+    "etymology": "From күн (kün) + -үм (-üm) + -дүк (-dük).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%BD%D2%AF%D0%BC%D0%B4%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-general-004",
+    "en": "general",
+    "ky": "коомдук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "общий",
+    "senses": [
+      "general"
+    ],
+    "frequency": 761,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BC%D0%B4%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-genitive-plural-of-межа́-001",
     "en": "genitive plural of межа́",
     "ky": "ортосунда",
@@ -6862,6 +7702,153 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
   },
   {
+    "id": "en-ky-grand-004",
+    "en": "grand",
+    "ky": "бөлүкчө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA%D1%87%D3%A9"
+  },
+  {
+    "id": "en-ky-grand-005",
+    "en": "grand",
+    "ky": "кесинди",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%B8%D0%BD%D0%B4%D0%B8"
+  },
+  {
+    "id": "en-ky-grand-006",
+    "en": "grand",
+    "ky": "кесим",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-grand-007",
+    "en": "grand",
+    "ky": "тилке",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "frequency": 57,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%BA%D0%B5"
+  },
+  {
+    "id": "en-ky-grand-008",
+    "en": "grand",
+    "ky": "тилим",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-grand-009",
+    "en": "grand",
+    "ky": "чагым",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%B3%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-grand-010",
+    "en": "grand",
+    "ky": "тешкич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%88%D0%BA%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-grand-011",
+    "en": "grand",
+    "ky": "көзөч бургу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7%D3%A9%D1%87%20%D0%B1%D1%83%D1%80%D0%B3%D1%83"
+  },
+  {
+    "id": "en-ky-grand-012",
+    "en": "grand",
+    "ky": "ооздук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D0%B7%D0%B4%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-grand-013",
+    "en": "grand",
+    "ky": "ачкычтын урчугу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%BA%D1%8B%D1%87%D1%82%D1%8B%D0%BD%20%D1%83%D1%80%D1%87%D1%83%D0%B3%D1%83"
+  },
+  {
+    "id": "en-ky-grand-014",
+    "en": "grand",
+    "ky": "мүштөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D1%88%D1%82%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-grand-015",
+    "en": "grand",
+    "ky": "мундштук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кусок",
+    "senses": [
+      "grand (one thousand of some currency)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BD%D0%B4%D1%88%D1%82%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-grey,-gray-001",
     "en": "grey, gray",
     "ky": "сур",
@@ -6905,7 +7892,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA"
   },
   {
-    "id": "en-ky-genitive-singular-013",
+    "id": "en-ky-glass-003",
+    "en": "glass",
+    "ky": "мор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стекло",
+    "senses": [
+      "glass"
+    ],
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-glass-004",
+    "en": "glass",
+    "ky": "чыккыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стекло",
+    "senses": [
+      "glass"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BA%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-glass-005",
+    "en": "glass",
+    "ky": "түтүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стекло",
+    "senses": [
+      "glass"
+    ],
+    "frequency": 90,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%82%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-014",
     "en": "genitive singular",
     "ky": "ладья",
     "pos": "noun",
@@ -6915,6 +7940,31 @@
       "genitive singular"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%B4%D1%8C%D1%8F"
+  },
+  {
+    "id": "en-ky-genitive-singular-015",
+    "en": "genitive singular",
+    "ky": "мунара",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тура",
+    "senses": [
+      "genitive singular"
+    ],
+    "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-016",
+    "en": "genitive singular",
+    "ky": "бурана",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тура",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%80%D0%B0%D0%BD%D0%B0"
   },
   {
     "id": "en-ky-gross-output-001",
@@ -7117,6 +8167,18 @@
     "etymology": "From Proto-Turkic *yï̄lan.",
     "frequency": 238,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-gloom,-cheerlessness-001",
+    "en": "gloom, cheerlessness",
+    "ky": "үмүтсүздүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мрак",
+    "senses": [
+      "gloom, cheerlessness"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BC%D2%AF%D1%82%D1%81%D2%AF%D0%B7%D0%B4%D2%AF%D0%BA"
   },
   {
     "id": "en-ky-genitive-of-ничто́-001",
@@ -7361,6 +8423,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87"
   },
   {
+    "id": "en-ky-genitive-singular-of-сило́-002",
+    "en": "genitive singular of сило́",
+    "ky": "көлөм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сила",
+    "senses": [
+      "genitive singular of сило́ (siló)"
+    ],
+    "frequency": 197,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-сило́-003",
+    "en": "genitive singular of сило́",
+    "ky": "том",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сила",
+    "senses": [
+      "genitive singular of сило́ (siló)"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BC"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-сило́-004",
+    "en": "genitive singular of сило́",
+    "ky": "энергия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сила",
+    "senses": [
+      "genitive singular of сило́ (siló)"
+    ],
+    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-general-purpose-insult;-compare-shithead,-bastard,-etc.-001",
     "en": "general-purpose insult; compare shithead, bastard, etc.",
     "ky": "проститутка",
@@ -7414,6 +8515,32 @@
     "pronunciation": "[qanˈt͡ʃɯq]",
     "etymology": "Compare Turkish kancık (“female dog; bitch (vulgar)”).",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%87%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gate-003",
+    "en": "gate",
+    "ky": "максат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ворота",
+    "senses": [
+      "gate"
+    ],
+    "frequency": 1451,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-gate-004",
+    "en": "gate",
+    "ky": "бута",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ворота",
+    "senses": [
+      "gate"
+    ],
+    "frequency": 54,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0"
   },
   {
     "id": "en-ky-goal-003",
@@ -7470,6 +8597,32 @@
     "etymology": "Borrowed from Classical Persian دَرْوَازَه (darwāza).",
     "frequency": 128,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B1%D0%B0%D0%B7%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-во́рот-003",
+    "en": "genitive singular of во́рот",
+    "ky": "максат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ворота",
+    "senses": [
+      "genitive singular of во́рот (vórot)"
+    ],
+    "frequency": 1451,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-во́рот-004",
+    "en": "genitive singular of во́рот",
+    "ky": "бута",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ворота",
+    "senses": [
+      "genitive singular of во́рот (vórot)"
+    ],
+    "frequency": 54,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0"
   },
   {
     "id": "en-ky-genitive-plural-of-по́па-001",
@@ -7621,7 +8774,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF%D1%8B%D1%80%D1%8B%D0%BD%D0%B4%D1%8B"
   },
   {
-    "id": "en-ky-genitive-singular-014",
+    "id": "en-ky-genitive-singular-017",
     "en": "genitive singular",
     "ky": "без",
     "pos": "noun",
@@ -7814,6 +8967,48 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-government-006",
+    "en": "government",
+    "ky": "такта",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "управление",
+    "senses": [
+      "government"
+    ],
+    "pronunciation": "/tɑqˈtɑ/",
+    "etymology": "From Persian تخته (taxte).",
+    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BA%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-government-007",
+    "en": "government",
+    "ky": "стол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "управление",
+    "senses": [
+      "government"
+    ],
+    "frequency": 49,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-те́льце-001",
+    "en": "genitive plural of те́льце",
+    "ky": "музоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "телец",
+    "senses": [
+      "genitive plural of те́льце (télʹce)"
+    ],
+    "etymology": "From Proto-Turkic *buŕagu.",
+    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%B7%D0%BE%D0%BE"
+  },
+  {
     "id": "en-ky-genitive-singular-of-глото́к-001",
     "en": "genitive singular of глото́к",
     "ky": "тамак",
@@ -7993,6 +9188,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B9%D1%8B%D0%BD"
   },
   {
+    "id": "en-ky-goblet-001",
+    "en": "goblet",
+    "ky": "аяк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стопа",
+    "senses": [
+      "goblet"
+    ],
+    "frequency": 599,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-стоп-001",
+    "en": "genitive singular of стоп",
+    "ky": "аяк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стопа",
+    "senses": [
+      "genitive singular of стоп (stop)"
+    ],
+    "frequency": 599,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%BA"
+  },
+  {
     "id": "en-ky-generation,-branch-001",
     "en": "generation, branch",
     "ky": "тизе",
@@ -8005,6 +9226,62 @@
     "etymology": "From Proto-Turkic *tīŕ, *tǖŕ. Compare Southern Altai тизе (tize), Turkish diz.",
     "frequency": 152,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B5"
+  },
+  {
+    "id": "en-ky-generation,-branch-002",
+    "en": "generation, branch",
+    "ky": "уруу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колено",
+    "senses": [
+      "generation, branch"
+    ],
+    "etymology": "From Proto-Turkic *urug (“seed; kin, relatives”). Cognate with Yakut уруу (uruu), Turkish uruk, etc.",
+    "frequency": 57,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-generation,-branch-003",
+    "en": "generation, branch",
+    "ky": "тукум",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колено",
+    "senses": [
+      "generation, branch"
+    ],
+    "frequency": 276,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BA%D1%83%D0%BC"
+  },
+  {
+    "id": "en-ky-generation,-branch-004",
+    "en": "generation, branch",
+    "ky": "эл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колено",
+    "senses": [
+      "generation, branch"
+    ],
+    "pronunciation": "/eɫ/",
+    "etymology": "From Proto-Turkic *ēl. Compare to Kazakh ел (el).",
+    "frequency": 7636,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB"
+  },
+  {
+    "id": "en-ky-generation,-branch-005",
+    "en": "generation, branch",
+    "ky": "каш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колено",
+    "senses": [
+      "generation, branch"
+    ],
+    "etymology": "From Proto-Turkic *kāĺ. Cognate to Southern Altai каш (kaš, “shore”).",
+    "frequency": 375,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88"
   },
   {
     "id": "en-ky-granulated-sugar-001",
@@ -8073,6 +9350,19 @@
     "etymology": "From Proto-Common Turkic *yakšï (“good”), ultimately a derivation from Proto-Turkic *yak- (“good”).",
     "frequency": 2075,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%88%D1%8B"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ко́да-001",
+    "en": "genitive plural of ко́да",
+    "ky": "код",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "код",
+    "senses": [
+      "genitive plural of ко́да (kóda)"
+    ],
+    "frequency": 74,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B4"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-о́пер-001",
@@ -8178,6 +9468,100 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0"
   },
   {
+    "id": "en-ky-group,-team-001",
+    "en": "group, team",
+    "ky": "тартип",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "pronunciation": "/tarˈtip/",
+    "etymology": "From Arabic تَرْتِيب (tartīb, “order; sequence; arrangement”).",
+    "frequency": 2738,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-group,-team-002",
+    "en": "group, team",
+    "ky": "ирет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "frequency": 182,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%80%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-group,-team-003",
+    "en": "group, team",
+    "ky": "приказ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-group,-team-004",
+    "en": "group, team",
+    "ky": "буйрук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "frequency": 626,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%B9%D1%80%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-group,-team-005",
+    "en": "group, team",
+    "ky": "заказ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-group,-team-006",
+    "en": "group, team",
+    "ky": "буйрутма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "pronunciation": "/bujˈrutˈmɑ/",
+    "etymology": "From буйруу (buyruu) + -ма (-ma)",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%B9%D1%80%D1%83%D1%82%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-group,-team-007",
+    "en": "group, team",
+    "ky": "орден",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отряд",
+    "senses": [
+      "group, team"
+    ],
+    "frequency": 72,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D0%B4%D0%B5%D0%BD"
+  },
+  {
     "id": "en-ky-gaucho-001",
     "en": "gaucho",
     "ky": "кесерге",
@@ -8214,6 +9598,18 @@
       "gun"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B2%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-gun-004",
+    "en": "gun",
+    "ky": "бочка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ствол",
+    "senses": [
+      "gun"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%87%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-gearbox-001",
@@ -8315,6 +9711,67 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0"
   },
   {
+    "id": "en-ky-generally,-in-general,-usually-003",
+    "en": "generally, in general, usually",
+    "ky": "дайыма",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "вообще",
+    "senses": [
+      "generally, in general, usually"
+    ],
+    "frequency": 224,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B9%D1%8B%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-generally,-in-general,-usually-004",
+    "en": "generally, in general, usually",
+    "ky": "ар качан",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "вообще",
+    "senses": [
+      "generally, in general, usually"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%20%D0%BA%D0%B0%D1%87%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-generally,-in-general,-usually-005",
+    "en": "generally, in general, usually",
+    "ky": "ар убакытта",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "вообще",
+    "senses": [
+      "generally, in general, usually"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%20%D1%83%D0%B1%D0%B0%D0%BA%D1%8B%D1%82%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-generally,-in-general,-usually-006",
+    "en": "generally, in general, usually",
+    "ky": "ар дайым",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "вообще",
+    "senses": [
+      "generally, in general, usually"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%20%D0%B4%D0%B0%D0%B9%D1%8B%D0%BC"
+  },
+  {
+    "id": "en-ky-generally,-in-general,-usually-007",
+    "en": "generally, in general, usually",
+    "ky": "ылайым",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "вообще",
+    "senses": [
+      "generally, in general, usually"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BB%D0%B0%D0%B9%D1%8B%D0%BC"
+  },
+  {
     "id": "en-ky-glass,-cup,-beaker,-tumbler-001",
     "en": "glass, cup, beaker, tumbler",
     "ky": "стакан",
@@ -8326,6 +9783,44 @@
     ],
     "frequency": 5,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B0%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-glass,-cup,-beaker,-tumbler-002",
+    "en": "glass, cup, beaker, tumbler",
+    "ky": "чыны",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стакан",
+    "senses": [
+      "glass, cup, beaker, tumbler (a cylindrical drinking vessel without a stem or handle)"
+    ],
+    "frequency": 22,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D1%8B"
+  },
+  {
+    "id": "en-ky-glass,-cup,-beaker,-tumbler-003",
+    "en": "glass, cup, beaker, tumbler",
+    "ky": "чөйчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стакан",
+    "senses": [
+      "glass, cup, beaker, tumbler (a cylindrical drinking vessel without a stem or handle)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D0%B9%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-glass,-cup,-beaker,-tumbler-004",
+    "en": "glass, cup, beaker, tumbler",
+    "ky": "аяк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "стакан",
+    "senses": [
+      "glass, cup, beaker, tumbler (a cylindrical drinking vessel without a stem or handle)"
+    ],
+    "frequency": 599,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%BA"
   },
   {
     "id": "en-ky-guard,-watch-001",
@@ -8554,6 +10049,35 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%82%D0%BE%D0%BA%D0%B1%D0%B0%D1%88"
   },
   {
+    "id": "en-ky-glans-002",
+    "en": "glans",
+    "ky": "баш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "головка",
+    "senses": [
+      "glans"
+    ],
+    "pronunciation": "/bɑʃ/",
+    "etymology": "From Proto-Turkic *baĺč (“head”).",
+    "frequency": 7780,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-glans-003",
+    "en": "glans",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "головка",
+    "senses": [
+      "glans"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
+  },
+  {
     "id": "en-ky-gourd-001",
     "en": "gourd",
     "ky": "ашкабак",
@@ -8566,6 +10090,61 @@
     "pronunciation": "/ɑʂqɑˈβɑq/",
     "frequency": 2,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%88%D0%BA%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-gourd-002",
+    "en": "gourd",
+    "ky": "баш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тыква",
+    "senses": [
+      "gourd"
+    ],
+    "pronunciation": "/bɑʃ/",
+    "etymology": "From Proto-Turkic *baĺč (“head”).",
+    "frequency": 7780,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-gourd-003",
+    "en": "gourd",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тыква",
+    "senses": [
+      "gourd"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-аба́ка-001",
+    "en": "genitive plural of аба́ка",
+    "ky": "чот",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "абак",
+    "senses": [
+      "genitive plural of аба́ка (abáka)"
+    ],
+    "etymology": "Borrowed from Russian счёт (sčot).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-аба́к-001",
+    "en": "genitive singular of аба́к",
+    "ky": "чот",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "абака",
+    "senses": [
+      "genitive singular of аба́к (abák)"
+    ],
+    "etymology": "Borrowed from Russian счёт (sčot).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D1%82"
   },
   {
     "id": "en-ky-genitive-singular-of-треск-001",
@@ -8619,6 +10198,19 @@
     ],
     "frequency": 79,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-те́хник-003",
+    "en": "genitive/accusative singular of те́хник",
+    "ky": "материал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "техника",
+    "senses": [
+      "genitive/accusative singular of те́хник (téxnik)"
+    ],
+    "frequency": 544,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB"
   },
   {
     "id": "en-ky-goaltender-001",
@@ -8883,6 +10475,95 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D0%B1%D0%B0%D1%82"
   },
   {
+    "id": "en-ky-genitive-plural-of-спо́ра-009",
+    "en": "genitive plural of спо́ра",
+    "ky": "негиз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "pronunciation": "/neˈɡiz/",
+    "frequency": 1434,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-спо́ра-010",
+    "en": "genitive plural of спо́ра",
+    "ky": "негиздөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%D0%B4%D3%A9%D3%A9"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-спо́ра-011",
+    "en": "genitive plural of спо́ра",
+    "ky": "негизделүү аргумент",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D2%AF%D2%AF%20%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-спо́ра-012",
+    "en": "genitive plural of спо́ра",
+    "ky": "далил",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "pronunciation": "/da.lil/",
+    "etymology": "From Arabic دَلِيل (dalīl, “sign, indication, proof”).",
+    "frequency": 304,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BB%D0%B8%D0%BB"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-спо́ра-013",
+    "en": "genitive plural of спо́ра",
+    "ky": "жүйө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%B9%D3%A9"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-спо́ра-014",
+    "en": "genitive plural of спо́ра",
+    "ky": "ыспат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D0%BF%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-спо́ра-015",
+    "en": "genitive plural of спо́ра",
+    "ky": "далилдөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "спор",
+    "senses": [
+      "genitive plural of спо́ра (spóra, “spore”)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BB%D0%B8%D0%BB%D0%B4%D3%A9%D3%A9"
+  },
+  {
     "id": "en-ky-good-002",
     "en": "good",
     "ky": "товар",
@@ -9040,6 +10721,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B9"
   },
   {
+    "id": "en-ky-gloomy,-somber,-grim-001",
+    "en": "gloomy, somber, grim",
+    "ky": "караңгы",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мрачный",
+    "senses": [
+      "gloomy, somber, grim"
+    ],
+    "etymology": "Compare to Southern Altai караҥуй (karaŋuy), караҥу (karaŋu), Bashkir ҡараңғы (qarañğı), etc.",
+    "frequency": 249,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%D2%A3%D0%B3%D1%8B"
+  },
+  {
     "id": "en-ky-greek-003",
     "en": "Greek",
     "ky": "Грецияга",
@@ -9172,6 +10867,18 @@
     ],
     "frequency": 329,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-маслёнка-001",
+    "en": "genitive plural of маслёнка",
+    "ky": "патрон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "маслёнок",
+    "senses": [
+      "genitive plural of маслёнка (masljónka)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-поп-001",
@@ -9310,7 +11017,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%BA"
   },
   {
-    "id": "en-ky-genitive-singular-015",
+    "id": "en-ky-genitive-singular-018",
     "en": "genitive singular",
     "ky": "аары уясы",
     "pos": "noun",
@@ -9345,6 +11052,31 @@
     ],
     "frequency": 11,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ю́рта-001",
+    "en": "genitive plural of ю́рта",
+    "ky": "боз үй",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "юрт",
+    "senses": [
+      "genitive plural of ю́рта (júrta)"
+    ],
+    "etymology": "Literally \"grey house\", one of the colours of a traditional yurt.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B7%20%D2%AF%D0%B9"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ю́рта-002",
+    "en": "genitive plural of ю́рта",
+    "ky": "өргөө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "юрт",
+    "senses": [
+      "genitive plural of ю́рта (júrta)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D0%B3%D3%A9%D3%A9"
   },
   {
     "id": "en-ky-global,-world-wide,-universal-001",
@@ -9464,6 +11196,96 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D1%81%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-game,-set,-match-003",
+    "en": "game, set, match",
+    "ky": "матч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%82%D1%87"
+  },
+  {
+    "id": "en-ky-game,-set,-match-004",
+    "en": "game, set, match",
+    "ky": "мелдеш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "frequency": 52,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BB%D0%B4%D0%B5%D1%88"
+  },
+  {
+    "id": "en-ky-game,-set,-match-005",
+    "en": "game, set, match",
+    "ky": "ширеңке",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B8%D1%80%D0%B5%D2%A3%D0%BA%D0%B5"
+  },
+  {
+    "id": "en-ky-game,-set,-match-006",
+    "en": "game, set, match",
+    "ky": "бөлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "etymology": "From бөлүү (bölüü) + -үк (-ük). Compare to Southern Altai бӧлӱк (bölük), Kazakh бөлік (bölık), Bashkir бүлек (bülek), etc.",
+    "frequency": 2308,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-game,-set,-match-007",
+    "en": "game, set, match",
+    "ky": "бөлчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-game,-set,-match-008",
+    "en": "game, set, match",
+    "ky": "бөлүм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "etymology": "From the verb бөлүү (divide).",
+    "frequency": 856,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D2%AF%D0%BC"
+  },
+  {
+    "id": "en-ky-game,-set,-match-009",
+    "en": "game, set, match",
+    "ky": "роль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "партия",
+    "senses": [
+      "game, set, match"
+    ],
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BB%D1%8C"
+  },
+  {
     "id": "en-ky-girder,-rib,-truss-001",
     "en": "girder, rib, truss",
     "ky": "ферма",
@@ -9515,6 +11337,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%D0%B7"
   },
   {
+    "id": "en-ky-glass-cutter,-glazier's-diamond-003",
+    "en": "glass cutter, glazier's diamond",
+    "ky": "момун",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "алмаз",
+    "senses": [
+      "glass cutter, glazier's diamond"
+    ],
+    "frequency": 163,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BC%D1%83%D0%BD"
+  },
+  {
     "id": "en-ky-genitive/accusative-singular-of-фи́зик-001",
     "en": "genitive/accusative singular of фи́зик",
     "ky": "физика",
@@ -9541,6 +11376,20 @@
     "etymology": "From Proto-Turkic *ȫrdek (“duck”). Cognates with Azerbaijani ördək, Bashkir үрҙәк (ürźək), Kazakh үйрек (üirek), Tatar үрдәк (ürdäk), Turkish ördek, Uzbek oʻrdak etc.",
     "frequency": 36,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D0%B4%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-пта́ха-001",
+    "en": "genitive/accusative plural of пта́ха",
+    "ky": "куш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "птах",
+    "senses": [
+      "genitive/accusative plural of пта́ха (ptáxa)"
+    ],
+    "etymology": "From Proto-Turkic *kuĺ (“bird”). Cognate with Kazakh құс (qūs), Southern Altai куш (kuš), Crimean Tatar quş, Karaim kuš, Kumyk къуш (quş), Bashkir ҡош (qoş), Tatar кош (qoş), Azerbaijani quş, Turkish kuş, Turkmen guş, Uzbek qush, Uyghur قۇش (qush), Shor қуш, Tuvan куш (kuş), Western Yugur qus,etc.",
+    "frequency": 630,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%88"
   },
   {
     "id": "en-ky-goosebump-001",
@@ -9596,7 +11445,129 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D1%81"
   },
   {
-    "id": "en-ky-genitive-singular-016",
+    "id": "en-ky-gas-burner-001",
+    "en": "gas burner",
+    "ky": "конус",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "рожок",
+    "senses": [
+      "gas burner"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%83%D1%81"
+  },
+  {
+    "id": "en-ky-gas-burner-002",
+    "en": "gas burner",
+    "ky": "тобурчак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "рожок",
+    "senses": [
+      "gas burner"
+    ],
+    "etymology": "From Proto-Turkic *tomurčuk. Cognate to Southern Altai тоорчык (toorčïk), Bashkir тубырсыҡ (tubırsıq), Tatar тубырчык (tubırçıq), Kazakh тобыршақ (tobyrşaq) etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B1%D1%83%D1%80%D1%87%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-бо́ла-001",
+    "en": "genitive plural of бо́ла",
+    "ky": "шар",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бол",
+    "senses": [
+      "genitive plural of бо́ла (bóla)"
+    ],
+    "frequency": 89,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-бо́ла-002",
+    "en": "genitive plural of бо́ла",
+    "ky": "топ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бол",
+    "senses": [
+      "genitive plural of бо́ла (bóla)"
+    ],
+    "pronunciation": "[top]",
+    "frequency": 1377,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-бо́ла-003",
+    "en": "genitive plural of бо́ла",
+    "ky": "тоголок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бол",
+    "senses": [
+      "genitive plural of бо́ла (bóla)"
+    ],
+    "frequency": 27,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-бо́ла-004",
+    "en": "genitive plural of бо́ла",
+    "ky": "ташак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бол",
+    "senses": [
+      "genitive plural of бо́ла (bóla)"
+    ],
+    "pronunciation": "[tɑˈʃɑq]",
+    "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%88%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-бо́ла-005",
+    "en": "genitive plural of бо́ла",
+    "ky": "бал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бол",
+    "senses": [
+      "genitive plural of бо́ла (bóla)"
+    ],
+    "pronunciation": "/bal/",
+    "etymology": "From Proto-Turkic *bal. Cognate with Azerbaijani bal, Bashkir бал (bal), Kazakh бал (bal), Tatar бал (bal), Turkish bal, Turkmen bal, Uzbek bol, etc.",
+    "frequency": 1994,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-gonfalon-001",
+    "en": "gonfalon",
+    "ky": "туу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хоругвь",
+    "senses": [
+      "gonfalon"
+    ],
+    "pronunciation": "/tuː/",
+    "etymology": "Ultimately from Old Chinese 纛 (OC *duːɡs, *duːɡ, “banner made of animal tail or feather”). Compare also Kazakh ту (tu), Turkish tuğ; Mongolian туг (tug); etc.",
+    "frequency": 3738,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-gonfalon-002",
+    "en": "gonfalon",
+    "ky": "желек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хоругвь",
+    "senses": [
+      "gonfalon"
+    ],
+    "frequency": 64,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-019",
     "en": "genitive singular",
     "ky": "чаңгы",
     "pos": "noun",
@@ -9608,7 +11579,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D2%A3%D0%B3%D1%8B"
   },
   {
-    "id": "en-ky-genitive-singular-017",
+    "id": "en-ky-genitive-singular-020",
     "en": "genitive singular",
     "ky": "лыжа",
     "pos": "noun",
@@ -9621,7 +11592,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D1%8B%D0%B6%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-018",
+    "id": "en-ky-genitive-singular-021",
     "en": "genitive singular",
     "ky": "бура",
     "pos": "noun",
@@ -9724,6 +11695,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%82%D0%BF%D0%B5%D1%80%D0%B5%D0%BA"
   },
   {
+    "id": "en-ky-genitive/accusative-plural-of-змея́-005",
+    "en": "genitive/accusative plural of змея́",
+    "ky": "жылан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "змей",
+    "senses": [
+      "genitive/accusative plural of змея́ (zmejá)"
+    ],
+    "pronunciation": "/d͡ʒɯˈlɑn/",
+    "etymology": "From Proto-Turkic *yï̄lan.",
+    "frequency": 238,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B0%D0%BD"
+  },
+  {
     "id": "en-ky-good,-blessing,-benefit-001",
     "en": "good, blessing, benefit",
     "ky": "товар",
@@ -9748,6 +11734,32 @@
     ],
     "frequency": 113,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%8F%D1%80%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-grounding,-schooling-002",
+    "en": "grounding, schooling",
+    "ky": "окуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "подготовка",
+    "senses": [
+      "grounding, schooling"
+    ],
+    "frequency": 65,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-grounding,-schooling-003",
+    "en": "grounding, schooling",
+    "ky": "окутуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "подготовка",
+    "senses": [
+      "grounding, schooling"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D1%82%D1%83%D1%83"
   },
   {
     "id": "en-ky-gun-crew,-gunners-001",
@@ -9790,6 +11802,19 @@
   {
     "id": "en-ky-genitive/accusative-plural-of-курса́-001",
     "en": "genitive/accusative plural of курса́",
+    "ky": "курс",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "курс",
+    "senses": [
+      "genitive/accusative plural of курса́ (kursá)"
+    ],
+    "frequency": 52,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%81"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-курса́-002",
+    "en": "genitive/accusative plural of курса́",
     "ky": "саясат",
     "pos": "noun",
     "source": "pivot-ru",
@@ -9803,7 +11828,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%8F%D1%81%D0%B0%D1%82"
   },
   {
-    "id": "en-ky-genitive/accusative-plural-of-курса́-002",
+    "id": "en-ky-genitive/accusative-plural-of-курса́-003",
     "en": "genitive/accusative plural of курса́",
     "ky": "политика",
     "pos": "noun",
@@ -9815,7 +11840,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-genitive/accusative-plural-of-курса́-003",
+    "id": "en-ky-genitive/accusative-plural-of-курса́-004",
     "en": "genitive/accusative plural of курса́",
     "ky": "маршрут",
     "pos": "noun",
@@ -9827,7 +11852,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82"
   },
   {
-    "id": "en-ky-genitive/accusative-plural-of-курса́-004",
+    "id": "en-ky-genitive/accusative-plural-of-курса́-005",
     "en": "genitive/accusative plural of курса́",
     "ky": "багыт",
     "pos": "noun",
@@ -9840,7 +11865,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B3%D1%8B%D1%82"
   },
   {
-    "id": "en-ky-genitive/accusative-plural-of-курса́-005",
+    "id": "en-ky-genitive/accusative-plural-of-курса́-006",
     "en": "genitive/accusative plural of курса́",
     "ky": "жол",
     "pos": "noun",
@@ -9853,19 +11878,6 @@
     "etymology": "From Proto-Turkic *yōl (“road, way”).",
     "frequency": 4929,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB"
-  },
-  {
-    "id": "en-ky-genitive/accusative-plural-of-курса́-006",
-    "en": "genitive/accusative plural of курса́",
-    "ky": "курс",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "курс",
-    "senses": [
-      "genitive/accusative plural of курса́ (kursá)"
-    ],
-    "frequency": 52,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%81"
   },
   {
     "id": "en-ky-gut,-intestine,-bowel-001",
@@ -9896,6 +11908,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%B5%D0%B3%D0%B8"
   },
   {
+    "id": "en-ky-gut,-intestine,-bowel-003",
+    "en": "gut, intestine, bowel",
+    "ky": "шланг",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кишка",
+    "senses": [
+      "gut, intestine, bowel"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D0%B0%D0%BD%D0%B3"
+  },
+  {
     "id": "en-ky-giblets,-pluck-001",
     "en": "giblets, pluck",
     "ky": "ичек",
@@ -9924,6 +11948,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%B5%D0%B3%D0%B8"
   },
   {
+    "id": "en-ky-giblets,-pluck-003",
+    "en": "giblets, pluck",
+    "ky": "шланг",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кишка",
+    "senses": [
+      "giblets, pluck"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D0%B0%D0%BD%D0%B3"
+  },
+  {
     "id": "en-ky-gas-002",
     "en": "gas",
     "ky": "буу",
@@ -9948,6 +11984,45 @@
     ],
     "frequency": 16,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-gas-004",
+    "en": "gas",
+    "ky": "табигый газ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gas (state of matter)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D0%B3%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-gas-005",
+    "en": "gas",
+    "ky": "водка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gas (state of matter)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gas-006",
+    "en": "gas",
+    "ky": "арак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gas (state of matter)"
+    ],
+    "pronunciation": "/ɑˈrɑq/",
+    "etymology": "From *araqï (“vodka”), from Persian عَرَق ('araq, “alcoholic drink”),\nfrom Arabic عَرَق (ʕaraq, “raisin liquor”).\nCognate with Bashkir араҡы (araqı, “vodka”),\nKazakh арақ (araq, “vodka”),\nKumyk гьаракъы (haraqı, “vodka”),\nKarachay-Balkar аракъы (araqı, “vodka”),\nSouthern Altai аракы (arakï, “vodka”),\nKhakas араға (arağa, “alcoholic drink”),\nTuvan арага (araga, “vodka; wine”),\nYakut арыгы (arïgï, “wine”), etc.",
+    "frequency": 122,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-gas,-gas-pedal,-throttle-001",
@@ -9989,6 +12064,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80"
   },
   {
+    "id": "en-ky-gas,-gas-pedal,-throttle-004",
+    "en": "gas, gas pedal, throttle",
+    "ky": "табигый газ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gas, gas pedal, throttle"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D0%B3%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-gas,-gas-pedal,-throttle-005",
+    "en": "gas, gas pedal, throttle",
+    "ky": "водка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gas, gas pedal, throttle"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gas,-gas-pedal,-throttle-006",
+    "en": "gas, gas pedal, throttle",
+    "ky": "арак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gas, gas pedal, throttle"
+    ],
+    "pronunciation": "/ɑˈrɑq/",
+    "etymology": "From *araqï (“vodka”), from Persian عَرَق ('araq, “alcoholic drink”),\nfrom Arabic عَرَق (ʕaraq, “raisin liquor”).\nCognate with Bashkir араҡы (araqı, “vodka”),\nKazakh арақ (araq, “vodka”),\nKumyk гьаракъы (haraqı, “vodka”),\nKarachay-Balkar аракъы (araqı, “vodka”),\nSouthern Altai аракы (arakï, “vodka”),\nKhakas араға (arağa, “alcoholic drink”),\nTuvan арага (araga, “vodka; wine”),\nYakut арыгы (arïgï, “wine”), etc.",
+    "frequency": 122,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA"
+  },
+  {
     "id": "en-ky-gauze,-gossamer-001",
     "en": "gauze, gossamer",
     "ky": "газ",
@@ -10028,6 +12142,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80"
   },
   {
+    "id": "en-ky-gauze,-gossamer-004",
+    "en": "gauze, gossamer",
+    "ky": "табигый газ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gauze, gossamer (fabric)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D0%B3%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-gauze,-gossamer-005",
+    "en": "gauze, gossamer",
+    "ky": "водка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gauze, gossamer (fabric)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gauze,-gossamer-006",
+    "en": "gauze, gossamer",
+    "ky": "арак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "газ",
+    "senses": [
+      "gauze, gossamer (fabric)"
+    ],
+    "pronunciation": "/ɑˈrɑq/",
+    "etymology": "From *araqï (“vodka”), from Persian عَرَق ('araq, “alcoholic drink”),\nfrom Arabic عَرَق (ʕaraq, “raisin liquor”).\nCognate with Bashkir араҡы (araqı, “vodka”),\nKazakh арақ (araq, “vodka”),\nKumyk гьаракъы (haraqı, “vodka”),\nKarachay-Balkar аракъы (araqı, “vodka”),\nSouthern Altai аракы (arakï, “vodka”),\nKhakas араға (arağa, “alcoholic drink”),\nTuvan арага (araga, “vodka; wine”),\nYakut арыгы (arïgï, “wine”), etc.",
+    "frequency": 122,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA"
+  },
+  {
     "id": "en-ky-gaz-001",
     "en": "GAZ",
     "ky": "газ",
@@ -10065,6 +12218,45 @@
     ],
     "frequency": 16,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-gaz-004",
+    "en": "GAZ",
+    "ky": "табигый газ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ГАЗ",
+    "senses": [
+      "GAZ (Gorky Automobile Plant)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B8%D0%B3%D1%8B%D0%B9%20%D0%B3%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-gaz-005",
+    "en": "GAZ",
+    "ky": "водка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ГАЗ",
+    "senses": [
+      "GAZ (Gorky Automobile Plant)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gaz-006",
+    "en": "GAZ",
+    "ky": "арак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ГАЗ",
+    "senses": [
+      "GAZ (Gorky Automobile Plant)"
+    ],
+    "pronunciation": "/ɑˈrɑq/",
+    "etymology": "From *araqï (“vodka”), from Persian عَرَق ('araq, “alcoholic drink”),\nfrom Arabic عَرَق (ʕaraq, “raisin liquor”).\nCognate with Bashkir араҡы (araqı, “vodka”),\nKazakh арақ (araq, “vodka”),\nKumyk гьаракъы (haraqı, “vodka”),\nKarachay-Balkar аракъы (araqı, “vodka”),\nSouthern Altai аракы (arakï, “vodka”),\nKhakas араға (arağa, “alcoholic drink”),\nTuvan арага (araga, “vodka; wine”),\nYakut арыгы (arïgï, “wine”), etc.",
+    "frequency": 122,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-gaza-002",
@@ -10127,7 +12319,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-019",
+    "id": "en-ky-genitive-singular-022",
     "en": "genitive singular",
     "ky": "дойбу",
     "pos": "noun",
@@ -10139,7 +12331,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B9%D0%B1%D1%83"
   },
   {
-    "id": "en-ky-genitive-singular-020",
+    "id": "en-ky-genitive-singular-023",
     "en": "genitive singular",
     "ky": "шашка",
     "pos": "noun",
@@ -10163,6 +12355,34 @@
     "etymology": "From Proto-Turkic *yɨm-ĺča-k (“soft”). Cognate with\nOld Uyghur jumšaq (“soft”);\nTatar йомшак (yomşaq),\nKazakh жұмсақ (jūmsaq),\nSouthern Altai јымжак (ǰïmžak),\nTurkish yumuşak,\nKhakas нымзах (nımzax),\nTuvan чымчак (çımçak),\nYakut сымна (sïmna), сымнаҕас (sïmnağas),\nChuvash ҫемҫе (śemś̬e, “soft”),\netc.",
     "frequency": 150,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%88%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-gentle-002",
+    "en": "gentle",
+    "ky": "жаңы",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мягкий",
+    "senses": [
+      "gentle"
+    ],
+    "pronunciation": "/d͡ʒɑˈŋɯ/",
+    "etymology": "From Proto-Turkic *yaŋï, *yeŋi (“new”).",
+    "frequency": 1347,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B"
+  },
+  {
+    "id": "en-ky-gentle-003",
+    "en": "gentle",
+    "ky": "таза",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мягкий",
+    "senses": [
+      "gentle"
+    ],
+    "frequency": 420,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B7%D0%B0"
   },
   {
     "id": "en-ky-genitive-singular-of-грана́т-001",
@@ -10280,6 +12500,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%B0"
   },
   {
+    "id": "en-ky-genitive-plural-of-деся́тка-001",
+    "en": "genitive plural of деся́тка",
+    "ky": "онжылдык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "десяток",
+    "senses": [
+      "genitive plural of деся́тка (desjátka)"
+    ],
+    "pronunciation": "/onˈd͡ʒɯlˈdɯq/",
+    "etymology": "From он (on, “ten”) + жыл (jıl, “year”) + -дык (-dık). Compare to Southern Altai онјылдык (onǰïldïk, “decade”), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BD%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA"
+  },
+  {
     "id": "en-ky-grain,-cereal-001",
     "en": "grain, cereal",
     "ky": "дан",
@@ -10389,6 +12623,31 @@
       "gear, gearing, drive, transmission"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%B1%D0%B5%D1%80%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-gear,-gearing,-drive,-transmission-007",
+    "en": "gear, gearing, drive, transmission",
+    "ky": "посылка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "передача",
+    "senses": [
+      "gear, gearing, drive, transmission"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D1%81%D1%8B%D0%BB%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gear,-gearing,-drive,-transmission-008",
+    "en": "gear, gearing, drive, transmission",
+    "ky": "пакет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "передача",
+    "senses": [
+      "gear, gearing, drive, transmission"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BA%D0%B5%D1%82"
   },
   {
     "id": "en-ky-genet-001",
@@ -10518,7 +12777,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%82%D0%B0%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-021",
+    "id": "en-ky-genitive-singular-024",
     "en": "genitive singular",
     "ky": "мумия",
     "pos": "noun",
@@ -10556,6 +12815,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B9%D1%8B%D0%BD%20%D1%87%D1%8B%D1%87%D0%BA%D0%B0%D0%BD"
   },
   {
+    "id": "en-ky-gat-001",
+    "en": "gat",
+    "ky": "мышык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кат",
+    "senses": [
+      "gat (a traditional Korean hat made of horsehair, once worn by married gentlemen)"
+    ],
+    "pronunciation": "/mɯˈʃɯq/",
+    "etymology": "From Proto-Common Turkic *pïšïk (“cat”). Compare Turkish pisi, Azerbaijani and Turkmen pişik, Karakalpak pıshıq, Uzbek mushuk, Kazakh мысық (mysyq), Southern Altai мыжык (mïžïk), Kumyk мишик (mişik), Uyghur مۈشۈك (müshük).",
+    "frequency": 132,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D1%88%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gat-002",
+    "en": "gat",
+    "ky": "желдет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кат",
+    "senses": [
+      "gat (a traditional Korean hat made of horsehair, once worn by married gentlemen)"
+    ],
+    "frequency": 98,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D0%BB%D0%B4%D0%B5%D1%82"
+  },
+  {
     "id": "en-ky-genitive-plural-of-ди́на-001",
     "en": "genitive plural of ди́на",
     "ky": "дин",
@@ -10583,7 +12870,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BD%D0%B4%D0%BE%D0%BB%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-022",
+    "id": "en-ky-genitive-singular-025",
     "en": "genitive singular",
     "ky": "суши",
     "pos": "noun",
@@ -10607,7 +12894,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%88%D0%B8"
   },
   {
-    "id": "en-ky-genitive-singular-023",
+    "id": "en-ky-genitive-singular-026",
     "en": "genitive singular",
     "ky": "ложа",
     "pos": "noun",
@@ -10617,6 +12904,43 @@
       "genitive singular"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%BE%D0%B6%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-027",
+    "en": "genitive singular",
+    "ky": "коробка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ложа",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-028",
+    "en": "genitive singular",
+    "ky": "куту",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ложа",
+    "senses": [
+      "genitive singular"
+    ],
+    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83"
+  },
+  {
+    "id": "en-ky-genitive-singular-029",
+    "en": "genitive singular",
+    "ky": "ящик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ложа",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA"
   },
   {
     "id": "en-ky-gate,-valve-001",
@@ -10631,7 +12955,61 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%BF%D1%83"
   },
   {
-    "id": "en-ky-gate-003",
+    "id": "en-ky-gate,-valve-002",
+    "en": "gate, valve",
+    "ky": "капкан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "затвор",
+    "senses": [
+      "gate, valve"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-gate,-valve-003",
+    "en": "gate, valve",
+    "ky": "тузак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "затвор",
+    "senses": [
+      "gate, valve"
+    ],
+    "etymology": "From *tuz-, compare Southern Altai тузак (tuzak), Turkish tuzak, Yakut туһах (tuhaq).",
+    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%B7%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-gate,-valve-004",
+    "en": "gate, valve",
+    "ky": "капка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "затвор",
+    "senses": [
+      "gate, valve"
+    ],
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gate,-valve-005",
+    "en": "gate, valve",
+    "ky": "дарбаза",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "затвор",
+    "senses": [
+      "gate, valve"
+    ],
+    "pronunciation": "/dɑrbɑˈzɑ/",
+    "etymology": "Borrowed from Classical Persian دَرْوَازَه (darwāza).",
+    "frequency": 128,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B1%D0%B0%D0%B7%D0%B0"
+  },
+  {
+    "id": "en-ky-gate-005",
     "en": "gate",
     "ky": "кулпу",
     "pos": "noun",
@@ -10641,6 +13019,59 @@
       "gate (of a field-effect transistor)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%BF%D1%83"
+  },
+  {
+    "id": "en-ky-gate-006",
+    "en": "gate",
+    "ky": "капкан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "затвор",
+    "senses": [
+      "gate (of a field-effect transistor)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-gate-007",
+    "en": "gate",
+    "ky": "тузак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "затвор",
+    "senses": [
+      "gate (of a field-effect transistor)"
+    ],
+    "etymology": "From *tuz-, compare Southern Altai тузак (tuzak), Turkish tuzak, Yakut туһах (tuhaq).",
+    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%B7%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-литр-001",
+    "en": "genitive singular of литр",
+    "ky": "адабият",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "литра",
+    "senses": [
+      "genitive singular of литр (litr)"
+    ],
+    "pronunciation": "/ɑdɑbiˈjɑt/",
+    "etymology": "From Arabic أَدَبِيَّات (ʔadabiyyāt).",
+    "frequency": 128,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B0%D0%B1%D0%B8%D1%8F%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-литр-002",
+    "en": "genitive singular of литр",
+    "ky": "жазын",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "литра",
+    "senses": [
+      "genitive singular of литр (litr)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D1%8B%D0%BD"
   },
   {
     "id": "en-ky-genitive/dative/prepositional-singular-004",
@@ -10848,6 +13279,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
   },
   {
+    "id": "en-ky-guide-004",
+    "en": "guide",
+    "ky": "дирижёр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "проводник",
+    "senses": [
+      "guide (person)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B8%D1%80%D0%B8%D0%B6%D1%91%D1%80"
+  },
+  {
     "id": "en-ky-gelatine-001",
     "en": "gelatine",
     "ky": "желатина",
@@ -10883,6 +13326,19 @@
     ],
     "frequency": 8,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B4%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-мод-002",
+    "en": "genitive/accusative singular of мод",
+    "ky": "адат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мода",
+    "senses": [
+      "genitive/accusative singular of мод (mod)"
+    ],
+    "frequency": 210,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B0%D1%82"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-ло́гик-001",
@@ -11367,6 +13823,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4"
   },
   {
+    "id": "en-ky-genitive-plural-of-ост-001",
+    "en": "genitive plural of ост",
+    "ky": "скелет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "остов",
+    "senses": [
+      "genitive plural of ост (ost)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BA%D0%B5%D0%BB%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ост-002",
+    "en": "genitive plural of ост",
+    "ky": "сүлдөр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "остов",
+    "senses": [
+      "genitive plural of ост (ost)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%BB%D0%B4%D3%A9%D1%80"
+  },
+  {
     "id": "en-ky-genitive-plural-of-бу́бна-001",
     "en": "genitive plural of бу́бна",
     "ky": "добулбас",
@@ -11520,6 +14000,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%BE%D0%BE%D0%BB"
   },
   {
+    "id": "en-ky-guarding,-protection-002",
+    "en": "guarding, protection",
+    "ky": "коопсуздук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "охрана",
+    "senses": [
+      "guarding, protection"
+    ],
+    "pronunciation": "/qoːpˈsuzˈduq/",
+    "etymology": "From кооп (koop) + -суз (-suz) + -дык (-dık)",
+    "frequency": 703,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BF%D1%81%D1%83%D0%B7%D0%B4%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-guards-001",
     "en": "guards",
     "ky": "кароол",
@@ -11531,6 +14026,21 @@
     ],
     "frequency": 188,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%BE%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-guards-002",
+    "en": "guards",
+    "ky": "коопсуздук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "охрана",
+    "senses": [
+      "guards"
+    ],
+    "pronunciation": "/qoːpˈsuzˈduq/",
+    "etymology": "From кооп (koop) + -суз (-suz) + -дык (-dık)",
+    "frequency": 703,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BF%D1%81%D1%83%D0%B7%D0%B4%D1%83%D0%BA"
   },
   {
     "id": "en-ky-garmon,-accordion-001",
@@ -11668,6 +14178,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B3%D0%B1%D0%B0%D0%BD"
   },
   {
+    "id": "en-ky-genitive-singular-of-за́вес-001",
+    "en": "genitive singular of за́вес",
+    "ky": "экран",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "завеса",
+    "senses": [
+      "genitive singular of за́вес (záves)"
+    ],
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BA%D1%80%D0%B0%D0%BD"
+  },
+  {
     "id": "en-ky-garbage-003",
     "en": "garbage",
     "ky": "шүмшүк",
@@ -11738,6 +14261,32 @@
       "genitive/accusative singular of йог (jog)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B9%D0%BE%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-gamma-001",
+    "en": "gamma",
+    "ky": "кабырчык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "гамма",
+    "senses": [
+      "gamma (the name of the third letter of the Greek alphabet)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D1%80%D1%87%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gamma-002",
+    "en": "gamma",
+    "ky": "кабык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "гамма",
+    "senses": [
+      "gamma (the name of the third letter of the Greek alphabet)"
+    ],
+    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-glucose-001",
@@ -11851,6 +14400,20 @@
     ],
     "frequency": 69,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-geologic-stage-004",
+    "en": "geologic stage",
+    "ky": "тегерек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ярус",
+    "senses": [
+      "geologic stage"
+    ],
+    "etymology": "From Proto-Turkic *teker, compare Turkish tekerlek (“wheel”), Southern Altai тегерик (tegerik, “circle, round”), Kumyk дёгерек (dögerek), Yakut төгүрүк (tögürük, “round”).",
+    "frequency": 176,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%B3%D0%B5%D1%80%D0%B5%D0%BA"
   },
   {
     "id": "en-ky-ginger-002",
@@ -12298,6 +14861,43 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BF"
   },
   {
+    "id": "en-ky-genitive-singular-of-курс-001",
+    "en": "genitive singular of курс",
+    "ky": "проститутка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "курса",
+    "senses": [
+      "genitive singular of курс (kurs)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-курс-002",
+    "en": "genitive singular of курс",
+    "ky": "сойку",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "курса",
+    "senses": [
+      "genitive singular of курс (kurs)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%B9%D0%BA%D1%83"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-курс-003",
+    "en": "genitive singular of курс",
+    "ky": "жалап",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "курса",
+    "senses": [
+      "genitive singular of курс (kurs)"
+    ],
+    "etymology": "Borrowed from Persian جلب, from Arabic جَلَب (jalab, “merchendise”). Cognates with Kazakh жәлеп (jälep).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%BF"
+  },
+  {
     "id": "en-ky-genitive-singular-of-у́хо-001",
     "en": "genitive singular of у́хо",
     "ky": "сорпо",
@@ -12321,6 +14921,20 @@
       "genitive singular of у́хо (úxo)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%BF"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-бит-001",
+    "en": "genitive singular of бит",
+    "ky": "жарганат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бита",
+    "senses": [
+      "genitive singular of бит (bit)"
+    ],
+    "pronunciation": "/d͡ʒɑrʁɑˈnɑt/",
+    "etymology": "From Proto-Turkic *jar (“bat”) + *kājnat (“wing”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B0%D1%82"
   },
   {
     "id": "en-ky-genitive-singular-of-плацка́рт-001",
@@ -12502,6 +15116,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BE%D1%84%D0%BE%D0%BD"
   },
   {
+    "id": "en-ky-gramophone,-record-player-003",
+    "en": "gramophone, record player",
+    "ky": "оюнчу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "проигрыватель",
+    "senses": [
+      "gramophone, record player"
+    ],
+    "pronunciation": "/oˈjunˈt͡ʃu/",
+    "etymology": "From оюн (oyun, “game”) + -чу (-cu). Cognates with Kazakh ойыншы (oiynşy), Turkish oyuncu, etc.",
+    "frequency": 8,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD%D1%87%D1%83"
+  },
+  {
     "id": "en-ky-grivna-001",
     "en": "grivna",
     "ky": "гривня",
@@ -12526,7 +15155,22 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B8%D0%B2%D0%BD%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-024",
+    "id": "en-ky-greedy-001",
+    "en": "greedy",
+    "ky": "өзүмчүл",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "жадный",
+    "senses": [
+      "greedy"
+    ],
+    "pronunciation": "[menˈt͡ʃil]",
+    "etymology": "From өз (öz, “self”) + -үм (-üm) + -чүл (-cül).",
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BC%D1%87%D2%AF%D0%BB"
+  },
+  {
+    "id": "en-ky-genitive-singular-030",
     "en": "genitive singular",
     "ky": "сан",
     "pos": "noun",
@@ -12578,6 +15222,46 @@
       "genitive plural of прото́ка (protóka)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%81%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-прото́ка-002",
+    "en": "genitive plural of прото́ка",
+    "ky": "канал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "проток",
+    "senses": [
+      "genitive plural of прото́ка (protóka)"
+    ],
+    "frequency": 67,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-gingerbread,-spice-cake-001",
+    "en": "gingerbread, spice cake",
+    "ky": "сабиз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пряник",
+    "senses": [
+      "gingerbread, spice cake"
+    ],
+    "pronunciation": "/saˈbiz/",
+    "etymology": "Borrowed from Classical Persian سَبْزِی (sabzī).",
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%B1%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-gingerbread,-spice-cake-002",
+    "en": "gingerbread, spice cake",
+    "ky": "зардек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пряник",
+    "senses": [
+      "gingerbread, spice cake"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D1%80%D0%B4%D0%B5%D0%BA"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-гене́тик-001",
@@ -12662,7 +15346,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC"
   },
   {
-    "id": "en-ky-genitive-singular-025",
+    "id": "en-ky-genitive-plural-of-бла́то-001",
+    "en": "genitive plural of бла́то",
+    "ky": "пара",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "блат",
+    "senses": [
+      "genitive plural of бла́то (bláto)"
+    ],
+    "frequency": 63,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-031",
     "en": "genitive singular",
     "ky": "канчык",
     "pos": "noun",
@@ -12687,6 +15384,33 @@
     ],
     "frequency": 6,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%81%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-ground-003",
+    "en": "ground",
+    "ky": "месса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "масса",
+    "senses": [
+      "ground (electrical)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%81%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/dative/instrumental/prepositional-singular-of-коса́я-001",
+    "en": "genitive/dative/instrumental/prepositional singular of коса́я",
+    "ky": "коён",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "косой",
+    "senses": [
+      "genitive/dative/instrumental/prepositional singular of коса́я (kosája)"
+    ],
+    "pronunciation": "/qoˈjon/",
+    "etymology": "From Proto-Turkic *kodan.",
+    "frequency": 134,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%91%D0%BD"
   },
   {
     "id": "en-ky-grounds,-reason,-argument-001",
@@ -12880,6 +15604,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%8F%D0%BD%D1%83%D1%83"
   },
   {
+    "id": "en-ky-genitive-plural-of-по́лка-001",
+    "en": "genitive plural of по́лка",
+    "ky": "полка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полок",
+    "senses": [
+      "genitive plural of по́лка (pólka)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-по́лка-002",
+    "en": "genitive plural of по́лка",
+    "ky": "текче",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полок",
+    "senses": [
+      "genitive plural of по́лка (pólka)"
+    ],
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BA%D1%87%D0%B5"
+  },
+  {
     "id": "en-ky-guidance,-instruction,-direction-001",
     "en": "guidance, instruction, direction",
     "ky": "окуу китеби",
@@ -12890,6 +15639,93 @@
       "guidance, instruction, direction"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D1%83%20%D0%BA%D0%B8%D1%82%D0%B5%D0%B1%D0%B8"
+  },
+  {
+    "id": "en-ky-guidance,-instruction,-direction-002",
+    "en": "guidance, instruction, direction",
+    "ky": "лидерлик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "руководство",
+    "senses": [
+      "guidance, instruction, direction"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-guidance,-instruction,-direction-003",
+    "en": "guidance, instruction, direction",
+    "ky": "лидерчилик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "руководство",
+    "senses": [
+      "guidance, instruction, direction"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D1%87%D0%B8%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-guidance,-instruction,-direction-004",
+    "en": "guidance, instruction, direction",
+    "ky": "башчылык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "руководство",
+    "senses": [
+      "guidance, instruction, direction"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-guidance,-instruction,-direction-005",
+    "en": "guidance, instruction, direction",
+    "ky": "баштоочулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "руководство",
+    "senses": [
+      "guidance, instruction, direction"
+    ],
+    "etymology": "From баш (baş) + -тоо (-too) + -чу (-cu) + -лук (-luk).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%82%D0%BE%D0%BE%D1%87%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-ме́тод-001",
+    "en": "genitive singular of ме́тод",
+    "ky": "усул",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "метода",
+    "senses": [
+      "genitive singular of ме́тод (métod)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%83%D0%BB"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-ме́тод-002",
+    "en": "genitive singular of ме́тод",
+    "ky": "ыкма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "метода",
+    "senses": [
+      "genitive singular of ме́тод (métod)"
+    ],
+    "frequency": 207,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BA%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-ме́тод-003",
+    "en": "genitive singular of ме́тод",
+    "ky": "метод",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "метода",
+    "senses": [
+      "genitive singular of ме́тод (métod)"
+    ],
+    "frequency": 24,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4"
   },
   {
     "id": "en-ky-genitive-plural-of-стре́лка-001",
@@ -12955,6 +15791,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BC%D0%B0%20%D1%81%D3%A9%D0%B7"
   },
   {
+    "id": "en-ky-genitive-singular-of-пресс-003",
+    "en": "genitive singular of пресс",
+    "ky": "сыкма",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пресса",
+    "senses": [
+      "genitive singular of пресс (press)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BA%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-grasp,-understanding-001",
+    "en": "grasp, understanding",
+    "ky": "себеп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "соображение",
+    "senses": [
+      "grasp, understanding"
+    ],
+    "pronunciation": "/seˈbep/",
+    "etymology": "From Arabic سَبَب (sabab, “cause; reason”).\nCognate with Azerbaijani səbəb,\nBashkir сәбәп (səbəp), Crimean Tatar sebep, Georgian საბაბი (sababi),\nIndonesian sebab, Kazakh себеп (sebep),\nTajik сабаб (sabab), Tatar сәбәп (säbäp),\nTurkish sebep, Turkmen sebäp,\nUyghur سەۋەب (seweb), Urdu سبب (sabab),\nUzbek sabab, etc.",
+    "frequency": 392,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D0%B5%D0%BF"
+  },
+  {
     "id": "en-ky-goods-truck,-flatcar-001",
     "en": "goods truck, flatcar",
     "ky": "платформа",
@@ -12966,6 +15829,86 @@
     ],
     "frequency": 55,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-уда́-001",
+    "en": "genitive plural of уда́",
+    "ky": "пенис",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уд",
+    "senses": [
+      "genitive plural of уда́ (udá)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D0%BD%D0%B8%D1%81"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-уда́-002",
+    "en": "genitive plural of уда́",
+    "ky": "кеме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уд",
+    "senses": [
+      "genitive plural of уда́ (udá)"
+    ],
+    "frequency": 135,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-уда́-003",
+    "en": "genitive plural of уда́",
+    "ky": "идиш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уд",
+    "senses": [
+      "genitive plural of уда́ (udá)"
+    ],
+    "pronunciation": "/iˈdiʃ/",
+    "etymology": "Borrowed from Mongolic, ultimately from Proto-Turkic *ẹ̄diĺ. Cognate with Old Uyghur [script needed] (ediš), Kazakh ыдыс (ydys), Turkmen idiş, Yakut иһит (ihit), Tofa идіш (“dish”), etc.",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B4%D0%B8%D1%88"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-уда́-004",
+    "en": "genitive plural of уда́",
+    "ky": "тамыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уд",
+    "senses": [
+      "genitive plural of уда́ (udá)"
+    ],
+    "pronunciation": "/tɑˈmɯr/",
+    "etymology": "From Proto-Turkic *tamur.",
+    "frequency": 187,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D1%8B%D1%80"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-уда́-005",
+    "en": "genitive plural of уда́",
+    "ky": "кол-аяк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уд",
+    "senses": [
+      "genitive plural of уда́ (udá)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB-%D0%B0%D1%8F%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-уда́-006",
+    "en": "genitive plural of уда́",
+    "ky": "кайырмак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уд",
+    "senses": [
+      "genitive plural of уда́ (udá)"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D1%80%D0%BC%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-grease-002",
@@ -12982,6 +15925,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D0%B8%D0%B7"
   },
   {
+    "id": "en-ky-grease-003",
+    "en": "grease",
+    "ky": "бай",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "жирный",
+    "senses": [
+      "grease"
+    ],
+    "pronunciation": "/bɑj/",
+    "etymology": "From Proto-Turkic *bāy.",
+    "frequency": 1124,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9"
+  },
+  {
     "id": "en-ky-greasy-001",
     "en": "greasy",
     "ky": "семиз",
@@ -12994,6 +15952,33 @@
     "etymology": "From Proto-Turkic *semiŕ. Southern Altai семис (semis), Turkish semiz.",
     "frequency": 96,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-greasy-002",
+    "en": "greasy",
+    "ky": "бай",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "жирный",
+    "senses": [
+      "greasy"
+    ],
+    "pronunciation": "/bɑj/",
+    "etymology": "From Proto-Turkic *bāy.",
+    "frequency": 1124,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-groomer-001",
+    "en": "groomer",
+    "ky": "педофил",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "педераст",
+    "senses": [
+      "groomer"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B5%D0%B4%D0%BE%D1%84%D0%B8%D0%BB"
   },
   {
     "id": "en-ky-great-bustard-001",
@@ -13136,7 +16121,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%BE%D0%BE%D1%80"
   },
   {
-    "id": "en-ky-genitive-singular-026",
+    "id": "en-ky-genitive-singular-032",
     "en": "genitive singular",
     "ky": "бакалоор",
     "pos": "noun",
@@ -13197,6 +16182,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BA%D0%BC%D0%B0"
   },
   {
+    "id": "en-ky-genitive-plural-of-пре́сса-002",
+    "en": "genitive plural of пре́сса",
+    "ky": "пресса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пресс",
+    "senses": [
+      "genitive plural of пре́сса (préssa)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-пре́сса-003",
+    "en": "genitive plural of пре́сса",
+    "ky": "басма сөз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пресс",
+    "senses": [
+      "genitive plural of пре́сса (préssa)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BC%D0%B0%20%D1%81%D3%A9%D0%B7"
+  },
+  {
     "id": "en-ky-group-006",
     "en": "group",
     "ky": "фракция",
@@ -13220,6 +16229,18 @@
       "group (in a parliament)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-group-008",
+    "en": "group",
+    "ky": "бөлчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "фракция",
+    "senses": [
+      "group (in a parliament)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D1%87%D3%A9%D0%BA"
   },
   {
     "id": "en-ky-germ-001",
@@ -13261,6 +16282,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BC%D0%B1%D1%80%D0%B8%D0%BE%D0%BD"
   },
   {
+    "id": "en-ky-guide-005",
+    "en": "guide",
+    "ky": "кеңешчи",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "советчик",
+    "senses": [
+      "guide"
+    ],
+    "frequency": 69,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D2%A3%D0%B5%D1%88%D1%87%D0%B8"
+  },
+  {
+    "id": "en-ky-guide-006",
+    "en": "guide",
+    "ky": "консультант",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "советчик",
+    "senses": [
+      "guide"
+    ],
+    "frequency": 25,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D0%BD%D1%82"
+  },
+  {
     "id": "en-ky-genitive/accusative-singular-of-малышо́к-001",
     "en": "genitive/accusative singular of малышо́к",
     "ky": "бала",
@@ -13299,6 +16346,34 @@
       "genitive/dative/prepositional singular"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-geek-001",
+    "en": "geek",
+    "ky": "билгич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "задрот",
+    "senses": [
+      "geek"
+    ],
+    "pronunciation": "/bilɡit͡ʃ/",
+    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-gamer-001",
+    "en": "gamer",
+    "ky": "билгич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "задрот",
+    "senses": [
+      "gamer"
+    ],
+    "pronunciation": "/bilɡit͡ʃ/",
+    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-анатолий-001",
@@ -13399,6 +16474,20 @@
       "germane"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%87%D1%83%D0%BD%D0%B4%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-germane-002",
+    "en": "germane",
+    "ky": "оң",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "уместный",
+    "senses": [
+      "germane"
+    ],
+    "etymology": "From Proto-Turkic *oŋ (“right”).",
+    "frequency": 836,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D2%A3"
   },
   {
     "id": "en-ky-genitive-singular-of-клик-001",
@@ -13550,7 +16639,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B8%D0%BC"
   },
   {
-    "id": "en-ky-genitive-singular-027",
+    "id": "en-ky-genitive-singular-033",
     "en": "genitive singular",
     "ky": "фекалия",
     "pos": "noun",
@@ -13574,7 +16663,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%B1%D0%B5%D0%BB%D0%B5%D0%BD"
   },
   {
-    "id": "en-ky-genitive-singular-028",
+    "id": "en-ky-genitive-singular-034",
     "en": "genitive singular",
     "ky": "жарыш",
     "pos": "noun",
@@ -13587,7 +16676,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-genitive-singular-029",
+    "id": "en-ky-genitive-singular-035",
+    "en": "genitive singular",
+    "ky": "раса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "гонки",
+    "senses": [
+      "genitive singular"
+    ],
+    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-036",
     "en": "genitive singular",
     "ky": "момун",
     "pos": "noun",
@@ -13600,7 +16702,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BC%D1%83%D0%BD"
   },
   {
-    "id": "en-ky-genitive-singular-030",
+    "id": "en-ky-genitive-singular-037",
     "en": "genitive singular",
     "ky": "чырым",
     "pos": "noun",
@@ -13612,7 +16714,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D1%8B%D0%BC"
   },
   {
-    "id": "en-ky-genitive-singular-031",
+    "id": "en-ky-genitive-singular-038",
     "en": "genitive singular",
     "ky": "чытыр",
     "pos": "noun",
@@ -13636,7 +16738,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA"
   },
   {
-    "id": "en-ky-genitive-singular-032",
+    "id": "en-ky-genitive-singular-039",
     "en": "genitive singular",
     "ky": "ушак",
     "pos": "noun",
@@ -13798,6 +16900,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B1%D3%A9%D0%BB%D2%AF%D0%BA"
   },
   {
+    "id": "en-ky-government-certificate-005",
+    "en": "government certificate",
+    "ky": "күбө",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "свидетельство",
+    "senses": [
+      "government certificate"
+    ],
+    "frequency": 382,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D0%B1%D3%A9"
+  },
+  {
     "id": "en-ky-genitive-singular-of-пра́во-001",
     "en": "genitive singular of пра́во",
     "ky": "укук",
@@ -13861,6 +16976,36 @@
       "genitive singular of се́но (séno)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%B5%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-greenery,-verdure-001",
+    "en": "greenery, verdure",
+    "ky": "жашыл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зелень",
+    "senses": [
+      "greenery, verdure (vegetation)"
+    ],
+    "pronunciation": "/d͡ʒaˈʃɯl/",
+    "etymology": "From Proto-Turkic *yāĺïl. Cognate to Turkish yeşil, Turkmen ýaşyl, and Crimean Tatar yeşil.",
+    "frequency": 134,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-greens-001",
+    "en": "greens",
+    "ky": "жашыл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зелень",
+    "senses": [
+      "greens (leaves and green stems of plants eaten as vegetables or in salads)"
+    ],
+    "pronunciation": "/d͡ʒaˈʃɯl/",
+    "etymology": "From Proto-Turkic *yāĺïl. Cognate to Turkish yeşil, Turkmen ýaşyl, and Crimean Tatar yeşil.",
+    "frequency": 134,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%88%D1%8B%D0%BB"
   },
   {
     "id": "en-ky-grateful,-thankful-001",
@@ -13939,6 +17084,44 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD"
   },
   {
+    "id": "en-ky-genitive-singular-040",
+    "en": "genitive singular",
+    "ky": "түркүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "графа",
+    "senses": [
+      "genitive singular"
+    ],
+    "pronunciation": "[tyrˈcyc]",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BA%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-041",
+    "en": "genitive singular",
+    "ky": "столб",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "графа",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB%D0%B1"
+  },
+  {
+    "id": "en-ky-genitive-singular-042",
+    "en": "genitive singular",
+    "ky": "колонна",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "графа",
+    "senses": [
+      "genitive singular"
+    ],
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0"
+  },
+  {
     "id": "en-ky-genitive-plural-of-премье́ра-001",
     "en": "genitive plural of премье́ра",
     "ky": "баш-министр",
@@ -13976,7 +17159,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D0%B0%20%D1%87%D0%B5%D0%B3%D0%B8%D1%80%D1%82%D0%BA%D0%B5"
   },
   {
-    "id": "en-ky-genitive-singular-033",
+    "id": "en-ky-grass-warbler-(locustella)-002",
+    "en": "grass warbler (Locustella)",
+    "ky": "крикет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сверчок",
+    "senses": [
+      "grass warbler (Locustella) (bird)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%80%D0%B8%D0%BA%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-singular-043",
     "en": "genitive singular",
     "ky": "тизгин",
     "pos": "noun",
@@ -13988,6 +17183,18 @@
     "etymology": "From Proto-Turkic *tizgin.",
     "frequency": 139,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B3%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-шино́к-001",
+    "en": "genitive singular of шино́к",
+    "ky": "ветчина",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шинка",
+    "senses": [
+      "genitive singular of шино́к (šinók)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BD%D0%B0"
   },
   {
     "id": "en-ky-gossip,-scuttlebutt-001",
@@ -14014,6 +17221,18 @@
     ],
     "frequency": 73,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%88%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ку́пля-001",
+    "en": "genitive plural of ку́пля",
+    "ky": "шрифт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "купель",
+    "senses": [
+      "genitive plural of ку́пля (kúplja)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%80%D0%B8%D1%84%D1%82"
   },
   {
     "id": "en-ky-genitive-plural-of-кри́тика-001",
@@ -14043,6 +17262,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%D0%B5%D0%BD%20%D0%B6%D0%B5%D0%BC%D0%B8%D1%88"
   },
   {
+    "id": "en-ky-german-customs-and-culture-001",
+    "en": "German customs and culture",
+    "ky": "Германия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "неметчина",
+    "senses": [
+      "German customs and culture"
+    ],
+    "frequency": 16,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-german-customs-and-culture-002",
+    "en": "German customs and culture",
+    "ky": "Алмания",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "неметчина",
+    "senses": [
+      "German customs and culture"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-granny-001",
     "en": "granny",
     "ky": "ky",
@@ -14068,7 +17312,22 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80"
   },
   {
-    "id": "en-ky-genitive-singular-034",
+    "id": "en-ky-genitive/accusative-singular-of-пии́т-001",
+    "en": "genitive/accusative singular of пии́т",
+    "ky": "акын",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пиита",
+    "senses": [
+      "genitive/accusative singular of пии́т (piít)"
+    ],
+    "pronunciation": "/ɑˈqɯn/",
+    "etymology": "Borrowed from Persian آخوند (âxund).",
+    "frequency": 238,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BD"
+  },
+  {
+    "id": "en-ky-genitive-singular-044",
     "en": "genitive singular",
     "ky": "жаңылык",
     "pos": "noun",
@@ -14083,7 +17342,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-genitive-singular-035",
+    "id": "en-ky-genitive-singular-045",
     "en": "genitive singular",
     "ky": "кабар",
     "pos": "noun",
@@ -14098,7 +17357,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%D1%80"
   },
   {
-    "id": "en-ky-genitive-singular-036",
+    "id": "en-ky-genitive-singular-046",
     "en": "genitive singular",
     "ky": "мурундук",
     "pos": "noun",
@@ -14136,7 +17395,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%BC"
   },
   {
-    "id": "en-ky-genitive-singular-037",
+    "id": "en-ky-genitive-singular-047",
     "en": "genitive singular",
     "ky": "романтизм",
     "pos": "noun",
@@ -14375,6 +17634,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BD%D1%87"
   },
   {
+    "id": "en-ky-gamekeeper-001",
+    "en": "gamekeeper",
+    "ky": "аңчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "егерь",
+    "senses": [
+      "gamekeeper"
+    ],
+    "etymology": "Compare to Southern Altai аҥчы (aŋčï), Kazakh аңшы (añşy), etc.",
+    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D2%A3%D1%87%D1%8B"
+  },
+  {
     "id": "en-ky-gem,-pearl-001",
     "en": "gem, pearl",
     "ky": "бермет",
@@ -14478,6 +17751,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BA%D0%B0%D0%BC%D1%8C%D1%8F"
   },
   {
+    "id": "en-ky-grand-master-001",
+    "en": "Grand Master",
+    "ky": "ээси",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "магистр",
+    "senses": [
+      "Grand Master (the head of a medieval chivalric or religious order, and their title)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%8D%D1%81%D0%B8"
+  },
+  {
+    "id": "en-ky-grand-master-002",
+    "en": "Grand Master",
+    "ky": "уста",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "магистр",
+    "senses": [
+      "Grand Master (the head of a medieval chivalric or religious order, and their title)"
+    ],
+    "frequency": 96,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-grand-master-003",
+    "en": "Grand Master",
+    "ky": "чебер",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "магистр",
+    "senses": [
+      "Grand Master (the head of a medieval chivalric or religious order, and their title)"
+    ],
+    "pronunciation": "/t͡ʃeˈber/",
+    "frequency": 56,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%B1%D0%B5%D1%80"
+  },
+  {
     "id": "en-ky-genetic-marker-001",
     "en": "genetic marker",
     "ky": "фломастер",
@@ -14488,6 +17800,20 @@
       "genetic marker (known specific DNA sequence)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BB%D0%BE%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-genetic-marker-002",
+    "en": "genetic marker",
+    "ky": "ок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "маркер",
+    "senses": [
+      "genetic marker (known specific DNA sequence)"
+    ],
+    "etymology": "From Proto-Turkic *ok (“arrow”).",
+    "frequency": 1029,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA"
   },
   {
     "id": "en-ky-gain,-profit-001",
@@ -14595,6 +17921,154 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D1%8B%D0%BB%D1%83%D1%83"
   },
   {
+    "id": "en-ky-gravitation,-gravity-002",
+    "en": "gravitation, gravity",
+    "ky": "тартуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "frequency": 20,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-003",
+    "en": "gravitation, gravity",
+    "ky": "жагымдуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B3%D1%8B%D0%BC%D0%B4%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-004",
+    "en": "gravitation, gravity",
+    "ky": "өзүнө тарткычтык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D2%AF%D0%BD%D3%A9%20%D1%82%D0%B0%D1%80%D1%82%D0%BA%D1%8B%D1%87%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-005",
+    "en": "gravitation, gravity",
+    "ky": "кызыктыргычтык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D1%8B%D0%BA%D1%82%D1%8B%D1%80%D0%B3%D1%8B%D1%87%D1%82%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-006",
+    "en": "gravitation, gravity",
+    "ky": "жылуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "frequency": 76,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-007",
+    "en": "gravitation, gravity",
+    "ky": "аттракцион",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%82%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-008",
+    "en": "gravitation, gravity",
+    "ky": "тартыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D1%82%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-009",
+    "en": "gravitation, gravity",
+    "ky": "сонундук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BD%D1%83%D0%BD%D0%B4%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-010",
+    "en": "gravitation, gravity",
+    "ky": "татынакайлык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%82%D1%8B%D0%BD%D0%B0%D0%BA%D0%B0%D0%B9%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-011",
+    "en": "gravitation, gravity",
+    "ky": "жакшынакайлык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%88%D1%8B%D0%BD%D0%B0%D0%BA%D0%B0%D0%B9%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-gravitation,-gravity-012",
+    "en": "gravitation, gravity",
+    "ky": "татканткыч жем",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "притяжение",
+    "senses": [
+      "gravitation, gravity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%82%D0%BA%D0%B0%D0%BD%D1%82%D0%BA%D1%8B%D1%87%20%D0%B6%D0%B5%D0%BC"
+  },
+  {
+    "id": "en-ky-gap-001",
+    "en": "gap",
+    "ky": "космос",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "просвет",
+    "senses": [
+      "gap"
+    ],
+    "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81"
+  },
+  {
     "id": "en-ky-gas-mask,-breathing-mask,-respirator-001",
     "en": "gas mask, breathing mask, respirator",
     "ky": "противогаз",
@@ -14631,6 +18105,32 @@
       "grid, graticule"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%BD%D0%B6%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-grid,-graticule-003",
+    "en": "grid, graticule",
+    "ky": "кабырчык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сетка",
+    "senses": [
+      "grid, graticule"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D1%80%D1%87%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-grid,-graticule-004",
+    "en": "grid, graticule",
+    "ky": "кабык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сетка",
+    "senses": [
+      "grid, graticule"
+    ],
+    "etymology": "From Proto-Turkic *kāpuk (“bark; skin; shell”). Cognate with Kazakh қабық (qabyq),\nSouthern Altai кабык (kabïk), Bashkir ҡабыҡ (qabıq), Tatar кабык (qabıq), Crimean Tatar qabuq, Kumyk къабукъ (qabuq),\nUzbek qobiq (“skin, shell”),\nTurkish kabuk (“shell”),\nTuvan хавык (xavık, “husk”),\nChuvash хупӑ (hup̬ă, “bark”), etc.",
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-guard-001",
@@ -14670,6 +18170,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B2%D0%B0%D1%80%20%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D1%8B%D1%88%D1%8B"
   },
   {
+    "id": "en-ky-genitive-singular-of-трапе́з-001",
+    "en": "genitive singular of трапе́з",
+    "ky": "тамак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "трапеза",
+    "senses": [
+      "genitive singular of трапе́з (trapéz)"
+    ],
+    "pronunciation": "[tɑˈmɑq]",
+    "etymology": "From *tāmāq ~ *tāmğāq \"throat\".\nOld Uyghur [script needed] (tamğaq, “throat, pharynx”);\nSouthern Altai тамак (tamak, “throat, food”),\nKazakh тамақ (tamaq, “throat, food”),\nKumyk тамакъ (tamaq, “throat”),\nUzbek tomoq (“throat, food”),\nUyghur تاماق (tamaq, “food”),\nTurkmen damak (“throat; food”),\nKhakas тамах (tamax, “throat; food”),\nYakut тамах (tamaq, “throat”).",
+    "frequency": 429,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BC%D0%B0%D0%BA"
+  },
+  {
     "id": "en-ky-gyration-001",
     "en": "gyration",
     "ky": "айлануу",
@@ -14682,7 +18197,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D1%83%D1%83"
   },
   {
-    "id": "en-ky-genitive-singular-038",
+    "id": "en-ky-genitive-singular-048",
     "en": "genitive singular",
     "ky": "чана",
     "pos": "noun",
@@ -14693,6 +18208,60 @@
     ],
     "frequency": 5,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-кра́ля-001",
+    "en": "genitive/accusative plural of кра́ля",
+    "ky": "король",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краль",
+    "senses": [
+      "genitive/accusative plural of кра́ля (králja)"
+    ],
+    "etymology": "Borrowed from Russian коро́ль (korólʹ).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-кра́ля-002",
+    "en": "genitive/accusative plural of кра́ля",
+    "ky": "падыша",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краль",
+    "senses": [
+      "genitive/accusative plural of кра́ля (králja)"
+    ],
+    "pronunciation": "/pɑdɯˈʃɑ/",
+    "etymology": "Borrowed from Persian پادشاه.",
+    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B4%D1%8B%D1%88%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-кра́ля-003",
+    "en": "genitive/accusative plural of кра́ля",
+    "ky": "кан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краль",
+    "senses": [
+      "genitive/accusative plural of кра́ля (králja)"
+    ],
+    "etymology": "From Classical Mongolian ᠬᠠᠨ (qan).",
+    "frequency": 6011,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-genitive/accusative-plural-of-кра́ля-004",
+    "en": "genitive/accusative plural of кра́ля",
+    "ky": "дамке",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краль",
+    "senses": [
+      "genitive/accusative plural of кра́ля (králja)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%BC%D0%BA%D0%B5"
   },
   {
     "id": "en-ky-gyrfalcon-001",
@@ -14717,6 +18286,18 @@
       "General Secretary"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B5%D0%BD%D1%81%D0%B5%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-присту́пок-001",
+    "en": "genitive singular of присту́пок",
+    "ky": "адым",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "приступка",
+    "senses": [
+      "genitive singular of присту́пок (pristúpok)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D1%8B%D0%BC"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-кла́ссик-001",
@@ -14770,7 +18351,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-039",
+    "id": "en-ky-genitive-singular-049",
     "en": "genitive singular",
     "ky": "воронка",
     "pos": "noun",
@@ -14782,7 +18363,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-040",
+    "id": "en-ky-genitive-singular-050",
     "en": "genitive singular",
     "ky": "куйгуч",
     "pos": "noun",
@@ -14816,6 +18397,34 @@
       "genitive/accusative singular of воронко́ (voronkó)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B9%D0%B3%D1%83%D1%87"
+  },
+  {
+    "id": "en-ky-grassland-fire-001",
+    "en": "grassland fire",
+    "ky": "от",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пал",
+    "senses": [
+      "grassland fire"
+    ],
+    "pronunciation": "/ot/",
+    "etymology": "From Proto-Turkic *ot (“grass”).",
+    "frequency": 798,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%82"
+  },
+  {
+    "id": "en-ky-grassland-fire-002",
+    "en": "grassland fire",
+    "ky": "өрт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пал",
+    "senses": [
+      "grassland fire"
+    ],
+    "frequency": 306,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D1%80%D1%82"
   },
   {
     "id": "en-ky-gorilla-001",
@@ -14903,6 +18512,19 @@
     ],
     "frequency": 79,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-051",
+    "en": "genitive singular",
+    "ky": "энергия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "энергетика",
+    "senses": [
+      "genitive singular"
+    ],
+    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-gangrene,-mortification-001",
@@ -15003,6 +18625,42 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA"
   },
   {
+    "id": "en-ky-genitive-plural-of-пла́стика-003",
+    "en": "genitive plural of пла́стика",
+    "ky": "скульптор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пластик",
+    "senses": [
+      "genitive plural of пла́стика (plástika)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-пла́стика-004",
+    "en": "genitive plural of пла́стика",
+    "ky": "айкелчи",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пластик",
+    "senses": [
+      "genitive plural of пла́стика (plástika)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D0%BA%D0%B5%D0%BB%D1%87%D0%B8"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-пла́стика-005",
+    "en": "genitive plural of пла́стика",
+    "ky": "бедизчи",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пластик",
+    "senses": [
+      "genitive plural of пла́стика (plástika)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D0%B8%D0%B7%D1%87%D0%B8"
+  },
+  {
     "id": "en-ky-graphics-001",
     "en": "graphics",
     "ky": "графика",
@@ -15016,7 +18674,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-041",
+    "id": "en-ky-genitive-singular-052",
     "en": "genitive singular",
     "ky": "графика",
     "pos": "noun",
@@ -15178,6 +18836,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%82%D3%A9%D1%80%D0%B3%D2%AF%D1%87"
   },
   {
+    "id": "en-ky-good,-excellent-001",
+    "en": "good, excellent",
+    "ky": "асыл",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "знатный",
+    "senses": [
+      "good, excellent"
+    ],
+    "frequency": 352,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB"
+  },
+  {
     "id": "en-ky-genitive-singular-of-бу́бен-001",
     "en": "genitive singular of бу́бен",
     "ky": "момун",
@@ -15189,6 +18860,19 @@
     ],
     "frequency": 163,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%BC%D1%83%D0%BD"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-бу́бен-002",
+    "en": "genitive singular of бу́бен",
+    "ky": "алмаз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бубна",
+    "senses": [
+      "genitive singular of бу́бен (búben)"
+    ],
+    "frequency": 41,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%D0%B7"
   },
   {
     "id": "en-ky-genitive/accusative-singular-of-птах-001",
@@ -15231,7 +18915,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B3%D0%B0%D0%BD%D1%87%D1%8B"
   },
   {
-    "id": "en-ky-genitive-singular-042",
+    "id": "en-ky-government-switchboard-telephone-001",
+    "en": "government switchboard telephone",
+    "ky": "тик учак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вертушка",
+    "senses": [
+      "government switchboard telephone"
+    ],
+    "pronunciation": "/tiɣuˈt͡ʃɑq/",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BA%20%D1%83%D1%87%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-053",
     "en": "genitive singular",
     "ky": "карта оюну",
     "pos": "noun",
@@ -15342,6 +19039,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D1%80%D0%BE%D0%BB"
   },
   {
+    "id": "en-ky-glandule,-glandula-001",
+    "en": "glandule, glandula",
+    "ky": "темир жол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "железка",
+    "senses": [
+      "glandule, glandula"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BC%D0%B8%D1%80%20%D0%B6%D0%BE%D0%BB"
+  },
+  {
     "id": "en-ky-gas-station,-petrol-station,-filling-station-001",
     "en": "gas station, petrol station, filling station",
     "ky": "бензоколонка",
@@ -15379,7 +19088,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9"
   },
   {
-    "id": "en-ky-genitive-singular-043",
+    "id": "en-ky-genitive-singular-054",
     "en": "genitive singular",
     "ky": "мемуарлар",
     "pos": "noun",
@@ -15391,7 +19100,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BC%D1%83%D0%B0%D1%80%D0%BB%D0%B0%D1%80"
   },
   {
-    "id": "en-ky-genitive-singular-044",
+    "id": "en-ky-genitive-singular-055",
     "en": "genitive singular",
     "ky": "багаж",
     "pos": "noun",
@@ -15403,7 +19112,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6"
   },
   {
-    "id": "en-ky-genitive-singular-045",
+    "id": "en-ky-genitive-singular-056",
     "en": "genitive singular",
     "ky": "жүк",
     "pos": "noun",
@@ -15416,7 +19125,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D2%AF%D0%BA"
   },
   {
-    "id": "en-ky-genitive-singular-046",
+    "id": "en-ky-genitive-singular-057",
     "en": "genitive singular",
     "ky": "сатып алуу",
     "pos": "noun",
@@ -15464,7 +19173,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%BE%D0%B2%D1%80%D0%BE%D0%B2"
   },
   {
-    "id": "en-ky-genitive-singular-047",
+    "id": "en-ky-genitive-singular-058",
     "en": "genitive singular",
     "ky": "саты",
     "pos": "noun",
@@ -15476,7 +19185,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%82%D1%8B"
   },
   {
-    "id": "en-ky-genitive-singular-048",
+    "id": "en-ky-genitive-singular-059",
     "en": "genitive singular",
     "ky": "тепкич",
     "pos": "noun",
@@ -15490,7 +19199,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BF%D0%BA%D0%B8%D1%87"
   },
   {
-    "id": "en-ky-genitive-singular-049",
+    "id": "en-ky-genitive-singular-060",
     "en": "genitive singular",
     "ky": "киреше",
     "pos": "noun",
@@ -15503,7 +19212,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%B5%D1%88%D0%B5"
   },
   {
-    "id": "en-ky-genitive-singular-050",
+    "id": "en-ky-genitive-singular-061",
     "en": "genitive singular",
     "ky": "доход",
     "pos": "noun",
@@ -15515,7 +19224,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D1%85%D0%BE%D0%B4"
   },
   {
-    "id": "en-ky-genitive-singular-051",
+    "id": "en-ky-genitive-singular-062",
     "en": "genitive singular",
     "ky": "Кашкар",
     "pos": "noun",
@@ -15528,7 +19237,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D1%88%D0%BA%D0%B0%D1%80"
   },
   {
-    "id": "en-ky-genitive-singular-052",
+    "id": "en-ky-genitive-singular-of-носо́к-001",
+    "en": "genitive singular of носо́к",
+    "ky": "подшипник",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "носка",
+    "senses": [
+      "genitive singular of носо́к (nosók)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BE%D0%B4%D1%88%D0%B8%D0%BF%D0%BD%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive-singular-063",
     "en": "genitive singular",
     "ky": "Шахты",
     "pos": "noun",
@@ -15540,7 +19261,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%8B"
   },
   {
-    "id": "en-ky-genitive-singular-053",
+    "id": "en-ky-genitive-singular-064",
     "en": "genitive singular",
     "ky": "ача",
     "pos": "noun",
@@ -15552,7 +19273,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-054",
+    "id": "en-ky-genitive-singular-065",
     "en": "genitive singular",
     "ky": "деңиз балыры",
     "pos": "noun",
@@ -15564,7 +19285,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B5%D2%A3%D0%B8%D0%B7%20%D0%B1%D0%B0%D0%BB%D1%8B%D1%80%D1%8B"
   },
   {
-    "id": "en-ky-genitive-singular-055",
+    "id": "en-ky-genitive-singular-066",
     "en": "genitive singular",
     "ky": "байге",
     "pos": "noun",
@@ -15682,6 +19403,43 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BF%D0%B0%D0%BA"
   },
   {
+    "id": "en-ky-genitive-singular-067",
+    "en": "genitive singular",
+    "ky": "Оруссия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "совка",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-genitive-singular-068",
+    "en": "genitive singular",
+    "ky": "Россия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "совка",
+    "senses": [
+      "genitive singular"
+    ],
+    "frequency": 333,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-genitive-singular-069",
+    "en": "genitive singular",
+    "ky": "Советтер Союз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "совка",
+    "senses": [
+      "genitive singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%82%D0%B5%D1%80%20%D0%A1%D0%BE%D1%8E%D0%B7"
+  },
+  {
     "id": "en-ky-gingelli-001",
     "en": "gingelli",
     "ky": "күнжүт",
@@ -15770,7 +19528,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AE%D0%BD%D0%B4%D2%AF%D1%81%D1%82%D0%B0%D0%BD"
   },
   {
-    "id": "en-ky-genitive-singular-056",
+    "id": "en-ky-genitive-singular-070",
     "en": "genitive singular",
     "ky": "казак",
     "pos": "noun",
@@ -15796,7 +19554,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F"
   },
   {
-    "id": "en-ky-genitive-singular-057",
+    "id": "en-ky-genitive-singular-071",
     "en": "genitive singular",
     "ky": "боулинг",
     "pos": "noun",
@@ -15844,6 +19602,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%BF%D0%B0%D1%87%D1%8B%D0%BB"
   },
   {
+    "id": "en-ky-genitive/accusative-plural-of-пии́та-001",
+    "en": "genitive/accusative plural of пии́та",
+    "ky": "акын",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пиит",
+    "senses": [
+      "genitive/accusative plural of пии́та (piíta)"
+    ],
+    "pronunciation": "/ɑˈqɯn/",
+    "etymology": "Borrowed from Persian آخوند (âxund).",
+    "frequency": 238,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%8B%D0%BD"
+  },
+  {
     "id": "en-ky-genitive-plural-of-плацка́рта-001",
     "en": "genitive plural of плацка́рта",
     "ky": "плацкарта",
@@ -15856,7 +19629,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%BB%D0%B0%D1%86%D0%BA%D0%B0%D1%80%D1%82%D0%B0"
   },
   {
-    "id": "en-ky-genitive-singular-058",
+    "id": "en-ky-genitive-plural-of-ру́мба-001",
+    "en": "genitive plural of ру́мба",
+    "ky": "точка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "румб",
+    "senses": [
+      "genitive plural of ру́мба (rúmba)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D1%87%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ру́мба-002",
+    "en": "genitive plural of ру́мба",
+    "ky": "чекит",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "румб",
+    "senses": [
+      "genitive plural of ру́мба (rúmba)"
+    ],
+    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%BA%D0%B8%D1%82"
+  },
+  {
+    "id": "en-ky-genitive-singular-072",
     "en": "genitive singular",
     "ky": "төш",
     "pos": "noun",
@@ -15870,7 +19668,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D3%A9%D1%88"
   },
   {
-    "id": "en-ky-genitive-singular-059",
+    "id": "en-ky-genitive-singular-073",
     "en": "genitive singular",
     "ky": "көкүрөк",
     "pos": "noun",
@@ -15945,6 +19743,71 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B9%20%D0%B0%D1%82%D0%B0"
   },
   {
+    "id": "en-ky-grandfather,-granddad,-pops-003",
+    "en": "grandfather, granddad, pops",
+    "ky": "абышка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дедуля",
+    "senses": [
+      "grandfather, granddad, pops"
+    ],
+    "etymology": "From Proto-Turkic *abučka (“husband, old man”). Cognate with Southern Altai абышка (abïška, “old man”), Turkish abuş (“elder sister”), Tuvan ашак (aşak, “old man”).",
+    "frequency": 312,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D1%8B%D1%88%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-grandfather,-granddad,-pops-004",
+    "en": "grandfather, granddad, pops",
+    "ky": "чал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дедуля",
+    "senses": [
+      "grandfather, granddad, pops"
+    ],
+    "frequency": 1368,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-grandfather,-granddad,-pops-005",
+    "en": "grandfather, granddad, pops",
+    "ky": "карыя",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дедуля",
+    "senses": [
+      "grandfather, granddad, pops"
+    ],
+    "frequency": 120,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%8B%D1%8F"
+  },
+  {
+    "id": "en-ky-grandfather,-granddad,-pops-006",
+    "en": "grandfather, granddad, pops",
+    "ky": "аксакал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дедуля",
+    "senses": [
+      "grandfather, granddad, pops"
+    ],
+    "frequency": 193,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-grandfather,-granddad,-pops-007",
+    "en": "grandfather, granddad, pops",
+    "ky": "карт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дедуля",
+    "senses": [
+      "grandfather, granddad, pops"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%80%D1%82"
+  },
+  {
     "id": "en-ky-gum-004",
     "en": "gum",
     "ky": "камедь",
@@ -15981,7 +19844,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%B3%D0%B0%D1%87%D1%82%D1%8B%D0%BD%20%D1%81%D0%B0%D0%B3%D1%8B%D0%B7%D1%8B"
   },
   {
-    "id": "en-ky-grease-003",
+    "id": "en-ky-gum-007",
+    "en": "gum",
+    "ky": "комедия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "камедь",
+    "senses": [
+      "gum (resin)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-grease-004",
     "en": "grease",
     "ky": "майлуу",
     "pos": "adj",
@@ -16044,7 +19919,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-guards-002",
+    "id": "en-ky-guards-003",
     "en": "Guards",
     "ky": "гвардияга",
     "pos": "adj",
@@ -16056,7 +19931,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F%D0%B3%D0%B0"
   },
   {
-    "id": "en-ky-guards-003",
+    "id": "en-ky-guards-004",
     "en": "Guards",
     "ky": "гвардиялык",
     "pos": "adj",
@@ -16156,6 +20031,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-genitive/dative/prepositional-singular-009",
+    "en": "genitive/dative/prepositional singular",
+    "ky": "чердак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "антресоли",
+    "senses": [
+      "genitive/dative/prepositional singular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B4%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-genitive/dative/prepositional-singular-010",
+    "en": "genitive/dative/prepositional singular",
+    "ky": "чатыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "антресоли",
+    "senses": [
+      "genitive/dative/prepositional singular"
+    ],
+    "etymology": "From Proto-Turkic *čātïr. Cognate to Southern Altai чадыр (čadïr) / чатыр (čatïr) / шатыр (šatïr), Kazakh шатыр (şatyr), Karaim čatyr / čadyr, catyr, Kumyk чатыр (çatır), Tatar чатыр (çatır), Bashkir сатыр (satır), etc.",
+    "frequency": 119,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80"
+  },
+  {
     "id": "en-ky-gesture,-body-movement-001",
     "en": "gesture, body movement",
     "ky": "дене кыймылы",
@@ -16230,6 +20131,58 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%BC%D0%B5%D0%BA"
   },
   {
+    "id": "en-ky-go-ahead-signal-001",
+    "en": "go-ahead signal",
+    "ky": "толкун",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отмашка",
+    "senses": [
+      "go-ahead signal"
+    ],
+    "etymology": "From Proto-Turkic *tolku-n, compare Yakut долгун (dolgun).",
+    "frequency": 84,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BB%D0%BA%D1%83%D0%BD"
+  },
+  {
+    "id": "en-ky-gaining,-winning,-obtaining-001",
+    "en": "gaining, winning, obtaining",
+    "ky": "конкуренция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "соискание",
+    "senses": [
+      "gaining, winning, obtaining"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-gaining,-winning,-obtaining-002",
+    "en": "gaining, winning, obtaining",
+    "ky": "мелдеш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "соискание",
+    "senses": [
+      "gaining, winning, obtaining"
+    ],
+    "frequency": 52,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BB%D0%B4%D0%B5%D1%88"
+  },
+  {
+    "id": "en-ky-gaining,-winning,-obtaining-003",
+    "en": "gaining, winning, obtaining",
+    "ky": "жарыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "соискание",
+    "senses": [
+      "gaining, winning, obtaining"
+    ],
+    "frequency": 16,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D1%88"
+  },
+  {
     "id": "en-ky-gem,-gemstone,-semi-precious-stone-001",
     "en": "gem, gemstone, semi-precious stone",
     "ky": "асыл таш",
@@ -16240,6 +20193,57 @@
       "gem, gemstone, semi-precious stone"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%8B%D0%BB%20%D1%82%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-gehenna-001",
+    "en": "Gehenna",
+    "ky": "тозок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "геенна",
+    "senses": [
+      "Gehenna"
+    ],
+    "frequency": 94,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%B7%D0%BE%D0%BA"
+  },
+  {
+    "id": "en-ky-gehenna-002",
+    "en": "Gehenna",
+    "ky": "жаанам",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "геенна",
+    "senses": [
+      "Gehenna"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B0%D0%BD%D0%B0%D0%BC"
+  },
+  {
+    "id": "en-ky-gehenna-003",
+    "en": "Gehenna",
+    "ky": "жаханнам",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "геенна",
+    "senses": [
+      "Gehenna"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%85%D0%B0%D0%BD%D0%BD%D0%B0%D0%BC"
+  },
+  {
+    "id": "en-ky-guts,-innards-001",
+    "en": "guts, innards",
+    "ky": "орто",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "серёдка",
+    "senses": [
+      "guts, innards"
+    ],
+    "etymology": "From Proto-Turkic *or- (“middle”). Kazakh орта (orta), Southern Altai орто (orto), Crimean Tatar orta, Kumyk орта (orta), Azerbaijani orta, Turkish orta, Turkmen orta, Uzbek o'rta,\nShor орта, Tuvan орту (ortu), Western Yugur orta, etc.",
+    "frequency": 1348,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%82%D0%BE"
   },
   {
     "id": "en-ky-germanization-002",
@@ -16292,7 +20296,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA"
   },
   {
-    "id": "en-ky-genitive-singular-060",
+    "id": "en-ky-genitive-singular-074",
     "en": "genitive singular",
     "ky": "жүктөө",
     "pos": "noun",
@@ -16327,6 +20331,214 @@
       "genitive singular of идио́м (idióm)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B4%D0%B8%D0%BE%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-singular-of-уд-001",
+    "en": "genitive singular of уд",
+    "ky": "кайырмак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "уда",
+    "senses": [
+      "genitive singular of уд (ud)"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%8B%D1%80%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-001",
+    "en": "good; proper; useful",
+    "ky": "сулуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "pronunciation": "/suˈluː/",
+    "etymology": "Compare to Southern Altai сылу (sïlu), etc.",
+    "frequency": 380,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-002",
+    "en": "good; proper; useful",
+    "ky": "көркөм",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "frequency": 170,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D0%BA%D3%A9%D0%BC"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-003",
+    "en": "good; proper; useful",
+    "ky": "кооз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "pronunciation": "/qoːz/",
+    "frequency": 78,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%B7"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-004",
+    "en": "good; proper; useful",
+    "ky": "сонун",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "frequency": 199,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D0%BD%D1%83%D0%BD"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-005",
+    "en": "good; proper; useful",
+    "ky": "чырайлуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "etymology": "equivalent to чырай (cıray, “(line of) face”) + -луу (-luu, ornative suffix).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%B9%D0%BB%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-006",
+    "en": "good; proper; useful",
+    "ky": "чырай жүздүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D1%80%D0%B0%D0%B9%20%D0%B6%D2%AF%D0%B7%D0%B4%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-007",
+    "en": "good; proper; useful",
+    "ky": "укмуштай",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D0%BC%D1%83%D1%88%D1%82%D0%B0%D0%B9"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-008",
+    "en": "good; proper; useful",
+    "ky": "ажайып",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "frequency": 90,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D0%B0%D0%B9%D1%8B%D0%BF"
+  },
+  {
+    "id": "en-ky-good;-proper;-useful-009",
+    "en": "good; proper; useful",
+    "ky": "көйүткөн",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "лепый",
+    "senses": [
+      "good",
+      "proper",
+      "useful"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B9%D2%AF%D1%82%D0%BA%D3%A9%D0%BD"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-краль-001",
+    "en": "genitive/accusative singular of краль",
+    "ky": "королева",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краля",
+    "senses": [
+      "genitive/accusative singular of краль (kralʹ)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-краль-002",
+    "en": "genitive/accusative singular of краль",
+    "ky": "каныш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краля",
+    "senses": [
+      "genitive/accusative singular of краль (kralʹ)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-краль-003",
+    "en": "genitive/accusative singular of краль",
+    "ky": "ханыша",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краля",
+    "senses": [
+      "genitive/accusative singular of краль (kralʹ)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%B0%D0%BD%D1%8B%D1%88%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-краль-004",
+    "en": "genitive/accusative singular of краль",
+    "ky": "ферзь",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краля",
+    "senses": [
+      "genitive/accusative singular of краль (kralʹ)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D1%80%D0%B7%D1%8C"
+  },
+  {
+    "id": "en-ky-genitive/accusative-singular-of-краль-005",
+    "en": "genitive/accusative singular of краль",
+    "ky": "ферзди",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "краля",
+    "senses": [
+      "genitive/accusative singular of краль (kralʹ)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%B5%D1%80%D0%B7%D0%B4%D0%B8"
   },
   {
     "id": "en-ky-genitive-plural-of-ля́ха-001",
@@ -16456,6 +20668,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B5%D1%82%D1%82%D0%BE"
   },
   {
+    "id": "en-ky-gigue-001",
+    "en": "gigue",
+    "ky": "зажигалка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "жига",
+    "senses": [
+      "gigue"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B0%D0%B6%D0%B8%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-gigue-002",
+    "en": "gigue",
+    "ky": "чакмак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "жига",
+    "senses": [
+      "gigue"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BA%D0%BC%D0%B0%D0%BA"
+  },
+  {
     "id": "en-ky-garbage,-junk,-rubbish-001",
     "en": "garbage, junk, rubbish",
     "ky": "таштанды",
@@ -16493,6 +20729,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%93%D0%B2%D0%B0%D0%B4%D0%B5%D0%BB%D1%83%D0%BF%D0%B0"
   },
   {
+    "id": "en-ky-grumpy-001",
+    "en": "grumpy",
+    "ky": "кызык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "цикавый",
+    "senses": [
+      "grumpy"
+    ],
+    "frequency": 782,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-grumpy-002",
+    "en": "grumpy",
+    "ky": "кызыкты",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "цикавый",
+    "senses": [
+      "grumpy"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B7%D1%8B%D0%BA%D1%82%D1%8B"
+  },
+  {
+    "id": "en-ky-great-crested-grebe-001",
+    "en": "great crested grebe",
+    "ky": "капкак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хохлушка",
+    "senses": [
+      "great crested grebe (Colymbus cristatus)"
+    ],
+    "etymology": "From *kapɣak, from Proto-Turkic *kapgak (“cover”), from Proto-Turkic *kap- (“to cover”). See kapa-. Cognate with Karakhanid [script needed] (qapɣaq, “cover”), Southern Altai какпак (kakpak, “lid, cover”), Turkish kapak (“cover”), etc.",
+    "frequency": 24,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BA"
+  },
+  {
     "id": "en-ky-game-of-chance-001",
     "en": "game of chance",
     "ky": "кумар",
@@ -16518,6 +20793,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D0%B0%D1%80%20%D0%BE%D1%8E%D0%BD"
   },
   {
+    "id": "en-ky-genitive-plural-of-ла́га-001",
+    "en": "genitive plural of ла́га",
+    "ky": "такта",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лаг",
+    "senses": [
+      "genitive plural of ла́га (lága)"
+    ],
+    "pronunciation": "/tɑqˈtɑ/",
+    "etymology": "From Persian تخته (taxte).",
+    "frequency": 26,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BA%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-genitive-plural-of-ла́га-002",
+    "en": "genitive plural of ла́га",
+    "ky": "стол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лаг",
+    "senses": [
+      "genitive plural of ла́га (lága)"
+    ],
+    "frequency": 49,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB"
+  },
+  {
     "id": "en-ky-gynecological-001",
     "en": "gynecological",
     "ky": "гинекологиялык",
@@ -16528,6 +20831,74 @@
       "gynecological"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%B8%D0%BD%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-groyne-001",
+    "en": "groyne",
+    "ky": "дар",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "рель",
+    "senses": [
+      "groyne"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-groyne-002",
+    "en": "groyne",
+    "ky": "дарга",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "рель",
+    "senses": [
+      "groyne"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-girl,-woman-001",
+    "en": "girl, woman",
+    "ky": "жылан",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "прошмандовка",
+    "senses": [
+      "girl, woman"
+    ],
+    "pronunciation": "/d͡ʒɯˈlɑn/",
+    "etymology": "From Proto-Turkic *yï̄lan.",
+    "frequency": 238,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-groove-001",
+    "en": "groove",
+    "ky": "жип",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "нарез",
+    "senses": [
+      "groove (in rifling)"
+    ],
+    "etymology": "From Proto-Turkic *yïp.",
+    "frequency": 95,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-gut-eater-001",
+    "en": "gut eater",
+    "ky": "мышык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кишкоглот",
+    "senses": [
+      "gut eater"
+    ],
+    "pronunciation": "/mɯˈʃɯq/",
+    "etymology": "From Proto-Common Turkic *pïšïk (“cat”). Compare Turkish pisi, Azerbaijani and Turkmen pişik, Karakalpak pıshıq, Uzbek mushuk, Kazakh мысық (mysyq), Southern Altai мыжык (mïžïk), Kumyk мишик (mişik), Uyghur مۈشۈك (müshük).",
+    "frequency": 132,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%8B%D1%88%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-genitive/accusative-plural-001",

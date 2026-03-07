@@ -258,6 +258,96 @@
     "id": "ru-СМИ-001"
   },
   {
+    "ru": "связь",
+    "ky": "байланыш",
+    "pos": "noun",
+    "senses": [
+      "связь",
+      "контакт",
+      "коммуникация"
+    ],
+    "source": "manual",
+    "id": "ru-связь-001"
+  },
+  {
+    "ru": "сразу",
+    "ky": "дароо",
+    "pos": "adv",
+    "senses": [
+      "сразу",
+      "немедленно",
+      "тотчас"
+    ],
+    "source": "manual",
+    "id": "ru-сразу-001"
+  },
+  {
+    "ru": "справка",
+    "ky": "маалымкат",
+    "pos": "noun",
+    "senses": [
+      "справка",
+      "документ",
+      "удостоверение"
+    ],
+    "source": "manual",
+    "id": "ru-справка-001"
+  },
+  {
+    "ru": "статус",
+    "ky": "статус",
+    "pos": "noun",
+    "senses": [
+      "статус",
+      "состояние"
+    ],
+    "source": "manual",
+    "id": "ru-статус-001"
+  },
+  {
+    "ru": "стоящий",
+    "ky": "турган",
+    "pos": "adj",
+    "senses": [
+      "стоящий",
+      "находящийся"
+    ],
+    "source": "manual",
+    "id": "ru-стоящий-001"
+  },
+  {
+    "ru": "сканирование",
+    "ky": "сканерлөө",
+    "pos": "noun",
+    "senses": [
+      "сканирование"
+    ],
+    "source": "manual",
+    "id": "ru-сканирование-001"
+  },
+  {
+    "ru": "сканировать",
+    "ky": "сканерлөө",
+    "pos": "verb",
+    "senses": [
+      "сканировать"
+    ],
+    "source": "manual",
+    "id": "ru-сканировать-001"
+  },
+  {
+    "ru": "скачивать",
+    "ky": "жүктөө",
+    "pos": "verb",
+    "senses": [
+      "скачивать",
+      "загружать",
+      "грузить"
+    ],
+    "source": "manual",
+    "id": "ru-скачивать-001"
+  },
+  {
     "ru": "собака",
     "ky": "ит",
     "pos": "noun",
@@ -15093,7 +15183,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BB",
-    "id": "ru-статус-001"
+    "id": "ru-статус-002"
   },
   {
     "ru": "стилет",
@@ -24431,7 +24521,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F",
-    "id": "ru-связь-001"
+    "id": "ru-связь-002"
   },
   {
     "ru": "связь",
@@ -24444,7 +24534,7 @@
     "ruAccented": "связь",
     "ruGender": "f",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%82%D0%B0%D1%88%D1%83%D1%83",
-    "id": "ru-связь-002"
+    "id": "ru-связь-003"
   },
   {
     "ru": "связь",
@@ -24468,7 +24558,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D1%8B%D1%88%D1%83%D1%83",
-    "id": "ru-связь-003"
+    "id": "ru-связь-004"
   },
   {
     "ru": "сообщение",
@@ -26974,7 +27064,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%B8%D0%BB%D0%B5",
-    "id": "ru-связь-004"
+    "id": "ru-связь-005"
   },
   {
     "ru": "сержант",
@@ -31491,7 +31581,7 @@
     "ruGender": "f",
     "frequency": 10,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F",
-    "id": "ru-связь-005"
+    "id": "ru-связь-006"
   },
   {
     "ru": "смартфон",
@@ -36227,7 +36317,7 @@
     "ruGender": "f",
     "frequency": 14,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB",
-    "id": "ru-связь-006"
+    "id": "ru-связь-007"
   },
   {
     "ru": "сказочник",

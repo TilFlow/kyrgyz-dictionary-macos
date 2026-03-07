@@ -156,6 +156,28 @@
     "id": "ru-точность-001"
   },
   {
+    "ru": "также",
+    "ky": "ошондой",
+    "pos": "adv",
+    "senses": [
+      "также",
+      "так же",
+      "подобно"
+    ],
+    "source": "manual",
+    "id": "ru-также-002"
+  },
+  {
+    "ru": "транзакция",
+    "ky": "транзакция",
+    "pos": "noun",
+    "senses": [
+      "транзакция"
+    ],
+    "source": "manual",
+    "id": "ru-транзакция-001"
+  },
+  {
     "ru": "труд",
     "ky": "эмгек",
     "pos": "noun",
@@ -3376,7 +3398,7 @@
     ],
     "frequency": 4436,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0",
-    "id": "ru-также-002"
+    "id": "ru-также-003"
   },
   {
     "ru": "также",
@@ -3404,7 +3426,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B3%D1%8B",
-    "id": "ru-также-003"
+    "id": "ru-также-004"
   },
   {
     "ru": "труд",

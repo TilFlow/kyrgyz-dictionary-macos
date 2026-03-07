@@ -19,7 +19,11 @@ const ALL_VOWELS = new Set(Object.keys(VOWELS));
 const VOICELESS = new Set(["п", "к", "т", "с", "ш", "ч", "ц", "щ", "ф", "х"]);
 
 /**
- * Classify a Kyrgyz word stem by its final character type and last vowel group.
+ * Classify a Kyrgyz word stem by its final character type and vowel group.
+ *
+ * Vowel group follows the last vowel in the word (standard suffix harmony).
+ * Exception: polysyllabic words with only о/у vowels use group 1
+ * (учур→учурда, колдонуучу→колдонуучулар).
  */
 export function classifyStem(word: string): StemInfo {
   const lastChar = word[word.length - 1];
@@ -33,14 +37,32 @@ export function classifyStem(word: string): StemInfo {
     stemType = "voiced";
   }
 
-  // Find last vowel for vowel group
-  let vowelGroup: VowelGroup = 1; // default fallback
-  for (let i = word.length - 1; i >= 0; i--) {
+  // Suffix harmony follows the last vowel in the stem.
+  let lastVowelGroup: VowelGroup = 1; // default fallback
+  let syllableCount = 0;
+  let allGroup3 = true; // only о/у vowels
+  let prevWasVowel = false;
+
+  for (let i = 0; i < word.length; i++) {
     const group = VOWELS[word[i]];
     if (group !== undefined) {
-      vowelGroup = group;
-      break;
+      lastVowelGroup = group;
+      if (group !== 3) allGroup3 = false;
+      if (!prevWasVowel) syllableCount++;
+      prevWasVowel = true;
+    } else {
+      prevWasVowel = false;
     }
+  }
+
+  let vowelGroup: VowelGroup;
+  if (allGroup3 && syllableCount >= 2) {
+    // Polysyllabic words with only о/у vowels use group 1 harmony.
+    // (учур→учурда, колдонуучу→колдонуучулар, которуу→которуулар).
+    // Monosyllabic words (жол, кол, тоо) keep group 3.
+    vowelGroup = 1;
+  } else {
+    vowelGroup = lastVowelGroup;
   }
 
   return { stemType, vowelGroup };
@@ -515,6 +537,20 @@ const V_RECIPROCAL: Record<StemType, string[]> = {
   voiceless: ["ыш", "иш", "уш", "үш"],
 };
 
+// Imperative formal: stem + {I}ңыз/{I}ңиз/{I}ңуз/{I}ңүз
+const V_IMPERATIVE: Record<StemType, string[]> = {
+  vowel:     ["ңыз", "ңиз", "ңуз", "ңүз"],
+  voiced:    ["ыңыз", "иңиз", "уңуз", "үңүз"],
+  voiceless: ["ыңыз", "иңиз", "уңуз", "үңүз"],
+};
+
+// Imperative 2pl informal: stem + {I}ңар/{I}ңер/{I}ңор/{I}ңөр
+const V_IMP_2PL: Record<StemType, string[]> = {
+  vowel:     ["ңар", "ңер", "ңор", "ңөр"],
+  voiced:    ["ыңар", "иңер", "уңор", "үңөр"],
+  voiceless: ["ыңар", "иңер", "уңор", "үңөр"],
+};
+
 // Link vowels by vowel group (used for present tense stem)
 const LINK_VOWELS = ["а", "е", "о", "ө"];
 
@@ -536,11 +572,14 @@ function addPresentForms(
     base = prefix + stem + LINK_VOWELS[stemInfo.vowelGroup - 1];
   }
 
+  const hv = ["ы", "и", "у", "ү"][stemInfo.vowelGroup - 1];
   forms.add(base + "м");
-  forms.add(base + "сың");
+  forms.add(base + "с" + hv + "ң");
+  forms.add(base + "с" + hv + "з");            // 2sg formal
   forms.add(base + "т");
-  forms.add(base + "быз");
-  forms.add(base + "сыңар");
+  forms.add(base + "б" + hv + "з");
+  forms.add(base + "с" + hv + "ңар");
+  forms.add(base + "с" + hv + "здар");         // 2pl formal
 }
 
 function addPastForms(
@@ -551,12 +590,14 @@ function addPastForms(
 ): void {
   const pastSuffix = getSuffix(V_PAST, stemInfo);
   const base = prefix + stem + pastSuffix;
-  // Person: 1sg -м, 2sg -ң, 3sg ∅, 1pl -к, 2pl -ңар
+  // Person: 1sg -м, 2sg -ң, 2sg.formal -ңыз, 3sg ∅, 1pl -к, 2pl -ңар, 2pl.formal -ңыздар
   forms.add(base + "м");
   forms.add(base + "ң");
+  forms.add(base + "ңыз");       // 2sg formal
   forms.add(base);
   forms.add(base + "к");
   forms.add(base + "ңар");
+  forms.add(base + "ңыздар");    // 2pl formal
 }
 
 function conjugateAll(
@@ -580,8 +621,19 @@ function conjugateAll(
   forms.add(cond);
   forms.add(cond + "м");
   forms.add(cond + "ң");
+  forms.add(cond + "ңыз");       // 2sg formal
   forms.add(cond + "к");
   forms.add(cond + "ңар");
+  forms.add(cond + "ңыздар");    // 2pl formal
+
+  // Imperative: stem + ∅ (informal), stem + {I}ңыз (formal), stem + {I}ңыздар (formal pl)
+  forms.add(prefix + stem);
+  const impSuffix = getSuffix(V_IMPERATIVE, stemInfo);
+  forms.add(prefix + stem + impSuffix);
+  forms.add(prefix + stem + impSuffix + "дар");
+  // Informal 2pl imperative: stem + {I}ңар
+  const imp2plSuffix = getSuffix(V_IMP_2PL, stemInfo);
+  forms.add(prefix + stem + imp2plSuffix);
 
   // Gerund
   forms.add(prefix + stem + getSuffix(V_GERUND, stemInfo));
@@ -628,11 +680,14 @@ export function generateVerbForms(word: string): string[] {
   const negInfo = classifyStem(negStem);
   // Neg present: -байт/-бейт etc.
   const negPresBase = prefix + negStem + "й";
+  const negHv = ["ы", "и", "у", "ү"][stemInfo.vowelGroup - 1];
   forms.add(negPresBase + "м");
-  forms.add(negPresBase + "сың");
+  forms.add(negPresBase + "с" + negHv + "ң");
+  forms.add(negPresBase + "с" + negHv + "з");       // 2sg formal
   forms.add(negPresBase + "т");
-  forms.add(negPresBase + "быз");
-  forms.add(negPresBase + "сыңар");
+  forms.add(negPresBase + "б" + negHv + "з");
+  forms.add(negPresBase + "с" + negHv + "ңар");
+  forms.add(negPresBase + "с" + negHv + "здар");    // 2pl formal
   // Neg past/participle/future/conditional
   addPastForms(forms, negStem, negInfo, prefix);
   forms.add(prefix + negStem + getSuffix(V_PARTICIPLE, negInfo));

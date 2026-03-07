@@ -45,6 +45,7 @@ Then open Dictionary.app → Preferences → Enable the dictionary.
 | `bun run sync:ru` | Merge all ru-ky sources → `entries/` |
 | `bun run package` | Package dist/ into zip files for distribution |
 | `bun run update` | Full data refresh (download + extract + merge + enrich) |
+| `bun run version:set <ver>` | Update version in package.json + all plist files |
 
 ## Project Structure
 
@@ -77,13 +78,19 @@ dist/               # Build output (not committed)
 texts/              # Kyrgyz texts for audit (not committed)
 ```
 
-## CI / Automated Build
+## Releasing
 
-GitHub Actions automatically compiles all four dictionaries on macOS and publishes them to Releases when a tag is created:
+Always use the version script to update the version — never edit version numbers manually:
 
 ```bash
-git tag v1.0.0
-git push --tags
+bun run version:set 0.2.0
+git add -A && git commit -m "chore: bump version to 0.2.0"
+git tag v0.2.0
+git push origin main --tags
 ```
+
+The script updates `package.json` and all `templates/Info*.plist` files.
+
+GitHub Actions automatically compiles all four dictionaries on macOS and publishes them to Releases when a tag is pushed.
 
 Manual trigger: Actions → "Build Dictionary" → "Run workflow".

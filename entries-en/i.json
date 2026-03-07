@@ -3020,6 +3020,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%20%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0"
   },
   {
+    "id": "en-ky-inner-tube-005",
+    "en": "inner tube",
+    "ky": "бочка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "камера",
+    "senses": [
+      "inner tube (of a tire)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%87%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-inner-tube-006",
+    "en": "inner tube",
+    "ky": "ствол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "камера",
+    "senses": [
+      "inner tube (of a tire)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%B2%D0%BE%D0%BB"
+  },
+  {
     "id": "en-ky-infirm-001",
     "en": "infirm",
     "ky": "күчсүз",
@@ -3106,6 +3130,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%81%D0%B8%20%D0%BE%D0%BE%D0%BF%20%D0%B6%D1%8B%D0%B3%D1%8B%D0%BB%D1%8B%D0%BF%20%D0%BA%D0%B0%D0%BB%D1%83%D1%83"
   },
   {
+    "id": "en-ky-infirm-008",
+    "en": "infirm",
+    "ky": "жарды",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "слабый",
+    "senses": [
+      "infirm"
+    ],
+    "frequency": 62,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B4%D1%8B"
+  },
+  {
+    "id": "en-ky-infirm-009",
+    "en": "infirm",
+    "ky": "кедей",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "слабый",
+    "senses": [
+      "infirm"
+    ],
+    "etymology": "From Persian گدا (gedâ, “beggar”).",
+    "frequency": 175,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%B4%D0%B5%D0%B9"
+  },
+  {
     "id": "en-ky-inflection-of-де́ньга-(dénʹga):-001",
     "en": "inflection of де́ньга (dénʹga):",
     "ky": "акча",
@@ -3186,6 +3237,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D0%BC%D0%BF%D0%B8%D1%80"
   },
   {
+    "id": "en-ky-in-expressions-004",
+    "en": "in expressions",
+    "ky": "кой",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баба",
+    "senses": [
+      "in expressions"
+    ],
+    "etymology": "From Proto-Turkic; cognate with Kazakh қой (qoi), Uzbek qoʻy, Azerbaijani qoyun, Turkmen goýun, Turkish koyun.",
+    "frequency": 6424,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%B9"
+  },
+  {
+    "id": "en-ky-in-expressions-005",
+    "en": "in expressions",
+    "ky": "кочкор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баба",
+    "senses": [
+      "in expressions"
+    ],
+    "frequency": 209,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%87%D0%BA%D0%BE%D1%80"
+  },
+  {
     "id": "en-ky-imperfective-aspect-001",
     "en": "imperfective aspect",
     "ky": "аяктабаган тармак",
@@ -3237,6 +3315,32 @@
     "etymology": "From Proto-Turkic *äčkü (“goat”).",
     "frequency": 237,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%87%D0%BA%D0%B8"
+  },
+  {
+    "id": "en-ky-idiot,-blockhead;-jerk,-bastard,-ass-002",
+    "en": "idiot, blockhead; jerk, bastard, ass",
+    "ky": "кумса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козёл",
+    "senses": [
+      "idiot, blockhead",
+      "jerk, bastard, ass"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BC%D1%81%D0%B0"
+  },
+  {
+    "id": "en-ky-idiot,-blockhead;-jerk,-bastard,-ass-003",
+    "en": "idiot, blockhead; jerk, bastard, ass",
+    "ky": "гомосексуалист",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козёл",
+    "senses": [
+      "idiot, blockhead",
+      "jerk, bastard, ass"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D0%BE%D0%BC%D0%BE%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D0%B8%D1%81%D1%82"
   },
   {
     "id": "en-ky-inflection-of-два-(dva):-001",
@@ -3371,6 +3475,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%20%D1%82%D0%B0%D0%B0%D0%BD%D1%8B%D0%B1%D0%BE%D0%BE"
   },
   {
+    "id": "en-ky-illiteracy-003",
+    "en": "illiteracy",
+    "ky": "билбестик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "безграмотность",
+    "senses": [
+      "illiteracy"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B1%D0%B5%D1%81%D1%82%D0%B8%D0%BA"
+  },
+  {
     "id": "en-ky-ignorance-002",
     "en": "ignorance",
     "ky": "сабатсыздык",
@@ -3482,6 +3598,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B5%D0%BA%D0%B5%D1%80"
   },
   {
+    "id": "en-ky-inflection-of-вило́к-(vilók):-006",
+    "en": "inflection of вило́к (vilók):",
+    "ky": "айры",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вилка",
+    "senses": [
+      "inflection of вило́к (vilók):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B9%D1%80%D1%8B"
+  },
+  {
     "id": "en-ky-item,-turn,-trick-001",
     "en": "item, turn, trick",
     "ky": "номер",
@@ -3546,6 +3674,19 @@
     ],
     "frequency": 1124,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D1%87%D3%A9%D0%BC"
+  },
+  {
+    "id": "en-ky-item,-turn,-trick-006",
+    "en": "item, turn, trick",
+    "ky": "көлөм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "номер",
+    "senses": [
+      "item, turn, trick (e.g., in a circus)"
+    ],
+    "frequency": 197,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
   },
   {
     "id": "en-ky-inflection-of-быть-001",
@@ -3745,6 +3886,61 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%BE%D0%BD"
   },
   {
+    "id": "en-ky-item-001",
+    "en": "item",
+    "ky": "мамлекет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шт.",
+    "senses": [
+      "item"
+    ],
+    "etymology": "Borrowed from Classical Persian مَمْلَکَت (mamlakat, “state”), from Arabic مَمْلَكَة f (mamlaka, “kingdom”). Compare Kazakh мемлекет (memleket, “state”).",
+    "frequency": 1505,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BC%D0%BB%D0%B5%D0%BA%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-item-002",
+    "en": "item",
+    "ky": "дөөлөт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шт.",
+    "senses": [
+      "item"
+    ],
+    "pronunciation": "/døːløt/",
+    "etymology": "From Arabic دَوْلَة (dawla). Cognate with Azerbaijani dövlət, Bashkir дәүләт (dəwlət), Kazakh дәулет (däulet), Turkish devlet, Uzbek davlat.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D3%A9%D3%A9%D0%BB%D3%A9%D1%82"
+  },
+  {
+    "id": "en-ky-item-003",
+    "en": "item",
+    "ky": "штат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шт.",
+    "senses": [
+      "item"
+    ],
+    "frequency": 49,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%82%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-item-004",
+    "en": "item",
+    "ky": "абал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шт.",
+    "senses": [
+      "item"
+    ],
+    "pronunciation": "/ɑˈbɑl/",
+    "frequency": 975,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B1%D0%B0%D0%BB"
+  },
+  {
     "id": "en-ky-illinois-001",
     "en": "Illinois",
     "ky": "Иллинойс",
@@ -3782,6 +3978,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B1"
   },
   {
+    "id": "en-ky-intellect-004",
+    "en": "intellect",
+    "ky": "себеп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ум",
+    "senses": [
+      "intellect"
+    ],
+    "pronunciation": "/seˈbep/",
+    "etymology": "From Arabic سَبَب (sabab, “cause; reason”).\nCognate with Azerbaijani səbəb,\nBashkir сәбәп (səbəp), Crimean Tatar sebep, Georgian საბაბი (sababi),\nIndonesian sebab, Kazakh себеп (sebep),\nTajik сабаб (sabab), Tatar сәбәп (säbäp),\nTurkish sebep, Turkmen sebäp,\nUyghur سەۋەب (seweb), Urdu سبب (sabab),\nUzbek sabab, etc.",
+    "frequency": 392,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B1%D0%B5%D0%BF"
+  },
+  {
     "id": "en-ky-industry-003",
     "en": "industry",
     "ky": "өнөржай",
@@ -3810,19 +4021,6 @@
   {
     "id": "en-ky-icon-002",
     "en": "icon",
-    "ky": "сүрөт",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "образ",
-    "senses": [
-      "icon"
-    ],
-    "frequency": 150,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D1%80%D3%A9%D1%82"
-  },
-  {
-    "id": "en-ky-icon-003",
-    "en": "icon",
     "ky": "образ",
     "pos": "noun",
     "source": "pivot-ru",
@@ -3834,7 +4032,59 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7"
   },
   {
+    "id": "en-ky-icon-003",
+    "en": "icon",
+    "ky": "сүрөт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "icon"
+    ],
+    "frequency": 150,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D1%80%D3%A9%D1%82"
+  },
+  {
+    "id": "en-ky-icon-004",
+    "en": "icon",
+    "ky": "тип",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "icon"
+    ],
+    "frequency": 32,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-icon-005",
+    "en": "icon",
+    "ky": "түр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "icon"
+    ],
+    "frequency": 1742,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80"
+  },
+  {
     "id": "en-ky-icon,-sacred-image-001",
+    "en": "icon, sacred image",
+    "ky": "образ",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "icon, sacred image"
+    ],
+    "frequency": 50,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7"
+  },
+  {
+    "id": "en-ky-icon,-sacred-image-002",
     "en": "icon, sacred image",
     "ky": "сүрөт",
     "pos": "noun",
@@ -3847,7 +4097,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D1%80%D3%A9%D1%82"
   },
   {
-    "id": "en-ky-icon,-sacred-image-002",
+    "id": "en-ky-icon,-sacred-image-003",
     "en": "icon, sacred image",
     "ky": "икона",
     "pos": "noun",
@@ -3859,17 +4109,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0"
   },
   {
-    "id": "en-ky-icon,-sacred-image-003",
+    "id": "en-ky-icon,-sacred-image-004",
     "en": "icon, sacred image",
-    "ky": "образ",
+    "ky": "тип",
     "pos": "noun",
     "source": "pivot-ru",
     "ruPivot": "образ",
     "senses": [
       "icon, sacred image"
     ],
-    "frequency": 50,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%B1%D1%80%D0%B0%D0%B7"
+    "frequency": 32,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BF"
+  },
+  {
+    "id": "en-ky-icon,-sacred-image-005",
+    "en": "icon, sacred image",
+    "ky": "түр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "образ",
+    "senses": [
+      "icon, sacred image"
+    ],
+    "frequency": 1742,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80"
   },
   {
     "id": "en-ky-inflection-of-хо́ра-(xóra):-001",
@@ -3914,6 +4177,18 @@
   },
   {
     "id": "en-ky-if,-in-case-001",
+    "en": "if, in case",
+    "ky": "эгерде",
+    "pos": "conj",
+    "source": "pivot-ru",
+    "ruPivot": "если",
+    "senses": [
+      "if, in case"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%B3%D0%B5%D1%80%D0%B4%D0%B5"
+  },
+  {
+    "id": "en-ky-if,-in-case-002",
     "en": "if, in case",
     "ky": "эгер",
     "pos": "conj",
@@ -3993,6 +4268,44 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%87%D0%B0%D0%B1%D0%B0%D1%81"
   },
   {
+    "id": "en-ky-indigo-007",
+    "en": "indigo",
+    "ky": "өлүк",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "синий",
+    "senses": [
+      "indigo"
+    ],
+    "frequency": 475,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-indigo-008",
+    "en": "indigo",
+    "ky": "өлүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "синий",
+    "senses": [
+      "indigo"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-indigo-009",
+    "en": "indigo",
+    "ky": "өлгөн",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "синий",
+    "senses": [
+      "indigo"
+    ],
+    "etymology": "From өлүү (ölüü).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BB%D0%B3%D3%A9%D0%BD"
+  },
+  {
     "id": "en-ky-ideal-001",
     "en": "ideal",
     "ky": "көк",
@@ -4056,6 +4369,20 @@
     ],
     "frequency": 1175,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B7%D1%8B%D1%80"
+  },
+  {
+    "id": "en-ky-important-005",
+    "en": "important",
+    "ky": "калың",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "крутой",
+    "senses": [
+      "important"
+    ],
+    "etymology": "From Proto-Turkic *kalïŋ. Cognate with Kazakh қалың (qalyñ), Kumyk къалын (qalın), Bashkir ҡалын (qalın), Southern Altai калыҥ (kalïŋ), Azerbaijani qalın, Turkish kalın, Turkmen galyň, Uzbek qalin, etc.",
+    "frequency": 948,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BB%D1%8B%D2%A3"
   },
   {
     "id": "en-ky-inflection-of-дух-001",
@@ -4266,6 +4593,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%83%D0%B1%D0%B0%D0%BB"
   },
   {
+    "id": "en-ky-intake-003",
+    "en": "intake",
+    "ky": "коллекция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "забор",
+    "senses": [
+      "intake"
+    ],
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-inflection-of-червь-(červʹ):-001",
     "en": "inflection of червь (červʹ):",
     "ky": "ача",
@@ -4377,7 +4717,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D2%AF%D0%B9%D0%BA%D2%AF%D0%BC%D0%B4%D2%AF%D2%AF"
   },
   {
-    "id": "en-ky-in-expressions-004",
+    "id": "en-ky-in-expressions-006",
     "en": "in expressions",
     "ky": "иш",
     "pos": "noun",
@@ -4392,7 +4732,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88"
   },
   {
-    "id": "en-ky-in-expressions-005",
+    "id": "en-ky-in-expressions-007",
     "en": "in expressions",
     "ky": "иш аракет",
     "pos": "noun",
@@ -4404,7 +4744,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88%20%D0%B0%D1%80%D0%B0%D0%BA%D0%B5%D1%82"
   },
   {
-    "id": "en-ky-in-expressions-006",
+    "id": "en-ky-in-expressions-008",
     "en": "in expressions",
     "ky": "аракет",
     "pos": "noun",
@@ -4417,7 +4757,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BA%D0%B5%D1%82"
   },
   {
-    "id": "en-ky-in-expressions-007",
+    "id": "en-ky-in-expressions-009",
     "en": "in expressions",
     "ky": "кыймыл",
     "pos": "noun",
@@ -4429,6 +4769,20 @@
     "etymology": "Compare to Southern Altai кыймык (kïymïk, “movement”), Kazakh қимыл (qimyl).",
     "frequency": 231,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-in-expressions-010",
+    "en": "in expressions",
+    "ky": "шылтоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "дело",
+    "senses": [
+      "in expressions"
+    ],
+    "pronunciation": "/ʃɯlˈtoː/",
+    "frequency": 69,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BB%D1%82%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-in-or-into-the-interior;-inside-001",
@@ -4546,6 +4900,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B0%D0%B4%D1%8C%D1%8F"
   },
   {
+    "id": "en-ky-inflection-of-тур-(tur):-002",
+    "en": "inflection of тур (tur):",
+    "ky": "мунара",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тура",
+    "senses": [
+      "inflection of тур (tur):"
+    ],
+    "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%BD%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-inflection-of-тур-(tur):-003",
+    "en": "inflection of тур (tur):",
+    "ky": "бурана",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "тура",
+    "senses": [
+      "inflection of тур (tur):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%80%D0%B0%D0%BD%D0%B0"
+  },
+  {
     "id": "en-ky-idler,-loafer,-lazybones-001",
     "en": "idler, loafer, lazybones",
     "ky": "жалкоо",
@@ -4615,7 +4994,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B4%D0%B5%D1%8F"
   },
   {
-    "id": "en-ky-item-001",
+    "id": "en-ky-item-005",
     "en": "item",
     "ky": "ситуация",
     "pos": "noun",
@@ -4627,7 +5006,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D1%82%D1%83%D0%B0%D1%86%D0%B8%D1%8F"
   },
   {
-    "id": "en-ky-item-002",
+    "id": "en-ky-item-006",
     "en": "item",
     "ky": "жагдай",
     "pos": "noun",
@@ -4640,7 +5019,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B3%D0%B4%D0%B0%D0%B9"
   },
   {
-    "id": "en-ky-item-003",
+    "id": "en-ky-item-007",
     "en": "item",
     "ky": "кырдаал",
     "pos": "noun",
@@ -4723,6 +5102,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D2%AF%D1%87"
   },
   {
+    "id": "en-ky-intensity-002",
+    "en": "intensity",
+    "ky": "көлөм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сила",
+    "senses": [
+      "intensity"
+    ],
+    "frequency": 197,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BB%D3%A9%D0%BC"
+  },
+  {
+    "id": "en-ky-intensity-003",
+    "en": "intensity",
+    "ky": "том",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сила",
+    "senses": [
+      "intensity"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BC"
+  },
+  {
+    "id": "en-ky-intensity-004",
+    "en": "intensity",
+    "ky": "энергия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сила",
+    "senses": [
+      "intensity"
+    ],
+    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-instrumental-singular-of-ат-001",
     "en": "instrumental singular of ат",
     "ky": "атом",
@@ -4737,6 +5155,18 @@
   {
     "id": "en-ky-installation-001",
     "en": "installation",
+    "ky": "түзмөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "installation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B7%D0%BC%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-installation-002",
+    "en": "installation",
     "ky": "машина",
     "pos": "noun",
     "source": "pivot-ru",
@@ -4746,18 +5176,6 @@
     ],
     "frequency": 104,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0"
-  },
-  {
-    "id": "en-ky-installation-002",
-    "en": "installation",
-    "ky": "түзмөк",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "устройство",
-    "senses": [
-      "installation"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%B7%D0%BC%D3%A9%D0%BA"
   },
   {
     "id": "en-ky-installation-003",
@@ -4771,6 +5189,72 @@
     ],
     "frequency": 286,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-installation-004",
+    "en": "installation",
+    "ky": "система",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "installation"
+    ],
+    "frequency": 715,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-installation-005",
+    "en": "installation",
+    "ky": "тутум",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "installation"
+    ],
+    "etymology": "From тутуу (tutuu, “to hold”). Cognate with Yakut тутул (tutul).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D1%82%D1%83%D0%BC"
+  },
+  {
+    "id": "en-ky-installation-006",
+    "en": "installation",
+    "ky": "уюм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "installation"
+    ],
+    "pronunciation": "/uˈjum/",
+    "frequency": 898,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%8E%D0%BC"
+  },
+  {
+    "id": "en-ky-installation-007",
+    "en": "installation",
+    "ky": "мекеме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "installation"
+    ],
+    "frequency": 741,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BA%D0%B5%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-installation-008",
+    "en": "installation",
+    "ky": "жабдуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "устройство",
+    "senses": [
+      "installation"
+    ],
+    "frequency": 158,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B1%D0%B4%D1%83%D1%83"
   },
   {
     "id": "en-ky-instrumental-singular-of-пар-001",
@@ -5055,6 +5539,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B9%D0%BC%D1%8B%D0%BB"
   },
   {
+    "id": "en-ky-influence,-impact-005",
+    "en": "influence, impact",
+    "ky": "операция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "действие",
+    "senses": [
+      "influence, impact"
+    ],
+    "frequency": 114,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-intimate-001",
     "en": "intimate",
     "ky": "кыска",
@@ -5082,6 +5579,19 @@
     "etymology": "From *tayaq (“stick; cane”),\nfrom Proto-Turkic *daja- (“prop, support; lean against”).\nCognate with\nKarakhanid [script needed] (tajaq, “stick, cane”);\nTatar таяк (tayaq),\nBashkir таяҡ (tayaq),\nKazakh таяқ (taäq),\nSouthern Altai таяк (tayak),\nUzbek tayoq,\nCrimean Tatar tayaq (“stick”), etc.",
     "frequency": 132,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D1%8F%D0%BA"
+  },
+  {
+    "id": "en-ky-industrial-001",
+    "en": "industrial",
+    "ky": "технологиялык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "технический",
+    "senses": [
+      "industrial"
+    ],
+    "frequency": 44,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-ill,-harmful,-evil,-bad-001",
@@ -5298,6 +5808,18 @@
     "etymology": "From Arabic مقالة (maqāla).",
     "frequency": 57,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0"
+  },
+  {
+    "id": "en-ky-item,-entry-002",
+    "en": "item, entry",
+    "ky": "артикль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "статья",
+    "senses": [
+      "item, entry"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%B8%D0%BA%D0%BB%D1%8C"
   },
   {
     "id": "en-ky-inflection-of-весть-(vestʹ):-001",
@@ -5536,6 +6058,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B0%D1%80%D1%8B%20%D1%83%D1%8F%D1%81%D1%8B"
   },
   {
+    "id": "en-ky-immediate-001",
+    "en": "immediate",
+    "ky": "жакын",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "ближайший",
+    "senses": [
+      "immediate"
+    ],
+    "etymology": "From Proto-Turkic *yakïn, Proto-Turkic *yak- (“near; approach”).",
+    "frequency": 1078,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%8B%D0%BD"
+  },
+  {
     "id": "en-ky-invoice,-bill-001",
     "en": "invoice, bill",
     "ky": "эсеп",
@@ -5625,6 +6161,20 @@
     ],
     "frequency": 51,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BA%D1%81%D3%A9"
+  },
+  {
+    "id": "en-ky-incomplete-002",
+    "en": "incomplete",
+    "ky": "кыска",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "неполный",
+    "senses": [
+      "incomplete"
+    ],
+    "etymology": "From Proto-Turkic *kɨsga (“short”), from *kɨs- (“to press, squeeze”).\nCognate with Bashkir ҡыҫҡа (qıśqa), Uzbek qisqa, Crimean Tatar qısqa, Kumyk къысгъа (qısğa), Azerbaijani qısa, Turkmen gysga, Turkish kısa, Khakas хысха (xısxa), Shor қысқа, Western Yugur qïsqa, etc.",
+    "frequency": 263,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%81%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-informer,-whistle-blower-001",
@@ -5728,6 +6278,18 @@
   {
     "id": "en-ky-influenza,-flu,-grippe,-grip-001",
     "en": "influenza, flu, grippe, grip",
+    "ky": "сасык тумоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "грипп",
+    "senses": [
+      "influenza, flu, grippe, grip"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%81%D1%8B%D0%BA%20%D1%82%D1%83%D0%BC%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-influenza,-flu,-grippe,-grip-002",
+    "en": "influenza, flu, grippe, grip",
     "ky": "грипп",
     "pos": "noun",
     "source": "pivot-ru",
@@ -5739,7 +6301,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B3%D1%80%D0%B8%D0%BF%D0%BF"
   },
   {
-    "id": "en-ky-influenza,-flu,-grippe,-grip-002",
+    "id": "en-ky-influenza,-flu,-grippe,-grip-003",
     "en": "influenza, flu, grippe, grip",
     "ky": "тумоо",
     "pos": "noun",
@@ -5751,18 +6313,6 @@
     "etymology": "From Proto-Turkic *tumagu. Cognate to Southern Altai туму (tumu), etc.",
     "frequency": 11,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%83%D0%BC%D0%BE%D0%BE"
-  },
-  {
-    "id": "en-ky-influenza,-flu,-grippe,-grip-003",
-    "en": "influenza, flu, grippe, grip",
-    "ky": "сасык тумоо",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "грипп",
-    "senses": [
-      "influenza, flu, grippe, grip"
-    ],
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D1%81%D1%8B%D0%BA%20%D1%82%D1%83%D0%BC%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-it-is-requested,-we-ask,-please-001",
@@ -5791,7 +6341,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80%D0%BE%D0%BE"
   },
   {
-    "id": "en-ky-in-expressions-008",
+    "id": "en-ky-in-expressions-011",
     "en": "in expressions",
     "ky": "ыйлоо",
     "pos": "verb",
@@ -5896,20 +6446,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%B5%D0%B3%D0%B8"
   },
   {
-    "id": "en-ky-important,-prominent,-great-001",
-    "en": "important, prominent, great",
-    "ky": "чоң",
-    "pos": "adj",
+    "id": "en-ky-insides,-contents,-spares-003",
+    "en": "insides, contents, spares",
+    "ky": "шланг",
+    "pos": "noun",
     "source": "pivot-ru",
-    "ruPivot": "крупный",
+    "ruPivot": "кишка",
     "senses": [
-      "important, prominent, great"
+      "insides, contents, spares"
     ],
-    "frequency": 2058,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D2%A3"
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%BB%D0%B0%D0%BD%D0%B3"
   },
   {
-    "id": "en-ky-important,-prominent,-great-002",
+    "id": "en-ky-important,-prominent,-great-001",
     "en": "important, prominent, great",
     "ky": "ири",
     "pos": "adj",
@@ -5920,6 +6469,19 @@
     ],
     "frequency": 326,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%80%D0%B8"
+  },
+  {
+    "id": "en-ky-important,-prominent,-great-002",
+    "en": "important, prominent, great",
+    "ky": "чоң",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "крупный",
+    "senses": [
+      "important, prominent, great"
+    ],
+    "frequency": 2058,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D2%A3"
   },
   {
     "id": "en-ky-inflection-of-ша́шка-(šáška):-001",
@@ -6246,6 +6808,43 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%BE%D0%B6%D0%B0"
   },
   {
+    "id": "en-ky-inflection-of-ло́же-(lóže):-002",
+    "en": "inflection of ло́же (lóže):",
+    "ky": "коробка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ложа",
+    "senses": [
+      "inflection of ло́же (lóže):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-inflection-of-ло́же-(lóže):-003",
+    "en": "inflection of ло́же (lóže):",
+    "ky": "куту",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ложа",
+    "senses": [
+      "inflection of ло́же (lóže):"
+    ],
+    "frequency": 30,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%82%D1%83"
+  },
+  {
+    "id": "en-ky-inflection-of-ло́же-(lóže):-004",
+    "en": "inflection of ло́же (lóže):",
+    "ky": "ящик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ложа",
+    "senses": [
+      "inflection of ло́же (lóže):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%89%D0%B8%D0%BA"
+  },
+  {
     "id": "en-ky-inflection-of-дверь-001",
     "en": "inflection of дверь",
     "ky": "эшик",
@@ -6352,6 +6951,20 @@
     ],
     "frequency": 444,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%D0%BA%D0%B8"
+  },
+  {
+    "id": "en-ky-inner,-interior-002",
+    "en": "inner, interior",
+    "ky": "үйчүл",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "внутренний",
+    "senses": [
+      "inner, interior"
+    ],
+    "pronunciation": "/yjˈt͡ʃyl/",
+    "etymology": "From үй (üy, “home, house”) + -чүл (-cül). Compare Kazakh үйшіл (üişıl), etc.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%B9%D1%87%D2%AF%D0%BB"
   },
   {
     "id": "en-ky-intention,-intent,-purpose-001",
@@ -6715,6 +7328,57 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%B7%D0%B3%D3%A9%D1%80%D1%82%D2%AF%D2%AF"
   },
   {
+    "id": "en-ky-imitation,-fake-001",
+    "en": "imitation, fake",
+    "ky": "жаңылыш",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "imitation, fake"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-imitation,-fake-002",
+    "en": "imitation, fake",
+    "ky": "ката",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "imitation, fake"
+    ],
+    "etymology": "From Arabic خَطَأ (ḵaṭaʔ).",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-imitation,-fake-003",
+    "en": "imitation, fake",
+    "ky": "жасалма",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "imitation, fake"
+    ],
+    "frequency": 65,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%81%D0%B0%D0%BB%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-imitation,-fake-004",
+    "en": "imitation, fake",
+    "ky": "арамза",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "imitation, fake"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BC%D0%B7%D0%B0"
+  },
+  {
     "id": "en-ky-indian,-hindu-001",
     "en": "Indian, Hindu",
     "ky": "индиялык",
@@ -6739,7 +7403,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC"
   },
   {
-    "id": "en-ky-inner-tube-005",
+    "id": "en-ky-inner-tube-007",
     "en": "inner tube",
     "ky": "бак",
     "pos": "noun",
@@ -6752,6 +7416,58 @@
     "etymology": "From Persian باغ (“garden”).",
     "frequency": 1140,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-inner-tube-008",
+    "en": "inner tube",
+    "ky": "цилиндр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баллон",
+    "senses": [
+      "inner tube (of a tire)"
+    ],
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80"
+  },
+  {
+    "id": "en-ky-inner-tube-009",
+    "en": "inner tube",
+    "ky": "конверт",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "баллон",
+    "senses": [
+      "inner tube (of a tire)"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82"
+  },
+  {
+    "id": "en-ky-invitation-001",
+    "en": "invitation",
+    "ky": "коңгуроо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вызов",
+    "senses": [
+      "invitation"
+    ],
+    "etymology": "From Proto-Turkic *Koŋra-, Cognate to Southern Altai коҥору (koŋoru), Bashkir ҡыңғырау (qıñğıraw), Kazakh қоңырау (qoñyrau), Kumyk къонгурав (qoñuraw), Uyghur قوڭغۇراق (qongghuraq), Tuvan коңга (koñga), etc.",
+    "frequency": 40,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D2%A3%D0%B3%D1%83%D1%80%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-invitation-002",
+    "en": "invitation",
+    "ky": "звонок",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "вызов",
+    "senses": [
+      "invitation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B7%D0%B2%D0%BE%D0%BD%D0%BE%D0%BA"
   },
   {
     "id": "en-ky-infection,-contagion,-pest-001",
@@ -6893,6 +7609,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%80%D0%B5%D0%BA%D1%82%D2%AF%D2%AF"
   },
   {
+    "id": "en-ky-insurance-002",
+    "en": "insurance",
+    "ky": "коопсуздук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "страховка",
+    "senses": [
+      "insurance (indemnity)"
+    ],
+    "pronunciation": "/qoːpˈsuzˈduq/",
+    "etymology": "From кооп (koop) + -суз (-suz) + -дык (-dık)",
+    "frequency": 703,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BF%D1%81%D1%83%D0%B7%D0%B4%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-infinity,-endlessness-001",
     "en": "infinity, endlessness",
     "ky": "чексиздик",
@@ -6903,6 +7634,30 @@
       "infinity, endlessness"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D0%BA%D1%81%D0%B8%D0%B7%D0%B4%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-infinity,-endlessness-002",
+    "en": "infinity, endlessness",
+    "ky": "мөңкүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бесконечность",
+    "senses": [
+      "infinity, endlessness"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D3%A9%D2%A3%D0%BA%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-infinity,-endlessness-003",
+    "en": "infinity, endlessness",
+    "ky": "меңгилик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бесконечность",
+    "senses": [
+      "infinity, endlessness"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D2%A3%D0%B3%D0%B8%D0%BB%D0%B8%D0%BA"
   },
   {
     "id": "en-ky-insanity,-madness-001",
@@ -7139,7 +7894,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%80%D0%BC%D0%B0%D0%BA%20%D1%82%D0%B0%D0%B3%D1%8B"
   },
   {
-    "id": "en-ky-invitation-001",
+    "id": "en-ky-invitation-003",
     "en": "invitation",
     "ky": "чакыруу",
     "pos": "noun",
@@ -7152,7 +7907,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BA%D1%8B%D1%80%D1%83%D1%83"
   },
   {
-    "id": "en-ky-invitation-002",
+    "id": "en-ky-invitation-004",
     "en": "invitation",
     "ky": "айтуу",
     "pos": "noun",
@@ -7434,6 +8189,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83"
   },
   {
+    "id": "en-ky-idle-003",
+    "en": "idle",
+    "ky": "тайыз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "пустой",
+    "senses": [
+      "idle (of talk)"
+    ],
+    "etymology": "Compare to Southern Altai тайыс (tayïs), etc.",
+    "frequency": 16,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B9%D1%8B%D0%B7"
+  },
+  {
     "id": "en-ky-inspection-001",
     "en": "inspection",
     "ky": "сереп",
@@ -7677,6 +8446,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D1%83%D1%83"
   },
   {
+    "id": "en-ky-inscription,-writing,-label-002",
+    "en": "inscription, writing, label",
+    "ky": "легенда",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "надпись",
+    "senses": [
+      "inscription, writing, label"
+    ],
+    "frequency": 13,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0"
+  },
+  {
+    "id": "en-ky-inscription,-writing,-label-003",
+    "en": "inscription, writing, label",
+    "ky": "адрес",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "надпись",
+    "senses": [
+      "inscription, writing, label"
+    ],
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D1%80%D0%B5%D1%81"
+  },
+  {
+    "id": "en-ky-inscription,-writing,-label-004",
+    "en": "inscription, writing, label",
+    "ky": "дарек",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "надпись",
+    "senses": [
+      "inscription, writing, label"
+    ],
+    "frequency": 180,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D1%80%D0%B5%D0%BA"
+  },
+  {
     "id": "en-ky-inside,-interior-001",
     "en": "inside, interior",
     "ky": "жатын",
@@ -7737,7 +8545,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%8C%D0%BA%D0%B8"
   },
   {
-    "id": "en-ky-industrial-001",
+    "id": "en-ky-industrial-002",
     "en": "industrial",
     "ky": "индустрияга",
     "pos": "adj",
@@ -7749,7 +8557,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F%D0%B3%D0%B0"
   },
   {
-    "id": "en-ky-industrial-002",
+    "id": "en-ky-industrial-003",
     "en": "industrial",
     "ky": "индустриялу",
     "pos": "adj",
@@ -7942,6 +8750,48 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD"
   },
   {
+    "id": "en-ky-inflection-of-весь-001",
+    "en": "inflection of весь",
+    "ky": "баары",
+    "pos": "pron",
+    "source": "pivot-ru",
+    "ruPivot": "все",
+    "senses": [
+      "inflection of весь (vesʹ)"
+    ],
+    "etymology": "From бар + -ы. Compare Kazakh бәрі (bärı), Kumyk бары (barı), Yakut бары (barï),",
+    "frequency": 3531,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D1%80%D1%8B"
+  },
+  {
+    "id": "en-ky-inflection-of-весь-(vesʹ):-001",
+    "en": "inflection of весь (vesʹ):",
+    "ky": "баары",
+    "pos": "pron",
+    "source": "pivot-ru",
+    "ruPivot": "все",
+    "senses": [
+      "inflection of весь (vesʹ):"
+    ],
+    "etymology": "From бар + -ы. Compare Kazakh бәрі (bärı), Kumyk бары (barı), Yakut бары (barï),",
+    "frequency": 3531,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D1%80%D1%8B"
+  },
+  {
+    "id": "en-ky-inanimate-accusative-plural-006",
+    "en": "inanimate accusative plural",
+    "ky": "баары",
+    "pos": "pron",
+    "source": "pivot-ru",
+    "ruPivot": "все",
+    "senses": [
+      "inanimate accusative plural"
+    ],
+    "etymology": "From бар + -ы. Compare Kazakh бәрі (bärı), Kumyk бары (barı), Yakut бары (barï),",
+    "frequency": 3531,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%B0%D1%80%D1%8B"
+  },
+  {
     "id": "en-ky-indochina-002",
     "en": "Indochina",
     "ky": "Индикытай",
@@ -8090,6 +8940,21 @@
       "informal rules of the criminal underworld"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-instrumental-singular-of-коса́-001",
+    "en": "instrumental singular of коса́",
+    "ky": "коён",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "косой",
+    "senses": [
+      "instrumental singular of коса́ (kosá)"
+    ],
+    "pronunciation": "/qoˈjon/",
+    "etymology": "From Proto-Turkic *kodan.",
+    "frequency": 134,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%91%D0%BD"
   },
   {
     "id": "en-ky-investigator,-detective-001",
@@ -8308,6 +9173,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%81%D0%B5%D0%BA%D1%82%D0%B8%D1%86%D0%B8%D0%B4"
   },
   {
+    "id": "en-ky-instep-001",
+    "en": "instep",
+    "ky": "бийиктик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "подъём",
+    "senses": [
+      "instep (of a foot)"
+    ],
+    "pronunciation": "/biˈjicˈtic/",
+    "etymology": "From бийик (biyik) + -тик (-tik).",
+    "frequency": 51,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B9%D0%B8%D0%BA%D1%82%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-instep-002",
+    "en": "instep",
+    "ky": "бой",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "подъём",
+    "senses": [
+      "instep (of a foot)"
+    ],
+    "frequency": 10190,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D0%B9"
+  },
+  {
     "id": "en-ky-in-charge-001",
     "en": "in charge",
     "ky": "жооптуу",
@@ -8319,6 +9212,18 @@
     ],
     "frequency": 134,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BE%D0%BF%D1%82%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-index,-indicator,-guide,-pointer-001",
+    "en": "index, indicator, guide, pointer",
+    "ky": "жол белгиси",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "указатель",
+    "senses": [
+      "index, indicator, guide, pointer"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BB%20%D0%B1%D0%B5%D0%BB%D0%B3%D0%B8%D1%81%D0%B8"
   },
   {
     "id": "en-ky-inexperienced,-stupid-girl-or-twink-001",
@@ -8409,6 +9314,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D1%8D"
   },
   {
+    "id": "en-ky-individual-009",
+    "en": "individual",
+    "ky": "мүнөз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "субъект",
+    "senses": [
+      "individual"
+    ],
+    "frequency": 409,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BD%D3%A9%D0%B7"
+  },
+  {
     "id": "en-ky-introduction,-preamble,-prelude-001",
     "en": "introduction, preamble, prelude",
     "ky": "сөз башы",
@@ -8457,6 +9375,21 @@
     ],
     "frequency": 65,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%81%D0%B0%D0%BB%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-impetuous-001",
+    "en": "impetuous",
+    "ky": "ысык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "пылкий",
+    "senses": [
+      "impetuous"
+    ],
+    "pronunciation": "/ɯˈsɯq/",
+    "etymology": "Cognate with Kazakh ыстық (ystyq), Uzbek issiq, Uyghur ئىسسىق (issiq).",
+    "frequency": 182,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D1%81%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-indigene,-native-001",
@@ -8556,6 +9489,42 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%BA%D0%B2%D0%B8%D0%B7%D0%B8%D1%86%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-integrality-001",
+    "en": "integrality",
+    "ky": "семирүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полнота",
+    "senses": [
+      "integrality"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-integrity-002",
+    "en": "integrity",
+    "ky": "семирүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полнота",
+    "senses": [
+      "integrity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D2%AF%D2%AF"
+  },
+  {
+    "id": "en-ky-instep-003",
+    "en": "instep",
+    "ky": "семирүү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "полнота",
+    "senses": [
+      "instep"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%BC%D0%B8%D1%80%D2%AF%D2%AF"
+  },
+  {
     "id": "en-ky-interesting,-entertaining,-amusing-001",
     "en": "interesting, entertaining, amusing",
     "ky": "кызык",
@@ -8607,6 +9576,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%83%D1%80%D0%BE%D0%BE"
   },
   {
+    "id": "en-ky-intercession-003",
+    "en": "intercession",
+    "ky": "костюм",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ходатайство",
+    "senses": [
+      "intercession"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC"
+  },
+  {
     "id": "en-ky-in-place-001",
     "en": "in place",
     "ky": "орчундуу",
@@ -8619,6 +9600,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%87%D1%83%D0%BD%D0%B4%D1%83%D1%83"
   },
   {
+    "id": "en-ky-in-place-002",
+    "en": "in place",
+    "ky": "оң",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "уместный",
+    "senses": [
+      "in place"
+    ],
+    "etymology": "From Proto-Turkic *oŋ (“right”).",
+    "frequency": 836,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D2%A3"
+  },
+  {
     "id": "en-ky-impressionism-001",
     "en": "impressionism",
     "ky": "импрессионизм",
@@ -8629,6 +9624,20 @@
       "impressionism"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC"
+  },
+  {
+    "id": "en-ky-impassioned,-ardent,-torrid,-fervid-001",
+    "en": "impassioned, ardent, torrid, fervid",
+    "ky": "жылуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "страстный",
+    "senses": [
+      "impassioned, ardent, torrid, fervid"
+    ],
+    "etymology": "From Proto-Turkic *yïlïg.",
+    "frequency": 267,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D1%83%D1%83"
   },
   {
     "id": "en-ky-inflection-of-испражне́ние-(ispražnénije):-001",
@@ -8691,6 +9700,19 @@
     ],
     "frequency": 16,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-inflection-of-го́нка-(gónka):-002",
+    "en": "inflection of го́нка (gónka):",
+    "ky": "раса",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "гонки",
+    "senses": [
+      "inflection of го́нка (gónka):"
+    ],
+    "frequency": 15,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%B0%D1%81%D0%B0"
   },
   {
     "id": "en-ky-inflection-of-бу́бна-(búbna):-001",
@@ -8806,6 +9828,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B4%D0%B0%D0%BC"
   },
   {
+    "id": "en-ky-instrumentality-002",
+    "en": "instrumentality",
+    "ky": "агенттик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "содействие",
+    "senses": [
+      "instrumentality"
+    ],
+    "frequency": 306,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%82%D0%B8%D0%BA"
+  },
+  {
     "id": "en-ky-indicator,-measure,-index-001",
     "en": "indicator, measure, index",
     "ky": "көрсөткүч",
@@ -8817,6 +9852,45 @@
     ],
     "frequency": 1528,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D1%80%D1%81%D3%A9%D1%82%D0%BA%D2%AF%D1%87"
+  },
+  {
+    "id": "en-ky-in-line-skates-001",
+    "en": "in-line skates",
+    "ky": "табак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ролик",
+    "senses": [
+      "(colloquial) in-line skates"
+    ],
+    "etymology": "From Arabic طَبَق (ṭabaq, “plate”). Cognate with Bashkir табаҡ (tabaq, “bowl”), Southern Altai табак (tabak, “plate”), Uzbek tovoq (“bowl”), etc.",
+    "frequency": 89,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%B1%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-in-line-skates-002",
+    "en": "in-line skates",
+    "ky": "чөйчөк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ролик",
+    "senses": [
+      "(colloquial) in-line skates"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D3%A9%D0%B9%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-in-line-skates-003",
+    "en": "in-line skates",
+    "ky": "чыны",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "ролик",
+    "senses": [
+      "(colloquial) in-line skates"
+    ],
+    "frequency": 22,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BD%D1%8B"
   },
   {
     "id": "en-ky-inflection-of-спле́тня-(splétnja):-001",
@@ -8919,6 +9993,44 @@
       "that which infatuates)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%85%D0%BE%D0%B1%D0%B1%D0%B8"
+  },
+  {
+    "id": "en-ky-inflection-of-граф-(graf):-001",
+    "en": "inflection of граф (graf):",
+    "ky": "түркүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "графа",
+    "senses": [
+      "inflection of граф (graf):"
+    ],
+    "pronunciation": "[tyrˈcyc]",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%80%D0%BA%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-inflection-of-граф-(graf):-002",
+    "en": "inflection of граф (graf):",
+    "ky": "столб",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "графа",
+    "senses": [
+      "inflection of граф (graf):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%82%D0%BE%D0%BB%D0%B1"
+  },
+  {
+    "id": "en-ky-inflection-of-граф-(graf):-003",
+    "en": "inflection of граф (graf):",
+    "ky": "колонна",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "графа",
+    "senses": [
+      "inflection of граф (graf):"
+    ],
+    "frequency": 4,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0"
   },
   {
     "id": "en-ky-inkwell,-inkpot-001",
@@ -9031,6 +10143,72 @@
     "etymology": "From Proto-Turkic *tizgin.",
     "frequency": 139,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B7%D0%B3%D0%B8%D0%BD"
+  },
+  {
+    "id": "en-ky-ice-cube-001",
+    "en": "ice cube",
+    "ky": "куб",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кубик",
+    "senses": [
+      "ice cube"
+    ],
+    "frequency": 17,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%B1"
+  },
+  {
+    "id": "en-ky-ice-cube-002",
+    "en": "ice cube",
+    "ky": "кыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кубик",
+    "senses": [
+      "ice cube"
+    ],
+    "pronunciation": "/qɯʃ/",
+    "etymology": "From Proto-Turkic *kïĺ (“winter”).",
+    "frequency": 311,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-ice-cube-003",
+    "en": "ice cube",
+    "ky": "кирпич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кубик",
+    "senses": [
+      "ice cube"
+    ],
+    "frequency": 9,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80%D0%BF%D0%B8%D1%87"
+  },
+  {
+    "id": "en-ky-ice-cube-004",
+    "en": "ice cube",
+    "ky": "квартал m маале m айыл",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "кубик",
+    "senses": [
+      "ice cube"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB%20m%20%D0%BC%D0%B0%D0%B0%D0%BB%D0%B5%20m%20%D0%B0%D0%B9%D1%8B%D0%BB"
+  },
+  {
+    "id": "en-ky-inclined-001",
+    "en": "inclined",
+    "ky": "жайгашкан",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "расположенный",
+    "senses": [
+      "inclined"
+    ],
+    "frequency": 48,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B9%D0%B3%D0%B0%D1%88%D0%BA%D0%B0%D0%BD"
   },
   {
     "id": "en-ky-inflection-of-изве́стие-(izvéstije):-001",
@@ -9173,6 +10351,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D0%BA%D1%8B%D0%BD%D1%87%D1%8B"
   },
   {
+    "id": "en-ky-identification-001",
+    "en": "identification",
+    "ky": "идентификация",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "идентификация",
+    "senses": [
+      "identification"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-idyl,-idyll-001",
     "en": "idyl, idyll",
     "ky": "идиллия",
@@ -9183,6 +10373,33 @@
       "idyl, idyll"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B4%D0%B8%D0%BB%D0%BB%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-illustration,-picture-001",
+    "en": "illustration, picture",
+    "ky": "мисал",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "иллюстрация",
+    "senses": [
+      "illustration, picture"
+    ],
+    "frequency": 223,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B8%D1%81%D0%B0%D0%BB"
+  },
+  {
+    "id": "en-ky-illustration,-picture-002",
+    "en": "illustration, picture",
+    "ky": "үлгү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "иллюстрация",
+    "senses": [
+      "illustration, picture"
+    ],
+    "etymology": "Inherited from Proto-Turkic *ülgǖ. Cognate with Bashkir өлгө (ölgö, “model, example”), Kazakh үлгі (ülgı, “model, example”), Southern Altai ӱлгӱ (ülgü, “example”), Uyghur ئۈلگە (ülge, “model, example”),\nShor ӱлге (ülge, “footwear pattern”),\netc.",
+    "frequency": 490,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BB%D0%B3%D2%AF"
   },
   {
     "id": "en-ky-improvisation-001",
@@ -9262,6 +10479,187 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D3%A9%D0%BD%D3%A9%D1%80%20%D0%B6%D0%B0%D0%B9%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%D1%80%D1%83%D1%83"
   },
   {
+    "id": "en-ky-instance-001",
+    "en": "instance",
+    "ky": "бийлик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "pronunciation": "/bijˈɫik/",
+    "etymology": "From бий (biy) + -лик (-lik). Cognate with Kazakh билік (bilık).",
+    "frequency": 993,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B9%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-instance-002",
+    "en": "instance",
+    "ky": "чоңдор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D2%A3%D0%B4%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-instance-003",
+    "en": "instance",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
+  },
+  {
+    "id": "en-ky-instance-004",
+    "en": "instance",
+    "ky": "авторитет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-instance-005",
+    "en": "instance",
+    "ky": "ыйгарым укук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B9%D0%B3%D0%B0%D1%80%D1%8B%D0%BC%20%D1%83%D0%BA%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-instance-006",
+    "en": "instance",
+    "ky": "бедел",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "frequency": 68,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D0%B5%D0%BB"
+  },
+  {
+    "id": "en-ky-instance-007",
+    "en": "instance",
+    "ky": "кадыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "frequency": 476,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80"
+  },
+  {
+    "id": "en-ky-instance-008",
+    "en": "instance",
+    "ky": "кадыр-барк негиз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80-%D0%B1%D0%B0%D1%80%D0%BA%20%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-instance-009",
+    "en": "instance",
+    "ky": "түп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "etymology": "From Proto-Turkic *tǖp.",
+    "frequency": 1072,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BF"
+  },
+  {
+    "id": "en-ky-instance-010",
+    "en": "instance",
+    "ky": "уруксат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "frequency": 333,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%D1%81%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-instance-011",
+    "en": "instance",
+    "ky": "авторитеттүүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D1%82%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-instance-012",
+    "en": "instance",
+    "ky": "беделдүүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D0%B5%D0%BB%D0%B4%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-instance-013",
+    "en": "instance",
+    "ky": "кадырлуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-instance-014",
+    "en": "instance",
+    "ky": "билгич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "инстанция",
+    "senses": [
+      "instance"
+    ],
+    "pronunciation": "/bilɡit͡ʃ/",
+    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
+  },
+  {
     "id": "en-ky-intellectual-003",
     "en": "intellectual",
     "ky": "ойчул",
@@ -9299,6 +10697,32 @@
       "interior (of a building, room)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80"
+  },
+  {
+    "id": "en-ky-indentation-001",
+    "en": "indentation",
+    "ky": "тешик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лунка",
+    "senses": [
+      "indentation"
+    ],
+    "etymology": "From Proto-Turkic *deĺ-, Cognates with Kazakh тесік (tesık), Southern Altai тежик (težik), Crimean Tatar teşik, Kumyk тешик (teşik), Azerbaijani deşik, Turkish deşik, Uzbek teshik, Khakas тизік (tizìk), Shor тежик, etc.",
+    "frequency": 37,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%88%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-indentation-002",
+    "en": "indentation",
+    "ky": "розетка",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "лунка",
+    "senses": [
+      "indentation"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%B7%D0%B5%D1%82%D0%BA%D0%B0"
   },
   {
     "id": "en-ky-incursion,-raid,-foray-001",
@@ -9751,7 +11175,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D0%BE%D0%BB"
   },
   {
-    "id": "en-ky-integrity-002",
+    "id": "en-ky-integrity-003",
     "en": "integrity",
     "ky": "бүтүндүк",
     "pos": "noun",
@@ -9798,6 +11222,34 @@
     ],
     "frequency": 5,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D0%BD%D0%B0"
+  },
+  {
+    "id": "en-ky-ice-cream-parlor-001",
+    "en": "ice cream parlor",
+    "ky": "тоңдургуч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мороженица",
+    "senses": [
+      "ice cream parlor"
+    ],
+    "pronunciation": "/toŋdurʁut͡ʃ/",
+    "etymology": "From тоңдур- (toŋdur-, “to freeze”) + -гуч (-guc, “-inator”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D2%A3%D0%B4%D1%83%D1%80%D0%B3%D1%83%D1%87"
+  },
+  {
+    "id": "en-ky-ice-cream-maker-001",
+    "en": "ice cream maker",
+    "ky": "тоңдургуч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мороженица",
+    "senses": [
+      "ice cream maker"
+    ],
+    "pronunciation": "/toŋdurʁut͡ʃ/",
+    "etymology": "From тоңдур- (toŋdur-, “to freeze”) + -гуч (-guc, “-inator”).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D2%A3%D0%B4%D1%83%D1%80%D0%B3%D1%83%D1%87"
   },
   {
     "id": "en-ky-incitement,-instigation,-subornation,-setting-on-001",
@@ -9911,6 +11363,19 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B2%D0%B0%D0%BA%D1%86%D0%B8%D0%BD%D0%B0"
   },
   {
+    "id": "en-ky-inflection-of-энерге́тик-(ɛnɛrgétik):-001",
+    "en": "inflection of энерге́тик (ɛnɛrgétik):",
+    "ky": "энергия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "энергетика",
+    "senses": [
+      "inflection of энерге́тик (ɛnɛrgétik):"
+    ],
+    "frequency": 189,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-inflection-of-нау́шник-(naúšnik):-001",
     "en": "inflection of нау́шник (naúšnik):",
     "ky": "кулаккап",
@@ -9937,7 +11402,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D1%87%D1%8B%D0%BD"
   },
   {
-    "id": "en-ky-inanimate-accusative-plural-006",
+    "id": "en-ky-inanimate-accusative-plural-007",
     "en": "inanimate accusative plural",
     "ky": "кулаккап",
     "pos": "noun",
@@ -9951,7 +11416,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D0%BA%D0%B0%D0%BF"
   },
   {
-    "id": "en-ky-inanimate-accusative-plural-007",
+    "id": "en-ky-inanimate-accusative-plural-008",
     "en": "inanimate accusative plural",
     "ky": "кулакчын",
     "pos": "noun",
@@ -10359,6 +11824,43 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%82"
   },
   {
+    "id": "en-ky-inflection-of-сово́к-(sovók):-001",
+    "en": "inflection of сово́к (sovók):",
+    "ky": "Оруссия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "совка",
+    "senses": [
+      "inflection of сово́к (sovók):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-inflection-of-сово́к-(sovók):-002",
+    "en": "inflection of сово́к (sovók):",
+    "ky": "Россия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "совка",
+    "senses": [
+      "inflection of сово́к (sovók):"
+    ],
+    "frequency": 333,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-inflection-of-сово́к-(sovók):-003",
+    "en": "inflection of сово́к (sovók):",
+    "ky": "Советтер Союз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "совка",
+    "senses": [
+      "inflection of сово́к (sovók):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%82%D0%B5%D1%80%20%D0%A1%D0%BE%D1%8E%D0%B7"
+  },
+  {
     "id": "en-ky-incorrect-spelling-of-германия-001",
     "en": "incorrect spelling of Германия",
     "ky": "Германия",
@@ -10464,7 +11966,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D9%88%D8%B1%DB%87%D8%B3"
   },
   {
-    "id": "en-ky-inanimate-accusative-plural-008",
+    "id": "en-ky-inanimate-accusative-plural-009",
     "en": "inanimate accusative plural",
     "ky": "орус",
     "pos": "noun",
@@ -10478,7 +11980,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%80%D1%83%D1%81"
   },
   {
-    "id": "en-ky-inanimate-accusative-plural-009",
+    "id": "en-ky-inanimate-accusative-plural-010",
     "en": "inanimate accusative plural",
     "ky": "ورۇس",
     "pos": "noun",
@@ -10546,6 +12048,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%D2%AF%D1%80%D3%A9%D0%BA"
   },
   {
+    "id": "en-ky-instrumental-singular-of-главк-001",
+    "en": "instrumental singular of главк",
+    "ky": "башкы колбашчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "главком",
+    "senses": [
+      "instrumental singular of главк (glavk)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D1%8B%20%D0%BA%D0%BE%D0%BB%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
+  },
+  {
+    "id": "en-ky-instrumental-singular-of-главк-002",
+    "en": "instrumental singular of главк",
+    "ky": "башкы командачы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "главком",
+    "senses": [
+      "instrumental singular of главк (glavk)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BA%D1%8B%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%87%D1%8B"
+  },
+  {
+    "id": "en-ky-implicit,-hidden-001",
+    "en": "implicit, hidden",
+    "ky": "терең",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "глубинный",
+    "senses": [
+      "implicit, hidden"
+    ],
+    "pronunciation": "[teˈreŋ]",
+    "etymology": "From Proto-Turkic *teriŋ (“deep”).\nCognate with Azerbaijani dərin (“deep”), Bashkir тәрән (tərən, “deep”), Kazakh терең (tereñ, “deep”), Turkish derin (“deep”), etc.",
+    "frequency": 275,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%80%D0%B5%D2%A3"
+  },
+  {
     "id": "en-ky-innovation-004",
     "en": "innovation",
     "ky": "инновациялык",
@@ -10570,6 +12111,30 @@
     ],
     "frequency": 59,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-interethnic-001",
+    "en": "interethnic",
+    "ky": "эл аралык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "межнациональный",
+    "senses": [
+      "interethnic"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BB%20%D0%B0%D1%80%D0%B0%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-interethnic-002",
+    "en": "interethnic",
+    "ky": "интернационалдык",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "межнациональный",
+    "senses": [
+      "interethnic"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-intricate,-confused-001",
@@ -10726,6 +12291,282 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B1%D0%B0%D0%B0%D1%81%D1%8B"
   },
   {
+    "id": "en-ky-intermittent-001",
+    "en": "intermittent",
+    "ky": "сынган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-002",
+    "en": "intermittent",
+    "ky": "талкаланган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BB%D0%BA%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-003",
+    "en": "intermittent",
+    "ky": "бузулган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%B7%D1%83%D0%BB%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-004",
+    "en": "intermittent",
+    "ky": "иштебеген",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88%D1%82%D0%B5%D0%B1%D0%B5%D0%B3%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-005",
+    "en": "intermittent",
+    "ky": "жараланган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-006",
+    "en": "intermittent",
+    "ky": "жарылган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BB%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-007",
+    "en": "intermittent",
+    "ky": "шалдыраган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BB%D0%B4%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-008",
+    "en": "intermittent",
+    "ky": "чарчаган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%80%D1%87%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-009",
+    "en": "intermittent",
+    "ky": "алсыз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "frequency": 141,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%81%D1%8B%D0%B7"
+  },
+  {
+    "id": "en-ky-intermittent-010",
+    "en": "intermittent",
+    "ky": "жеңилген",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D2%A3%D0%B8%D0%BB%D0%B3%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-intermittent-011",
+    "en": "intermittent",
+    "ky": "бузук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "intermittent"
+    ],
+    "etymology": "Compare to Southern Altai бузук (buzuk, “rotten, destroyed, spoiled”), Bashkir боҙоҡ (boźoq, “brocken, rotten, spoiled”), etc.",
+    "frequency": 222,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%B7%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-irregular-007",
+    "en": "irregular",
+    "ky": "сынган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-008",
+    "en": "irregular",
+    "ky": "талкаланган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "frequency": 5,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B0%D0%BB%D0%BA%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-009",
+    "en": "irregular",
+    "ky": "бузулган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%B7%D1%83%D0%BB%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-010",
+    "en": "irregular",
+    "ky": "иштебеген",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88%D1%82%D0%B5%D0%B1%D0%B5%D0%B3%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-011",
+    "en": "irregular",
+    "ky": "жараланган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D0%B0%D0%BB%D0%B0%D0%BD%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-012",
+    "en": "irregular",
+    "ky": "жарылган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BB%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-013",
+    "en": "irregular",
+    "ky": "шалдыраган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D0%B0%D0%BB%D0%B4%D1%8B%D1%80%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-014",
+    "en": "irregular",
+    "ky": "чарчаган",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "frequency": 12,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%80%D1%87%D0%B0%D0%B3%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-015",
+    "en": "irregular",
+    "ky": "алсыз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "frequency": 141,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D1%81%D1%8B%D0%B7"
+  },
+  {
+    "id": "en-ky-irregular-016",
+    "en": "irregular",
+    "ky": "жеңилген",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B5%D2%A3%D0%B8%D0%BB%D0%B3%D0%B5%D0%BD"
+  },
+  {
+    "id": "en-ky-irregular-017",
+    "en": "irregular",
+    "ky": "бузук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "прерывистый",
+    "senses": [
+      "irregular"
+    ],
+    "etymology": "Compare to Southern Altai бузук (buzuk, “rotten, destroyed, spoiled”), Bashkir боҙоҡ (boźoq, “brocken, rotten, spoiled”), etc.",
+    "frequency": 222,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D0%B7%D1%83%D0%BA"
+  },
+  {
     "id": "en-ky-innovative-001",
     "en": "innovative",
     "ky": "чакырыкчыл",
@@ -10749,6 +12590,35 @@
     ],
     "frequency": 59,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%BD%D0%BE%D0%B2%D0%B0%D1%86%D0%B8%D1%8F%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-intricate,-complicated-001",
+    "en": "intricate, complicated",
+    "ky": "кыйын",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мудрёный",
+    "senses": [
+      "intricate, complicated"
+    ],
+    "pronunciation": "/qɯjɯn/",
+    "etymology": "From Proto-Turkic *kïyïn. Cognate with Kazakh қиын (qiyn), Uyghur قىيىن (qiyin).",
+    "frequency": 723,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D0%B9%D1%8B%D0%BD"
+  },
+  {
+    "id": "en-ky-intricate,-complicated-002",
+    "en": "intricate, complicated",
+    "ky": "оор",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "мудрёный",
+    "senses": [
+      "intricate, complicated"
+    ],
+    "etymology": "From Proto-Turkic *agïr, compare Turkish ağır.",
+    "frequency": 843,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D1%80"
   },
   {
     "id": "en-ky-incorporeal-001",
@@ -10997,6 +12867,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-inflection-of-антресо́ль-(antresólʹ):-001",
+    "en": "inflection of антресо́ль (antresólʹ):",
+    "ky": "чердак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "антресоли",
+    "senses": [
+      "inflection of антресо́ль (antresólʹ):"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B5%D1%80%D0%B4%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-inflection-of-антресо́ль-(antresólʹ):-002",
+    "en": "inflection of антресо́ль (antresólʹ):",
+    "ky": "чатыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "антресоли",
+    "senses": [
+      "inflection of антресо́ль (antresólʹ):"
+    ],
+    "etymology": "From Proto-Turkic *čātïr. Cognate to Southern Altai чадыр (čadïr) / чатыр (čatïr) / шатыр (šatïr), Kazakh шатыр (şatyr), Karaim čatyr / čadyr, catyr, Kumyk чатыр (çatır), Tatar чатыр (çatır), Bashkir сатыр (satır), etc.",
+    "frequency": 119,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80"
+  },
+  {
     "id": "en-ky-impotence-001",
     "en": "impotence",
     "ky": "импотенция",
@@ -11086,7 +12982,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BE%D1%80%D1%83"
   },
   {
-    "id": "en-ky-installation-004",
+    "id": "en-ky-interface-002",
+    "en": "interface",
+    "ky": "жакталыш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сопряжение",
+    "senses": [
+      "interface"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BA%D1%82%D0%B0%D0%BB%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-inventing,-fantasizing-001",
+    "en": "inventing, fantasizing",
+    "ky": "жазуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сочинительство",
+    "senses": [
+      "inventing, fantasizing"
+    ],
+    "frequency": 74,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%B7%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-insignia,-badge-001",
+    "en": "insignia, badge",
+    "ky": "тигиш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "нашивка",
+    "senses": [
+      "insignia, badge"
+    ],
+    "etymology": "From Kyrgyz тикүү (tiküü) (see there for more cognates), itself from Proto-Turkic *dik-.",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%B3%D0%B8%D1%88"
+  },
+  {
+    "id": "en-ky-installation-009",
     "en": "installation",
     "ky": "орнотуу",
     "pos": "noun",
@@ -11135,6 +13069,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BB%D0%BC%D0%B5%D0%BA"
   },
   {
+    "id": "en-ky-insidious,-cunning,-evil-man-001",
+    "en": "insidious, cunning, evil man",
+    "ky": "ажыдаар",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "змий",
+    "senses": [
+      "insidious, cunning, evil man"
+    ],
+    "pronunciation": "/ɑ.dʒɯˈdɑːɾ/",
+    "etymology": "Borrowed from Classical Persian اَژْدَهَا (aždahā).",
+    "frequency": 163,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D1%8B%D0%B4%D0%B0%D0%B0%D1%80"
+  },
+  {
+    "id": "en-ky-insidious,-cunning,-evil-man-002",
+    "en": "insidious, cunning, evil man",
+    "ky": "улу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "змий",
+    "senses": [
+      "insidious, cunning, evil man"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BB%D1%83"
+  },
+  {
     "id": "en-ky-impurity-001",
     "en": "impurity",
     "ky": "кир",
@@ -11160,6 +13121,20 @@
     ],
     "frequency": 60,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BB%D0%B0%D0%B0"
+  },
+  {
+    "id": "en-ky-inexperienced,-awkward-youth-001",
+    "en": "inexperienced, awkward youth",
+    "ky": "музоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "телок",
+    "senses": [
+      "inexperienced, awkward youth"
+    ],
+    "etymology": "From Proto-Turkic *buŕagu.",
+    "frequency": 38,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D1%83%D0%B7%D0%BE%D0%BE"
   },
   {
     "id": "en-ky-isomer-001",
@@ -11210,6 +13185,30 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D0%B1"
   },
   {
+    "id": "en-ky-injected-drug-001",
+    "en": "injected drug",
+    "ky": "инъекция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "впрыск",
+    "senses": [
+      "injected drug"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-injected-drug-002",
+    "en": "injected drug",
+    "ky": "укол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "впрыск",
+    "senses": [
+      "injected drug"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D0%BE%D0%BB"
+  },
+  {
     "id": "en-ky-illumination-003",
     "en": "illumination",
     "ky": "жарык",
@@ -11222,6 +13221,20 @@
     "etymology": "From Proto-Common Turkic *yaruq (“light”).",
     "frequency": 457,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%80%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-insinuating-001",
+    "en": "insinuating",
+    "ky": "жумшак",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "замшевый",
+    "senses": [
+      "insinuating"
+    ],
+    "etymology": "From Proto-Turkic *yɨm-ĺča-k (“soft”). Cognate with\nOld Uyghur jumšaq (“soft”);\nTatar йомшак (yomşaq),\nKazakh жұмсақ (jūmsaq),\nSouthern Altai јымжак (ǰïmžak),\nTurkish yumuşak,\nKhakas нымзах (nımzax),\nTuvan чымчак (çımçak),\nYakut сымна (sïmna), сымнаҕас (sïmnağas),\nChuvash ҫемҫе (śemś̬e, “soft”),\netc.",
+    "frequency": 150,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%88%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-inestimable,-invaluable,-priceless-001",
@@ -11361,6 +13374,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%85%D1%82%D0%B8%D0%BE%D0%B7%D0%B0%D0%B2%D1%80"
   },
   {
+    "id": "en-ky-icon-box,-icon-shelf-001",
+    "en": "icon box, icon shelf",
+    "ky": "ибадаткана",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "божница",
+    "senses": [
+      "icon box, icon shelf"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B1%D0%B0%D0%B4%D0%B0%D1%82%D0%BA%D0%B0%D0%BD%D0%B0"
+  },
+  {
     "id": "en-ky-inedible-001",
     "en": "inedible",
     "ky": "желбес",
@@ -11446,6 +13471,47 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D1%82%D1%83%20%D0%B0%D0%BB%D0%BC%D0%B0%D1%88%D1%82%D1%8B%D1%80%D1%83%D1%83"
   },
   {
+    "id": "en-ky-indifferent-001",
+    "en": "indifferent",
+    "ky": "бейтарап",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "индифферентный",
+    "senses": [
+      "indifferent"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B9%D1%82%D0%B0%D1%80%D0%B0%D0%BF"
+  },
+  {
+    "id": "en-ky-inflorescence-of-a-female-cannabis-plant-001",
+    "en": "inflorescence of a female cannabis plant",
+    "ky": "баш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бошка",
+    "senses": [
+      "inflorescence of a female cannabis plant"
+    ],
+    "pronunciation": "/bɑʃ/",
+    "etymology": "From Proto-Turkic *baĺč (“head”).",
+    "frequency": 7780,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88"
+  },
+  {
+    "id": "en-ky-inflorescence-of-a-female-cannabis-plant-002",
+    "en": "inflorescence of a female cannabis plant",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "бошка",
+    "senses": [
+      "inflorescence of a female cannabis plant"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
+  },
+  {
     "id": "en-ky-institutionalism-001",
     "en": "institutionalism",
     "ky": "институционализм",
@@ -11470,7 +13536,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81"
   },
   {
-    "id": "en-ky-indigo-007",
+    "id": "en-ky-indigo-010",
     "en": "indigo",
     "ky": "индиго",
     "pos": "adj",
@@ -11480,6 +13546,19 @@
       "indigo"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%BD%D0%B4%D0%B8%D0%B3%D0%BE"
+  },
+  {
+    "id": "en-ky-imbued-with-patriotism-001",
+    "en": "imbued with patriotism",
+    "ky": "патриоттук",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "патриотичный",
+    "senses": [
+      "imbued with patriotism"
+    ],
+    "frequency": 14,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D1%82%D1%80%D0%B8%D0%BE%D1%82%D1%82%D1%83%D0%BA"
   },
   {
     "id": "en-ky-insidious-female-person-001",

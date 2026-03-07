@@ -1044,6 +1044,54 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A3%D0%BB%D1%83%D1%83%D1%87%D0%B0%D1%82"
   },
   {
+    "id": "en-ky-umbrella-003",
+    "en": "umbrella",
+    "ky": "капюшон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонт",
+    "senses": [
+      "umbrella"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D1%8E%D1%88%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-umbrella-004",
+    "en": "umbrella",
+    "ky": "башлык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонт",
+    "senses": [
+      "umbrella"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BB%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-umbrella-005",
+    "en": "umbrella",
+    "ky": "чымылдык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонтик",
+    "senses": [
+      "umbrella"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-umbrella-006",
+    "en": "umbrella",
+    "ky": "чымылдырык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонтик",
+    "senses": [
+      "umbrella"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BB%D0%B4%D1%8B%D1%80%D1%8B%D0%BA"
+  },
+  {
     "id": "en-ky-umbel-001",
     "en": "umbel",
     "ky": "зонтик",
@@ -1066,6 +1114,54 @@
       "umbel"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%20%D1%87%D0%B0%D1%82%D1%8B%D1%80%D1%87%D0%B0"
+  },
+  {
+    "id": "en-ky-umbel-003",
+    "en": "umbel",
+    "ky": "чымылдык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонтик",
+    "senses": [
+      "umbel"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BB%D0%B4%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-umbel-004",
+    "en": "umbel",
+    "ky": "чымылдырык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонтик",
+    "senses": [
+      "umbel"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D1%8B%D0%BC%D1%8B%D0%BB%D0%B4%D1%8B%D1%80%D1%8B%D0%BA"
+  },
+  {
+    "id": "en-ky-umbel-005",
+    "en": "umbel",
+    "ky": "капюшон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонтик",
+    "senses": [
+      "umbel"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D1%8E%D1%88%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-umbel-006",
+    "en": "umbel",
+    "ky": "башлык",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зонтик",
+    "senses": [
+      "umbel"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D0%BB%D1%8B%D0%BA"
   },
   {
     "id": "en-ky-universe;-world;-planet-001",
@@ -1211,6 +1307,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D1%8F"
   },
   {
+    "id": "en-ky-union-006",
+    "en": "union",
+    "ky": "лига",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "союз",
+    "senses": [
+      "union"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BB%D0%B8%D0%B3%D0%B0"
+  },
+  {
+    "id": "en-ky-union-007",
+    "en": "union",
+    "ky": "Советтер Союз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "союз",
+    "senses": [
+      "union"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%82%D0%B5%D1%80%20%D0%A1%D0%BE%D1%8E%D0%B7"
+  },
+  {
     "id": "en-ky-uranium-001",
     "en": "uranium",
     "ky": "Уран",
@@ -1350,6 +1471,182 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B5%D0%B3%D1%80"
   },
   {
+    "id": "en-ky-unskilled,-manual-011",
+    "en": "unskilled, manual",
+    "ky": "арка",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 309,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-012",
+    "en": "unskilled, manual",
+    "ky": "бел",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 1349,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%BB"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-013",
+    "en": "unskilled, manual",
+    "ky": "коргоочу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D0%B3%D0%BE%D0%BE%D1%87%D1%83"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-014",
+    "en": "unskilled, manual",
+    "ky": "коруучу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D1%80%D1%83%D1%83%D1%87%D1%83"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-015",
+    "en": "unskilled, manual",
+    "ky": "кыр арка",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%20%D0%B0%D1%80%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-016",
+    "en": "unskilled, manual",
+    "ky": "жон",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 168,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-017",
+    "en": "unskilled, manual",
+    "ky": "уча",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%87%D0%B0"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-018",
+    "en": "unskilled, manual",
+    "ky": "артка",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 41,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%BA%D0%B0"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-019",
+    "en": "unskilled, manual",
+    "ky": "арткы",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 35,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D1%82%D0%BA%D1%8B"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-020",
+    "en": "unskilled, manual",
+    "ky": "кайра",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 919,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-021",
+    "en": "unskilled, manual",
+    "ky": "кайта",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-022",
+    "en": "unskilled, manual",
+    "ky": "кайрадан",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 255,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B9%D1%80%D0%B0%D0%B4%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-023",
+    "en": "unskilled, manual",
+    "ky": "кетенчиктеп",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%82%D0%B5%D0%BD%D1%87%D0%B8%D0%BA%D1%82%D0%B5%D0%BF"
+  },
+  {
+    "id": "en-ky-unskilled,-manual-024",
+    "en": "unskilled, manual",
+    "ky": "тескери",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "чёрный",
+    "senses": [
+      "unskilled, manual"
+    ],
+    "frequency": 91,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%81%D0%BA%D0%B5%D1%80%D0%B8"
+  },
+  {
     "id": "en-ky-university-002",
     "en": "university",
     "ky": "мектеп",
@@ -1392,6 +1689,200 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%B4%D1%80%D0%B5%D1%81%D0%B5"
   },
   {
+    "id": "en-ky-university-005",
+    "en": "university",
+    "ky": "академия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "школа",
+    "senses": [
+      "university"
+    ],
+    "frequency": 80,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-underworld-leader-001",
+    "en": "underworld leader",
+    "ky": "бийлик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "pronunciation": "/bijˈɫik/",
+    "etymology": "From бий (biy) + -лик (-lik). Cognate with Kazakh билік (bilık).",
+    "frequency": 993,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%B9%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-underworld-leader-002",
+    "en": "underworld leader",
+    "ky": "чоңдор",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%BE%D2%A3%D0%B4%D0%BE%D1%80"
+  },
+  {
+    "id": "en-ky-underworld-leader-003",
+    "en": "underworld leader",
+    "ky": "башчы",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "etymology": "From баш (baş) + -чы (-cı), Cognate to Southern Altai башчы (baščï), Kumyk башчы (başçı, “leader”), Azerbaijani başçı, etc.",
+    "frequency": 1977,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%88%D1%87%D1%8B"
+  },
+  {
+    "id": "en-ky-underworld-leader-004",
+    "en": "underworld leader",
+    "ky": "авторитет",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "frequency": 2,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82"
+  },
+  {
+    "id": "en-ky-underworld-leader-005",
+    "en": "underworld leader",
+    "ky": "ыйгарым укук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B9%D0%B3%D0%B0%D1%80%D1%8B%D0%BC%20%D1%83%D0%BA%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-underworld-leader-006",
+    "en": "underworld leader",
+    "ky": "бедел",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "frequency": 68,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D0%B5%D0%BB"
+  },
+  {
+    "id": "en-ky-underworld-leader-007",
+    "en": "underworld leader",
+    "ky": "кадыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "frequency": 476,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80"
+  },
+  {
+    "id": "en-ky-underworld-leader-008",
+    "en": "underworld leader",
+    "ky": "кадыр-барк негиз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80-%D0%B1%D0%B0%D1%80%D0%BA%20%D0%BD%D0%B5%D0%B3%D0%B8%D0%B7"
+  },
+  {
+    "id": "en-ky-underworld-leader-009",
+    "en": "underworld leader",
+    "ky": "түп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "etymology": "From Proto-Turkic *tǖp.",
+    "frequency": 1072,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D0%BF"
+  },
+  {
+    "id": "en-ky-underworld-leader-010",
+    "en": "underworld leader",
+    "ky": "уруксат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "frequency": 333,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%D1%81%D0%B0%D1%82"
+  },
+  {
+    "id": "en-ky-underworld-leader-011",
+    "en": "underworld leader",
+    "ky": "авторитеттүүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D1%82%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-underworld-leader-012",
+    "en": "underworld leader",
+    "ky": "беделдүүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B5%D0%B4%D0%B5%D0%BB%D0%B4%D2%AF%D2%AF%D0%BB%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-underworld-leader-013",
+    "en": "underworld leader",
+    "ky": "кадырлуулук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80%D0%BB%D1%83%D1%83%D0%BB%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-underworld-leader-014",
+    "en": "underworld leader",
+    "ky": "билгич",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "авторитет",
+    "senses": [
+      "underworld leader"
+    ],
+    "pronunciation": "/bilɡit͡ʃ/",
+    "etymology": "From билүү (bilüü, “to know”) + -гич (-gic).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B3%D0%B8%D1%87"
+  },
+  {
     "id": "en-ky-united-kingdom-002",
     "en": "United Kingdom",
     "ky": "Англия",
@@ -1403,6 +1894,18 @@
     ],
     "frequency": 13,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-united-kingdom-003",
+    "en": "United Kingdom",
+    "ky": "Улуу Британия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "Англия",
+    "senses": [
+      "United Kingdom (a kingdom and country in Northern Europe)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A3%D0%BB%D1%83%D1%83%20%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F"
   },
   {
     "id": "en-ky-united-arab-emirates-003",
@@ -1656,6 +2159,60 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D0%B9%D0%B8%D0%BD"
   },
   {
+    "id": "en-ky-upper-arm,-brachium,-humerus-002",
+    "en": "upper arm, brachium, humerus",
+    "ky": "кол",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "плечо",
+    "senses": [
+      "upper arm, brachium, humerus"
+    ],
+    "pronunciation": "/qol/",
+    "etymology": "From a Mongolic source. Compare Middle Mongol [script needed] (qol), Classical Mongolian ᠭᠣᠤᠯ (ɣoul), Kalmyk һол (ğol), Mongolian гол (gol).",
+    "frequency": 5671,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB"
+  },
+  {
+    "id": "en-ky-upper-arm,-brachium,-humerus-003",
+    "en": "upper arm, brachium, humerus",
+    "ky": "бут",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "плечо",
+    "senses": [
+      "upper arm, brachium, humerus"
+    ],
+    "etymology": "From Proto-Turkic *būt (“leg, foot”). Cognate with Turkish but (“thigh”).",
+    "frequency": 565,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82"
+  },
+  {
+    "id": "en-ky-upper-arm,-brachium,-humerus-004",
+    "en": "upper arm, brachium, humerus",
+    "ky": "аяк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "плечо",
+    "senses": [
+      "upper arm, brachium, humerus"
+    ],
+    "frequency": 599,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%8F%D0%BA"
+  },
+  {
+    "id": "en-ky-upper-arm,-brachium,-humerus-005",
+    "en": "upper arm, brachium, humerus",
+    "ky": "кол-аяк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "плечо",
+    "senses": [
+      "upper arm, brachium, humerus"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB-%D0%B0%D1%8F%D0%BA"
+  },
+  {
     "id": "en-ky-uniform-003",
     "en": "uniform",
     "ky": "кеп",
@@ -1692,6 +2249,45 @@
       "uniform (military, sports)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8F%D1%80"
+  },
+  {
+    "id": "en-ky-uniform-006",
+    "en": "uniform",
+    "ky": "модель",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "форма",
+    "senses": [
+      "uniform (military, sports)"
+    ],
+    "frequency": 19,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C"
+  },
+  {
+    "id": "en-ky-uniform-007",
+    "en": "uniform",
+    "ky": "үлгү",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "форма",
+    "senses": [
+      "uniform (military, sports)"
+    ],
+    "etymology": "Inherited from Proto-Turkic *ülgǖ. Cognate with Bashkir өлгө (ölgö, “model, example”), Kazakh үлгі (ülgı, “model, example”), Southern Altai ӱлгӱ (ülgü, “example”), Uyghur ئۈلگە (ülge, “model, example”),\nShor ӱлге (ülge, “footwear pattern”),\netc.",
+    "frequency": 490,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D0%BB%D0%B3%D2%AF"
+  },
+  {
+    "id": "en-ky-uniform-008",
+    "en": "uniform",
+    "ky": "көк дат",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "форма",
+    "senses": [
+      "uniform (military, sports)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%BA%20%D0%B4%D0%B0%D1%82"
   },
   {
     "id": "en-ky-unremarkable,-mundane,-mediocre-001",
@@ -1800,6 +2396,32 @@
       "unit (regimental or smaller sized and administratively self-contained)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D3%A9%D0%BB%D1%87%D3%A9%D0%BA"
+  },
+  {
+    "id": "en-ky-unit-006",
+    "en": "unit",
+    "ky": "акция",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "часть",
+    "senses": [
+      "unit (regimental or smaller sized and administratively self-contained)"
+    ],
+    "frequency": 44,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D1%86%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-unit-007",
+    "en": "unit",
+    "ky": "роль",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "часть",
+    "senses": [
+      "unit (regimental or smaller sized and administratively self-contained)"
+    ],
+    "frequency": 73,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%80%D0%BE%D0%BB%D1%8C"
   },
   {
     "id": "en-ky-useful,-helpful,-handy,-welcome,-convenient-001",
@@ -2043,6 +2665,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BA%D0%BC%D0%B0%D0%BA"
   },
   {
+    "id": "en-ky-ugly-004",
+    "en": "ugly",
+    "ky": "жаман",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "дурной",
+    "senses": [
+      "ugly"
+    ],
+    "pronunciation": "[d͡ʒɑˈmɑn]",
+    "etymology": "From Proto-Turkic *yaman (“bad”).\nCognate with\nOld Uyghur [script needed] (jaman, “bad”);\nBashkir яман (yaman), Karakalpak жаман (jaman) / jaman, Kazakh жаман (jaman),\nKarachay-Balkar аман (aman),\nUzbek yomon,\nAzerbaijani, Turkish yaman, etc.",
+    "frequency": 1533,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D0%BC%D0%B0%D0%BD"
+  },
+  {
+    "id": "en-ky-ugly-005",
+    "en": "ugly",
+    "ky": "начар",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "дурной",
+    "senses": [
+      "ugly"
+    ],
+    "frequency": 42,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D1%87%D0%B0%D1%80"
+  },
+  {
     "id": "en-ky-usual,-commonly-used-001",
     "en": "usual, commonly used",
     "ky": "шексиз",
@@ -2106,6 +2756,21 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D2%AF%D1%81%D1%82%D2%AF%D2%A3%D0%BA%D2%AF"
   },
   {
+    "id": "en-ky-unit-008",
+    "en": "unit",
+    "ky": "санарип",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единица",
+    "senses": [
+      "unit"
+    ],
+    "pronunciation": "/sanaˈrip/",
+    "etymology": "From сан (san, “number”) + арип (arip, “letter”).",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B0%D0%BD%D0%B0%D1%80%D0%B8%D0%BF"
+  },
+  {
     "id": "en-ky-unique,-exceptional,-unparalleled-001",
     "en": "unique, exceptional, unparalleled",
     "ky": "сейрек",
@@ -2119,7 +2784,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D1%80%D0%B5%D0%BA"
   },
   {
-    "id": "en-ky-umbrella-003",
+    "id": "en-ky-umbrella-007",
     "en": "umbrella",
     "ky": "күмбөз",
     "pos": "noun",
@@ -2141,6 +2806,36 @@
       "uterus, womb"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%82%D1%8B%D0%BD"
+  },
+  {
+    "id": "en-ky-uterus,-womb-002",
+    "en": "uterus, womb",
+    "ky": "эне",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "матка",
+    "senses": [
+      "uterus, womb"
+    ],
+    "pronunciation": "/eˈne/",
+    "etymology": "from Proto-Turkic *eńe (“mother”), a front vowel parallel to *ana (“mother”).\nCognate with Bashkir инәй (inəy, “mother; address to old woman”), Tatar әни (äni, “mother”), Southern Altai эне (ene, “mother”), Kazakh ене (ene, “mother-in-law”), Yakut ийе (iye, “mother”); Khakas иней (iney, “old woman”), etc.",
+    "frequency": 1030,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8D%D0%BD%D0%B5"
+  },
+  {
+    "id": "en-ky-ugly-creature-001",
+    "en": "ugly creature",
+    "ky": "ажыдаар",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "урод",
+    "senses": [
+      "ugly creature"
+    ],
+    "pronunciation": "/ɑ.dʒɯˈdɑːɾ/",
+    "etymology": "Borrowed from Classical Persian اَژْدَهَا (aždahā).",
+    "frequency": 163,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B6%D1%8B%D0%B4%D0%B0%D0%B0%D1%80"
   },
   {
     "id": "en-ky-unhappy,-hopeless-001",
@@ -2249,6 +2944,19 @@
   {
     "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-001",
     "en": "uproar, din, blare, clamour, hubbub",
+    "ky": "ызы-чуу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "шум",
+    "senses": [
+      "uproar, din, blare, clamour, hubbub"
+    ],
+    "frequency": 39,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B7%D1%8B-%D1%87%D1%83%D1%83"
+  },
+  {
+    "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-002",
+    "en": "uproar, din, blare, clamour, hubbub",
     "ky": "тыбыш",
     "pos": "noun",
     "source": "pivot-ru",
@@ -2261,7 +2969,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%B1%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-002",
+    "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-003",
     "en": "uproar, din, blare, clamour, hubbub",
     "ky": "дабыш",
     "pos": "noun",
@@ -2274,7 +2982,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B0%D0%B1%D1%8B%D1%88"
   },
   {
-    "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-003",
+    "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-004",
     "en": "uproar, din, blare, clamour, hubbub",
     "ky": "добуш",
     "pos": "noun",
@@ -2286,19 +2994,6 @@
     "etymology": "Compare to Southern Altai табыш (tabïš), Bashkir тауыш (tawış), etc.",
     "frequency": 1923,
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%BE%D0%B1%D1%83%D1%88"
-  },
-  {
-    "id": "en-ky-uproar,-din,-blare,-clamour,-hubbub-004",
-    "en": "uproar, din, blare, clamour, hubbub",
-    "ky": "ызы-чуу",
-    "pos": "noun",
-    "source": "pivot-ru",
-    "ruPivot": "шум",
-    "senses": [
-      "uproar, din, blare, clamour, hubbub"
-    ],
-    "frequency": 39,
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%B7%D1%8B-%D1%87%D1%83%D1%83"
   },
   {
     "id": "en-ky-ukrainian-002",
@@ -2340,6 +3035,34 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BF%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB%D1%83%D1%83"
   },
   {
+    "id": "en-ky-unless-001",
+    "en": "unless",
+    "ky": "балким",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "разве",
+    "senses": [
+      "unless"
+    ],
+    "etymology": "Partially borrowed from Classical Persian بَلْکِه (balki).",
+    "frequency": 75,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-unless-002",
+    "en": "unless",
+    "ky": "мүмкүн",
+    "pos": "adv",
+    "source": "pivot-ru",
+    "ruPivot": "разве",
+    "senses": [
+      "unless"
+    ],
+    "etymology": "From Persian ممکن, from Arabic مُمْكِن (mumkin, “possible”).",
+    "frequency": 1503,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD"
+  },
+  {
     "id": "en-ky-underwear,-underpants,-shorts-001",
     "en": "underwear, underpants, shorts",
     "ky": "трусик",
@@ -2350,6 +3073,46 @@
       "underwear, underpants, shorts"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%80%D1%83%D1%81%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-use-003",
+    "en": "use",
+    "ky": "кадыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "смысл",
+    "senses": [
+      "use"
+    ],
+    "frequency": 476,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80"
+  },
+  {
+    "id": "en-ky-use-004",
+    "en": "use",
+    "ky": "кадырдоо",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "смысл",
+    "senses": [
+      "use"
+    ],
+    "frequency": 3,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B4%D1%8B%D1%80%D0%B4%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-use-005",
+    "en": "use",
+    "ky": "сый",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "смысл",
+    "senses": [
+      "use"
+    ],
+    "etymology": "From Proto-Turkic *sɨjŋ, Compare to Southern Altai сый (sïy), Kazakh сый (syi), etc.",
+    "frequency": 289,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%B9"
   },
   {
     "id": "en-ky-urn-001",
@@ -2439,6 +3202,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D1%85%D0%BE%D0%B7"
   },
   {
+    "id": "en-ky-unprofessional-alteration,-repair-or-construction-002",
+    "en": "unprofessional alteration, repair or construction",
+    "ky": "жыйын",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "колхоз",
+    "senses": [
+      "unprofessional alteration, repair or construction"
+    ],
+    "etymology": "Compare to Southern Altai јуун (ǰuun).",
+    "frequency": 291,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%B9%D1%8B%D0%BD"
+  },
+  {
     "id": "en-ky-unpopulated-area-001",
     "en": "unpopulated area",
     "ky": "чөл",
@@ -2515,6 +3292,45 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%82%D2%AF%D0%BA"
   },
   {
+    "id": "en-ky-undesirable-situation,-seemingly-hopeless-005",
+    "en": "undesirable situation, seemingly hopeless",
+    "ky": "кол телефон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "труба",
+    "senses": [
+      "undesirable situation, seemingly hopeless (де́ло труба́)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-undesirable-situation,-seemingly-hopeless-006",
+    "en": "undesirable situation, seemingly hopeless",
+    "ky": "уюлдук телефон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "труба",
+    "senses": [
+      "undesirable situation, seemingly hopeless (де́ло труба́)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%8E%D0%BB%D0%B4%D1%83%D0%BA%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD"
+  },
+  {
+    "id": "en-ky-undesirable-situation,-seemingly-hopeless-007",
+    "en": "undesirable situation, seemingly hopeless",
+    "ky": "телефон",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "труба",
+    "senses": [
+      "undesirable situation, seemingly hopeless (де́ло труба́)"
+    ],
+    "pronunciation": "/teleˈfon/",
+    "etymology": "Borrowed from Russian телефо́н (telefón).",
+    "frequency": 139,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD"
+  },
+  {
     "id": "en-ky-unity,-unanimity,-oneness-001",
     "en": "unity, unanimity, oneness",
     "ky": "биримдик",
@@ -2552,6 +3368,20 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%88%D1%8B%D0%BF"
   },
   {
+    "id": "en-ky-upper-limit-003",
+    "en": "upper limit",
+    "ky": "чатыр",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "потолок",
+    "senses": [
+      "upper limit"
+    ],
+    "etymology": "From Proto-Turkic *čātïr. Cognate to Southern Altai чадыр (čadïr) / чатыр (čatïr) / шатыр (šatïr), Kazakh шатыр (şatyr), Karaim čatyr / čadyr, catyr, Kumyk чатыр (çatır), Tatar чатыр (çatır), Bashkir сатыр (satır), etc.",
+    "frequency": 119,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B0%D1%82%D1%8B%D1%80"
+  },
+  {
     "id": "en-ky-unbroken-expanse-001",
     "en": "unbroken expanse",
     "ky": "дың",
@@ -2574,6 +3404,18 @@
       "unrevealed or hidden advantage"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D3%A9%D0%B7%D2%AF%D1%80"
+  },
+  {
+    "id": "en-ky-unrevealed-or-hidden-advantage-002",
+    "en": "unrevealed or hidden advantage",
+    "ky": "Трамп",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "козырь",
+    "senses": [
+      "unrevealed or hidden advantage"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%BF"
   },
   {
     "id": "en-ky-unloading-001",
@@ -2600,6 +3442,70 @@
     ],
     "etymology": "From Arabic صِنْف (ṣinf).",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D1%8B%D0%BD%D1%8B%D0%BF"
+  },
+  {
+    "id": "en-ky-unnatural,-insincere,-contrived-001",
+    "en": "unnatural, insincere, contrived",
+    "ky": "жаңылыш",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "unnatural, insincere, contrived"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D1%8B%D1%88"
+  },
+  {
+    "id": "en-ky-unnatural,-insincere,-contrived-002",
+    "en": "unnatural, insincere, contrived",
+    "ky": "ката",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "unnatural, insincere, contrived"
+    ],
+    "etymology": "From Arabic خَطَأ (ḵaṭaʔ).",
+    "frequency": 28,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0"
+  },
+  {
+    "id": "en-ky-unnatural,-insincere,-contrived-003",
+    "en": "unnatural, insincere, contrived",
+    "ky": "жасалма",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "unnatural, insincere, contrived"
+    ],
+    "frequency": 65,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D1%81%D0%B0%D0%BB%D0%BC%D0%B0"
+  },
+  {
+    "id": "en-ky-unnatural,-insincere,-contrived-004",
+    "en": "unnatural, insincere, contrived",
+    "ky": "арамза",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "искусственный",
+    "senses": [
+      "unnatural, insincere, contrived"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%80%D0%B0%D0%BC%D0%B7%D0%B0"
+  },
+  {
+    "id": "en-ky-united,-unified,-common,-indivisible-001",
+    "en": "united, unified, common, indivisible",
+    "ky": "бирдиктүү",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "единый",
+    "senses": [
+      "united, unified, common, indivisible"
+    ],
+    "frequency": 379,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B8%D0%BA%D1%82%D2%AF%D2%AF"
   },
   {
     "id": "en-ky-unmarried-person,-single-person,-bachelor-001",
@@ -2726,6 +3632,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%B0%D1%87%D1%8B%D0%BA"
   },
   {
+    "id": "en-ky-uncomfortable,-untidy-room,-pigsty-003",
+    "en": "uncomfortable, untidy room, pigsty",
+    "ky": "дворец",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "сарай",
+    "senses": [
+      "uncomfortable, untidy room, pigsty"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+  },
+  {
     "id": "en-ky-use,-benefit,-advantage,-profit,-usefulness-001",
     "en": "use, benefit, advantage, profit, usefulness",
     "ky": "пайда",
@@ -2817,7 +3735,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D1%82%D1%81%D0%B8%D0%B7"
   },
   {
-    "id": "en-ky-ugly-004",
+    "id": "en-ky-ugly-006",
     "en": "ugly",
     "ky": "бирлери коркунучтуу да",
     "pos": "adj",
@@ -3051,6 +3969,106 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D0%B0%D2%A3%D1%8B%D0%BB%D0%B0%D0%BD%D1%83%D1%83"
   },
   {
+    "id": "en-ky-unity-001",
+    "en": "unity",
+    "ky": "ынтымак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "unity"
+    ],
+    "frequency": 257,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D1%82%D1%8B%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-unity-002",
+    "en": "unity",
+    "ky": "тиренишме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "unity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%88%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-unity-003",
+    "en": "unity",
+    "ky": "тилектештик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "unity"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B5%D0%BA%D1%82%D0%B5%D1%88%D1%82%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-unity-004",
+    "en": "unity",
+    "ky": "союз",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "unity"
+    ],
+    "frequency": 127,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%BE%D1%8E%D0%B7"
+  },
+  {
+    "id": "en-ky-unity-005",
+    "en": "unity",
+    "ky": "бирлик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "unity"
+    ],
+    "frequency": 19,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%BB%D0%B8%D0%BA"
+  },
+  {
+    "id": "en-ky-union-008",
+    "en": "union",
+    "ky": "ынтымак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "union"
+    ],
+    "frequency": 257,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8B%D0%BD%D1%82%D1%8B%D0%BC%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-union-009",
+    "en": "union",
+    "ky": "тиренишме",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "union"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D1%88%D0%BC%D0%B5"
+  },
+  {
+    "id": "en-ky-union-010",
+    "en": "union",
+    "ky": "тилектештик",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "единение",
+    "senses": [
+      "union"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%D0%B5%D0%BA%D1%82%D0%B5%D1%88%D1%82%D0%B8%D0%BA"
+  },
+  {
     "id": "en-ky-undertaking,-action,-enterprise,-measure-001",
     "en": "undertaking, action, enterprise, measure",
     "ky": "иш-чара",
@@ -3061,6 +4079,33 @@
       "undertaking, action, enterprise, measure (that which is undertaken)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%88-%D1%87%D0%B0%D1%80%D0%B0"
+  },
+  {
+    "id": "en-ky-undertaking,-action,-enterprise,-measure-002",
+    "en": "undertaking, action, enterprise, measure",
+    "ky": "окуя",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "мероприятие",
+    "senses": [
+      "undertaking, action, enterprise, measure (that which is undertaken)"
+    ],
+    "pronunciation": "/oquja/",
+    "frequency": 524,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D0%BA%D1%83%D1%8F"
+  },
+  {
+    "id": "en-ky-user-003",
+    "en": "user",
+    "ky": "колдонуучу",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "пользователь",
+    "senses": [
+      "user"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BB%D0%B4%D0%BE%D0%BD%D1%83%D1%83%D1%87%D1%83"
   },
   {
     "id": "en-ky-unilateral,-one-sided-001",
@@ -3235,6 +4280,102 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%81%D0%B5%D0%B9%D1%80%D0%B5%D0%BA"
   },
   {
+    "id": "en-ky-underlying-001",
+    "en": "underlying",
+    "ky": "терең",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "глубинный",
+    "senses": [
+      "underlying"
+    ],
+    "pronunciation": "[teˈreŋ]",
+    "etymology": "From Proto-Turkic *teriŋ (“deep”).\nCognate with Azerbaijani dərin (“deep”), Bashkir тәрән (tərən, “deep”), Kazakh терең (tereñ, “deep”), Turkish derin (“deep”), etc.",
+    "frequency": 275,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B5%D1%80%D0%B5%D2%A3"
+  },
+  {
+    "id": "en-ky-unpopulated-001",
+    "en": "unpopulated",
+    "ky": "бош",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "безлюдный",
+    "senses": [
+      "unpopulated"
+    ],
+    "etymology": "From Proto-Turkic *boĺ (“free, empty”).",
+    "frequency": 293,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%88"
+  },
+  {
+    "id": "en-ky-unpopulated-002",
+    "en": "unpopulated",
+    "ky": "куру",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "безлюдный",
+    "senses": [
+      "unpopulated"
+    ],
+    "frequency": 146,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83"
+  },
+  {
+    "id": "en-ky-unmanned-001",
+    "en": "unmanned",
+    "ky": "бош",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "безлюдный",
+    "senses": [
+      "unmanned"
+    ],
+    "etymology": "From Proto-Turkic *boĺ (“free, empty”).",
+    "frequency": 293,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%88"
+  },
+  {
+    "id": "en-ky-unmanned-002",
+    "en": "unmanned",
+    "ky": "куру",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "безлюдный",
+    "senses": [
+      "unmanned"
+    ],
+    "frequency": 146,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83"
+  },
+  {
+    "id": "en-ky-useless,-unnecessary-001",
+    "en": "useless, unnecessary",
+    "ky": "бош",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "праздный",
+    "senses": [
+      "useless, unnecessary"
+    ],
+    "etymology": "From Proto-Turkic *boĺ (“free, empty”).",
+    "frequency": 293,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%88"
+  },
+  {
+    "id": "en-ky-useless,-unnecessary-002",
+    "en": "useless, unnecessary",
+    "ky": "куру",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "праздный",
+    "senses": [
+      "useless, unnecessary"
+    ],
+    "frequency": 146,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D1%80%D1%83"
+  },
+  {
     "id": "en-ky-unreliable,-insecure-001",
     "en": "unreliable, insecure",
     "ky": "жаңылышкан",
@@ -3297,6 +4438,18 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%8B%D0%B7"
   },
   {
+    "id": "en-ky-unruly-001",
+    "en": "unruly",
+    "ky": "тынчсыз",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "непокорный",
+    "senses": [
+      "unruly"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D0%BD%D1%87%D1%81%D1%8B%D0%B7"
+  },
+  {
     "id": "en-ky-uneven-001",
     "en": "uneven",
     "ky": "бирдей эмес",
@@ -3309,6 +4462,33 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B5%D0%B9%20%D1%8D%D0%BC%D0%B5%D1%81"
   },
   {
+    "id": "en-ky-unity,-wholeness-001",
+    "en": "unity, wholeness",
+    "ky": "коопсуздук",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "целость",
+    "senses": [
+      "unity, wholeness"
+    ],
+    "pronunciation": "/qoːpˈsuzˈduq/",
+    "etymology": "From кооп (koop) + -суз (-suz) + -дык (-dık)",
+    "frequency": 703,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%BE%D0%BE%D0%BF%D1%81%D1%83%D0%B7%D0%B4%D1%83%D0%BA"
+  },
+  {
+    "id": "en-ky-uncastrated-domestic-deer-001",
+    "en": "uncastrated domestic deer",
+    "ky": "каба́н",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "порос",
+    "senses": [
+      "uncastrated domestic deer"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%B1%D0%B0%CC%81%D0%BD"
+  },
+  {
     "id": "en-ky-understudy-001",
     "en": "understudy",
     "ky": "каскадёр",
@@ -3319,6 +4499,33 @@
       "understudy"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%81%D0%BA%D0%B0%D0%B4%D1%91%D1%80"
+  },
+  {
+    "id": "en-ky-unexpected-event-001",
+    "en": "unexpected event",
+    "ky": "мүмкүндүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "оказия",
+    "senses": [
+      "unexpected event"
+    ],
+    "pronunciation": "[mymkynt͡ʃylˈdyk]",
+    "etymology": "From мүмкүн (mümkün, “maybe”) + -дүк (-dük).",
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D0%B4%D2%AF%D0%BA"
+  },
+  {
+    "id": "en-ky-unexpected-event-002",
+    "en": "unexpected event",
+    "ky": "мүмкүнчүлүк",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "оказия",
+    "senses": [
+      "unexpected event"
+    ],
+    "frequency": 557,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D2%AF%D0%BC%D0%BA%D2%AF%D0%BD%D1%87%D2%AF%D0%BB%D2%AF%D0%BA"
   },
   {
     "id": "en-ky-unhealthiness,-ill-health-001",
@@ -3386,6 +4593,50 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B8%D1%80"
   },
   {
+    "id": "en-ky-unlocking,-unlatching-001",
+    "en": "unlocking, unlatching",
+    "ky": "ачкыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отмычка",
+    "senses": [
+      "unlocking, unlatching"
+    ],
+    "pronunciation": "/ɑt͡ʃˈqɯt͡ʃ/",
+    "etymology": "From ачуу (acuu, “open”).",
+    "frequency": 43,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-unfastening-001",
+    "en": "unfastening",
+    "ky": "ачкыч",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "отмычка",
+    "senses": [
+      "unfastening"
+    ],
+    "pronunciation": "/ɑt͡ʃˈqɯt͡ʃ/",
+    "etymology": "From ачуу (acuu, “open”).",
+    "frequency": 43,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D1%87%D0%BA%D1%8B%D1%87"
+  },
+  {
+    "id": "en-ky-unstable-surface,-quagmire-001",
+    "en": "unstable surface, quagmire",
+    "ky": "толкун",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "зыбь",
+    "senses": [
+      "unstable surface, quagmire"
+    ],
+    "etymology": "From Proto-Turkic *tolku-n, compare Yakut долгун (dolgun).",
+    "frequency": 84,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%BE%D0%BB%D0%BA%D1%83%D0%BD"
+  },
+  {
     "id": "en-ky-underwear,-lingerie-001",
     "en": "underwear, lingerie",
     "ky": "ич кийим",
@@ -3396,6 +4647,20 @@
       "underwear, lingerie"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B8%D1%87%20%D0%BA%D0%B8%D0%B9%D0%B8%D0%BC"
+  },
+  {
+    "id": "en-ky-unexpected-turn-of-thought-001",
+    "en": "unexpected turn of thought",
+    "ky": "каш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "изворот",
+    "senses": [
+      "unexpected turn of thought"
+    ],
+    "etymology": "From Proto-Turkic *kāĺ. Cognate to Southern Altai каш (kaš, “shore”).",
+    "frequency": 375,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%88"
   },
   {
     "id": "en-ky-unnaturalness,-insincerity-001",
@@ -3447,6 +4712,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D0%BB%D0%B8%D0%BC%D1%81%D0%B8%D0%B7"
   },
   {
+    "id": "en-ky-unpronounceable-001",
+    "en": "unpronounceable",
+    "ky": "унчукпоо",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "непроизносимый",
+    "senses": [
+      "unpronounceable"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BD%D1%87%D1%83%D0%BA%D0%BF%D0%BE%D0%BE"
+  },
+  {
+    "id": "en-ky-ukrainian-nationalist-001",
+    "en": "Ukrainian nationalist",
+    "ky": "украин",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "жовто-блакитный",
+    "senses": [
+      "Ukrainian nationalist"
+    ],
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD"
+  },
+  {
     "id": "en-ky-unmanned-aerial-vehicle-(uav),-drone-001",
     "en": "unmanned aerial vehicle (UAV), drone",
     "ky": "учкучсуз учуучу аппарат",
@@ -3471,6 +4761,31 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B4%D1%80%D0%BE%D0%BD"
   },
   {
+    "id": "en-ky-ukraine-002",
+    "en": "Ukraine",
+    "ky": "Оруссия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "страна 404",
+    "senses": [
+      "Ukraine"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%9E%D1%80%D1%83%D1%81%D1%81%D0%B8%D1%8F"
+  },
+  {
+    "id": "en-ky-ukraine-003",
+    "en": "Ukraine",
+    "ky": "Россия",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "страна 404",
+    "senses": [
+      "Ukraine"
+    ],
+    "frequency": 333,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F"
+  },
+  {
     "id": "en-ky-unaccented,-unstressed-001",
     "en": "unaccented, unstressed",
     "ky": "басымсыз",
@@ -3481,6 +4796,20 @@
       "unaccented, unstressed (pronounced with little or no stress)"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B0%D1%81%D1%8B%D0%BC%D1%81%D1%8B%D0%B7"
+  },
+  {
+    "id": "en-ky-ukrainian-female-001",
+    "en": "Ukrainian female",
+    "ky": "капкак",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "хохлушка",
+    "senses": [
+      "Ukrainian female"
+    ],
+    "etymology": "From *kapɣak, from Proto-Turkic *kapgak (“cover”), from Proto-Turkic *kap- (“to cover”). See kapa-. Cognate with Karakhanid [script needed] (qapɣaq, “cover”), Southern Altai какпак (kakpak, “lid, cover”), Turkish kapak (“cover”), etc.",
+    "frequency": 24,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BF%D0%BA%D0%B0%D0%BA"
   },
   {
     "id": "en-ky-ukrainization;-becoming-more-ukrainian.-001",

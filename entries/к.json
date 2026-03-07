@@ -169,6 +169,47 @@
     "id": "ru-клеветать-001"
   },
   {
+    "ru": "как",
+    "ky": "кантип",
+    "pos": "adv",
+    "senses": [
+      "как",
+      "каким образом"
+    ],
+    "source": "manual",
+    "id": "ru-как-001"
+  },
+  {
+    "ru": "код",
+    "ky": "код",
+    "pos": "noun",
+    "senses": [
+      "код"
+    ],
+    "source": "manual",
+    "id": "ru-код-001"
+  },
+  {
+    "ru": "коммунальный",
+    "ky": "коммуналдык",
+    "pos": "adj",
+    "senses": [
+      "коммунальный"
+    ],
+    "source": "manual",
+    "id": "ru-коммунальный-001"
+  },
+  {
+    "ru": "касса",
+    "ky": "касса",
+    "pos": "noun",
+    "senses": [
+      "касса"
+    ],
+    "source": "manual",
+    "id": "ru-касса-001"
+  },
+  {
     "ru": "красный",
     "ky": "кызыл",
     "pos": "adj",
@@ -8244,7 +8285,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%B9",
-    "id": "ru-как-001"
+    "id": "ru-как-002"
   },
   {
     "ru": "как",
@@ -8267,7 +8308,7 @@
       }
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D0%B9%D1%87%D0%B0",
-    "id": "ru-как-002"
+    "id": "ru-как-003"
   },
   {
     "ru": "каким образом",
@@ -16295,7 +16336,7 @@
     "ruAccented": "ка'сса",
     "ruGender": "f",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D1%81%D1%81%D0%B0%D0%BB%D1%8B%D0%BA%20%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82",
-    "id": "ru-касса-001"
+    "id": "ru-касса-002"
   },
   {
     "ru": "казна",
@@ -16574,7 +16615,7 @@
     ],
     "ruAccented": "как",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/-%D0%B4%D0%B0%D0%B9",
-    "id": "ru-как-003"
+    "id": "ru-как-004"
   },
   {
     "ru": "ключ",
@@ -27885,7 +27926,7 @@
     "ruAccented": "ка'сса",
     "ruGender": "f",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BD%D0%B0%D0%BA%D1%82",
-    "id": "ru-касса-002"
+    "id": "ru-касса-003"
   },
   {
     "ru": "коллегия",

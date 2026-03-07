@@ -336,6 +336,32 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%B7"
   },
   {
+    "id": "en-ky-zvezda-002",
+    "en": "Zvezda",
+    "ky": "жылдызча",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "звезда",
+    "senses": [
+      "Zvezda (module of the International Space Station)"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%8B%D0%BB%D0%B4%D1%8B%D0%B7%D1%87%D0%B0"
+  },
+  {
+    "id": "en-ky-zvezda-003",
+    "en": "Zvezda",
+    "ky": "жөргөмүш",
+    "pos": "noun",
+    "source": "pivot-ru",
+    "ruPivot": "звезда",
+    "senses": [
+      "Zvezda (module of the International Space Station)"
+    ],
+    "etymology": "From Proto-Turkic *ȫr-. Cognate to Southern Altai јӧргӧмӧш (ǰörgömöš), etc.",
+    "frequency": 6,
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D3%A9%D1%80%D0%B3%D3%A9%D0%BC%D2%AF%D1%88"
+  },
+  {
     "id": "en-ky-zürich-001",
     "en": "Zürich",
     "ky": "Цюрих",
@@ -562,6 +588,30 @@
       "Zheleznogorsk"
     ],
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA"
+  },
+  {
+    "id": "en-ky-zealous-001",
+    "en": "zealous",
+    "ky": "тырышчаак",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "радивый",
+    "senses": [
+      "zealous"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D1%8B%D1%80%D1%8B%D1%88%D1%87%D0%B0%D0%B0%D0%BA"
+  },
+  {
+    "id": "en-ky-zealous-002",
+    "en": "zealous",
+    "ky": "кунттуу",
+    "pos": "adj",
+    "source": "pivot-ru",
+    "ruPivot": "радивый",
+    "senses": [
+      "zealous"
+    ],
+    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%83%D0%BD%D1%82%D1%82%D1%83%D1%83"
   },
   {
     "id": "en-ky-zealand-001",
