@@ -22,26 +22,7 @@
     "ruAccented": "юг",
     "ruGender": "m",
     "frequency": 66,
-    "id": "ru-юг-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "түштүктүн",
-        "dative": "түштүккө",
-        "accusative": "түштүктү",
-        "locative": "түштүктө",
-        "ablative": "түштүктөн"
-      },
-      "pluralForms": {
-        "genitive": "түштүктөрдүн",
-        "dative": "түштүктөргө",
-        "accusative": "түштүктөрдү",
-        "locative": "түштүктөрдө",
-        "ablative": "түштүктөрдөн"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-юг-001"
   },
   {
     "ru": "ювелир",
@@ -54,26 +35,7 @@
     ],
     "ruAccented": "ювели'р",
     "ruGender": "m",
-    "id": "ru-ювелир-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "ювелирдин",
-        "dative": "ювелирге",
-        "accusative": "ювелирди",
-        "locative": "ювелирде",
-        "ablative": "ювелирден"
-      },
-      "pluralForms": {
-        "genitive": "ювелирлердин",
-        "dative": "ювелирлерге",
-        "accusative": "ювелирлерди",
-        "locative": "ювелирлерде",
-        "ablative": "ювелирлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ювелир-001"
   },
   {
     "ru": "ювелир",
@@ -88,26 +50,7 @@
     "pronunciation": "[zʲerˈɡʲer]",
     "ruAccented": "ювели'р",
     "ruGender": "m",
-    "id": "ru-ювелир-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "зергердин",
-        "dative": "зергерге",
-        "accusative": "зергерди",
-        "locative": "зергерде",
-        "ablative": "зергерден"
-      },
-      "pluralForms": {
-        "genitive": "зергерлердин",
-        "dative": "зергерлерге",
-        "accusative": "зергерлерди",
-        "locative": "зергерлерде",
-        "ablative": "зергерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ювелир-002"
   },
   {
     "ru": "Юпитер",
@@ -118,26 +61,7 @@
     "senses": [
       "планета"
     ],
-    "id": "ru-Юпитер-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Юпитердин",
-        "dative": "Юпитерге",
-        "accusative": "Юпитерди",
-        "locative": "Юпитерде",
-        "ablative": "Юпитерден"
-      },
-      "pluralForms": {
-        "genitive": "Юпитерлердин",
-        "dative": "Юпитерлерге",
-        "accusative": "Юпитерлерди",
-        "locative": "Юпитерлерде",
-        "ablative": "Юпитерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Юпитер-001"
   },
   {
     "ru": "Югославия",
@@ -145,26 +69,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F",
-    "id": "ru-Югославия-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Югославиянын",
-        "dative": "Югославияга",
-        "accusative": "Югославияны",
-        "locative": "Югославияда",
-        "ablative": "Югославиядан"
-      },
-      "pluralForms": {
-        "genitive": "Югославиялардын",
-        "dative": "Югославияларга",
-        "accusative": "Югославияларды",
-        "locative": "Югославияларда",
-        "ablative": "Югославиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Югославия-001"
   },
   {
     "ru": "юбилей",
@@ -175,26 +80,7 @@
     "ruAccented": "юбиле'й",
     "ruGender": "m",
     "frequency": 6,
-    "id": "ru-юбилей-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "юбилейдин",
-        "dative": "юбилейге",
-        "accusative": "юбилейди",
-        "locative": "юбилейде",
-        "ablative": "юбилейден"
-      },
-      "pluralForms": {
-        "genitive": "юбилейлердин",
-        "dative": "юбилейлерге",
-        "accusative": "юбилейлерди",
-        "locative": "юбилейлерде",
-        "ablative": "юбилейлерден"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юбилей-001"
   },
   {
     "ru": "Южная Америка",
@@ -202,26 +88,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0",
-    "id": "ru-Южная Америка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Американын",
-        "dative": "Түштүк Америкага",
-        "accusative": "Түштүк Американы",
-        "locative": "Түштүк Америкада",
-        "ablative": "Түштүк Америкадан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Америкалардын",
-        "dative": "Түштүк Америкаларга",
-        "accusative": "Түштүк Америкаларды",
-        "locative": "Түштүк Америкаларда",
-        "ablative": "Түштүк Америкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Америка-001"
   },
   {
     "ru": "юрта",
@@ -232,26 +99,7 @@
     "etymology": "Literally \"grey house\", one of the colours of a traditional yurt.",
     "ruAccented": "ю'рта",
     "ruGender": "m",
-    "id": "ru-юрта-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "боз үйдүн",
-        "dative": "боз үйгө",
-        "accusative": "боз үйдү",
-        "locative": "боз үйдө",
-        "ablative": "боз үйдөн"
-      },
-      "pluralForms": {
-        "genitive": "боз үйлөрдүн",
-        "dative": "боз үйлөргө",
-        "accusative": "боз үйлөрдү",
-        "locative": "боз үйлөрдө",
-        "ablative": "боз үйлөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-юрта-001"
   },
   {
     "ru": "юмористический",
@@ -269,26 +117,7 @@
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D1%80%D0%B8%D1%81%D0%BF%D1%80%D1%83%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F",
     "ruAccented": "юриспруде'нция",
-    "id": "ru-юриспруденция-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "юриспруденциянын",
-        "dative": "юриспруденцияга",
-        "accusative": "юриспруденцияны",
-        "locative": "юриспруденцияда",
-        "ablative": "юриспруденциядан"
-      },
-      "pluralForms": {
-        "genitive": "юриспруденциялардын",
-        "dative": "юриспруденцияларга",
-        "accusative": "юриспруденцияларды",
-        "locative": "юриспруденцияларда",
-        "ablative": "юриспруденциялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юриспруденция-001"
   },
   {
     "ru": "юго-восток",
@@ -306,26 +135,7 @@
         "ru": "северные и юго-восточные микрорайоны."
       }
     ],
-    "id": "ru-юго-восток-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "түштүк-чыгыштын",
-        "dative": "түштүк-чыгышка",
-        "accusative": "түштүк-чыгышты",
-        "locative": "түштүк-чыгышта",
-        "ablative": "түштүк-чыгыштан"
-      },
-      "pluralForms": {
-        "genitive": "түштүк-чыгыштардын",
-        "dative": "түштүк-чыгыштарга",
-        "accusative": "түштүк-чыгыштарды",
-        "locative": "түштүк-чыгыштарда",
-        "ablative": "түштүк-чыгыштардан"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юго-восток-001"
   },
   {
     "ru": "юго-запад",
@@ -334,26 +144,7 @@
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%88%D1%82%D2%AF%D0%BA-%D0%B1%D0%B0%D1%82%D1%8B%D1%88%D0%BA%D0%B0",
     "ruAccented": "юго-за'пад",
-    "id": "ru-юго-запад-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "түштүк-батышканын",
-        "dative": "түштүк-батышкага",
-        "accusative": "түштүк-батышканы",
-        "locative": "түштүк-батышкада",
-        "ablative": "түштүк-батышкадан"
-      },
-      "pluralForms": {
-        "genitive": "түштүк-батышкалардын",
-        "dative": "түштүк-батышкаларга",
-        "accusative": "түштүк-батышкаларды",
-        "locative": "түштүк-батышкаларда",
-        "ablative": "түштүк-батышкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юго-запад-001"
   },
   {
     "ru": "южанин",
@@ -366,26 +157,7 @@
     ],
     "ruAccented": "южа'нин",
     "ruGender": "n",
-    "id": "ru-южанин-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "түштүктүнүн",
-        "dative": "түштүктүгө",
-        "accusative": "түштүктүнү",
-        "locative": "түштүктүдө",
-        "ablative": "түштүктүдөн"
-      },
-      "pluralForms": {
-        "genitive": "түштүктүлөрдүн",
-        "dative": "түштүктүлөргө",
-        "accusative": "түштүктүлөрдү",
-        "locative": "түштүктүлөрдө",
-        "ablative": "түштүктүлөрдөн"
-      },
-      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-южанин-001"
   },
   {
     "ru": "юрисконсульт",
@@ -393,26 +165,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D1%80%D0%B8%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D1%83%D0%BB'%D1%82",
-    "id": "ru-юрисконсульт-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "юрисконсул'ттун",
-        "dative": "юрисконсул'тко",
-        "accusative": "юрисконсул'тту",
-        "locative": "юрисконсул'тто",
-        "ablative": "юрисконсул'ттон"
-      },
-      "pluralForms": {
-        "genitive": "юрисконсул'ттордун",
-        "dative": "юрисконсул'тторго",
-        "accusative": "юрисконсул'тторду",
-        "locative": "юрисконсул'ттордо",
-        "ablative": "юрисконсул'ттордон"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юрисконсульт-001"
   },
   {
     "ru": "юридическое лицо",
@@ -420,26 +173,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA%20%D0%B6%D0%B0%D0%BA",
-    "id": "ru-юридическое лицо-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "юридикалык жактын",
-        "dative": "юридикалык жакка",
-        "accusative": "юридикалык жакты",
-        "locative": "юридикалык жакта",
-        "ablative": "юридикалык жактан"
-      },
-      "pluralForms": {
-        "genitive": "юридикалык жактардын",
-        "dative": "юридикалык жактарга",
-        "accusative": "юридикалык жактарды",
-        "locative": "юридикалык жактарда",
-        "ablative": "юридикалык жактардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юридическое лицо-001"
   },
   {
     "ru": "Южно-Сахалинск",
@@ -447,26 +181,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA-%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA",
-    "id": "ru-Южно-Сахалинск-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Түштүк-Сахалинсктин",
-        "dative": "Түштүк-Сахалинскке",
-        "accusative": "Түштүк-Сахалинскти",
-        "locative": "Түштүк-Сахалинскте",
-        "ablative": "Түштүк-Сахалинсктен"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк-Сахалинсктердин",
-        "dative": "Түштүк-Сахалинсктерге",
-        "accusative": "Түштүк-Сахалинсктерди",
-        "locative": "Түштүк-Сахалинсктерде",
-        "ablative": "Түштүк-Сахалинсктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Южно-Сахалинск-001"
   },
   {
     "ru": "Южно-Африканская Республика",
@@ -474,26 +189,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA%20%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
-    "id": "ru-Южно-Африканская Республика-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Африка Республикасынын",
-        "dative": "Түштүк Африка Республикасыга",
-        "accusative": "Түштүк Африка Республикасыны",
-        "locative": "Түштүк Африка Республикасыда",
-        "ablative": "Түштүк Африка Республикасыдан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Африка Республикасылардын",
-        "dative": "Түштүк Африка Республикасыларга",
-        "accusative": "Түштүк Африка Республикасыларды",
-        "locative": "Түштүк Африка Республикасыларда",
-        "ablative": "Түштүк Африка Республикасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южно-Африканская Республика-001"
   },
   {
     "ru": "Южная Корея",
@@ -501,26 +197,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F",
-    "id": "ru-Южная Корея-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Кореянын",
-        "dative": "Түштүк Кореяга",
-        "accusative": "Түштүк Кореяны",
-        "locative": "Түштүк Кореяда",
-        "ablative": "Түштүк Кореядан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Кореялардын",
-        "dative": "Түштүк Кореяларга",
-        "accusative": "Түштүк Кореяларды",
-        "locative": "Түштүк Кореяларда",
-        "ablative": "Түштүк Кореялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Корея-001"
   },
   {
     "ru": "Юкатан",
@@ -531,26 +208,7 @@
     "senses": [
       "полуостров"
     ],
-    "id": "ru-Юкатан-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Юкатан жарым аралынын",
-        "dative": "Юкатан жарым аралыга",
-        "accusative": "Юкатан жарым аралыны",
-        "locative": "Юкатан жарым аралыда",
-        "ablative": "Юкатан жарым аралыдан"
-      },
-      "pluralForms": {
-        "genitive": "Юкатан жарым аралылардын",
-        "dative": "Юкатан жарым аралыларга",
-        "accusative": "Юкатан жарым аралыларды",
-        "locative": "Юкатан жарым аралыларда",
-        "ablative": "Юкатан жарым аралылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Юкатан-001"
   },
   {
     "ru": "Юкатан",
@@ -561,26 +219,7 @@
     "senses": [
       "полуостров"
     ],
-    "id": "ru-Юкатан-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Юкатандын",
-        "dative": "Юкатанга",
-        "accusative": "Юкатанды",
-        "locative": "Юкатанда",
-        "ablative": "Юкатандан"
-      },
-      "pluralForms": {
-        "genitive": "Юкатандардын",
-        "dative": "Юкатандарга",
-        "accusative": "Юкатандарды",
-        "locative": "Юкатандарда",
-        "ablative": "Юкатандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Юкатан-002"
   },
   {
     "ru": "Южная Дакота",
@@ -588,26 +227,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA%20%D0%94%D0%B0%D0%BA%D0%BE%D1%82%D0%B0",
-    "id": "ru-Южная Дакота-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Дакотанын",
-        "dative": "Түштүк Дакотага",
-        "accusative": "Түштүк Дакотаны",
-        "locative": "Түштүк Дакотада",
-        "ablative": "Түштүк Дакотадан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Дакоталардын",
-        "dative": "Түштүк Дакоталарга",
-        "accusative": "Түштүк Дакоталарды",
-        "locative": "Түштүк Дакоталарда",
-        "ablative": "Түштүк Дакоталардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Дакота-001"
   },
   {
     "ru": "Южный полюс",
@@ -615,26 +235,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A2%D2%AF%D1%88%D1%82%D2%AF%D0%BA%20%D1%83%D1%8E%D0%BB",
-    "id": "ru-Южный полюс-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Түштүк уюлдун",
-        "dative": "Түштүк уюлго",
-        "accusative": "Түштүк уюлду",
-        "locative": "Түштүк уюлдо",
-        "ablative": "Түштүк уюлдон"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк уюлдордун",
-        "dative": "Түштүк уюлдорго",
-        "accusative": "Түштүк уюлдорду",
-        "locative": "Түштүк уюлдордо",
-        "ablative": "Түштүк уюлдордон"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Южный полюс-001"
   },
   {
     "ru": "юдофобия",
@@ -647,26 +248,7 @@
     ],
     "ruAccented": "юдофо'бия",
     "ruGender": "f",
-    "id": "ru-юдофобия-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "антисемитизмдин",
-        "dative": "антисемитизмге",
-        "accusative": "антисемитизмди",
-        "locative": "антисемитизмде",
-        "ablative": "антисемитизмден"
-      },
-      "pluralForms": {
-        "genitive": "антисемитизмдердин",
-        "dative": "антисемитизмдерге",
-        "accusative": "антисемитизмдерди",
-        "locative": "антисемитизмдерде",
-        "ablative": "антисемитизмдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юдофобия-001"
   },
   {
     "ru": "Южная Африка",
@@ -677,26 +259,7 @@
     "senses": [
       "country"
     ],
-    "id": "ru-Южная Африка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Африканын",
-        "dative": "Түштүк Африкага",
-        "accusative": "Түштүк Африканы",
-        "locative": "Түштүк Африкада",
-        "ablative": "Түштүк Африкадан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Африкалардын",
-        "dative": "Түштүк Африкаларга",
-        "accusative": "Түштүк Африкаларды",
-        "locative": "Түштүк Африкаларда",
-        "ablative": "Түштүк Африкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Африка-001"
   },
   {
     "ru": "юшка",
@@ -721,26 +284,7 @@
     "ruAccented": "ю'шка",
     "ruGender": "f",
     "frequency": 6011,
-    "id": "ru-юшка-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кандын",
-        "dative": "канга",
-        "accusative": "канды",
-        "locative": "канда",
-        "ablative": "кандан"
-      },
-      "pluralForms": {
-        "genitive": "кандардын",
-        "dative": "кандарга",
-        "accusative": "кандарды",
-        "locative": "кандарда",
-        "ablative": "кандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юшка-001"
   },
   {
     "ru": "юный",
@@ -776,26 +320,7 @@
     "senses": [
       "result of adjusting, small change"
     ],
-    "id": "ru-юстировка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "жөнгө салуунун",
-        "dative": "жөнгө салууго",
-        "accusative": "жөнгө салууну",
-        "locative": "жөнгө салуудо",
-        "ablative": "жөнгө салуудон"
-      },
-      "pluralForms": {
-        "genitive": "жөнгө салуулордун",
-        "dative": "жөнгө салуулорго",
-        "accusative": "жөнгө салуулорду",
-        "locative": "жөнгө салуулордо",
-        "ablative": "жөнгө салуулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юстировка-001"
   },
   {
     "ru": "юстировка",
@@ -806,26 +331,7 @@
     "senses": [
       "result of adjusting, small change"
     ],
-    "id": "ru-юстировка-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "ыңгайлаштыруунун",
-        "dative": "ыңгайлаштырууго",
-        "accusative": "ыңгайлаштырууну",
-        "locative": "ыңгайлаштыруудо",
-        "ablative": "ыңгайлаштыруудон"
-      },
-      "pluralForms": {
-        "genitive": "ыңгайлаштыруулордун",
-        "dative": "ыңгайлаштыруулорго",
-        "accusative": "ыңгайлаштыруулорду",
-        "locative": "ыңгайлаштыруулордо",
-        "ablative": "ыңгайлаштыруулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юстировка-002"
   },
   {
     "ru": "юстировка",
@@ -836,26 +342,7 @@
     "senses": [
       "result of adjusting, small change"
     ],
-    "id": "ru-юстировка-003",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "ылайыктоонун",
-        "dative": "ылайыктоого",
-        "accusative": "ылайыктоону",
-        "locative": "ылайыктоодо",
-        "ablative": "ылайыктоодон"
-      },
-      "pluralForms": {
-        "genitive": "ылайыктоолордун",
-        "dative": "ылайыктоолорго",
-        "accusative": "ылайыктоолорду",
-        "locative": "ылайыктоолордо",
-        "ablative": "ылайыктоолордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юстировка-003"
   },
   {
     "ru": "юбка",
@@ -878,26 +365,7 @@
     ],
     "ruAccented": "ю'бка",
     "ruGender": "f",
-    "id": "ru-юбка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "юбканын",
-        "dative": "юбкага",
-        "accusative": "юбканы",
-        "locative": "юбкада",
-        "ablative": "юбкадан"
-      },
-      "pluralForms": {
-        "genitive": "юбкалардын",
-        "dative": "юбкаларга",
-        "accusative": "юбкаларды",
-        "locative": "юбкаларда",
-        "ablative": "юбкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юбка-001"
   },
   {
     "ru": "Южно-Китайское море",
@@ -908,26 +376,7 @@
     "senses": [
       "Pacific Ocean, between the Asian mainland and Taiwan, Borneo and the Philippines"
     ],
-    "id": "ru-Южно-Китайское море-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Түштүк Кытай деңизинин",
-        "dative": "Түштүк Кытай деңизиге",
-        "accusative": "Түштүк Кытай деңизини",
-        "locative": "Түштүк Кытай деңизиде",
-        "ablative": "Түштүк Кытай деңизиден"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Кытай деңизилердин",
-        "dative": "Түштүк Кытай деңизилерге",
-        "accusative": "Түштүк Кытай деңизилерди",
-        "locative": "Түштүк Кытай деңизилерде",
-        "ablative": "Түштүк Кытай деңизилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Южно-Китайское море-001"
   },
   {
     "ru": "южный",
@@ -950,26 +399,7 @@
     "senses": [
       "person who uses a computer"
     ],
-    "id": "ru-юзер-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "пайдаланушынын",
-        "dative": "пайдаланушыга",
-        "accusative": "пайдаланушыны",
-        "locative": "пайдаланушыда",
-        "ablative": "пайдаланушыдан"
-      },
-      "pluralForms": {
-        "genitive": "пайдаланушылардын",
-        "dative": "пайдаланушыларга",
-        "accusative": "пайдаланушыларды",
-        "locative": "пайдаланушыларда",
-        "ablative": "пайдаланушылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юзер-001"
   },
   {
     "ru": "юмор",
@@ -982,26 +412,7 @@
     ],
     "ruAccented": "ю'мор",
     "ruGender": "m",
-    "id": "ru-юмор-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "юмордун",
-        "dative": "юморго",
-        "accusative": "юморду",
-        "locative": "юмордо",
-        "ablative": "юмордон"
-      },
-      "pluralForms": {
-        "genitive": "юморлордун",
-        "dative": "юморлорго",
-        "accusative": "юморлорду",
-        "locative": "юморлордо",
-        "ablative": "юморлордон"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юмор-001"
   },
   {
     "ru": "юмор",
@@ -1015,26 +426,7 @@
     "ruAccented": "ю'мор",
     "ruGender": "m",
     "frequency": 10,
-    "id": "ru-юмор-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "азилдин",
-        "dative": "азилге",
-        "accusative": "азилди",
-        "locative": "азилде",
-        "ablative": "азилден"
-      },
-      "pluralForms": {
-        "genitive": "азилдердин",
-        "dative": "азилдерге",
-        "accusative": "азилдерди",
-        "locative": "азилдерде",
-        "ablative": "азилдерден"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юмор-002"
   },
   {
     "ru": "юрист",
@@ -1058,26 +450,7 @@
     "ruAccented": "юри'ст",
     "ruGender": "m",
     "frequency": 17,
-    "id": "ru-юрист-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "юристтин",
-        "dative": "юристке",
-        "accusative": "юристти",
-        "locative": "юристте",
-        "ablative": "юристтен"
-      },
-      "pluralForms": {
-        "genitive": "юристтердин",
-        "dative": "юристтерге",
-        "accusative": "юристтерди",
-        "locative": "юристтерде",
-        "ablative": "юристтерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юрист-001"
   },
   {
     "ru": "юрист",
@@ -1101,26 +474,7 @@
     "ruAccented": "юри'ст",
     "ruGender": "m",
     "frequency": 336,
-    "id": "ru-юрист-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "адвокаттын",
-        "dative": "адвокатка",
-        "accusative": "адвокатты",
-        "locative": "адвокатта",
-        "ablative": "адвокаттан"
-      },
-      "pluralForms": {
-        "genitive": "адвокаттардын",
-        "dative": "адвокаттарга",
-        "accusative": "адвокаттарды",
-        "locative": "адвокаттарда",
-        "ablative": "адвокаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юрист-002"
   },
   {
     "ru": "юристка",
@@ -1142,26 +496,7 @@
       }
     ],
     "frequency": 17,
-    "id": "ru-юристка-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "юристтин",
-        "dative": "юристке",
-        "accusative": "юристти",
-        "locative": "юристте",
-        "ablative": "юристтен"
-      },
-      "pluralForms": {
-        "genitive": "юристтердин",
-        "dative": "юристтерге",
-        "accusative": "юристтерди",
-        "locative": "юристтерде",
-        "ablative": "юристтерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юристка-001"
   },
   {
     "ru": "юристка",
@@ -1183,26 +518,7 @@
       }
     ],
     "frequency": 336,
-    "id": "ru-юристка-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "адвокаттын",
-        "dative": "адвокатка",
-        "accusative": "адвокатты",
-        "locative": "адвокатта",
-        "ablative": "адвокаттан"
-      },
-      "pluralForms": {
-        "genitive": "адвокаттардын",
-        "dative": "адвокаттарга",
-        "accusative": "адвокаттарды",
-        "locative": "адвокаттарда",
-        "ablative": "адвокаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юристка-002"
   },
   {
     "ru": "юшка",
@@ -1216,26 +532,7 @@
     "ruAccented": "ю'шка",
     "ruGender": "f",
     "frequency": 29,
-    "id": "ru-юшка-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "сорпонун",
-        "dative": "сорпого",
-        "accusative": "сорпону",
-        "locative": "сорподо",
-        "ablative": "сорподон"
-      },
-      "pluralForms": {
-        "genitive": "сорполордун",
-        "dative": "сорполорго",
-        "accusative": "сорполорду",
-        "locative": "сорполордо",
-        "ablative": "сорполордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юшка-002"
   },
   {
     "ru": "юшка",
@@ -1248,26 +545,7 @@
     ],
     "ruAccented": "ю'шка",
     "ruGender": "f",
-    "id": "ru-юшка-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "суптун",
-        "dative": "супко",
-        "accusative": "супту",
-        "locative": "супто",
-        "ablative": "суптон"
-      },
-      "pluralForms": {
-        "genitive": "суптордун",
-        "dative": "супторго",
-        "accusative": "супторду",
-        "locative": "суптордо",
-        "ablative": "суптордон"
-      },
-      "rule": "Основа на глухую согласную -п, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юшка-003"
   },
   {
     "ru": "Юсуп",
@@ -1285,26 +563,7 @@
       }
     ],
     "frequency": 22,
-    "id": "ru-Юсуп-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Жусуптун",
-        "dative": "Жусупко",
-        "accusative": "Жусупту",
-        "locative": "Жусупто",
-        "ablative": "Жусуптон"
-      },
-      "pluralForms": {
-        "genitive": "Жусуптордун",
-        "dative": "Жусупторго",
-        "accusative": "Жусупторду",
-        "locative": "Жусуптордо",
-        "ablative": "Жусуптордон"
-      },
-      "rule": "Основа на глухую согласную -п, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Юсуп-001"
   },
   {
     "ru": "Юсуп",
@@ -1315,26 +574,7 @@
     "senses": [
       "male given name"
     ],
-    "id": "ru-Юсуп-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Юсуптун",
-        "dative": "Юсупко",
-        "accusative": "Юсупту",
-        "locative": "Юсупто",
-        "ablative": "Юсуптон"
-      },
-      "pluralForms": {
-        "genitive": "Юсуптордун",
-        "dative": "Юсупторго",
-        "accusative": "Юсупторду",
-        "locative": "Юсуптордо",
-        "ablative": "Юсуптордон"
-      },
-      "rule": "Основа на глухую согласную -п, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Юсуп-002"
   },
   {
     "ru": "Юсуп",
@@ -1345,26 +585,7 @@
     "senses": [
       "male given name"
     ],
-    "id": "ru-Юсуп-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Иосифтин",
-        "dative": "Иосифке",
-        "accusative": "Иосифти",
-        "locative": "Иосифте",
-        "ablative": "Иосифтен"
-      },
-      "pluralForms": {
-        "genitive": "Иосифтердин",
-        "dative": "Иосифтерге",
-        "accusative": "Иосифтерди",
-        "locative": "Иосифтерде",
-        "ablative": "Иосифтерден"
-      },
-      "rule": "Основа на глухую согласную -ф, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Юсуп-003"
   },
   {
     "ru": "юбилей",
@@ -1390,26 +611,7 @@
     "ruAccented": "юбиле'й",
     "ruGender": "m",
     "frequency": 315,
-    "id": "ru-юбилей-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жылдыктын",
-        "dative": "жылдыкка",
-        "accusative": "жылдыкты",
-        "locative": "жылдыкта",
-        "ablative": "жылдыктан"
-      },
-      "pluralForms": {
-        "genitive": "жылдыктардын",
-        "dative": "жылдыктарга",
-        "accusative": "жылдыктарды",
-        "locative": "жылдыктарда",
-        "ablative": "жылдыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юбилей-002"
   },
   {
     "ru": "юстиция",
@@ -1433,26 +635,7 @@
     "ruAccented": "юсти'ция",
     "ruGender": "f",
     "frequency": 142,
-    "id": "ru-юстиция-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "юстициянын",
-        "dative": "юстицияга",
-        "accusative": "юстицияны",
-        "locative": "юстицияда",
-        "ablative": "юстициядан"
-      },
-      "pluralForms": {
-        "genitive": "юстициялардын",
-        "dative": "юстицияларга",
-        "accusative": "юстицияларды",
-        "locative": "юстицияларда",
-        "ablative": "юстициялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юстиция-001"
   },
   {
     "ru": "юстиция",
@@ -1466,26 +649,7 @@
     "ruAccented": "юсти'ция",
     "ruGender": "f",
     "frequency": 207,
-    "id": "ru-юстиция-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "адилеттиктин",
-        "dative": "адилеттикке",
-        "accusative": "адилеттикти",
-        "locative": "адилеттикте",
-        "ablative": "адилеттиктен"
-      },
-      "pluralForms": {
-        "genitive": "адилеттиктердин",
-        "dative": "адилеттиктерге",
-        "accusative": "адилеттиктерди",
-        "locative": "адилеттиктерде",
-        "ablative": "адилеттиктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юстиция-002"
   },
   {
     "ru": "юрта",
@@ -1498,26 +662,7 @@
     ],
     "ruAccented": "ю'рта",
     "ruGender": "m",
-    "id": "ru-юрта-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "өргөөнүн",
-        "dative": "өргөөгө",
-        "accusative": "өргөөнү",
-        "locative": "өргөөдө",
-        "ablative": "өргөөдөн"
-      },
-      "pluralForms": {
-        "genitive": "өргөөлөрдүн",
-        "dative": "өргөөлөргө",
-        "accusative": "өргөөлөрдү",
-        "locative": "өргөөлөрдө",
-        "ablative": "өргөөлөрдөн"
-      },
-      "rule": "Основа на гласную -ө, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-юрта-002"
   },
   {
     "ru": "юность",
@@ -1530,26 +675,7 @@
     ],
     "ruAccented": "ю'ность",
     "ruGender": "f",
-    "id": "ru-юность-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жаштыктын",
-        "dative": "жаштыкка",
-        "accusative": "жаштыкты",
-        "locative": "жаштыкта",
-        "ablative": "жаштыктан"
-      },
-      "pluralForms": {
-        "genitive": "жаштыктардын",
-        "dative": "жаштыктарга",
-        "accusative": "жаштыктарды",
-        "locative": "жаштыктарда",
-        "ablative": "жаштыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юность-001"
   },
   {
     "ru": "юность",
@@ -1562,26 +688,7 @@
     ],
     "ruAccented": "ю'ность",
     "ruGender": "f",
-    "id": "ru-юность-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жашчылыктын",
-        "dative": "жашчылыкка",
-        "accusative": "жашчылыкты",
-        "locative": "жашчылыкта",
-        "ablative": "жашчылыктан"
-      },
-      "pluralForms": {
-        "genitive": "жашчылыктардын",
-        "dative": "жашчылыктарга",
-        "accusative": "жашчылыктарды",
-        "locative": "жашчылыктарда",
-        "ablative": "жашчылыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-юность-002"
   },
   {
     "ru": "юноша",
@@ -1605,26 +712,7 @@
     "ruAccented": "ю'ноша",
     "ruGender": "m",
     "frequency": 1159,
-    "id": "ru-юноша-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жигиттин",
-        "dative": "жигитке",
-        "accusative": "жигитти",
-        "locative": "жигитте",
-        "ablative": "жигиттен"
-      },
-      "pluralForms": {
-        "genitive": "жигиттердин",
-        "dative": "жигиттерге",
-        "accusative": "жигиттерди",
-        "locative": "жигиттерде",
-        "ablative": "жигиттерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-юноша-001"
   },
   {
     "ru": "юбочник",
@@ -1637,26 +725,7 @@
     ],
     "ruAccented": "ю'бочник",
     "ruGender": "m",
-    "id": "ru-юбочник-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "катынпоздун",
-        "dative": "катынпозго",
-        "accusative": "катынпозду",
-        "locative": "катынпоздо",
-        "ablative": "катынпоздон"
-      },
-      "pluralForms": {
-        "genitive": "катынпоздордун",
-        "dative": "катынпоздорго",
-        "accusative": "катынпоздорду",
-        "locative": "катынпоздордо",
-        "ablative": "катынпоздордон"
-      },
-      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юбочник-001"
   },
   {
     "ru": "юриспруденция",
@@ -1668,26 +737,7 @@
       "the theoretical study of law"
     ],
     "ruAccented": "юриспруде'нция",
-    "id": "ru-юриспруденция-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "укук таануунун",
-        "dative": "укук таанууго",
-        "accusative": "укук таанууну",
-        "locative": "укук таануудо",
-        "ablative": "укук таануудон"
-      },
-      "pluralForms": {
-        "genitive": "укук таануулордун",
-        "dative": "укук таануулорго",
-        "accusative": "укук таануулорду",
-        "locative": "укук таануулордо",
-        "ablative": "укук таануулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-юриспруденция-002"
   },
   {
     "ru": "Южная Каролина",
@@ -1698,26 +748,7 @@
     "senses": [
       "US state"
     ],
-    "id": "ru-Южная Каролина-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Каролинанын",
-        "dative": "Түштүк Каролинага",
-        "accusative": "Түштүк Каролинаны",
-        "locative": "Түштүк Каролинада",
-        "ablative": "Түштүк Каролинадан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Каролиналардын",
-        "dative": "Түштүк Каролиналарга",
-        "accusative": "Түштүк Каролиналарды",
-        "locative": "Түштүк Каролиналарда",
-        "ablative": "Түштүк Каролиналардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Каролина-001"
   },
   {
     "ru": "ювелирша",
@@ -1730,26 +761,7 @@
     ],
     "etymology": "Borrowed from Classical Persian زَرْگَر (zargar, “goldsmith”).",
     "pronunciation": "[zʲerˈɡʲer]",
-    "id": "ru-ювелирша-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "зергердин",
-        "dative": "зергерге",
-        "accusative": "зергерди",
-        "locative": "зергерде",
-        "ablative": "зергерден"
-      },
-      "pluralForms": {
-        "genitive": "зергерлердин",
-        "dative": "зергерлерге",
-        "accusative": "зергерлерди",
-        "locative": "зергерлерде",
-        "ablative": "зергерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ювелирша-001"
   },
   {
     "ru": "Южная Азия",
@@ -1760,26 +772,7 @@
     "senses": [
       "all the countries of the Indian subcontinent (principally India, Pakistan, Bangladesh, Nepal, and Bhutan) and the Indian Ocean (principally Sri Lanka, Maldives)"
     ],
-    "id": "ru-Южная Азия-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Азиянын",
-        "dative": "Түштүк Азияга",
-        "accusative": "Түштүк Азияны",
-        "locative": "Түштүк Азияда",
-        "ablative": "Түштүк Азиядан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Азиялардын",
-        "dative": "Түштүк Азияларга",
-        "accusative": "Түштүк Азияларды",
-        "locative": "Түштүк Азияларда",
-        "ablative": "Түштүк Азиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Азия-001"
   },
   {
     "ru": "Южная Осетия",
@@ -1790,26 +783,7 @@
     "senses": [
       "South Ossetia"
     ],
-    "id": "ru-Южная Осетия-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Осетиянын",
-        "dative": "Түштүк Осетияга",
-        "accusative": "Түштүк Осетияны",
-        "locative": "Түштүк Осетияда",
-        "ablative": "Түштүк Осетиядан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Осетиялардын",
-        "dative": "Түштүк Осетияларга",
-        "accusative": "Түштүк Осетияларды",
-        "locative": "Түштүк Осетияларда",
-        "ablative": "Түштүк Осетиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южная Осетия-001"
   },
   {
     "ru": "Южный Судан",
@@ -1820,26 +794,7 @@
     "senses": [
       "country in Africa"
     ],
-    "id": "ru-Южный Судан-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк Судандын",
-        "dative": "Түштүк Суданга",
-        "accusative": "Түштүк Суданды",
-        "locative": "Түштүк Суданда",
-        "ablative": "Түштүк Судандан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Судандардын",
-        "dative": "Түштүк Судандарга",
-        "accusative": "Түштүк Судандарды",
-        "locative": "Түштүк Судандарда",
-        "ablative": "Түштүк Судандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южный Судан-001"
   },
   {
     "ru": "Южно-Африканская Республика",
@@ -1850,26 +805,7 @@
     "senses": [
       "official name of South Africa"
     ],
-    "id": "ru-Южно-Африканская Республика-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк-Африка Республикасынын",
-        "dative": "Түштүк-Африка Республикасыга",
-        "accusative": "Түштүк-Африка Республикасыны",
-        "locative": "Түштүк-Африка Республикасыда",
-        "ablative": "Түштүк-Африка Республикасыдан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк-Африка Республикасылардын",
-        "dative": "Түштүк-Африка Республикасыларга",
-        "accusative": "Түштүк-Африка Республикасыларды",
-        "locative": "Түштүк-Африка Республикасыларда",
-        "ablative": "Түштүк-Африка Республикасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Южно-Африканская Республика-002"
   },
   {
     "ru": "ЮАР",
@@ -1880,26 +816,7 @@
     "senses": [
       "official name of South Africa"
     ],
-    "id": "ru-ЮАР-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Түштүк-Африка Республикасынын",
-        "dative": "Түштүк-Африка Республикасыга",
-        "accusative": "Түштүк-Африка Республикасыны",
-        "locative": "Түштүк-Африка Республикасыда",
-        "ablative": "Түштүк-Африка Республикасыдан"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк-Африка Республикасылардын",
-        "dative": "Түштүк-Африка Республикасыларга",
-        "accusative": "Түштүк-Африка Республикасыларды",
-        "locative": "Түштүк-Африка Республикасыларда",
-        "ablative": "Түштүк-Африка Республикасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ЮАР-001"
   },
   {
     "ru": "Южный Буг",
@@ -1910,25 +827,6 @@
     "senses": [
       "Translations"
     ],
-    "id": "ru-Южный Буг-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Түштүк Бугдун",
-        "dative": "Түштүк Бугго",
-        "accusative": "Түштүк Бугду",
-        "locative": "Түштүк Бугдо",
-        "ablative": "Түштүк Бугдон"
-      },
-      "pluralForms": {
-        "genitive": "Түштүк Бугдордун",
-        "dative": "Түштүк Бугдорго",
-        "accusative": "Түштүк Бугдорду",
-        "locative": "Түштүк Бугдордо",
-        "ablative": "Түштүк Бугдордон"
-      },
-      "rule": "Основа на звонкую согласную -г, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Южный Буг-001"
   }
 ]

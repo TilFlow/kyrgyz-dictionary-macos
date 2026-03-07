@@ -8,26 +8,7 @@
     "senses": [
       "insertion of needles for remedial purposes"
     ],
-    "id": "ru-ѝглорефлѐксотерапия-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "акупунктуранын",
-        "dative": "акупунктурага",
-        "accusative": "акупунктураны",
-        "locative": "акупунктурада",
-        "ablative": "акупунктурадан"
-      },
-      "pluralForms": {
-        "genitive": "акупунктуралардын",
-        "dative": "акупунктураларга",
-        "accusative": "акупунктураларды",
-        "locative": "акупунктураларда",
-        "ablative": "акупунктуралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ѝглорефлѐксотерапия-001"
   },
   {
     "ru": "ѝглотерапия",
@@ -38,25 +19,6 @@
     "senses": [
       "insertion of needles for remedial purposes"
     ],
-    "id": "ru-ѝглотерапия-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "акупунктуранын",
-        "dative": "акупунктурага",
-        "accusative": "акупунктураны",
-        "locative": "акупунктурада",
-        "ablative": "акупунктурадан"
-      },
-      "pluralForms": {
-        "genitive": "акупунктуралардын",
-        "dative": "акупунктураларга",
-        "accusative": "акупунктураларды",
-        "locative": "акупунктураларда",
-        "ablative": "акупунктуралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ѝглотерапия-001"
   }
 ]

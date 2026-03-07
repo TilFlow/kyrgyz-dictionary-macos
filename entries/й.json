@@ -10,26 +10,7 @@
     ],
     "ruAccented": "йод",
     "ruGender": "m",
-    "id": "ru-йод-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "йоддун",
-        "dative": "йодго",
-        "accusative": "йодду",
-        "locative": "йоддо",
-        "ablative": "йоддон"
-      },
-      "pluralForms": {
-        "genitive": "йоддордун",
-        "dative": "йоддорго",
-        "accusative": "йоддорду",
-        "locative": "йоддордо",
-        "ablative": "йоддордон"
-      },
-      "rule": "Основа на звонкую согласную -д, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-йод-001"
   },
   {
     "ru": "йогурт",
@@ -40,26 +21,7 @@
     "etymology": "Deverbal of жууруу (to knead).",
     "ruAccented": "йо'гурт",
     "ruGender": "m",
-    "id": "ru-йогурт-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жуураттын",
-        "dative": "жууратка",
-        "accusative": "жууратты",
-        "locative": "жууратта",
-        "ablative": "жуураттан"
-      },
-      "pluralForms": {
-        "genitive": "жуураттардын",
-        "dative": "жуураттарга",
-        "accusative": "жуураттарды",
-        "locative": "жуураттарда",
-        "ablative": "жуураттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-йогурт-001"
   },
   {
     "ru": "Йошкар-Ола",
@@ -67,26 +29,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%99%D0%BE%D1%88%D0%BA%D0%B0%D1%80-%D0%9E%D0%BB%D0%B0",
-    "id": "ru-Йошкар-Ола-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Йошкар-Оланын",
-        "dative": "Йошкар-Олага",
-        "accusative": "Йошкар-Оланы",
-        "locative": "Йошкар-Олада",
-        "ablative": "Йошкар-Оладан"
-      },
-      "pluralForms": {
-        "genitive": "Йошкар-Олалардын",
-        "dative": "Йошкар-Олаларга",
-        "accusative": "Йошкар-Олаларды",
-        "locative": "Йошкар-Олаларда",
-        "ablative": "Йошкар-Олалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Йошкар-Ола-001"
   },
   {
     "ru": "Йемен",
@@ -97,26 +40,7 @@
     "senses": [
       "Republic of Yemen"
     ],
-    "id": "ru-Йемен-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Йемендин",
-        "dative": "Йеменге",
-        "accusative": "Йеменди",
-        "locative": "Йеменде",
-        "ablative": "Йеменден"
-      },
-      "pluralForms": {
-        "genitive": "Йемендердин",
-        "dative": "Йемендерге",
-        "accusative": "Йемендерди",
-        "locative": "Йемендерде",
-        "ablative": "Йемендерден"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Йемен-001"
   },
   {
     "ru": "йогурт",
@@ -129,26 +53,7 @@
     ],
     "ruAccented": "йо'гурт",
     "ruGender": "m",
-    "id": "ru-йогурт-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "йогурттун",
-        "dative": "йогуртко",
-        "accusative": "йогуртту",
-        "locative": "йогуртто",
-        "ablative": "йогурттон"
-      },
-      "pluralForms": {
-        "genitive": "йогурттордун",
-        "dative": "йогуртторго",
-        "accusative": "йогуртторду",
-        "locative": "йогурттордо",
-        "ablative": "йогурттордон"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-йогурт-002"
   },
   {
     "ru": "йогурт",
@@ -162,26 +67,7 @@
     "ruAccented": "йо'гурт",
     "ruGender": "m",
     "frequency": 11,
-    "id": "ru-йогурт-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "катыктын",
-        "dative": "катыкка",
-        "accusative": "катыкты",
-        "locative": "катыкта",
-        "ablative": "катыктан"
-      },
-      "pluralForms": {
-        "genitive": "катыктардын",
-        "dative": "катыктарга",
-        "accusative": "катыктарды",
-        "locative": "катыктарда",
-        "ablative": "катыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-йогурт-003"
   },
   {
     "ru": "йога",
@@ -194,26 +80,7 @@
     ],
     "ruAccented": "йо'га",
     "ruGender": "f",
-    "id": "ru-йога-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "йоганын",
-        "dative": "йогага",
-        "accusative": "йоганы",
-        "locative": "йогада",
-        "ablative": "йогадан"
-      },
-      "pluralForms": {
-        "genitive": "йогалардын",
-        "dative": "йогаларга",
-        "accusative": "йогаларды",
-        "locative": "йогаларда",
-        "ablative": "йогалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-йога-001"
   },
   {
     "ru": "Йорк",
@@ -224,25 +91,6 @@
     "senses": [
       "city in North Yorkshire"
     ],
-    "id": "ru-Йорк-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Йорктун",
-        "dative": "Йоркко",
-        "accusative": "Йоркту",
-        "locative": "Йоркто",
-        "ablative": "Йорктон"
-      },
-      "pluralForms": {
-        "genitive": "Йорктордун",
-        "dative": "Йоркторго",
-        "accusative": "Йоркторду",
-        "locative": "Йорктордо",
-        "ablative": "Йорктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Йорк-001"
   }
 ]

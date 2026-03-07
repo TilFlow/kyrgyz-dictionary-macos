@@ -9,7 +9,7 @@
   <key>CFBundleShortVersionString</key>
   <string>0.0.8</string>
   <key>CFBundleIdentifier</key>
-  <string>org.ky-concept.en-ky-dictionary</string>
+  <string>org.tilflow.en-ky-dictionary</string>
   <key>CFBundleDisplayName</key>
   <string>Англисче-кыргызча сөздүк</string>
   <key>CFBundleName</key>

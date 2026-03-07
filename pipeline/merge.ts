@@ -28,6 +28,8 @@ export interface InputPair {
   ky: string;
   sense: string;
   pos: string | null;
+  ruTags?: string[];
+  kyTags?: string[];
 }
 
 export interface KyEnrichmentEntry {
@@ -159,8 +161,14 @@ export function mergeEntries(
     });
   }
 
+  // Tags that indicate the Russian headword is not modern standard usage
+  const ARCHAIC_TAGS = new Set(["archaic", "obsolete", "dated", "poetic"]);
+
   // 2. Add en-wiktionary pairs not already present
   for (const pair of enPairs) {
+    // Skip pairs where the Russian word is archaic/obsolete/dated/poetic
+    if (pair.ruTags?.some((t) => ARCHAIC_TAGS.has(t))) continue;
+
     const ru = normalizeRussianWord(pair.ru);
     const ky = pair.ky.normalize("NFC");
     const key = `${ru}|${ky}`;

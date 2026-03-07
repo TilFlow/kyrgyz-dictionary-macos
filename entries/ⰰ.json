@@ -16,25 +16,6 @@
       }
     ],
     "frequency": 5517,
-    "id": "ru-ⰰⰸⱏ-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "мендин",
-        "dative": "менге",
-        "accusative": "менди",
-        "locative": "менде",
-        "ablative": "менден"
-      },
-      "pluralForms": {
-        "genitive": "мендердин",
-        "dative": "мендерге",
-        "accusative": "мендерди",
-        "locative": "мендерде",
-        "ablative": "мендерден"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ⰰⰸⱏ-001"
   }
 ]

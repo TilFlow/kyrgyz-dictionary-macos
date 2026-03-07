@@ -25,6 +25,8 @@ interface OutputPair {
   ky: string;
   sense: string;
   pos: string | null;
+  ruTags?: string[];
+  kyTags?: string[];
 }
 
 async function main() {
@@ -68,12 +70,15 @@ async function main() {
 
       if (!seen.has(key)) {
         seen.add(key);
-        pairs.push({
+        const out: OutputPair = {
           ru: normRu,
           ky: normKy,
           sense: pair.sense,
           pos: pair.pos,
-        });
+        };
+        if (pair.ruTags) out.ruTags = pair.ruTags;
+        if (pair.kyTags) out.kyTags = pair.kyTags;
+        pairs.push(out);
       }
     }
   }

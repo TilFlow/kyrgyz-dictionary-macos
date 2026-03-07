@@ -17,7 +17,7 @@ echo "Updating version to $VERSION"
 if grep -q '"version"' "$ROOT/package.json"; then
   sed -i "s/\"version\": \"[^\"]*\"/\"version\": \"$VERSION\"/" "$ROOT/package.json"
 else
-  sed -i "s/\"name\": \"ky-concept\"/\"name\": \"ky-concept\",\n  \"version\": \"$VERSION\"/" "$ROOT/package.json"
+  sed -i "s/\"name\": \"kyrgyz-dictionary-macos\"/\"name\": \"kyrgyz-dictionary-macos\",\n  \"version\": \"$VERSION\"/" "$ROOT/package.json"
 fi
 echo "  package.json → $VERSION"
 

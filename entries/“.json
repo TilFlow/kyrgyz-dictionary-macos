@@ -8,26 +8,7 @@
     "senses": [
       "Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural."
     ],
-    "id": "ru-“-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "тырмакчанын",
-        "dative": "тырмакчага",
-        "accusative": "тырмакчаны",
-        "locative": "тырмакчада",
-        "ablative": "тырмакчадан"
-      },
-      "pluralForms": {
-        "genitive": "тырмакчалардын",
-        "dative": "тырмакчаларга",
-        "accusative": "тырмакчаларды",
-        "locative": "тырмакчаларда",
-        "ablative": "тырмакчалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-“-001"
   },
   {
     "ru": "“",
@@ -38,26 +19,7 @@
     "senses": [
       "Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural."
     ],
-    "id": "ru-“-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кавычканын",
-        "dative": "кавычкага",
-        "accusative": "кавычканы",
-        "locative": "кавычкада",
-        "ablative": "кавычкадан"
-      },
-      "pluralForms": {
-        "genitive": "кавычкалардын",
-        "dative": "кавычкаларга",
-        "accusative": "кавычкаларды",
-        "locative": "кавычкаларда",
-        "ablative": "кавычкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-“-002"
   },
   {
     "ru": "“",
@@ -68,25 +30,6 @@
     "senses": [
       "Note: These languages use “◌”-style marks or other styles as indicated. Some are singular and some plural."
     ],
-    "id": "ru-“-003",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кавычкалардын",
-        "dative": "кавычкаларга",
-        "accusative": "кавычкаларды",
-        "locative": "кавычкаларда",
-        "ablative": "кавычкалардан"
-      },
-      "pluralForms": {
-        "genitive": "кавычкаларлардын",
-        "dative": "кавычкаларларга",
-        "accusative": "кавычкаларларды",
-        "locative": "кавычкаларларда",
-        "ablative": "кавычкаларлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-“-003"
   }
 ]

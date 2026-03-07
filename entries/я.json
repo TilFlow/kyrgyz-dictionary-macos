@@ -19,26 +19,7 @@
       }
     ],
     "frequency": 5517,
-    "id": "ru-я-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "мендин",
-        "dative": "менге",
-        "accusative": "менди",
-        "locative": "менде",
-        "ablative": "менден"
-      },
-      "pluralForms": {
-        "genitive": "мендердин",
-        "dative": "мендерге",
-        "accusative": "мендерди",
-        "locative": "мендерде",
-        "ablative": "мендерден"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-я-001"
   },
   {
     "ru": "яйцо",
@@ -55,26 +36,7 @@
     "ruAccented": "яйцо'",
     "ruGender": "n",
     "frequency": 63,
-    "id": "ru-яйцо-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жумуртканын",
-        "dative": "жумурткага",
-        "accusative": "жумуртканы",
-        "locative": "жумурткада",
-        "ablative": "жумурткадан"
-      },
-      "pluralForms": {
-        "genitive": "жумурткалардын",
-        "dative": "жумурткаларга",
-        "accusative": "жумурткаларды",
-        "locative": "жумурткаларда",
-        "ablative": "жумурткалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яйцо-001"
   },
   {
     "ru": "язык",
@@ -100,26 +62,7 @@
     "ruAccented": "язы'к",
     "ruGender": "m",
     "frequency": 1849,
-    "id": "ru-язык-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тилдин",
-        "dative": "тилге",
-        "accusative": "тилди",
-        "locative": "тилде",
-        "ablative": "тилден"
-      },
-      "pluralForms": {
-        "genitive": "тилдердин",
-        "dative": "тилдерге",
-        "accusative": "тилдерди",
-        "locative": "тилдерде",
-        "ablative": "тилдерден"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-язык-001"
   },
   {
     "ru": "январь",
@@ -129,26 +72,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%B8%D1%80%D0%B4%D0%B8%D0%BD%20%D0%B0%D0%B9%D1%8B",
     "ruAccented": "янва'рь",
     "ruGender": "m",
-    "id": "ru-январь-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бирдин айынын",
-        "dative": "бирдин айыга",
-        "accusative": "бирдин айыны",
-        "locative": "бирдин айыда",
-        "ablative": "бирдин айыдан"
-      },
-      "pluralForms": {
-        "genitive": "бирдин айылардын",
-        "dative": "бирдин айыларга",
-        "accusative": "бирдин айыларды",
-        "locative": "бирдин айыларда",
-        "ablative": "бирдин айылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-январь-001"
   },
   {
     "ru": "яблоко",
@@ -174,26 +98,7 @@
     "ruAccented": "я'блоко",
     "ruGender": "n",
     "frequency": 406,
-    "id": "ru-яблоко-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "алманын",
-        "dative": "алмага",
-        "accusative": "алманы",
-        "locative": "алмада",
-        "ablative": "алмадан"
-      },
-      "pluralForms": {
-        "genitive": "алмалардын",
-        "dative": "алмаларга",
-        "accusative": "алмаларды",
-        "locative": "алмаларда",
-        "ablative": "алмалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яблоко-001"
   },
   {
     "ru": "яд",
@@ -209,26 +114,7 @@
     "ruAccented": "яд",
     "ruGender": "m",
     "frequency": 186,
-    "id": "ru-яд-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "уунун",
-        "dative": "ууго",
-        "accusative": "ууну",
-        "locative": "уудо",
-        "ablative": "уудон"
-      },
-      "pluralForms": {
-        "genitive": "уулордун",
-        "dative": "уулорго",
-        "accusative": "уулорду",
-        "locative": "уулордо",
-        "ablative": "уулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-яд-001"
   },
   {
     "ru": "ягода",
@@ -240,26 +126,7 @@
     "ruAccented": "я'года",
     "ruGender": "f",
     "frequency": 87,
-    "id": "ru-ягода-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жемиштин",
-        "dative": "жемишке",
-        "accusative": "жемишти",
-        "locative": "жемиште",
-        "ablative": "жемиштен"
-      },
-      "pluralForms": {
-        "genitive": "жемиштердин",
-        "dative": "жемиштерге",
-        "accusative": "жемиштерди",
-        "locative": "жемиштерде",
-        "ablative": "жемиштерден"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ягода-001"
   },
   {
     "ru": "Япония",
@@ -276,26 +143,7 @@
     "ruAccented": "Япо'ния",
     "ruGender": "f",
     "frequency": 2,
-    "id": "ru-Япония-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Жапониянын",
-        "dative": "Жапонияга",
-        "accusative": "Жапонияны",
-        "locative": "Жапонияда",
-        "ablative": "Жапониядан"
-      },
-      "pluralForms": {
-        "genitive": "Жапониялардын",
-        "dative": "Жапонияларга",
-        "accusative": "Жапонияларды",
-        "locative": "Жапонияларда",
-        "ablative": "Жапониялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Япония-001"
   },
   {
     "ru": "яблоня",
@@ -305,26 +153,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D0%B6%D1%8B%D0%B3%D0%B0%D1%87%D1%8B",
     "ruAccented": "я'блоня",
     "ruGender": "f",
-    "id": "ru-яблоня-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "алма жыгачынын",
-        "dative": "алма жыгачыга",
-        "accusative": "алма жыгачыны",
-        "locative": "алма жыгачыда",
-        "ablative": "алма жыгачыдан"
-      },
-      "pluralForms": {
-        "genitive": "алма жыгачылардын",
-        "dative": "алма жыгачыларга",
-        "accusative": "алма жыгачыларды",
-        "locative": "алма жыгачыларда",
-        "ablative": "алма жыгачылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яблоня-001"
   },
   {
     "ru": "японец",
@@ -334,26 +163,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BF%D0%BE%D0%BD%D0%B5%D1%86",
     "ruAccented": "япо'нец",
     "ruGender": "m",
-    "id": "ru-японец-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "японецтин",
-        "dative": "японецке",
-        "accusative": "японецти",
-        "locative": "японецте",
-        "ablative": "японецтен"
-      },
-      "pluralForms": {
-        "genitive": "японецтердин",
-        "dative": "японецтерге",
-        "accusative": "японецтерди",
-        "locative": "японецтерде",
-        "ablative": "японецтерден"
-      },
-      "rule": "Основа на глухую согласную -ц, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-японец-001"
   },
   {
     "ru": "ярмарка",
@@ -364,26 +174,7 @@
     "etymology": "From Russian ярмарка (jarmarka), from Polish jarmark, from German Jahrmarkt (“fair”).",
     "ruAccented": "я'рмарка",
     "ruGender": "f",
-    "id": "ru-ярмарка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жармаңкенин",
-        "dative": "жармаңкеге",
-        "accusative": "жармаңкени",
-        "locative": "жармаңкеде",
-        "ablative": "жармаңкеден"
-      },
-      "pluralForms": {
-        "genitive": "жармаңкелердин",
-        "dative": "жармаңкелерге",
-        "accusative": "жармаңкелерди",
-        "locative": "жармаңкелерде",
-        "ablative": "жармаңкелерден"
-      },
-      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ярмарка-001"
   },
   {
     "ru": "ястреб",
@@ -394,26 +185,7 @@
     "etymology": "From *qarčïğa(y) (“hawk”), from a Mongolic source.",
     "ruAccented": "я'стреб",
     "frequency": 78,
-    "id": "ru-ястреб-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "карчыганын",
-        "dative": "карчыгага",
-        "accusative": "карчыганы",
-        "locative": "карчыгада",
-        "ablative": "карчыгадан"
-      },
-      "pluralForms": {
-        "genitive": "карчыгалардын",
-        "dative": "карчыгаларга",
-        "accusative": "карчыгаларды",
-        "locative": "карчыгаларда",
-        "ablative": "карчыгалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ястреб-001"
   },
   {
     "ru": "ящерица",
@@ -423,26 +195,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D0%B5%D1%81%D0%BA%D0%B5%D0%BB%D0%B4%D0%B8%D1%80%D0%B8%D0%BA",
     "ruAccented": "я'щерица",
     "ruGender": "f",
-    "id": "ru-ящерица-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "кескелдириктин",
-        "dative": "кескелдирикке",
-        "accusative": "кескелдирикти",
-        "locative": "кескелдирикте",
-        "ablative": "кескелдириктен"
-      },
-      "pluralForms": {
-        "genitive": "кескелдириктердин",
-        "dative": "кескелдириктерге",
-        "accusative": "кескелдириктерди",
-        "locative": "кескелдириктерде",
-        "ablative": "кескелдириктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ящерица-001"
   },
   {
     "ru": "яблоко от яблони недалеко падает",
@@ -450,26 +203,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B0%D0%BB%D0%BC%D0%B0%20%D0%B4%D0%B0%D1%80%D0%B0%D0%B3%D1%8B%D0%BD%D0%B0%D0%BD%20%D0%B0%D0%BB%D1%8B%D1%81%20%D1%82%D2%AF%D1%88%D0%BF%D3%A9%D0%B9%D1%82",
-    "id": "ru-яблоко от яблони недалеко падает-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "алма дарагынан алыс түшпөйттүн",
-        "dative": "алма дарагынан алыс түшпөйткө",
-        "accusative": "алма дарагынан алыс түшпөйттү",
-        "locative": "алма дарагынан алыс түшпөйттө",
-        "ablative": "алма дарагынан алыс түшпөйттөн"
-      },
-      "pluralForms": {
-        "genitive": "алма дарагынан алыс түшпөйттөрдүн",
-        "dative": "алма дарагынан алыс түшпөйттөргө",
-        "accusative": "алма дарагынан алыс түшпөйттөрдү",
-        "locative": "алма дарагынан алыс түшпөйттөрдө",
-        "ablative": "алма дарагынан алыс түшпөйттөрдөн"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-яблоко от яблони недалеко падает-001"
   },
   {
     "ru": "Ямайка",
@@ -477,26 +211,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0",
-    "id": "ru-Ямайка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Ямайканын",
-        "dative": "Ямайкага",
-        "accusative": "Ямайканы",
-        "locative": "Ямайкада",
-        "ablative": "Ямайкадан"
-      },
-      "pluralForms": {
-        "genitive": "Ямайкалардын",
-        "dative": "Ямайкаларга",
-        "accusative": "Ямайкаларды",
-        "locative": "Ямайкаларда",
-        "ablative": "Ямайкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Ямайка-001"
   },
   {
     "ru": "ятаган",
@@ -506,26 +221,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D1%82%D0%B0%D0%B3%D0%B0%D0%BD",
     "ruAccented": "ятага'н",
     "ruGender": "m",
-    "id": "ru-ятаган-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ятагандын",
-        "dative": "ятаганга",
-        "accusative": "ятаганды",
-        "locative": "ятаганда",
-        "ablative": "ятагандан"
-      },
-      "pluralForms": {
-        "genitive": "ятагандардын",
-        "dative": "ятагандарга",
-        "accusative": "ятагандарды",
-        "locative": "ятагандарда",
-        "ablative": "ятагандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ятаган-001"
   },
   {
     "ru": "ячмень",
@@ -540,26 +236,7 @@
     "ruAccented": "ячме'нь",
     "ruGender": "m",
     "frequency": 44,
-    "id": "ru-ячмень-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "арпанын",
-        "dative": "арпага",
-        "accusative": "арпаны",
-        "locative": "арпада",
-        "ablative": "арпадан"
-      },
-      "pluralForms": {
-        "genitive": "арпалардын",
-        "dative": "арпаларга",
-        "accusative": "арпаларды",
-        "locative": "арпаларда",
-        "ablative": "арпалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ячмень-001"
   },
   {
     "ru": "ящур",
@@ -574,26 +251,7 @@
       }
     ],
     "frequency": 8,
-    "id": "ru-ящур-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "шарптын",
-        "dative": "шарпка",
-        "accusative": "шарпты",
-        "locative": "шарпта",
-        "ablative": "шарптан"
-      },
-      "pluralForms": {
-        "genitive": "шарптардын",
-        "dative": "шарптарга",
-        "accusative": "шарптарды",
-        "locative": "шарптарда",
-        "ablative": "шарптардан"
-      },
-      "rule": "Основа на глухую согласную -п, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ящур-001"
   },
   {
     "ru": "ямб",
@@ -602,26 +260,7 @@
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%BC%D0%B1",
     "ruAccented": "ямб",
-    "id": "ru-ямб-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ямбдын",
-        "dative": "ямбга",
-        "accusative": "ямбды",
-        "locative": "ямбда",
-        "ablative": "ямбдан"
-      },
-      "pluralForms": {
-        "genitive": "ямбдардын",
-        "dative": "ямбдарга",
-        "accusative": "ямбдарды",
-        "locative": "ямбдарда",
-        "ablative": "ямбдардан"
-      },
-      "rule": "Основа на звонкую согласную -б, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ямб-001"
   },
   {
     "ru": "яйцевод",
@@ -629,26 +268,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%83%D1%80%D1%83%D0%BA%20%D0%B6%D0%BE%D0%BB%D1%83",
-    "id": "ru-яйцевод-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "урук жолунун",
-        "dative": "урук жолуго",
-        "accusative": "урук жолуну",
-        "locative": "урук жолудо",
-        "ablative": "урук жолудон"
-      },
-      "pluralForms": {
-        "genitive": "урук жолулордун",
-        "dative": "урук жолулорго",
-        "accusative": "урук жолулорду",
-        "locative": "урук жолулордо",
-        "ablative": "урук жолулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-яйцевод-001"
   },
   {
     "ru": "ястреб-перепелятник",
@@ -656,26 +276,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B9",
-    "id": "ru-ястреб-перепелятник-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кыргыйдын",
-        "dative": "кыргыйга",
-        "accusative": "кыргыйды",
-        "locative": "кыргыйда",
-        "ablative": "кыргыйдан"
-      },
-      "pluralForms": {
-        "genitive": "кыргыйлардын",
-        "dative": "кыргыйларга",
-        "accusative": "кыргыйларды",
-        "locative": "кыргыйларда",
-        "ablative": "кыргыйлардан"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ястреб-перепелятник-001"
   },
   {
     "ru": "язычество",
@@ -685,26 +286,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D1%83%D1%82%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D1%82%D1%8B%D0%BA",
     "ruAccented": "язы'чество",
     "ruGender": "n",
-    "id": "ru-язычество-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бутпарастыктын",
-        "dative": "бутпарастыкка",
-        "accusative": "бутпарастыкты",
-        "locative": "бутпарастыкта",
-        "ablative": "бутпарастыктан"
-      },
-      "pluralForms": {
-        "genitive": "бутпарастыктардын",
-        "dative": "бутпарастыктарга",
-        "accusative": "бутпарастыктарды",
-        "locative": "бутпарастыктарда",
-        "ablative": "бутпарастыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-язычество-001"
   },
   {
     "ru": "Ярославль",
@@ -714,26 +296,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C",
     "ruAccented": "Яросла'вль",
     "ruGender": "m",
-    "id": "ru-Ярославль-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Ярославльдын",
-        "dative": "Ярославльга",
-        "accusative": "Ярославльды",
-        "locative": "Ярославльда",
-        "ablative": "Ярославльдан"
-      },
-      "pluralForms": {
-        "genitive": "Ярославльдардын",
-        "dative": "Ярославльдарга",
-        "accusative": "Ярославльдарды",
-        "locative": "Ярославльдарда",
-        "ablative": "Ярославльдардан"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Ярославль-001"
   },
   {
     "ru": "я люблю тебя",
@@ -741,26 +304,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B5%D0%BD%20%D1%81%D0%B5%D0%BD%D0%B8%20%D1%81%D2%AF%D0%B9%D3%A9%D0%BC",
-    "id": "ru-я люблю тебя-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "мен сени сүйөмдүн",
-        "dative": "мен сени сүйөмгө",
-        "accusative": "мен сени сүйөмдү",
-        "locative": "мен сени сүйөмдө",
-        "ablative": "мен сени сүйөмдөн"
-      },
-      "pluralForms": {
-        "genitive": "мен сени сүйөмдөрдүн",
-        "dative": "мен сени сүйөмдөргө",
-        "accusative": "мен сени сүйөмдөрдү",
-        "locative": "мен сени сүйөмдөрдө",
-        "ablative": "мен сени сүйөмдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-я люблю тебя-001"
   },
   {
     "ru": "Якутск",
@@ -768,26 +312,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA",
-    "id": "ru-Якутск-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Якутсктун",
-        "dative": "Якутскко",
-        "accusative": "Якутскту",
-        "locative": "Якутскто",
-        "ablative": "Якутсктон"
-      },
-      "pluralForms": {
-        "genitive": "Якутсктордун",
-        "dative": "Якутскторго",
-        "accusative": "Якутскторду",
-        "locative": "Якутсктордо",
-        "ablative": "Якутсктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Якутск-001"
   },
   {
     "ru": "яйца курицу не учат",
@@ -795,26 +320,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B6%D1%83%D0%BC%D1%83%D1%80%D1%82%D0%BA%D0%B0%20%D1%82%D0%BE%D0%BE%D0%BA%D0%BA%D0%BE%20%D2%AF%D0%B9%D1%80%D3%A9%D1%82%D0%BF%D3%A9%D0%B9%D1%82",
-    "id": "ru-яйца курицу не учат-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "жумуртка тоокко үйрөтпөйттүн",
-        "dative": "жумуртка тоокко үйрөтпөйткө",
-        "accusative": "жумуртка тоокко үйрөтпөйттү",
-        "locative": "жумуртка тоокко үйрөтпөйттө",
-        "ablative": "жумуртка тоокко үйрөтпөйттөн"
-      },
-      "pluralForms": {
-        "genitive": "жумуртка тоокко үйрөтпөйттөрдүн",
-        "dative": "жумуртка тоокко үйрөтпөйттөргө",
-        "accusative": "жумуртка тоокко үйрөтпөйттөрдү",
-        "locative": "жумуртка тоокко үйрөтпөйттөрдө",
-        "ablative": "жумуртка тоокко үйрөтпөйттөрдөн"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-яйца курицу не учат-001"
   },
   {
     "ru": "языковая группа",
@@ -822,26 +328,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D1%82%D0%BE%D0%B1%D1%83",
-    "id": "ru-языковая группа-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "тил тобунун",
-        "dative": "тил тобуго",
-        "accusative": "тил тобуну",
-        "locative": "тил тобудо",
-        "ablative": "тил тобудон"
-      },
-      "pluralForms": {
-        "genitive": "тил тобулордун",
-        "dative": "тил тобулорго",
-        "accusative": "тил тобулорду",
-        "locative": "тил тобулордо",
-        "ablative": "тил тобулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-языковая группа-001"
   },
   {
     "ru": "ядерная война",
@@ -849,26 +336,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D1%81%D0%BE%D0%B3%D1%83%D1%88",
-    "id": "ru-ядерная война-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "ядролук согуштун",
-        "dative": "ядролук согушко",
-        "accusative": "ядролук согушту",
-        "locative": "ядролук согушто",
-        "ablative": "ядролук согуштон"
-      },
-      "pluralForms": {
-        "genitive": "ядролук согуштордун",
-        "dative": "ядролук согушторго",
-        "accusative": "ядролук согушторду",
-        "locative": "ядролук согуштордо",
-        "ablative": "ядролук согуштордон"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ядерная война-001"
   },
   {
     "ru": "ядерное оружие",
@@ -876,26 +344,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%BA%D1%83%D1%80%D0%B0%D0%BB",
-    "id": "ru-ядерное оружие-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ядролук куралдын",
-        "dative": "ядролук куралга",
-        "accusative": "ядролук куралды",
-        "locative": "ядролук куралда",
-        "ablative": "ядролук куралдан"
-      },
-      "pluralForms": {
-        "genitive": "ядролук куралдардын",
-        "dative": "ядролук куралдарга",
-        "accusative": "ядролук куралдарды",
-        "locative": "ядролук куралдарда",
-        "ablative": "ядролук куралдардан"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ядерное оружие-001"
   },
   {
     "ru": "ядерный взрыв",
@@ -903,26 +352,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%B6%D0%B0%D1%80%D1%8B%D0%BB%D1%83%D1%83",
-    "id": "ru-ядерный взрыв-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "ядролук жарылуунун",
-        "dative": "ядролук жарылууго",
-        "accusative": "ядролук жарылууну",
-        "locative": "ядролук жарылуудо",
-        "ablative": "ядролук жарылуудон"
-      },
-      "pluralForms": {
-        "genitive": "ядролук жарылуулордун",
-        "dative": "ядролук жарылуулорго",
-        "accusative": "ядролук жарылуулорду",
-        "locative": "ядролук жарылуулордо",
-        "ablative": "ядролук жарылуулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ядерный взрыв-001"
   },
   {
     "ru": "ядерная ночь",
@@ -930,26 +360,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D1%82%D2%AF%D0%BD",
-    "id": "ru-ядерная ночь-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "ядролук түндүн",
-        "dative": "ядролук түнгө",
-        "accusative": "ядролук түндү",
-        "locative": "ядролук түндө",
-        "ablative": "ядролук түндөн"
-      },
-      "pluralForms": {
-        "genitive": "ядролук түндөрдүн",
-        "dative": "ядролук түндөргө",
-        "accusative": "ядролук түндөрдү",
-        "locative": "ядролук түндөрдө",
-        "ablative": "ядролук түндөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-ядерная ночь-001"
   },
   {
     "ru": "ядерная зима",
@@ -957,26 +368,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%D0%BB%D1%83%D0%BA%20%D0%BA%D1%8B%D1%88",
-    "id": "ru-ядерная зима-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ядролук кыштын",
-        "dative": "ядролук кышка",
-        "accusative": "ядролук кышты",
-        "locative": "ядролук кышта",
-        "ablative": "ядролук кыштан"
-      },
-      "pluralForms": {
-        "genitive": "ядролук кыштардын",
-        "dative": "ядролук кыштарга",
-        "accusative": "ядролук кыштарды",
-        "locative": "ядролук кыштарда",
-        "ablative": "ядролук кыштардан"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ядерная зима-001"
   },
   {
     "ru": "Ярославская область",
@@ -984,26 +376,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8B",
-    "id": "ru-Ярославская область-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Ярославль областынын",
-        "dative": "Ярославль областыга",
-        "accusative": "Ярославль областыны",
-        "locative": "Ярославль областыда",
-        "ablative": "Ярославль областыдан"
-      },
-      "pluralForms": {
-        "genitive": "Ярославль областылардын",
-        "dative": "Ярославль областыларга",
-        "accusative": "Ярославль областыларды",
-        "locative": "Ярославль областыларда",
-        "ablative": "Ярославль областылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Ярославская область-001"
   },
   {
     "ru": "ядерная физика",
@@ -1011,26 +384,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%8F%D0%B4%D1%80%D0%BE%20%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0%D1%81%D1%8B",
-    "id": "ru-ядерная физика-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ядро физикасынын",
-        "dative": "ядро физикасыга",
-        "accusative": "ядро физикасыны",
-        "locative": "ядро физикасыда",
-        "ablative": "ядро физикасыдан"
-      },
-      "pluralForms": {
-        "genitive": "ядро физикасылардын",
-        "dative": "ядро физикасыларга",
-        "accusative": "ядро физикасыларды",
-        "locative": "ядро физикасыларда",
-        "ablative": "ядро физикасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ядерная физика-001"
   },
   {
     "ru": "языковая семья",
@@ -1038,26 +392,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D2%AF%D0%B9-%D0%B1%D2%AF%D0%BB%D3%A9%D1%81%D2%AF",
-    "id": "ru-языковая семья-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "тил үй-бүлөсүнүн",
-        "dative": "тил үй-бүлөсүгө",
-        "accusative": "тил үй-бүлөсүнү",
-        "locative": "тил үй-бүлөсүдө",
-        "ablative": "тил үй-бүлөсүдөн"
-      },
-      "pluralForms": {
-        "genitive": "тил үй-бүлөсүлөрдүн",
-        "dative": "тил үй-бүлөсүлөргө",
-        "accusative": "тил үй-бүлөсүлөрдү",
-        "locative": "тил үй-бүлөсүлөрдө",
-        "ablative": "тил үй-бүлөсүлөрдөн"
-      },
-      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-языковая семья-001"
   },
   {
     "ru": "языковая политика",
@@ -1065,26 +400,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D1%81%D0%B0%D1%8F%D1%81%D0%B0%D1%82%D1%8B",
-    "id": "ru-языковая политика-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "тил саясатынын",
-        "dative": "тил саясатыга",
-        "accusative": "тил саясатыны",
-        "locative": "тил саясатыда",
-        "ablative": "тил саясатыдан"
-      },
-      "pluralForms": {
-        "genitive": "тил саясатылардын",
-        "dative": "тил саясатыларга",
-        "accusative": "тил саясатыларды",
-        "locative": "тил саясатыларда",
-        "ablative": "тил саясатылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-языковая политика-001"
   },
   {
     "ru": "языковой барьер",
@@ -1092,26 +408,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D0%B8%D0%BB%20%D1%82%D0%BE%D1%81%D0%BE%D1%81%D1%83",
-    "id": "ru-языковой барьер-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "тил тососунун",
-        "dative": "тил тососуго",
-        "accusative": "тил тососуну",
-        "locative": "тил тососудо",
-        "ablative": "тил тососудон"
-      },
-      "pluralForms": {
-        "genitive": "тил тососулордун",
-        "dative": "тил тососулорго",
-        "accusative": "тил тососулорду",
-        "locative": "тил тососулордо",
-        "ablative": "тил тососулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-языковой барьер-001"
   },
   {
     "ru": "январь",
@@ -1125,26 +422,7 @@
     "ruAccented": "янва'рь",
     "ruGender": "m",
     "frequency": 13,
-    "id": "ru-январь-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "январьдын",
-        "dative": "январьга",
-        "accusative": "январьды",
-        "locative": "январьда",
-        "ablative": "январьдан"
-      },
-      "pluralForms": {
-        "genitive": "январьдардын",
-        "dative": "январьдарга",
-        "accusative": "январьдарды",
-        "locative": "январьдарда",
-        "ablative": "январьдардан"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-январь-002"
   },
   {
     "ru": "я тебя люблю",
@@ -1155,26 +433,7 @@
     "senses": [
       "affirmation of affection or deep caring"
     ],
-    "id": "ru-я тебя люблю-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "мен сени сүйөмдүн",
-        "dative": "мен сени сүйөмгө",
-        "accusative": "мен сени сүйөмдү",
-        "locative": "мен сени сүйөмдө",
-        "ablative": "мен сени сүйөмдөн"
-      },
-      "pluralForms": {
-        "genitive": "мен сени сүйөмдөрдүн",
-        "dative": "мен сени сүйөмдөргө",
-        "accusative": "мен сени сүйөмдөрдү",
-        "locative": "мен сени сүйөмдөрдө",
-        "ablative": "мен сени сүйөмдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-я тебя люблю-001"
   },
   {
     "ru": "я вас люблю",
@@ -1185,26 +444,7 @@
     "senses": [
       "affirmation of romantic feeling"
     ],
-    "id": "ru-я вас люблю-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "мен сени сүйөмдүн",
-        "dative": "мен сени сүйөмгө",
-        "accusative": "мен сени сүйөмдү",
-        "locative": "мен сени сүйөмдө",
-        "ablative": "мен сени сүйөмдөн"
-      },
-      "pluralForms": {
-        "genitive": "мен сени сүйөмдөрдүн",
-        "dative": "мен сени сүйөмдөргө",
-        "accusative": "мен сени сүйөмдөрдү",
-        "locative": "мен сени сүйөмдөрдө",
-        "ablative": "мен сени сүйөмдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-я вас люблю-001"
   },
   {
     "ru": "я люблю тебя я тебя люблю",
@@ -1215,26 +455,7 @@
     "senses": [
       "affirmation of romantic feeling"
     ],
-    "id": "ru-я люблю тебя я тебя люблю-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "мен сени сүйөмдүн",
-        "dative": "мен сени сүйөмгө",
-        "accusative": "мен сени сүйөмдү",
-        "locative": "мен сени сүйөмдө",
-        "ablative": "мен сени сүйөмдөн"
-      },
-      "pluralForms": {
-        "genitive": "мен сени сүйөмдөрдүн",
-        "dative": "мен сени сүйөмдөргө",
-        "accusative": "мен сени сүйөмдөрдү",
-        "locative": "мен сени сүйөмдөрдө",
-        "ablative": "мен сени сүйөмдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-я люблю тебя я тебя люблю-001"
   },
   {
     "ru": "явь",
@@ -1258,26 +479,7 @@
     "ruAccented": "явь",
     "ruGender": "f",
     "frequency": 184,
-    "id": "ru-явь-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "чындыктын",
-        "dative": "чындыкка",
-        "accusative": "чындыкты",
-        "locative": "чындыкта",
-        "ablative": "чындыктан"
-      },
-      "pluralForms": {
-        "genitive": "чындыктардын",
-        "dative": "чындыктарга",
-        "accusative": "чындыктарды",
-        "locative": "чындыктарда",
-        "ablative": "чындыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-явь-001"
   },
   {
     "ru": "явь",
@@ -1302,26 +504,7 @@
     "ruAccented": "явь",
     "ruGender": "f",
     "frequency": 111,
-    "id": "ru-явь-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "акыйкаттын",
-        "dative": "акыйкатка",
-        "accusative": "акыйкатты",
-        "locative": "акыйкатта",
-        "ablative": "акыйкаттан"
-      },
-      "pluralForms": {
-        "genitive": "акыйкаттардын",
-        "dative": "акыйкаттарга",
-        "accusative": "акыйкаттарды",
-        "locative": "акыйкаттарда",
-        "ablative": "акыйкаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-явь-002"
   },
   {
     "ru": "Ямайка",
@@ -1332,26 +515,7 @@
     "senses": [
       "country in the Caribbean"
     ],
-    "id": "ru-Ямайка-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Жамайканын",
-        "dative": "Жамайкага",
-        "accusative": "Жамайканы",
-        "locative": "Жамайкада",
-        "ablative": "Жамайкадан"
-      },
-      "pluralForms": {
-        "genitive": "Жамайкалардын",
-        "dative": "Жамайкаларга",
-        "accusative": "Жамайкаларды",
-        "locative": "Жамайкаларда",
-        "ablative": "Жамайкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Ямайка-002"
   },
   {
     "ru": "японский",
@@ -1400,26 +564,7 @@
     ],
     "ruAccented": "япо'нец",
     "ruGender": "m",
-    "id": "ru-японец-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "жапондун",
-        "dative": "жапонго",
-        "accusative": "жапонду",
-        "locative": "жапондо",
-        "ablative": "жапондон"
-      },
-      "pluralForms": {
-        "genitive": "жапондордун",
-        "dative": "жапондорго",
-        "accusative": "жапондорду",
-        "locative": "жапондордо",
-        "ablative": "жапондордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-японец-002"
   },
   {
     "ru": "японка",
@@ -1444,26 +589,7 @@
     ],
     "ruAccented": "япо'нка",
     "ruGender": "f",
-    "id": "ru-японка-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "жапондун",
-        "dative": "жапонго",
-        "accusative": "жапонду",
-        "locative": "жапондо",
-        "ablative": "жапондон"
-      },
-      "pluralForms": {
-        "genitive": "жапондордун",
-        "dative": "жапондорго",
-        "accusative": "жапондорду",
-        "locative": "жапондордо",
-        "ablative": "жапондордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-японка-001"
   },
   {
     "ru": "японский язык",
@@ -1474,26 +600,7 @@
     "senses": [
       "Japanese language"
     ],
-    "id": "ru-японский язык-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жапон тилинин",
-        "dative": "жапон тилиге",
-        "accusative": "жапон тилини",
-        "locative": "жапон тилиде",
-        "ablative": "жапон тилиден"
-      },
-      "pluralForms": {
-        "genitive": "жапон тилилердин",
-        "dative": "жапон тилилерге",
-        "accusative": "жапон тилилерди",
-        "locative": "жапон тилилерде",
-        "ablative": "жапон тилилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-японский язык-001"
   },
   {
     "ru": "японский",
@@ -1506,26 +613,7 @@
     ],
     "ruAccented": "япо'нский",
     "ruGender": "m",
-    "id": "ru-японский-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жапон тилинин",
-        "dative": "жапон тилиге",
-        "accusative": "жапон тилини",
-        "locative": "жапон тилиде",
-        "ablative": "жапон тилиден"
-      },
-      "pluralForms": {
-        "genitive": "жапон тилилердин",
-        "dative": "жапон тилилерге",
-        "accusative": "жапон тилилерди",
-        "locative": "жапон тилилерде",
-        "ablative": "жапон тилилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-японский-002"
   },
   {
     "ru": "як",
@@ -1539,26 +627,7 @@
     "ruAccented": "як",
     "ruGender": "m",
     "frequency": 7,
-    "id": "ru-як-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "топоздун",
-        "dative": "топозго",
-        "accusative": "топозду",
-        "locative": "топоздо",
-        "ablative": "топоздон"
-      },
-      "pluralForms": {
-        "genitive": "топоздордун",
-        "dative": "топоздорго",
-        "accusative": "топоздорду",
-        "locative": "топоздордо",
-        "ablative": "топоздордон"
-      },
-      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-як-001"
   },
   {
     "ru": "яхта",
@@ -1571,26 +640,7 @@
     ],
     "ruAccented": "я'хта",
     "ruGender": "f",
-    "id": "ru-яхта-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "яхтанын",
-        "dative": "яхтага",
-        "accusative": "яхтаны",
-        "locative": "яхтада",
-        "ablative": "яхтадан"
-      },
-      "pluralForms": {
-        "genitive": "яхталардын",
-        "dative": "яхталарга",
-        "accusative": "яхталарды",
-        "locative": "яхталарда",
-        "ablative": "яхталардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яхта-001"
   },
   {
     "ru": "яма",
@@ -1605,26 +655,7 @@
     "ruAccented": "я'ма",
     "ruGender": "f",
     "frequency": 37,
-    "id": "ru-яма-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тешиктин",
-        "dative": "тешикке",
-        "accusative": "тешикти",
-        "locative": "тешикте",
-        "ablative": "тешиктен"
-      },
-      "pluralForms": {
-        "genitive": "тешиктердин",
-        "dative": "тешиктерге",
-        "accusative": "тешиктерди",
-        "locative": "тешиктерде",
-        "ablative": "тешиктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-яма-001"
   },
   {
     "ru": "янтарь",
@@ -1637,26 +668,7 @@
     ],
     "ruAccented": "янта'рь",
     "ruGender": "m",
-    "id": "ru-янтарь-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "янтарьдын",
-        "dative": "янтарьга",
-        "accusative": "янтарьды",
-        "locative": "янтарьда",
-        "ablative": "янтарьдан"
-      },
-      "pluralForms": {
-        "genitive": "янтарьдардын",
-        "dative": "янтарьдарга",
-        "accusative": "янтарьдарды",
-        "locative": "янтарьдарда",
-        "ablative": "янтарьдардан"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-янтарь-001"
   },
   {
     "ru": "яичница",
@@ -1669,26 +681,7 @@
     ],
     "ruAccented": "яи'чница",
     "ruGender": "f",
-    "id": "ru-яичница-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "омлеттин",
-        "dative": "омлетке",
-        "accusative": "омлетти",
-        "locative": "омлетте",
-        "ablative": "омлеттен"
-      },
-      "pluralForms": {
-        "genitive": "омлеттердин",
-        "dative": "омлеттерге",
-        "accusative": "омлеттерди",
-        "locative": "омлеттерде",
-        "ablative": "омлеттерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-яичница-001"
   },
   {
     "ru": "языкознание",
@@ -1703,26 +696,7 @@
     "pronunciation": "[til.bi.lim]",
     "ruAccented": "языкозна'ние",
     "ruGender": "n",
-    "id": "ru-языкознание-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тилбилимдин",
-        "dative": "тилбилимге",
-        "accusative": "тилбилимди",
-        "locative": "тилбилимде",
-        "ablative": "тилбилимден"
-      },
-      "pluralForms": {
-        "genitive": "тилбилимдердин",
-        "dative": "тилбилимдерге",
-        "accusative": "тилбилимдерди",
-        "locative": "тилбилимдерде",
-        "ablative": "тилбилимдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-языкознание-001"
   },
   {
     "ru": "языкознание",
@@ -1735,26 +709,7 @@
     ],
     "ruAccented": "языкозна'ние",
     "ruGender": "n",
-    "id": "ru-языкознание-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "лингвистиканын",
-        "dative": "лингвистикага",
-        "accusative": "лингвистиканы",
-        "locative": "лингвистикада",
-        "ablative": "лингвистикадан"
-      },
-      "pluralForms": {
-        "genitive": "лингвистикалардын",
-        "dative": "лингвистикаларга",
-        "accusative": "лингвистикаларды",
-        "locative": "лингвистикаларда",
-        "ablative": "лингвистикалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-языкознание-002"
   },
   {
     "ru": "языковедение",
@@ -1769,26 +724,7 @@
     "pronunciation": "[til.bi.lim]",
     "ruAccented": "языкове'дение",
     "ruGender": "n",
-    "id": "ru-языковедение-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тилбилимдин",
-        "dative": "тилбилимге",
-        "accusative": "тилбилимди",
-        "locative": "тилбилимде",
-        "ablative": "тилбилимден"
-      },
-      "pluralForms": {
-        "genitive": "тилбилимдердин",
-        "dative": "тилбилимдерге",
-        "accusative": "тилбилимдерди",
-        "locative": "тилбилимдерде",
-        "ablative": "тилбилимдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-языковедение-001"
   },
   {
     "ru": "языковедение",
@@ -1801,26 +737,7 @@
     ],
     "ruAccented": "языкове'дение",
     "ruGender": "n",
-    "id": "ru-языковедение-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "лингвистиканын",
-        "dative": "лингвистикага",
-        "accusative": "лингвистиканы",
-        "locative": "лингвистикада",
-        "ablative": "лингвистикадан"
-      },
-      "pluralForms": {
-        "genitive": "лингвистикалардын",
-        "dative": "лингвистикаларга",
-        "accusative": "лингвистикаларды",
-        "locative": "лингвистикаларда",
-        "ablative": "лингвистикалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-языковедение-002"
   },
   {
     "ru": "языковой",
@@ -1958,26 +875,7 @@
     ],
     "ruAccented": "языкове'д",
     "ruGender": "m",
-    "id": "ru-языковед-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "лингвисттин",
-        "dative": "лингвистке",
-        "accusative": "лингвистти",
-        "locative": "лингвистте",
-        "ablative": "лингвисттен"
-      },
-      "pluralForms": {
-        "genitive": "лингвисттердин",
-        "dative": "лингвисттерге",
-        "accusative": "лингвисттерди",
-        "locative": "лингвисттерде",
-        "ablative": "лингвисттерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-языковед-001"
   },
   {
     "ru": "яркий",
@@ -2091,26 +989,7 @@
     "ruAccented": "яче'йка",
     "ruGender": "f",
     "frequency": 20,
-    "id": "ru-ячейка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "клетканын",
-        "dative": "клеткага",
-        "accusative": "клетканы",
-        "locative": "клеткада",
-        "ablative": "клеткадан"
-      },
-      "pluralForms": {
-        "genitive": "клеткалардын",
-        "dative": "клеткаларга",
-        "accusative": "клеткаларды",
-        "locative": "клеткаларда",
-        "ablative": "клеткалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ячейка-001"
   },
   {
     "ru": "ячейка",
@@ -2123,26 +1002,7 @@
     ],
     "ruAccented": "яче'йка",
     "ruGender": "f",
-    "id": "ru-ячейка-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "көзөнөктүн",
-        "dative": "көзөнөккө",
-        "accusative": "көзөнөктү",
-        "locative": "көзөнөктө",
-        "ablative": "көзөнөктөн"
-      },
-      "pluralForms": {
-        "genitive": "көзөнөктөрдүн",
-        "dative": "көзөнөктөргө",
-        "accusative": "көзөнөктөрдү",
-        "locative": "көзөнөктөрдө",
-        "ablative": "көзөнөктөрдөн"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-ячейка-002"
   },
   {
     "ru": "ящик",
@@ -2156,26 +1016,7 @@
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
-    "id": "ru-ящик-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "коробканын",
-        "dative": "коробкага",
-        "accusative": "коробканы",
-        "locative": "коробкада",
-        "ablative": "коробкадан"
-      },
-      "pluralForms": {
-        "genitive": "коробкалардын",
-        "dative": "коробкаларга",
-        "accusative": "коробкаларды",
-        "locative": "коробкаларда",
-        "ablative": "коробкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ящик-001"
   },
   {
     "ru": "ящик",
@@ -2190,26 +1031,7 @@
     "ruAccented": "я'щик",
     "ruGender": "m",
     "frequency": 30,
-    "id": "ru-ящик-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "кутунун",
-        "dative": "кутуго",
-        "accusative": "кутуну",
-        "locative": "кутудо",
-        "ablative": "кутудон"
-      },
-      "pluralForms": {
-        "genitive": "кутулордун",
-        "dative": "кутулорго",
-        "accusative": "кутулорду",
-        "locative": "кутулордо",
-        "ablative": "кутулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ящик-002"
   },
   {
     "ru": "ящик",
@@ -2223,26 +1045,7 @@
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
-    "id": "ru-ящик-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "ящиктин",
-        "dative": "ящикке",
-        "accusative": "ящикти",
-        "locative": "ящикте",
-        "ablative": "ящиктен"
-      },
-      "pluralForms": {
-        "genitive": "ящиктердин",
-        "dative": "ящиктерге",
-        "accusative": "ящиктерди",
-        "locative": "ящиктерде",
-        "ablative": "ящиктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ящик-003"
   },
   {
     "ru": "якорь",
@@ -2255,26 +1058,7 @@
     ],
     "ruAccented": "я'корь",
     "ruGender": "m",
-    "id": "ru-якорь-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "якорьдун",
-        "dative": "якорьго",
-        "accusative": "якорьду",
-        "locative": "якорьдо",
-        "ablative": "якорьдон"
-      },
-      "pluralForms": {
-        "genitive": "якорьдордун",
-        "dative": "якорьдорго",
-        "accusative": "якорьдорду",
-        "locative": "якорьдордо",
-        "ablative": "якорьдордон"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-якорь-001"
   },
   {
     "ru": "яйцо",
@@ -2289,26 +1073,7 @@
     "pronunciation": "[tɑˈʃɑq]",
     "ruAccented": "яйцо'",
     "ruGender": "n",
-    "id": "ru-яйцо-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ташактын",
-        "dative": "ташакка",
-        "accusative": "ташакты",
-        "locative": "ташакта",
-        "ablative": "ташактан"
-      },
-      "pluralForms": {
-        "genitive": "ташактардын",
-        "dative": "ташактарга",
-        "accusative": "ташактарды",
-        "locative": "ташактарда",
-        "ablative": "ташактардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яйцо-002"
   },
   {
     "ru": "яйца",
@@ -2321,26 +1086,7 @@
     ],
     "etymology": "From Kipchak طشاق (tašaq), Kazakh тасақ (tasaq), etc.",
     "pronunciation": "[tɑˈʃɑq]",
-    "id": "ru-яйца-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ташактын",
-        "dative": "ташакка",
-        "accusative": "ташакты",
-        "locative": "ташакта",
-        "ablative": "ташактан"
-      },
-      "pluralForms": {
-        "genitive": "ташактардын",
-        "dative": "ташактарга",
-        "accusative": "ташактарды",
-        "locative": "ташактарда",
-        "ablative": "ташактардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яйца-001"
   },
   {
     "ru": "яичко",
@@ -2355,26 +1101,7 @@
     "pronunciation": "[tɑˈʃɑq]",
     "ruAccented": "яи'чко",
     "ruGender": "n",
-    "id": "ru-яичко-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ташактын",
-        "dative": "ташакка",
-        "accusative": "ташакты",
-        "locative": "ташакта",
-        "ablative": "ташактан"
-      },
-      "pluralForms": {
-        "genitive": "ташактардын",
-        "dative": "ташактарга",
-        "accusative": "ташактарды",
-        "locative": "ташактарда",
-        "ablative": "ташактардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яичко-001"
   },
   {
     "ru": "ящик",
@@ -2387,26 +1114,7 @@
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
-    "id": "ru-ящик-004",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "суурманын",
-        "dative": "суурмага",
-        "accusative": "суурманы",
-        "locative": "суурмада",
-        "ablative": "суурмадан"
-      },
-      "pluralForms": {
-        "genitive": "суурмалардын",
-        "dative": "суурмаларга",
-        "accusative": "суурмаларды",
-        "locative": "суурмаларда",
-        "ablative": "суурмалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ящик-004"
   },
   {
     "ru": "ящик",
@@ -2419,26 +1127,7 @@
     ],
     "ruAccented": "я'щик",
     "ruGender": "m",
-    "id": "ru-ящик-005",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "тартманын",
-        "dative": "тартмага",
-        "accusative": "тартманы",
-        "locative": "тартмада",
-        "ablative": "тартмадан"
-      },
-      "pluralForms": {
-        "genitive": "тартмалардын",
-        "dative": "тартмаларга",
-        "accusative": "тартмаларды",
-        "locative": "тартмаларда",
-        "ablative": "тартмалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ящик-005"
   },
   {
     "ru": "яичко",
@@ -2453,26 +1142,7 @@
     "ruAccented": "яи'чко",
     "ruGender": "n",
     "frequency": 131,
-    "id": "ru-яичко-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "эндын",
-        "dative": "энга",
-        "accusative": "энды",
-        "locative": "энда",
-        "ablative": "эндан"
-      },
-      "pluralForms": {
-        "genitive": "эндардын",
-        "dative": "эндарга",
-        "accusative": "эндарды",
-        "locative": "эндарда",
-        "ablative": "эндардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яичко-002"
   },
   {
     "ru": "яичко",
@@ -2498,26 +1168,7 @@
     "ruAccented": "яи'чко",
     "ruGender": "n",
     "frequency": 1232,
-    "id": "ru-яичко-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "таштын",
-        "dative": "ташка",
-        "accusative": "ташты",
-        "locative": "ташта",
-        "ablative": "таштан"
-      },
-      "pluralForms": {
-        "genitive": "таштардын",
-        "dative": "таштарга",
-        "accusative": "таштарды",
-        "locative": "таштарда",
-        "ablative": "таштардан"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яичко-003"
   },
   {
     "ru": "японский мультфильм",
@@ -2528,26 +1179,7 @@
     "senses": [
       "an animated work originated in Japan"
     ],
-    "id": "ru-японский мультфильм-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "анименин",
-        "dative": "анимеге",
-        "accusative": "анимени",
-        "locative": "анимеде",
-        "ablative": "анимеден"
-      },
-      "pluralForms": {
-        "genitive": "анимелердин",
-        "dative": "анимелерге",
-        "accusative": "анимелерди",
-        "locative": "анимелерде",
-        "ablative": "анимелерден"
-      },
-      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-японский мультфильм-001"
   },
   {
     "ru": "ядро",
@@ -2567,26 +1199,7 @@
     "ruAccented": "ядро'",
     "ruGender": "n",
     "frequency": 94,
-    "id": "ru-ядро-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "өзөктүн",
-        "dative": "өзөккө",
-        "accusative": "өзөктү",
-        "locative": "өзөктө",
-        "ablative": "өзөктөн"
-      },
-      "pluralForms": {
-        "genitive": "өзөктөрдүн",
-        "dative": "өзөктөргө",
-        "accusative": "өзөктөрдү",
-        "locative": "өзөктөрдө",
-        "ablative": "өзөктөрдөн"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-ядро-001"
   },
   {
     "ru": "ядро",
@@ -2610,26 +1223,7 @@
     "ruAccented": "ядро'",
     "ruGender": "n",
     "frequency": 101,
-    "id": "ru-ядро-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "дандын",
-        "dative": "данга",
-        "accusative": "данды",
-        "locative": "данда",
-        "ablative": "дандан"
-      },
-      "pluralForms": {
-        "genitive": "дандардын",
-        "dative": "дандарга",
-        "accusative": "дандарды",
-        "locative": "дандарда",
-        "ablative": "дандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ядро-002"
   },
   {
     "ru": "яичница-глазунья",
@@ -2640,26 +1234,7 @@
     "senses": [
       "egg that has been shallow fried"
     ],
-    "id": "ru-яичница-глазунья-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "яичницанын",
-        "dative": "яичницага",
-        "accusative": "яичницаны",
-        "locative": "яичницада",
-        "ablative": "яичницадан"
-      },
-      "pluralForms": {
-        "genitive": "яичницалардын",
-        "dative": "яичницаларга",
-        "accusative": "яичницаларды",
-        "locative": "яичницаларда",
-        "ablative": "яичницалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яичница-глазунья-001"
   },
   {
     "ru": "яичница",
@@ -2672,26 +1247,7 @@
     ],
     "ruAccented": "яи'чница",
     "ruGender": "f",
-    "id": "ru-яичница-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "яичницанын",
-        "dative": "яичницага",
-        "accusative": "яичницаны",
-        "locative": "яичницада",
-        "ablative": "яичницадан"
-      },
-      "pluralForms": {
-        "genitive": "яичницалардын",
-        "dative": "яичницаларга",
-        "accusative": "яичницаларды",
-        "locative": "яичницаларда",
-        "ablative": "яичницалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яичница-002"
   },
   {
     "ru": "ядро",
@@ -2705,26 +1261,7 @@
     "etymology": "Borrowed from Russian ядро́ (jadró).",
     "ruAccented": "ядро'",
     "ruGender": "n",
-    "id": "ru-ядро-003",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "ядронун",
-        "dative": "ядрого",
-        "accusative": "ядрону",
-        "locative": "ядродо",
-        "ablative": "ядродон"
-      },
-      "pluralForms": {
-        "genitive": "ядролордун",
-        "dative": "ядролорго",
-        "accusative": "ядролорду",
-        "locative": "ядролордо",
-        "ablative": "ядролордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ядро-003"
   },
   {
     "ru": "Ява",
@@ -2737,26 +1274,7 @@
     ],
     "ruAccented": "Я'ва",
     "ruGender": "f",
-    "id": "ru-Ява-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Яванын",
-        "dative": "Явага",
-        "accusative": "Яваны",
-        "locative": "Явада",
-        "ablative": "Явадан"
-      },
-      "pluralForms": {
-        "genitive": "Явалардын",
-        "dative": "Яваларга",
-        "accusative": "Яваларды",
-        "locative": "Яваларда",
-        "ablative": "Явалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Ява-001"
   },
   {
     "ru": "ядерный",
@@ -2788,26 +1306,7 @@
     ],
     "ruAccented": "я'года",
     "ruGender": "f",
-    "id": "ru-ягода-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жер жемиштин",
-        "dative": "жер жемишке",
-        "accusative": "жер жемишти",
-        "locative": "жер жемиште",
-        "ablative": "жер жемиштен"
-      },
-      "pluralForms": {
-        "genitive": "жер жемиштердин",
-        "dative": "жер жемиштерге",
-        "accusative": "жер жемиштерди",
-        "locative": "жер жемиштерде",
-        "ablative": "жер жемиштерден"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ягода-002"
   },
   {
     "ru": "ярмарка",
@@ -2821,26 +1320,7 @@
     "etymology": "Literal translation from German Jahrmarkt. Jahr (year → жыл) + Markt (market → базар)",
     "ruAccented": "я'рмарка",
     "ruGender": "f",
-    "id": "ru-ярмарка-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жылбазардын",
-        "dative": "жылбазарга",
-        "accusative": "жылбазарды",
-        "locative": "жылбазарда",
-        "ablative": "жылбазардан"
-      },
-      "pluralForms": {
-        "genitive": "жылбазарлардын",
-        "dative": "жылбазарларга",
-        "accusative": "жылбазарларды",
-        "locative": "жылбазарларда",
-        "ablative": "жылбазарлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярмарка-002"
   },
   {
     "ru": "ящерка f ящер",
@@ -2851,26 +1331,7 @@
     "senses": [
       "reptile"
     ],
-    "id": "ru-ящерка f ящер-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "кескелдириктин",
-        "dative": "кескелдирикке",
-        "accusative": "кескелдирикти",
-        "locative": "кескелдирикте",
-        "ablative": "кескелдириктен"
-      },
-      "pluralForms": {
-        "genitive": "кескелдириктердин",
-        "dative": "кескелдириктерге",
-        "accusative": "кескелдириктерди",
-        "locative": "кескелдириктерде",
-        "ablative": "кескелдириктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ящерка f ящер-001"
   },
   {
     "ru": "ярлык",
@@ -2883,26 +1344,7 @@
     ],
     "ruAccented": "ярлы'к",
     "ruGender": "m",
-    "id": "ru-ярлык-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "этикетканын",
-        "dative": "этикеткага",
-        "accusative": "этикетканы",
-        "locative": "этикеткада",
-        "ablative": "этикеткадан"
-      },
-      "pluralForms": {
-        "genitive": "этикеткалардын",
-        "dative": "этикеткаларга",
-        "accusative": "этикеткаларды",
-        "locative": "этикеткаларда",
-        "ablative": "этикеткалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярлык-001"
   },
   {
     "ru": "ярлык",
@@ -2915,26 +1357,7 @@
     ],
     "ruAccented": "ярлы'к",
     "ruGender": "m",
-    "id": "ru-ярлык-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "наклейканын",
-        "dative": "наклейкага",
-        "accusative": "наклейканы",
-        "locative": "наклейкада",
-        "ablative": "наклейкадан"
-      },
-      "pluralForms": {
-        "genitive": "наклейкалардын",
-        "dative": "наклейкаларга",
-        "accusative": "наклейкаларды",
-        "locative": "наклейкаларда",
-        "ablative": "наклейкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярлык-002"
   },
   {
     "ru": "язык чероки",
@@ -2945,26 +1368,7 @@
     "senses": [
       "language"
     ],
-    "id": "ru-язык чероки-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "черокиченин",
-        "dative": "черокичеге",
-        "accusative": "черокичени",
-        "locative": "черокичеде",
-        "ablative": "черокичеден"
-      },
-      "pluralForms": {
-        "genitive": "черокичелердин",
-        "dative": "черокичелерге",
-        "accusative": "черокичелерди",
-        "locative": "черокичелерде",
-        "ablative": "черокичелерден"
-      },
-      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-язык чероки-001"
   },
   {
     "ru": "ящик",
@@ -2988,26 +1392,7 @@
     "ruAccented": "я'щик",
     "ruGender": "m",
     "frequency": 97,
-    "id": "ru-ящик-006",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "сандыктын",
-        "dative": "сандыкка",
-        "accusative": "сандыкты",
-        "locative": "сандыкта",
-        "ablative": "сандыктан"
-      },
-      "pluralForms": {
-        "genitive": "сандыктардын",
-        "dative": "сандыктарга",
-        "accusative": "сандыктарды",
-        "locative": "сандыктарда",
-        "ablative": "сандыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ящик-006"
   },
   {
     "ru": "ягодица",
@@ -3021,26 +1406,7 @@
     "ruAccented": "я'годица",
     "ruGender": "f",
     "frequency": 87,
-    "id": "ru-ягодица-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "көчүктүн",
-        "dative": "көчүккө",
-        "accusative": "көчүктү",
-        "locative": "көчүктө",
-        "ablative": "көчүктөн"
-      },
-      "pluralForms": {
-        "genitive": "көчүктөрдүн",
-        "dative": "көчүктөргө",
-        "accusative": "көчүктөрдү",
-        "locative": "көчүктөрдө",
-        "ablative": "көчүктөрдөн"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-ягодица-001"
   },
   {
     "ru": "ягодица",
@@ -3061,26 +1427,7 @@
     "ruAccented": "я'годица",
     "ruGender": "f",
     "frequency": 29,
-    "id": "ru-ягодица-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жамбаштын",
-        "dative": "жамбашка",
-        "accusative": "жамбашты",
-        "locative": "жамбашта",
-        "ablative": "жамбаштан"
-      },
-      "pluralForms": {
-        "genitive": "жамбаштардын",
-        "dative": "жамбаштарга",
-        "accusative": "жамбаштарды",
-        "locative": "жамбаштарда",
-        "ablative": "жамбаштардан"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ягодица-002"
   },
   {
     "ru": "яма",
@@ -3095,26 +1442,7 @@
     "ruAccented": "я'ма",
     "ruGender": "f",
     "frequency": 4,
-    "id": "ru-яма-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "оюктун",
-        "dative": "оюкко",
-        "accusative": "оюкту",
-        "locative": "оюкто",
-        "ablative": "оюктон"
-      },
-      "pluralForms": {
-        "genitive": "оюктордун",
-        "dative": "оюкторго",
-        "accusative": "оюкторду",
-        "locative": "оюктордо",
-        "ablative": "оюктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-яма-002"
   },
   {
     "ru": "ясли",
@@ -3127,26 +1455,7 @@
     ],
     "ruAccented": "я'сли",
     "ruGender": "f",
-    "id": "ru-ясли-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "яслинин",
-        "dative": "яслиге",
-        "accusative": "яслини",
-        "locative": "яслиде",
-        "ablative": "яслиден"
-      },
-      "pluralForms": {
-        "genitive": "яслилердин",
-        "dative": "яслилерге",
-        "accusative": "яслилерди",
-        "locative": "яслилерде",
-        "ablative": "яслилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ясли-001"
   },
   {
     "ru": "язычник",
@@ -3159,26 +1468,7 @@
     ],
     "ruAccented": "язы'чник",
     "ruGender": "m",
-    "id": "ru-язычник-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бутпарастын",
-        "dative": "бутпараска",
-        "accusative": "бутпарасты",
-        "locative": "бутпараста",
-        "ablative": "бутпарастан"
-      },
-      "pluralForms": {
-        "genitive": "бутпарастардын",
-        "dative": "бутпарастарга",
-        "accusative": "бутпарастарды",
-        "locative": "бутпарастарда",
-        "ablative": "бутпарастардан"
-      },
-      "rule": "Основа на глухую согласную -с, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-язычник-001"
   },
   {
     "ru": "язычник",
@@ -3191,26 +1481,7 @@
     ],
     "ruAccented": "язы'чник",
     "ruGender": "m",
-    "id": "ru-язычник-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "бутка табынуучунун",
-        "dative": "бутка табынуучуго",
-        "accusative": "бутка табынуучуну",
-        "locative": "бутка табынуучудо",
-        "ablative": "бутка табынуучудон"
-      },
-      "pluralForms": {
-        "genitive": "бутка табынуучулордун",
-        "dative": "бутка табынуучулорго",
-        "accusative": "бутка табынуучулорду",
-        "locative": "бутка табынуучулордо",
-        "ablative": "бутка табынуучулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-язычник-002"
   },
   {
     "ru": "язычница",
@@ -3223,26 +1494,7 @@
     ],
     "ruAccented": "язы'чница",
     "ruGender": "f",
-    "id": "ru-язычница-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бутпарастын",
-        "dative": "бутпараска",
-        "accusative": "бутпарасты",
-        "locative": "бутпараста",
-        "ablative": "бутпарастан"
-      },
-      "pluralForms": {
-        "genitive": "бутпарастардын",
-        "dative": "бутпарастарга",
-        "accusative": "бутпарастарды",
-        "locative": "бутпарастарда",
-        "ablative": "бутпарастардан"
-      },
-      "rule": "Основа на глухую согласную -с, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-язычница-001"
   },
   {
     "ru": "язычница",
@@ -3255,26 +1507,7 @@
     ],
     "ruAccented": "язы'чница",
     "ruGender": "f",
-    "id": "ru-язычница-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "бутка табынуучунун",
-        "dative": "бутка табынуучуго",
-        "accusative": "бутка табынуучуну",
-        "locative": "бутка табынуучудо",
-        "ablative": "бутка табынуучудон"
-      },
-      "pluralForms": {
-        "genitive": "бутка табынуучулордун",
-        "dative": "бутка табынуучулорго",
-        "accusative": "бутка табынуучулорду",
-        "locative": "бутка табынуучулордо",
-        "ablative": "бутка табынуучулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-язычница-002"
   },
   {
     "ru": "ягодицы",
@@ -3300,26 +1533,7 @@
     "ruAccented": "я'годицы",
     "ruGender": "f",
     "frequency": 1298,
-    "id": "ru-ягодицы-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "сандын",
-        "dative": "санга",
-        "accusative": "санды",
-        "locative": "санда",
-        "ablative": "сандан"
-      },
-      "pluralForms": {
-        "genitive": "сандардын",
-        "dative": "сандарга",
-        "accusative": "сандарды",
-        "locative": "сандарда",
-        "ablative": "сандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ягодицы-001"
   },
   {
     "ru": "ярус",
@@ -3332,26 +1546,7 @@
     ],
     "ruAccented": "я'рус",
     "ruGender": "m",
-    "id": "ru-ярус-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "этаждын",
-        "dative": "этажга",
-        "accusative": "этажды",
-        "locative": "этажда",
-        "ablative": "этаждан"
-      },
-      "pluralForms": {
-        "genitive": "этаждардын",
-        "dative": "этаждарга",
-        "accusative": "этаждарды",
-        "locative": "этаждарда",
-        "ablative": "этаждардан"
-      },
-      "rule": "Основа на звонкую согласную -ж, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярус-001"
   },
   {
     "ru": "ярус",
@@ -3375,26 +1570,7 @@
     "ruAccented": "я'рус",
     "ruGender": "m",
     "frequency": 94,
-    "id": "ru-ярус-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кабаттын",
-        "dative": "кабатка",
-        "accusative": "кабатты",
-        "locative": "кабатта",
-        "ablative": "кабаттан"
-      },
-      "pluralForms": {
-        "genitive": "кабаттардын",
-        "dative": "кабаттарга",
-        "accusative": "кабаттарды",
-        "locative": "кабаттарда",
-        "ablative": "кабаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярус-002"
   },
   {
     "ru": "ярус",
@@ -3418,26 +1594,7 @@
     "ruAccented": "я'рус",
     "ruGender": "m",
     "frequency": 69,
-    "id": "ru-ярус-003",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "катардын",
-        "dative": "катарга",
-        "accusative": "катарды",
-        "locative": "катарда",
-        "ablative": "катардан"
-      },
-      "pluralForms": {
-        "genitive": "катарлардын",
-        "dative": "катарларга",
-        "accusative": "катарларды",
-        "locative": "катарларда",
-        "ablative": "катарлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярус-003"
   },
   {
     "ru": "яр",
@@ -3455,26 +1612,7 @@
       }
     ],
     "ruAccented": "яр",
-    "id": "ru-яр-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "капчыгайдын",
-        "dative": "капчыгайга",
-        "accusative": "капчыгайды",
-        "locative": "капчыгайда",
-        "ablative": "капчыгайдан"
-      },
-      "pluralForms": {
-        "genitive": "капчыгайлардын",
-        "dative": "капчыгайларга",
-        "accusative": "капчыгайларды",
-        "locative": "капчыгайларда",
-        "ablative": "капчыгайлардан"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яр-001"
   },
   {
     "ru": "ярмо",
@@ -3488,26 +1626,7 @@
     ],
     "ruAccented": "ярмо'",
     "ruGender": "n",
-    "id": "ru-ярмо-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "моюнтуруктун",
-        "dative": "моюнтурукко",
-        "accusative": "моюнтурукту",
-        "locative": "моюнтурукто",
-        "ablative": "моюнтуруктон"
-      },
-      "pluralForms": {
-        "genitive": "моюнтуруктордун",
-        "dative": "моюнтурукторго",
-        "accusative": "моюнтурукторду",
-        "locative": "моюнтуруктордо",
-        "ablative": "моюнтуруктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ярмо-001"
   },
   {
     "ru": "ярмо",
@@ -3521,26 +1640,7 @@
     ],
     "ruAccented": "ярмо'",
     "ruGender": "n",
-    "id": "ru-ярмо-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "каамыттын",
-        "dative": "каамытка",
-        "accusative": "каамытты",
-        "locative": "каамытта",
-        "ablative": "каамыттан"
-      },
-      "pluralForms": {
-        "genitive": "каамыттардын",
-        "dative": "каамыттарга",
-        "accusative": "каамыттарды",
-        "locative": "каамыттарда",
-        "ablative": "каамыттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярмо-002"
   },
   {
     "ru": "ярмарка",
@@ -3566,26 +1666,7 @@
     "ruAccented": "я'рмарка",
     "ruGender": "f",
     "frequency": 352,
-    "id": "ru-ярмарка-003",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "базардын",
-        "dative": "базарга",
-        "accusative": "базарды",
-        "locative": "базарда",
-        "ablative": "базардан"
-      },
-      "pluralForms": {
-        "genitive": "базарлардын",
-        "dative": "базарларга",
-        "accusative": "базарларды",
-        "locative": "базарларда",
-        "ablative": "базарлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярмарка-003"
   },
   {
     "ru": "яблочный сок",
@@ -3596,26 +1677,7 @@
     "senses": [
       "the juice of apples, often used as a drink"
     ],
-    "id": "ru-яблочный сок-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "алма ширесинин",
-        "dative": "алма ширесиге",
-        "accusative": "алма ширесини",
-        "locative": "алма ширесиде",
-        "ablative": "алма ширесиден"
-      },
-      "pluralForms": {
-        "genitive": "алма ширесилердин",
-        "dative": "алма ширесилерге",
-        "accusative": "алма ширесилерди",
-        "locative": "алма ширесилерде",
-        "ablative": "алма ширесилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-яблочный сок-001"
   },
   {
     "ru": "яр",
@@ -3634,26 +1696,7 @@
     ],
     "ruAccented": "яр",
     "frequency": 227,
-    "id": "ru-яр-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жаканын",
-        "dative": "жакага",
-        "accusative": "жаканы",
-        "locative": "жакада",
-        "ablative": "жакадан"
-      },
-      "pluralForms": {
-        "genitive": "жакалардын",
-        "dative": "жакаларга",
-        "accusative": "жакаларды",
-        "locative": "жакаларда",
-        "ablative": "жакалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яр-002"
   },
   {
     "ru": "яр",
@@ -3676,26 +1719,7 @@
     ],
     "ruAccented": "яр",
     "frequency": 156,
-    "id": "ru-яр-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жээктын",
-        "dative": "жээкка",
-        "accusative": "жээкты",
-        "locative": "жээкта",
-        "ablative": "жээктан"
-      },
-      "pluralForms": {
-        "genitive": "жээктардын",
-        "dative": "жээктарга",
-        "accusative": "жээктарды",
-        "locative": "жээктарда",
-        "ablative": "жээктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яр-003"
   },
   {
     "ru": "яр",
@@ -3707,26 +1731,7 @@
       "land adjoining a large body of water"
     ],
     "ruAccented": "яр",
-    "id": "ru-яр-004",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кашаттын",
-        "dative": "кашатка",
-        "accusative": "кашатты",
-        "locative": "кашатта",
-        "ablative": "кашаттан"
-      },
-      "pluralForms": {
-        "genitive": "кашаттардын",
-        "dative": "кашаттарга",
-        "accusative": "кашаттарды",
-        "locative": "кашаттарда",
-        "ablative": "кашаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яр-004"
   },
   {
     "ru": "яйцеклетка",
@@ -3737,26 +1742,7 @@
     "senses": [
       "gamete"
     ],
-    "id": "ru-яйцеклетка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "урук клеткасынын",
-        "dative": "урук клеткасыга",
-        "accusative": "урук клеткасыны",
-        "locative": "урук клеткасыда",
-        "ablative": "урук клеткасыдан"
-      },
-      "pluralForms": {
-        "genitive": "урук клеткасылардын",
-        "dative": "урук клеткасыларга",
-        "accusative": "урук клеткасыларды",
-        "locative": "урук клеткасыларда",
-        "ablative": "урук клеткасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яйцеклетка-001"
   },
   {
     "ru": "яйцеклетка",
@@ -3767,26 +1753,7 @@
     "senses": [
       "gamete"
     ],
-    "id": "ru-яйцеклетка-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "энелик клетканын",
-        "dative": "энелик клеткага",
-        "accusative": "энелик клетканы",
-        "locative": "энелик клеткада",
-        "ablative": "энелик клеткадан"
-      },
-      "pluralForms": {
-        "genitive": "энелик клеткалардын",
-        "dative": "энелик клеткаларга",
-        "accusative": "энелик клеткаларды",
-        "locative": "энелик клеткаларда",
-        "ablative": "энелик клеткалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яйцеклетка-002"
   },
   {
     "ru": "яловец",
@@ -3800,26 +1767,7 @@
     "etymology": "Borrowed from Middle Mongol [Term?] (/⁠arča⁠/), from Proto-Mongolic *arča, from Proto-Turkic *artuč.",
     "pronunciation": "/ɑrˈt͡ʃɑ/",
     "frequency": 31,
-    "id": "ru-яловец-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "арчанын",
-        "dative": "арчага",
-        "accusative": "арчаны",
-        "locative": "арчада",
-        "ablative": "арчадан"
-      },
-      "pluralForms": {
-        "genitive": "арчалардын",
-        "dative": "арчаларга",
-        "accusative": "арчаларды",
-        "locative": "арчаларда",
-        "ablative": "арчалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-яловец-001"
   },
   {
     "ru": "язва",
@@ -3834,26 +1782,7 @@
     "ruAccented": "я'зва",
     "ruGender": "f",
     "frequency": 1421,
-    "id": "ru-язва-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жаранын",
-        "dative": "жарага",
-        "accusative": "жараны",
-        "locative": "жарада",
-        "ablative": "жарадан"
-      },
-      "pluralForms": {
-        "genitive": "жаралардын",
-        "dative": "жараларга",
-        "accusative": "жараларды",
-        "locative": "жараларда",
-        "ablative": "жаралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-язва-001"
   },
   {
     "ru": "ярмарочная площадь",
@@ -3864,26 +1793,7 @@
     "senses": [
       "fair area"
     ],
-    "id": "ru-ярмарочная площадь-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жармаңке аянтынын",
-        "dative": "жармаңке аянтыга",
-        "accusative": "жармаңке аянтыны",
-        "locative": "жармаңке аянтыда",
-        "ablative": "жармаңке аянтыдан"
-      },
-      "pluralForms": {
-        "genitive": "жармаңке аянтылардын",
-        "dative": "жармаңке аянтыларга",
-        "accusative": "жармаңке аянтыларды",
-        "locative": "жармаңке аянтыларда",
-        "ablative": "жармаңке аянтылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярмарочная площадь-001"
   },
   {
     "ru": "Яванское море",
@@ -3894,26 +1804,7 @@
     "senses": [
       "a sea"
     ],
-    "id": "ru-Яванское море-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Ява деңизинин",
-        "dative": "Ява деңизиге",
-        "accusative": "Ява деңизини",
-        "locative": "Ява деңизиде",
-        "ablative": "Ява деңизиден"
-      },
-      "pluralForms": {
-        "genitive": "Ява деңизилердин",
-        "dative": "Ява деңизилерге",
-        "accusative": "Ява деңизилерди",
-        "locative": "Ява деңизилерде",
-        "ablative": "Ява деңизилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Яванское море-001"
   },
   {
     "ru": "я не знаю",
@@ -3935,26 +1826,7 @@
     "senses": [
       "I don't understand"
     ],
-    "id": "ru-я не понимаю-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "мен түшүнбөдүмдүн",
-        "dative": "мен түшүнбөдүмгө",
-        "accusative": "мен түшүнбөдүмдү",
-        "locative": "мен түшүнбөдүмдө",
-        "ablative": "мен түшүнбөдүмдөн"
-      },
-      "pluralForms": {
-        "genitive": "мен түшүнбөдүмдөрдүн",
-        "dative": "мен түшүнбөдүмдөргө",
-        "accusative": "мен түшүнбөдүмдөрдү",
-        "locative": "мен түшүнбөдүмдөрдө",
-        "ablative": "мен түшүнбөдүмдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-я не понимаю-001"
   },
   {
     "ru": "я не понимаю",
@@ -3965,26 +1837,7 @@
     "senses": [
       "I don't understand"
     ],
-    "id": "ru-я не понимаю-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "түшүнбөдүмдүн",
-        "dative": "түшүнбөдүмгө",
-        "accusative": "түшүнбөдүмдү",
-        "locative": "түшүнбөдүмдө",
-        "ablative": "түшүнбөдүмдөн"
-      },
-      "pluralForms": {
-        "genitive": "түшүнбөдүмдөрдүн",
-        "dative": "түшүнбөдүмдөргө",
-        "accusative": "түшүнбөдүмдөрдү",
-        "locative": "түшүнбөдүмдөрдө",
-        "ablative": "түшүнбөдүмдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-я не понимаю-002"
   },
   {
     "ru": "Яунде",
@@ -3995,26 +1848,7 @@
     "senses": [
       "capital of Cameroon"
     ],
-    "id": "ru-Яунде-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Яунденин",
-        "dative": "Яундеге",
-        "accusative": "Яундени",
-        "locative": "Яундеде",
-        "ablative": "Яундеден"
-      },
-      "pluralForms": {
-        "genitive": "Яунделердин",
-        "dative": "Яунделерге",
-        "accusative": "Яунделерди",
-        "locative": "Яунделерде",
-        "ablative": "Яунделерден"
-      },
-      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Яунде-001"
   },
   {
     "ru": "Японское море",
@@ -4025,26 +1859,7 @@
     "senses": [
       "the sea between Japan and the rest of Asia"
     ],
-    "id": "ru-Японское море-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Жапон деңизинин",
-        "dative": "Жапон деңизиге",
-        "accusative": "Жапон деңизини",
-        "locative": "Жапон деңизиде",
-        "ablative": "Жапон деңизиден"
-      },
-      "pluralForms": {
-        "genitive": "Жапон деңизилердин",
-        "dative": "Жапон деңизилерге",
-        "accusative": "Жапон деңизилерди",
-        "locative": "Жапон деңизилерде",
-        "ablative": "Жапон деңизилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Японское море-001"
   },
   {
     "ru": "якутский",
@@ -4056,26 +1871,7 @@
       "language"
     ],
     "ruAccented": "яку'тский",
-    "id": "ru-якутский-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "саханын",
-        "dative": "сахага",
-        "accusative": "саханы",
-        "locative": "сахада",
-        "ablative": "сахадан"
-      },
-      "pluralForms": {
-        "genitive": "сахалардын",
-        "dative": "сахаларга",
-        "accusative": "сахаларды",
-        "locative": "сахаларда",
-        "ablative": "сахалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-якутский-001"
   },
   {
     "ru": "ярмарка",
@@ -4088,26 +1884,7 @@
     ],
     "ruAccented": "я'рмарка",
     "ruGender": "f",
-    "id": "ru-ярмарка-004",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "соода көргөзмөсүнүн",
-        "dative": "соода көргөзмөсүгө",
-        "accusative": "соода көргөзмөсүнү",
-        "locative": "соода көргөзмөсүдө",
-        "ablative": "соода көргөзмөсүдөн"
-      },
-      "pluralForms": {
-        "genitive": "соода көргөзмөсүлөрдүн",
-        "dative": "соода көргөзмөсүлөргө",
-        "accusative": "соода көргөзмөсүлөрдү",
-        "locative": "соода көргөзмөсүлөрдө",
-        "ablative": "соода көргөзмөсүлөрдөн"
-      },
-      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-ярмарка-004"
   },
   {
     "ru": "Ялта",
@@ -4118,26 +1895,7 @@
     "senses": [
       "city in Crimea"
     ],
-    "id": "ru-Ялта-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Ялтанын",
-        "dative": "Ялтага",
-        "accusative": "Ялтаны",
-        "locative": "Ялтада",
-        "ablative": "Ялтадан"
-      },
-      "pluralForms": {
-        "genitive": "Ялталардын",
-        "dative": "Ялталарга",
-        "accusative": "Ялталарды",
-        "locative": "Ялталарда",
-        "ablative": "Ялталардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Ялта-001"
   },
   {
     "ru": "ядовитость",
@@ -4150,26 +1908,7 @@
     ],
     "ruAccented": "ядови'тость",
     "ruGender": "f",
-    "id": "ru-ядовитость-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "уулуулуктун",
-        "dative": "уулуулукко",
-        "accusative": "уулуулукту",
-        "locative": "уулуулукто",
-        "ablative": "уулуулуктон"
-      },
-      "pluralForms": {
-        "genitive": "уулуулуктордун",
-        "dative": "уулуулукторго",
-        "accusative": "уулуулукторду",
-        "locative": "уулуулуктордо",
-        "ablative": "уулуулуктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ядовитость-001"
   },
   {
     "ru": "я не говорю по-английски",
@@ -4180,26 +1919,7 @@
     "senses": [
       "I don't speak English (specifically English)"
     ],
-    "id": "ru-я не говорю по-английски-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "мен англисче билбеймдин",
-        "dative": "мен англисче билбеймге",
-        "accusative": "мен англисче билбеймди",
-        "locative": "мен англисче билбеймде",
-        "ablative": "мен англисче билбеймден"
-      },
-      "pluralForms": {
-        "genitive": "мен англисче билбеймдердин",
-        "dative": "мен англисче билбеймдерге",
-        "accusative": "мен англисче билбеймдерди",
-        "locative": "мен англисче билбеймдерде",
-        "ablative": "мен англисче билбеймдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-я не говорю по-английски-001"
   },
   {
     "ru": "я не разговариваю по-английски",
@@ -4210,26 +1930,7 @@
     "senses": [
       "I don't speak English (specifically English)"
     ],
-    "id": "ru-я не разговариваю по-английски-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "мен англисче билбеймдин",
-        "dative": "мен англисче билбеймге",
-        "accusative": "мен англисче билбеймди",
-        "locative": "мен англисче билбеймде",
-        "ablative": "мен англисче билбеймден"
-      },
-      "pluralForms": {
-        "genitive": "мен англисче билбеймдердин",
-        "dative": "мен англисче билбеймдерге",
-        "accusative": "мен англисче билбеймдерди",
-        "locative": "мен англисче билбеймдерде",
-        "ablative": "мен англисче билбеймдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-я не разговариваю по-английски-001"
   },
   {
     "ru": "я не говорю по-русски",
@@ -4240,26 +1941,7 @@
     "senses": [
       "I don't speak (fill with the name of the current foreign language)"
     ],
-    "id": "ru-я не говорю по-русски-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "кыргызче билбеймдин",
-        "dative": "кыргызче билбеймге",
-        "accusative": "кыргызче билбеймди",
-        "locative": "кыргызче билбеймде",
-        "ablative": "кыргызче билбеймден"
-      },
-      "pluralForms": {
-        "genitive": "кыргызче билбеймдердин",
-        "dative": "кыргызче билбеймдерге",
-        "accusative": "кыргызче билбеймдерди",
-        "locative": "кыргызче билбеймдерде",
-        "ablative": "кыргызче билбеймдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-я не говорю по-русски-001"
   },
   {
     "ru": "я хочу есть",
@@ -4270,26 +1952,7 @@
     "senses": [
       "I'm hungry"
     ],
-    "id": "ru-я хочу есть-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен ачкамындын",
-        "dative": "мен ачкамынга",
-        "accusative": "мен ачкамынды",
-        "locative": "мен ачкамында",
-        "ablative": "мен ачкамындан"
-      },
-      "pluralForms": {
-        "genitive": "мен ачкамындардын",
-        "dative": "мен ачкамындарга",
-        "accusative": "мен ачкамындарды",
-        "locative": "мен ачкамындарда",
-        "ablative": "мен ачкамындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я хочу есть-001"
   },
   {
     "ru": "я голоден",
@@ -4300,26 +1963,7 @@
     "senses": [
       "I'm hungry"
     ],
-    "id": "ru-я голоден-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен ачкамындын",
-        "dative": "мен ачкамынга",
-        "accusative": "мен ачкамынды",
-        "locative": "мен ачкамында",
-        "ablative": "мен ачкамындан"
-      },
-      "pluralForms": {
-        "genitive": "мен ачкамындардын",
-        "dative": "мен ачкамындарга",
-        "accusative": "мен ачкамындарды",
-        "locative": "мен ачкамындарда",
-        "ablative": "мен ачкамындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я голоден-001"
   },
   {
     "ru": "я голодна",
@@ -4330,26 +1974,7 @@
     "senses": [
       "I'm hungry"
     ],
-    "id": "ru-я голодна-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен ачкамындын",
-        "dative": "мен ачкамынга",
-        "accusative": "мен ачкамынды",
-        "locative": "мен ачкамында",
-        "ablative": "мен ачкамындан"
-      },
-      "pluralForms": {
-        "genitive": "мен ачкамындардын",
-        "dative": "мен ачкамындарга",
-        "accusative": "мен ачкамындарды",
-        "locative": "мен ачкамындарда",
-        "ablative": "мен ачкамындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я голодна-001"
   },
   {
     "ru": "я голодный",
@@ -4360,26 +1985,7 @@
     "senses": [
       "I'm hungry"
     ],
-    "id": "ru-я голодный-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен ачкамындын",
-        "dative": "мен ачкамынга",
-        "accusative": "мен ачкамынды",
-        "locative": "мен ачкамында",
-        "ablative": "мен ачкамындан"
-      },
-      "pluralForms": {
-        "genitive": "мен ачкамындардын",
-        "dative": "мен ачкамындарга",
-        "accusative": "мен ачкамындарды",
-        "locative": "мен ачкамындарда",
-        "ablative": "мен ачкамындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я голодный-001"
   },
   {
     "ru": "я голодная",
@@ -4390,26 +1996,7 @@
     "senses": [
       "I'm hungry"
     ],
-    "id": "ru-я голодная-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен ачкамындын",
-        "dative": "мен ачкамынга",
-        "accusative": "мен ачкамынды",
-        "locative": "мен ачкамында",
-        "ablative": "мен ачкамындан"
-      },
-      "pluralForms": {
-        "genitive": "мен ачкамындардын",
-        "dative": "мен ачкамындарга",
-        "accusative": "мен ачкамындарды",
-        "locative": "мен ачкамындарда",
-        "ablative": "мен ачкамындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я голодная-001"
   },
   {
     "ru": "я хочу пить",
@@ -4420,26 +2007,7 @@
     "senses": [
       "I need a drink"
     ],
-    "id": "ru-я хочу пить-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен суусап жатамдын",
-        "dative": "мен суусап жатамга",
-        "accusative": "мен суусап жатамды",
-        "locative": "мен суусап жатамда",
-        "ablative": "мен суусап жатамдан"
-      },
-      "pluralForms": {
-        "genitive": "мен суусап жатамдардын",
-        "dative": "мен суусап жатамдарга",
-        "accusative": "мен суусап жатамдарды",
-        "locative": "мен суусап жатамдарда",
-        "ablative": "мен суусап жатамдардан"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я хочу пить-001"
   },
   {
     "ru": "я холост",
@@ -4450,26 +2018,7 @@
     "senses": [
       "I'm single"
     ],
-    "id": "ru-я холост-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "мен бойдокмундун",
-        "dative": "мен бойдокмунго",
-        "accusative": "мен бойдокмунду",
-        "locative": "мен бойдокмундо",
-        "ablative": "мен бойдокмундон"
-      },
-      "pluralForms": {
-        "genitive": "мен бойдокмундордун",
-        "dative": "мен бойдокмундорго",
-        "accusative": "мен бойдокмундорду",
-        "locative": "мен бойдокмундордо",
-        "ablative": "мен бойдокмундордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-я холост-001"
   },
   {
     "ru": "я не женат",
@@ -4480,26 +2029,7 @@
     "senses": [
       "I'm single"
     ],
-    "id": "ru-я не женат-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "мен бойдокмундун",
-        "dative": "мен бойдокмунго",
-        "accusative": "мен бойдокмунду",
-        "locative": "мен бойдокмундо",
-        "ablative": "мен бойдокмундон"
-      },
-      "pluralForms": {
-        "genitive": "мен бойдокмундордун",
-        "dative": "мен бойдокмундорго",
-        "accusative": "мен бойдокмундорду",
-        "locative": "мен бойдокмундордо",
-        "ablative": "мен бойдокмундордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-я не женат-001"
   },
   {
     "ru": "я не замужем",
@@ -4510,26 +2040,7 @@
     "senses": [
       "I'm single"
     ],
-    "id": "ru-я не замужем-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "мен бойдокмундун",
-        "dative": "мен бойдокмунго",
-        "accusative": "мен бойдокмунду",
-        "locative": "мен бойдокмундо",
-        "ablative": "мен бойдокмундон"
-      },
-      "pluralForms": {
-        "genitive": "мен бойдокмундордун",
-        "dative": "мен бойдокмундорго",
-        "accusative": "мен бойдокмундорду",
-        "locative": "мен бойдокмундордо",
-        "ablative": "мен бойдокмундордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-я не замужем-001"
   },
   {
     "ru": "я мусульманин",
@@ -4540,26 +2051,7 @@
     "senses": [
       "I'm a Muslim"
     ],
-    "id": "ru-я мусульманин-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен мусулманмындын",
-        "dative": "мен мусулманмынга",
-        "accusative": "мен мусулманмынды",
-        "locative": "мен мусулманмында",
-        "ablative": "мен мусулманмындан"
-      },
-      "pluralForms": {
-        "genitive": "мен мусулманмындардын",
-        "dative": "мен мусулманмындарга",
-        "accusative": "мен мусулманмындарды",
-        "locative": "мен мусулманмындарда",
-        "ablative": "мен мусулманмындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я мусульманин-001"
   },
   {
     "ru": "я мусульманка",
@@ -4570,26 +2062,7 @@
     "senses": [
       "I'm a Muslim"
     ],
-    "id": "ru-я мусульманка-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен мусулманмындын",
-        "dative": "мен мусулманмынга",
-        "accusative": "мен мусулманмынды",
-        "locative": "мен мусулманмында",
-        "ablative": "мен мусулманмындан"
-      },
-      "pluralForms": {
-        "genitive": "мен мусулманмындардын",
-        "dative": "мен мусулманмындарга",
-        "accusative": "мен мусулманмындарды",
-        "locative": "мен мусулманмындарда",
-        "ablative": "мен мусулманмындардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я мусульманка-001"
   },
   {
     "ru": "ярлык",
@@ -4602,26 +2075,7 @@
     ],
     "ruAccented": "ярлы'к",
     "ruGender": "m",
-    "id": "ru-ярлык-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "жарлыктын",
-        "dative": "жарлыкка",
-        "accusative": "жарлыкты",
-        "locative": "жарлыкта",
-        "ablative": "жарлыктан"
-      },
-      "pluralForms": {
-        "genitive": "жарлыктардын",
-        "dative": "жарлыктарга",
-        "accusative": "жарлыктарды",
-        "locative": "жарлыктарда",
-        "ablative": "жарлыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ярлык-003"
   },
   {
     "ru": "Яндекс",
@@ -4632,26 +2086,7 @@
     "senses": [
       "Yandex (in other scripts, the trademark may also be written in Roman letters)"
     ],
-    "id": "ru-Яндекс-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Яндекстин",
-        "dative": "Яндекске",
-        "accusative": "Яндексти",
-        "locative": "Яндексте",
-        "ablative": "Яндекстен"
-      },
-      "pluralForms": {
-        "genitive": "Яндекстердин",
-        "dative": "Яндекстерге",
-        "accusative": "Яндекстерди",
-        "locative": "Яндекстерде",
-        "ablative": "Яндекстерден"
-      },
-      "rule": "Основа на глухую согласную -с, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Яндекс-001"
   },
   {
     "ru": "ямщик",
@@ -4664,26 +2099,7 @@
     ],
     "ruAccented": "ямщи'к",
     "ruGender": "m",
-    "id": "ru-ямщик-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "кучердин",
-        "dative": "кучерге",
-        "accusative": "кучерди",
-        "locative": "кучерде",
-        "ablative": "кучерден"
-      },
-      "pluralForms": {
-        "genitive": "кучерлердин",
-        "dative": "кучерлерге",
-        "accusative": "кучерлерди",
-        "locative": "кучерлерде",
-        "ablative": "кучерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ямщик-001"
   },
   {
     "ru": "ямщик",
@@ -4696,26 +2112,7 @@
     ],
     "ruAccented": "ямщи'к",
     "ruGender": "m",
-    "id": "ru-ямщик-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "ямщиктин",
-        "dative": "ямщикке",
-        "accusative": "ямщикти",
-        "locative": "ямщикте",
-        "ablative": "ямщиктен"
-      },
-      "pluralForms": {
-        "genitive": "ямщиктердин",
-        "dative": "ямщиктерге",
-        "accusative": "ямщиктерди",
-        "locative": "ямщиктерде",
-        "ablative": "ямщиктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ямщик-002"
   },
   {
     "ru": "ямщик",
@@ -4728,26 +2125,7 @@
     ],
     "ruAccented": "ямщи'к",
     "ruGender": "m",
-    "id": "ru-ямщик-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "арабакечтин",
-        "dative": "арабакечке",
-        "accusative": "арабакечти",
-        "locative": "арабакечте",
-        "ablative": "арабакечтен"
-      },
-      "pluralForms": {
-        "genitive": "арабакечтердин",
-        "dative": "арабакечтерге",
-        "accusative": "арабакечтерди",
-        "locative": "арабакечтерде",
-        "ablative": "арабакечтерден"
-      },
-      "rule": "Основа на глухую согласную -ч, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ямщик-003"
   },
   {
     "ru": "я не умею плавать",
@@ -4758,26 +2136,7 @@
     "senses": [
       "I can't swim"
     ],
-    "id": "ru-я не умею плавать-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мен сүзө албаймдын",
-        "dative": "мен сүзө албаймга",
-        "accusative": "мен сүзө албаймды",
-        "locative": "мен сүзө албаймда",
-        "ablative": "мен сүзө албаймдан"
-      },
-      "pluralForms": {
-        "genitive": "мен сүзө албаймдардын",
-        "dative": "мен сүзө албаймдарга",
-        "accusative": "мен сүзө албаймдарды",
-        "locative": "мен сүзө албаймдарда",
-        "ablative": "мен сүзө албаймдардан"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-я не умею плавать-001"
   },
   {
     "ru": "языковая школа",
@@ -4788,25 +2147,6 @@
     "senses": [
       "school where foreign languages are taught"
     ],
-    "id": "ru-языковая школа-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тил мектебинин",
-        "dative": "тил мектебиге",
-        "accusative": "тил мектебини",
-        "locative": "тил мектебиде",
-        "ablative": "тил мектебиден"
-      },
-      "pluralForms": {
-        "genitive": "тил мектебилердин",
-        "dative": "тил мектебилерге",
-        "accusative": "тил мектебилерди",
-        "locative": "тил мектебилерде",
-        "ablative": "тил мектебилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-языковая школа-001"
   }
 ]

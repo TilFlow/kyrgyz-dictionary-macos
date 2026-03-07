@@ -8,26 +8,7 @@
     "senses": [
       "a cold-blooded vertebrate"
     ],
-    "id": "ru-amphibians-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "рептилиянын",
-        "dative": "рептилияга",
-        "accusative": "рептилияны",
-        "locative": "рептилияда",
-        "ablative": "рептилиядан"
-      },
-      "pluralForms": {
-        "genitive": "рептилиялардын",
-        "dative": "рептилияларга",
-        "accusative": "рептилияларды",
-        "locative": "рептилияларда",
-        "ablative": "рептилиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-amphibians-001"
   },
   {
     "ru": "amphibians",
@@ -38,25 +19,6 @@
     "senses": [
       "a cold-blooded vertebrate"
     ],
-    "id": "ru-amphibians-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "сойлоочунун",
-        "dative": "сойлоочуго",
-        "accusative": "сойлоочуну",
-        "locative": "сойлоочудо",
-        "ablative": "сойлоочудон"
-      },
-      "pluralForms": {
-        "genitive": "сойлоочулордун",
-        "dative": "сойлоочулорго",
-        "accusative": "сойлоочулорду",
-        "locative": "сойлоочулордо",
-        "ablative": "сойлоочулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-amphibians-002"
   }
 ]

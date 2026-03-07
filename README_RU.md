@@ -2,6 +2,10 @@
 
 [README in English](README.md) · [README кыргызча](README_KY.md)
 
+<p align="center">
+  <img src="docs/images/lookup-preview.jpeg" alt="Превью словаря — сүйүү" width="600">
+</p>
+
 Четыре словаря для macOS Dictionary.app, собранные из открытых данных:
 
 | Словарь | Статей | Описание |

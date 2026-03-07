@@ -2,6 +2,10 @@
 
 [README на русском](README_RU.md) · [README кыргызча](README_KY.md)
 
+<p align="center">
+  <img src="docs/images/lookup-preview.jpeg" alt="Dictionary lookup preview — сүйүү" width="600">
+</p>
+
 Four dictionaries for macOS Dictionary.app, built from open data:
 
 | Dictionary | Entries | Description |

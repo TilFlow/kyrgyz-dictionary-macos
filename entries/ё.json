@@ -11,26 +11,7 @@
     "etymology": "From Proto-Turkic *kirpi",
     "ruAccented": "ёж",
     "frequency": 7,
-    "id": "ru-ёж-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "кирпинин",
-        "dative": "кирпиге",
-        "accusative": "кирпини",
-        "locative": "кирпиде",
-        "ablative": "кирпиден"
-      },
-      "pluralForms": {
-        "genitive": "кирпилердин",
-        "dative": "кирпилерге",
-        "accusative": "кирпилерди",
-        "locative": "кирпилерде",
-        "ablative": "кирпилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ёж-001"
   },
   {
     "ru": "ёжик",
@@ -45,26 +26,7 @@
     "ruAccented": "ёжик",
     "ruGender": "m",
     "frequency": 7,
-    "id": "ru-ёжик-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "кирпинин",
-        "dative": "кирпиге",
-        "accusative": "кирпини",
-        "locative": "кирпиде",
-        "ablative": "кирпиден"
-      },
-      "pluralForms": {
-        "genitive": "кирпилердин",
-        "dative": "кирпилерге",
-        "accusative": "кирпилерди",
-        "locative": "кирпилерде",
-        "ablative": "кирпилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ёжик-001"
   },
   {
     "ru": "ёмкость",
@@ -90,26 +52,7 @@
     "ruAccented": "ёмкость",
     "ruGender": "f",
     "frequency": 1140,
-    "id": "ru-ёмкость-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бактын",
-        "dative": "бакка",
-        "accusative": "бакты",
-        "locative": "бакта",
-        "ablative": "бактан"
-      },
-      "pluralForms": {
-        "genitive": "бактардын",
-        "dative": "бактарга",
-        "accusative": "бактарды",
-        "locative": "бактарда",
-        "ablative": "бактардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ёмкость-001"
   },
   {
     "ru": "ёлка",
@@ -122,26 +65,7 @@
     ],
     "ruAccented": "ёлка",
     "ruGender": "f",
-    "id": "ru-ёлка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ёлканын",
-        "dative": "ёлкага",
-        "accusative": "ёлканы",
-        "locative": "ёлкада",
-        "ablative": "ёлкадан"
-      },
-      "pluralForms": {
-        "genitive": "ёлкалардын",
-        "dative": "ёлкаларга",
-        "accusative": "ёлкаларды",
-        "locative": "ёлкаларда",
-        "ablative": "ёлкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ёлка-001"
   },
   {
     "ru": "ёж-рыба",
@@ -152,26 +76,7 @@
     "senses": [
       "any of many marine echinoderms of the class Echinoidea"
     ],
-    "id": "ru-ёж-рыба-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "деңиз кирписинин",
-        "dative": "деңиз кирписиге",
-        "accusative": "деңиз кирписини",
-        "locative": "деңиз кирписиде",
-        "ablative": "деңиз кирписиден"
-      },
-      "pluralForms": {
-        "genitive": "деңиз кирписилердин",
-        "dative": "деңиз кирписилерге",
-        "accusative": "деңиз кирписилерди",
-        "locative": "деңиз кирписилерде",
-        "ablative": "деңиз кирписилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ёж-рыба-001"
   },
   {
     "ru": "Ёся",
@@ -182,25 +87,6 @@
     "senses": [
       "pet form of Joseph"
     ],
-    "id": "ru-Ёся-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Жонун",
-        "dative": "Жого",
-        "accusative": "Жону",
-        "locative": "Жодо",
-        "ablative": "Жодон"
-      },
-      "pluralForms": {
-        "genitive": "Жолордун",
-        "dative": "Жолорго",
-        "accusative": "Жолорду",
-        "locative": "Жолордо",
-        "ablative": "Жолордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Ёся-001"
   }
 ]

@@ -523,12 +523,7 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
     const groups: string[] = [];
     for (const [pos, translations] of posEntries) {
       const posLabel = POS_LABELS[pos] ?? pos;
-      let senses: string;
-      if (translations.length === 1) {
-        senses = escapeXml(translations[0]);
-      } else {
-        senses = translations.map((s, i) => `${i + 1}. ${escapeXml(s)}`).join(" ");
-      }
+      const senses = translations.map((s) => escapeXml(s)).join(", ");
       groups.push(`<span class="pos-inline">${escapeXml(posLabel)}</span> ${senses}`);
     }
     compactParts.push(`<p class="pos-groups">${groups.join(' <span class="pos-sep">▪</span> ')}</p>`);

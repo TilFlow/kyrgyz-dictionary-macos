@@ -8,6 +8,8 @@ export interface RuKyPair {
   ky: string;
   sense: string;
   pos: string | null;
+  ruTags?: string[];
+  kyTags?: string[];
 }
 
 /**
@@ -22,7 +24,7 @@ export function extractRuKyPairs(entry: any): RuKyPair[] {
   }
 
   // Group translations by sense
-  const bySense = new Map<string, { ru: string[]; ky: string[] }>();
+  const bySense = new Map<string, { ru: Array<{ word: string; tags?: string[] }>; ky: Array<{ word: string; tags?: string[] }> }>();
 
   for (const t of translations) {
     if (!t.word || !t.code || !t.sense) continue;
@@ -34,7 +36,8 @@ export function extractRuKyPairs(entry: any): RuKyPair[] {
         group = { ru: [], ky: [] };
         bySense.set(sense, group);
       }
-      group[t.code].push(String(t.word));
+      const tags: string[] | undefined = Array.isArray(t.tags) ? t.tags.filter((tag: string) => !["masculine", "feminine", "neuter", "singular", "plural", "imperfective", "perfective", "transitive", "intransitive", "animate", "inanimate", "indeclinable"].includes(tag)) : undefined;
+      group[t.code].push({ word: String(t.word), tags: tags?.length ? tags : undefined });
     }
   }
 
@@ -46,7 +49,11 @@ export function extractRuKyPairs(entry: any): RuKyPair[] {
     // Create cartesian product of ru x ky for each sense
     for (const ru of group.ru) {
       for (const ky of group.ky) {
-        pairs.push({ ru, ky, sense, pos });
+        pairs.push({
+          ru: ru.word, ky: ky.word, sense, pos,
+          ruTags: ru.tags,
+          kyTags: ky.tags,
+        });
       }
     }
   }

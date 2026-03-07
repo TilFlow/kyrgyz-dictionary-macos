@@ -2,6 +2,10 @@
 
 [README in English](README.md) · [README на русском](README_RU.md)
 
+<p align="center">
+  <img src="docs/images/lookup-preview.jpeg" alt="Сөздүк көрүнүшү — сүйүү" width="600">
+</p>
+
 macOS Dictionary.app учун ачык маалыматтардан курулган төрт сөздүк:
 
 | Сөздүк | Макалалар | Сүрөттөмө |

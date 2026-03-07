@@ -21,26 +21,7 @@
     "ruAccented": "цель",
     "ruGender": "f",
     "frequency": 1451,
-    "id": "ru-цель-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "максаттын",
-        "dative": "максатка",
-        "accusative": "максатты",
-        "locative": "максатта",
-        "ablative": "максаттан"
-      },
-      "pluralForms": {
-        "genitive": "максаттардын",
-        "dative": "максаттарга",
-        "accusative": "максаттарды",
-        "locative": "максаттарда",
-        "ablative": "максаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цель-001"
   },
   {
     "ru": "цинк",
@@ -53,26 +34,7 @@
     ],
     "ruAccented": "цинк",
     "ruGender": "m",
-    "id": "ru-цинк-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цинктин",
-        "dative": "цинкке",
-        "accusative": "цинкти",
-        "locative": "цинкте",
-        "ablative": "цинктен"
-      },
-      "pluralForms": {
-        "genitive": "цинктердин",
-        "dative": "цинктерге",
-        "accusative": "цинктерди",
-        "locative": "цинктерде",
-        "ablative": "цинктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цинк-001"
   },
   {
     "ru": "цезий",
@@ -80,26 +42,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B7%D0%B8%D0%B9",
-    "id": "ru-цезий-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цезийдин",
-        "dative": "цезийге",
-        "accusative": "цезийди",
-        "locative": "цезийде",
-        "ablative": "цезийден"
-      },
-      "pluralForms": {
-        "genitive": "цезийлердин",
-        "dative": "цезийлерге",
-        "accusative": "цезийлерди",
-        "locative": "цезийлерде",
-        "ablative": "цезийлерден"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цезий-001"
   },
   {
     "ru": "цвет",
@@ -124,26 +67,7 @@
     "ruAccented": "цвет",
     "ruGender": "m",
     "frequency": 78,
-    "id": "ru-цвет-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "түстүн",
-        "dative": "түскө",
-        "accusative": "түстү",
-        "locative": "түстө",
-        "ablative": "түстөн"
-      },
-      "pluralForms": {
-        "genitive": "түстөрдүн",
-        "dative": "түстөргө",
-        "accusative": "түстөрдү",
-        "locative": "түстөрдө",
-        "ablative": "түстөрдөн"
-      },
-      "rule": "Основа на глухую согласную -с, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-цвет-001"
   },
   {
     "ru": "цветок",
@@ -168,26 +92,7 @@
     ],
     "ruAccented": "цвето'к",
     "frequency": 248,
-    "id": "ru-цветок-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "гүлдүн",
-        "dative": "гүлгө",
-        "accusative": "гүлдү",
-        "locative": "гүлдө",
-        "ablative": "гүлдөн"
-      },
-      "pluralForms": {
-        "genitive": "гүлдөрдүн",
-        "dative": "гүлдөргө",
-        "accusative": "гүлдөрдү",
-        "locative": "гүлдөрдө",
-        "ablative": "гүлдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-цветок-001"
   },
   {
     "ru": "цена",
@@ -213,26 +118,7 @@
     "ruAccented": "цена'",
     "ruGender": "f",
     "frequency": 641,
-    "id": "ru-цена-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "баанын",
-        "dative": "баага",
-        "accusative": "бааны",
-        "locative": "баада",
-        "ablative": "баадан"
-      },
-      "pluralForms": {
-        "genitive": "баалардын",
-        "dative": "бааларга",
-        "accusative": "бааларды",
-        "locative": "бааларда",
-        "ablative": "баалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цена-001"
   },
   {
     "ru": "цена",
@@ -246,26 +132,7 @@
     "ruAccented": "цена'",
     "ruGender": "f",
     "frequency": 160,
-    "id": "ru-цена-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "нарктын",
-        "dative": "наркка",
-        "accusative": "наркты",
-        "locative": "наркта",
-        "ablative": "нарктан"
-      },
-      "pluralForms": {
-        "genitive": "нарктардын",
-        "dative": "нарктарга",
-        "accusative": "нарктарды",
-        "locative": "нарктарда",
-        "ablative": "нарктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цена-002"
   },
   {
     "ru": "цивилизация",
@@ -279,26 +146,7 @@
     "ruAccented": "цивилиза'ция",
     "ruGender": "f",
     "frequency": 9,
-    "id": "ru-цивилизация-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цивилизациянын",
-        "dative": "цивилизацияга",
-        "accusative": "цивилизацияны",
-        "locative": "цивилизацияда",
-        "ablative": "цивилизациядан"
-      },
-      "pluralForms": {
-        "genitive": "цивилизациялардын",
-        "dative": "цивилизацияларга",
-        "accusative": "цивилизацияларды",
-        "locative": "цивилизацияларда",
-        "ablative": "цивилизациялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цивилизация-001"
   },
   {
     "ru": "цунами",
@@ -306,26 +154,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%83%D0%BD%D0%B0%D0%BC%D0%B8",
-    "id": "ru-цунами-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цунаминин",
-        "dative": "цунамиге",
-        "accusative": "цунамини",
-        "locative": "цунамиде",
-        "ablative": "цунамиден"
-      },
-      "pluralForms": {
-        "genitive": "цунамилердин",
-        "dative": "цунамилерге",
-        "accusative": "цунамилерди",
-        "locative": "цунамилерде",
-        "ablative": "цунамилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цунами-001"
   },
   {
     "ru": "церий",
@@ -333,26 +162,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D1%80%D0%B8%D0%B9",
-    "id": "ru-церий-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "церийдин",
-        "dative": "церийге",
-        "accusative": "церийди",
-        "locative": "церийде",
-        "ablative": "церийден"
-      },
-      "pluralForms": {
-        "genitive": "церийлердин",
-        "dative": "церийлерге",
-        "accusative": "церийлерди",
-        "locative": "церийлерде",
-        "ablative": "церийлерден"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-церий-001"
   },
   {
     "ru": "цель оправдывает средства",
@@ -360,26 +170,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BC%D0%B0%D0%BA%D1%81%D0%B0%D1%82%20%D0%BA%D0%B0%D1%80%D0%B0%D0%B6%D0%B0%D1%82%D1%82%D0%B0%D1%80%D0%B4%D1%8B%20%D0%B0%D0%BA%D1%82%D0%B0%D0%B9%D1%82",
-    "id": "ru-цель оправдывает средства-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "максат каражаттарды актайттын",
-        "dative": "максат каражаттарды актайтка",
-        "accusative": "максат каражаттарды актайтты",
-        "locative": "максат каражаттарды актайтта",
-        "ablative": "максат каражаттарды актайттан"
-      },
-      "pluralForms": {
-        "genitive": "максат каражаттарды актайттардын",
-        "dative": "максат каражаттарды актайттарга",
-        "accusative": "максат каражаттарды актайттарды",
-        "locative": "максат каражаттарды актайттарда",
-        "ablative": "максат каражаттарды актайттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цель оправдывает средства-001"
   },
   {
     "ru": "циклон",
@@ -392,26 +183,7 @@
     ],
     "ruAccented": "цикло'н",
     "ruGender": "m",
-    "id": "ru-циклон-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "циклондун",
-        "dative": "циклонго",
-        "accusative": "циклонду",
-        "locative": "циклондо",
-        "ablative": "циклондон"
-      },
-      "pluralForms": {
-        "genitive": "циклондордун",
-        "dative": "циклондорго",
-        "accusative": "циклондорду",
-        "locative": "циклондордо",
-        "ablative": "циклондордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-циклон-001"
   },
   {
     "ru": "цепь",
@@ -426,26 +198,7 @@
     "ruAccented": "цепь",
     "ruGender": "f",
     "frequency": 6,
-    "id": "ru-цепь-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "чынжырдын",
-        "dative": "чынжырга",
-        "accusative": "чынжырды",
-        "locative": "чынжырда",
-        "ablative": "чынжырдан"
-      },
-      "pluralForms": {
-        "genitive": "чынжырлардын",
-        "dative": "чынжырларга",
-        "accusative": "чынжырларды",
-        "locative": "чынжырларда",
-        "ablative": "чынжырлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цепь-001"
   },
   {
     "ru": "цифра",
@@ -467,26 +220,7 @@
     "ruAccented": "ци'фра",
     "ruGender": "f",
     "frequency": 28,
-    "id": "ru-цифра-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "санариптин",
-        "dative": "санарипке",
-        "accusative": "санарипти",
-        "locative": "санарипте",
-        "ablative": "санариптен"
-      },
-      "pluralForms": {
-        "genitive": "санариптердин",
-        "dative": "санариптерге",
-        "accusative": "санариптерди",
-        "locative": "санариптерде",
-        "ablative": "санариптерден"
-      },
-      "rule": "Основа на глухую согласную -п, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цифра-001"
   },
   {
     "ru": "целлулоид",
@@ -494,26 +228,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%BB%D0%BB%D1%83%D0%BB%D0%BE%D0%B8%D0%B4",
-    "id": "ru-целлулоид-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "целлулоиддин",
-        "dative": "целлулоидге",
-        "accusative": "целлулоидди",
-        "locative": "целлулоидде",
-        "ablative": "целлулоидден"
-      },
-      "pluralForms": {
-        "genitive": "целлулоиддердин",
-        "dative": "целлулоиддерге",
-        "accusative": "целлулоиддерди",
-        "locative": "целлулоиддерде",
-        "ablative": "целлулоиддерден"
-      },
-      "rule": "Основа на звонкую согласную -д, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-целлулоид-001"
   },
   {
     "ru": "цемент",
@@ -534,26 +249,7 @@
     "ruAccented": "цеме'нт",
     "ruGender": "m",
     "frequency": 9,
-    "id": "ru-цемент-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цементтин",
-        "dative": "цементке",
-        "accusative": "цементти",
-        "locative": "цементте",
-        "ablative": "цементтен"
-      },
-      "pluralForms": {
-        "genitive": "цементтердин",
-        "dative": "цементтерге",
-        "accusative": "цементтерди",
-        "locative": "цементтерде",
-        "ablative": "цементтерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цемент-001"
   },
   {
     "ru": "церемониальный",
@@ -584,26 +280,7 @@
     "senses": [
       "внутристиховая ритмическая пауза на постоянном месте в стихотворной строке"
     ],
-    "id": "ru-цезура-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цезуранын",
-        "dative": "цезурага",
-        "accusative": "цезураны",
-        "locative": "цезурада",
-        "ablative": "цезурадан"
-      },
-      "pluralForms": {
-        "genitive": "цезуралардын",
-        "dative": "цезураларга",
-        "accusative": "цезураларды",
-        "locative": "цезураларда",
-        "ablative": "цезуралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цезура-001"
   },
   {
     "ru": "цифровой",
@@ -629,26 +306,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D1%82%D1%80%D0%BE%D0%BD",
-    "id": "ru-циклотрон-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "циклотрондун",
-        "dative": "циклотронго",
-        "accusative": "циклотронду",
-        "locative": "циклотрондо",
-        "ablative": "циклотрондон"
-      },
-      "pluralForms": {
-        "genitive": "циклотрондордун",
-        "dative": "циклотрондорго",
-        "accusative": "циклотрондорду",
-        "locative": "циклотрондордо",
-        "ablative": "циклотрондордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-циклотрон-001"
   },
   {
     "ru": "цирк",
@@ -662,26 +320,7 @@
     "etymology": "Borrowed from Russian цирк (cirk).",
     "ruAccented": "цирк",
     "ruGender": "m",
-    "id": "ru-цирк-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цирктин",
-        "dative": "циркке",
-        "accusative": "циркти",
-        "locative": "циркте",
-        "ablative": "цирктен"
-      },
-      "pluralForms": {
-        "genitive": "цирктердин",
-        "dative": "цирктерге",
-        "accusative": "цирктерди",
-        "locative": "цирктерде",
-        "ablative": "цирктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирк-001"
   },
   {
     "ru": "циркуль",
@@ -691,26 +330,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8C",
     "ruAccented": "ци'ркуль",
     "ruGender": "m",
-    "id": "ru-циркуль-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "циркульдун",
-        "dative": "циркульго",
-        "accusative": "циркульду",
-        "locative": "циркульдо",
-        "ablative": "циркульдон"
-      },
-      "pluralForms": {
-        "genitive": "циркульдордун",
-        "dative": "циркульдорго",
-        "accusative": "циркульдорду",
-        "locative": "циркульдордо",
-        "ablative": "циркульдордон"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-циркуль-001"
   },
   {
     "ru": "циркуляция",
@@ -729,26 +349,7 @@
     ],
     "ruAccented": "циркуля'ция",
     "ruGender": "f",
-    "id": "ru-циркуляция-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "айлануунун",
-        "dative": "айланууго",
-        "accusative": "айланууну",
-        "locative": "айлануудо",
-        "ablative": "айлануудон"
-      },
-      "pluralForms": {
-        "genitive": "айлануулордун",
-        "dative": "айлануулорго",
-        "accusative": "айлануулорду",
-        "locative": "айлануулордо",
-        "ablative": "айлануулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-циркуляция-001"
   },
   {
     "ru": "цирроз",
@@ -757,26 +358,7 @@
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%80%D1%80%D0%BE%D0%B7",
     "ruAccented": "цирро'з",
-    "id": "ru-цирроз-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "цирроздун",
-        "dative": "циррозго",
-        "accusative": "циррозду",
-        "locative": "цирроздо",
-        "ablative": "цирроздон"
-      },
-      "pluralForms": {
-        "genitive": "цирроздордун",
-        "dative": "цирроздорго",
-        "accusative": "цирроздорду",
-        "locative": "цирроздордо",
-        "ablative": "цирроздордон"
-      },
-      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-цирроз-001"
   },
   {
     "ru": "цитата",
@@ -792,26 +374,7 @@
     ],
     "ruAccented": "цита'та",
     "ruGender": "f",
-    "id": "ru-цитата-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цитатанын",
-        "dative": "цитатага",
-        "accusative": "цитатаны",
-        "locative": "цитатада",
-        "ablative": "цитатадан"
-      },
-      "pluralForms": {
-        "genitive": "цитаталардын",
-        "dative": "цитаталарга",
-        "accusative": "цитаталарды",
-        "locative": "цитаталарда",
-        "ablative": "цитаталардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цитата-001"
   },
   {
     "ru": "цитология",
@@ -819,26 +382,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F",
-    "id": "ru-цитология-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цитологиянын",
-        "dative": "цитологияга",
-        "accusative": "цитологияны",
-        "locative": "цитологияда",
-        "ablative": "цитологиядан"
-      },
-      "pluralForms": {
-        "genitive": "цитологиялардын",
-        "dative": "цитологияларга",
-        "accusative": "цитологияларды",
-        "locative": "цитологияларда",
-        "ablative": "цитологиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цитология-001"
   },
   {
     "ru": "циклометрия",
@@ -846,26 +390,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F",
-    "id": "ru-циклометрия-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "циклометриянын",
-        "dative": "циклометрияга",
-        "accusative": "циклометрияны",
-        "locative": "циклометрияда",
-        "ablative": "циклометриядан"
-      },
-      "pluralForms": {
-        "genitive": "циклометриялардын",
-        "dative": "циклометрияларга",
-        "accusative": "циклометрияларды",
-        "locative": "циклометрияларда",
-        "ablative": "циклометриялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-циклометрия-001"
   },
   {
     "ru": "цинга",
@@ -874,26 +399,7 @@
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B8%D0%BD%D0%B3%D0%B0",
     "ruAccented": "цинга'",
-    "id": "ru-цинга-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цинганын",
-        "dative": "цингага",
-        "accusative": "цинганы",
-        "locative": "цингада",
-        "ablative": "цингадан"
-      },
-      "pluralForms": {
-        "genitive": "цингалардын",
-        "dative": "цингаларга",
-        "accusative": "цингаларды",
-        "locative": "цингаларда",
-        "ablative": "цингалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цинга-001"
   },
   {
     "ru": "цинкография",
@@ -904,26 +410,7 @@
     "senses": [
       "способ изготовления цинковых клише"
     ],
-    "id": "ru-цинкография-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цинкографиянын",
-        "dative": "цинкографияга",
-        "accusative": "цинкографияны",
-        "locative": "цинкографияда",
-        "ablative": "цинкографиядан"
-      },
-      "pluralForms": {
-        "genitive": "цинкографиялардын",
-        "dative": "цинкографияларга",
-        "accusative": "цинкографияларды",
-        "locative": "цинкографияларда",
-        "ablative": "цинкографиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цинкография-001"
   },
   {
     "ru": "цейхгауз",
@@ -931,26 +418,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D0%B5%D0%B9%D1%85%D0%B3%D0%B0%D1%83%D0%B7",
-    "id": "ru-цейхгауз-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "цейхгауздун",
-        "dative": "цейхгаузго",
-        "accusative": "цейхгаузду",
-        "locative": "цейхгауздо",
-        "ablative": "цейхгауздон"
-      },
-      "pluralForms": {
-        "genitive": "цейхгауздордун",
-        "dative": "цейхгауздорго",
-        "accusative": "цейхгауздорду",
-        "locative": "цейхгауздордо",
-        "ablative": "цейхгауздордон"
-      },
-      "rule": "Основа на звонкую согласную -з, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-цейхгауз-001"
   },
   {
     "ru": "централизм",
@@ -964,26 +432,7 @@
         "ru": "демократический централизм – это устойчивая форма правления."
       }
     ],
-    "id": "ru-централизм-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "централизмдин",
-        "dative": "централизмге",
-        "accusative": "централизмди",
-        "locative": "централизмде",
-        "ablative": "централизмден"
-      },
-      "pluralForms": {
-        "genitive": "централизмдердин",
-        "dative": "централизмдерге",
-        "accusative": "централизмдерди",
-        "locative": "централизмдерде",
-        "ablative": "централизмдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-централизм-001"
   },
   {
     "ru": "цукат",
@@ -991,26 +440,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%86%D1%83%D0%BA%D0%B0%D1%82",
-    "id": "ru-цукат-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цукаттын",
-        "dative": "цукатка",
-        "accusative": "цукатты",
-        "locative": "цукатта",
-        "ablative": "цукаттан"
-      },
-      "pluralForms": {
-        "genitive": "цукаттардын",
-        "dative": "цукаттарга",
-        "accusative": "цукаттарды",
-        "locative": "цукаттарда",
-        "ablative": "цукаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цукат-001"
   },
   {
     "ru": "центральная нервная система",
@@ -1018,26 +448,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%BD%D0%B5%D1%80%D0%B2%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%81%D1%8B",
-    "id": "ru-центральная нервная система-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "борбордук нерв системасынын",
-        "dative": "борбордук нерв системасыга",
-        "accusative": "борбордук нерв системасыны",
-        "locative": "борбордук нерв системасыда",
-        "ablative": "борбордук нерв системасыдан"
-      },
-      "pluralForms": {
-        "genitive": "борбордук нерв системасылардын",
-        "dative": "борбордук нерв системасыларга",
-        "accusative": "борбордук нерв системасыларды",
-        "locative": "борбордук нерв системасыларда",
-        "ablative": "борбордук нерв системасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-центральная нервная система-001"
   },
   {
     "ru": "Цюрих",
@@ -1047,26 +458,7 @@
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85",
     "ruAccented": "Цю'рих",
     "ruGender": "m",
-    "id": "ru-Цюрих-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Цюрихтин",
-        "dative": "Цюрихке",
-        "accusative": "Цюрихти",
-        "locative": "Цюрихте",
-        "ablative": "Цюрихтен"
-      },
-      "pluralForms": {
-        "genitive": "Цюрихтердин",
-        "dative": "Цюрихтерге",
-        "accusative": "Цюрихтерди",
-        "locative": "Цюрихтерде",
-        "ablative": "Цюрихтерден"
-      },
-      "rule": "Основа на глухую согласную -х, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Цюрих-001"
   },
   {
     "ru": "Центральная Америка",
@@ -1074,26 +466,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%91%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0",
-    "id": "ru-Центральная Америка-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Борбордук Американын",
-        "dative": "Борбордук Америкага",
-        "accusative": "Борбордук Американы",
-        "locative": "Борбордук Америкада",
-        "ablative": "Борбордук Америкадан"
-      },
-      "pluralForms": {
-        "genitive": "Борбордук Америкалардын",
-        "dative": "Борбордук Америкаларга",
-        "accusative": "Борбордук Америкаларды",
-        "locative": "Борбордук Америкаларда",
-        "ablative": "Борбордук Америкалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Центральная Америка-001"
   },
   {
     "ru": "цветная революция",
@@ -1101,26 +474,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%82%D2%AF%D1%81%D1%82%D2%AF%D2%AF%20%D1%82%D3%A9%D2%A3%D0%BA%D3%A9%D1%80%D2%AF%D1%88",
-    "id": "ru-цветная революция-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "түстүү төңкөрүштүн",
-        "dative": "түстүү төңкөрүшкө",
-        "accusative": "түстүү төңкөрүштү",
-        "locative": "түстүү төңкөрүштө",
-        "ablative": "түстүү төңкөрүштөн"
-      },
-      "pluralForms": {
-        "genitive": "түстүү төңкөрүштөрдүн",
-        "dative": "түстүү төңкөрүштөргө",
-        "accusative": "түстүү төңкөрүштөрдү",
-        "locative": "түстүү төңкөрүштөрдө",
-        "ablative": "түстүү төңкөрүштөрдөн"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-цветная революция-001"
   },
   {
     "ru": "центнер",
@@ -1133,26 +487,7 @@
     ],
     "ruAccented": "це'нтнер",
     "ruGender": "m",
-    "id": "ru-центнер-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "центнердин",
-        "dative": "центнерге",
-        "accusative": "центнерди",
-        "locative": "центнерде",
-        "ablative": "центнерден"
-      },
-      "pluralForms": {
-        "genitive": "центнерлердин",
-        "dative": "центнерлерге",
-        "accusative": "центнерлерди",
-        "locative": "центнерлерде",
-        "ablative": "центнерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-центнер-001"
   },
   {
     "ru": "центральный банк",
@@ -1160,26 +495,7 @@
     "pos": "noun",
     "source": "wiktionary-ru",
     "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%B1%D0%BE%D1%80%D0%B1%D0%BE%D1%80%D0%B4%D1%83%D0%BA%20%D0%B1%D0%B0%D0%BD%D0%BA",
-    "id": "ru-центральный банк-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "борбордук банктын",
-        "dative": "борбордук банкка",
-        "accusative": "борбордук банкты",
-        "locative": "борбордук банкта",
-        "ablative": "борбордук банктан"
-      },
-      "pluralForms": {
-        "genitive": "борбордук банктардын",
-        "dative": "борбордук банктарга",
-        "accusative": "борбордук банктарды",
-        "locative": "борбордук банктарда",
-        "ablative": "борбордук банктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-центральный банк-001"
   },
   {
     "ru": "цвет",
@@ -1194,26 +510,7 @@
     "ruAccented": "цвет",
     "ruGender": "m",
     "frequency": 183,
-    "id": "ru-цвет-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "өңдүн",
-        "dative": "өңгө",
-        "accusative": "өңдү",
-        "locative": "өңдө",
-        "ablative": "өңдөн"
-      },
-      "pluralForms": {
-        "genitive": "өңдөрдүн",
-        "dative": "өңдөргө",
-        "accusative": "өңдөрдү",
-        "locative": "өңдөрдө",
-        "ablative": "өңдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -ң, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-цвет-002"
   },
   {
     "ru": "цифра",
@@ -1239,26 +536,7 @@
     "ruAccented": "ци'фра",
     "ruGender": "f",
     "frequency": 1298,
-    "id": "ru-цифра-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "сандын",
-        "dative": "санга",
-        "accusative": "санды",
-        "locative": "санда",
-        "ablative": "сандан"
-      },
-      "pluralForms": {
-        "genitive": "сандардын",
-        "dative": "сандарга",
-        "accusative": "сандарды",
-        "locative": "сандарда",
-        "ablative": "сандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цифра-002"
   },
   {
     "ru": "цифровой",
@@ -1291,26 +569,7 @@
     "senses": [
       "country in Central Africa"
     ],
-    "id": "ru-Центрально-Африканская Республика-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Борбордук Африка Республикасынын",
-        "dative": "Борбордук Африка Республикасыга",
-        "accusative": "Борбордук Африка Республикасыны",
-        "locative": "Борбордук Африка Республикасыда",
-        "ablative": "Борбордук Африка Республикасыдан"
-      },
-      "pluralForms": {
-        "genitive": "Борбордук Африка Республикасылардын",
-        "dative": "Борбордук Африка Республикасыларга",
-        "accusative": "Борбордук Африка Республикасыларды",
-        "locative": "Борбордук Африка Республикасыларда",
-        "ablative": "Борбордук Африка Республикасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Центрально-Африканская Республика-001"
   },
   {
     "ru": "ЦАР",
@@ -1321,26 +580,7 @@
     "senses": [
       "country in Central Africa"
     ],
-    "id": "ru-ЦАР-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Борбордук Африка Республикасынын",
-        "dative": "Борбордук Африка Республикасыга",
-        "accusative": "Борбордук Африка Республикасыны",
-        "locative": "Борбордук Африка Республикасыда",
-        "ablative": "Борбордук Африка Республикасыдан"
-      },
-      "pluralForms": {
-        "genitive": "Борбордук Африка Республикасылардын",
-        "dative": "Борбордук Африка Республикасыларга",
-        "accusative": "Борбордук Африка Республикасыларды",
-        "locative": "Борбордук Африка Республикасыларда",
-        "ablative": "Борбордук Африка Республикасылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-ЦАР-001"
   },
   {
     "ru": "церковь",
@@ -1361,64 +601,7 @@
     "ruAccented": "це'рковь",
     "ruGender": "f",
     "frequency": 11,
-    "id": "ru-церковь-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "чиркөөнүн",
-        "dative": "чиркөөгө",
-        "accusative": "чиркөөнү",
-        "locative": "чиркөөдө",
-        "ablative": "чиркөөдөн"
-      },
-      "pluralForms": {
-        "genitive": "чиркөөлөрдүн",
-        "dative": "чиркөөлөргө",
-        "accusative": "чиркөөлөрдү",
-        "locative": "чиркөөлөрдө",
-        "ablative": "чиркөөлөрдөн"
-      },
-      "rule": "Основа на гласную -ө, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
-  },
-  {
-    "ru": "церква",
-    "ky": "чиркөө",
-    "pos": "noun",
-    "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D1%87%D0%B8%D1%80%D0%BA%D3%A9%D3%A9",
-    "senses": [
-      "house of worship"
-    ],
-    "etymology": "Borrowed from Russian це́рковь (cérkovʹ). Cognate with Bashkir сиркәү (sirkəw), Kildin Sami цэ̄ркав (cērkav), Kazakh шіркеу (şırkeu), Skolt Sami ceerkav, etc.",
-    "examples": [
-      {
-        "ky": "болгон эмес, азыркы иштеп жаткан чиркөө коомдору Орусия Православдык",
-        "ru": "никогда не было, приходы, действующие в стране, подчиняются Московской"
-      }
-    ],
-    "frequency": 11,
-    "id": "ru-церква-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "чиркөөнүн",
-        "dative": "чиркөөгө",
-        "accusative": "чиркөөнү",
-        "locative": "чиркөөдө",
-        "ablative": "чиркөөдөн"
-      },
-      "pluralForms": {
-        "genitive": "чиркөөлөрдүн",
-        "dative": "чиркөөлөргө",
-        "accusative": "чиркөөлөрдү",
-        "locative": "чиркөөлөрдө",
-        "ablative": "чиркөөлөрдөн"
-      },
-      "rule": "Основа на гласную -ө, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-церковь-001"
   },
   {
     "ru": "царь",
@@ -1432,26 +615,7 @@
     "etymology": "Borrowed from Russian коро́ль (korólʹ).",
     "ruAccented": "царь",
     "ruGender": "m",
-    "id": "ru-царь-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "корольдун",
-        "dative": "корольго",
-        "accusative": "корольду",
-        "locative": "корольдо",
-        "ablative": "корольдон"
-      },
-      "pluralForms": {
-        "genitive": "корольдордун",
-        "dative": "корольдорго",
-        "accusative": "корольдорду",
-        "locative": "корольдордо",
-        "ablative": "корольдордон"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-царь-001"
   },
   {
     "ru": "царь",
@@ -1467,26 +631,7 @@
     "ruAccented": "царь",
     "ruGender": "m",
     "frequency": 170,
-    "id": "ru-царь-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "падышанын",
-        "dative": "падышага",
-        "accusative": "падышаны",
-        "locative": "падышада",
-        "ablative": "падышадан"
-      },
-      "pluralForms": {
-        "genitive": "падышалардын",
-        "dative": "падышаларга",
-        "accusative": "падышаларды",
-        "locative": "падышаларда",
-        "ablative": "падышалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царь-002"
   },
   {
     "ru": "царь",
@@ -1511,26 +656,7 @@
     "ruAccented": "царь",
     "ruGender": "m",
     "frequency": 6011,
-    "id": "ru-царь-003",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кандын",
-        "dative": "канга",
-        "accusative": "канды",
-        "locative": "канда",
-        "ablative": "кандан"
-      },
-      "pluralForms": {
-        "genitive": "кандардын",
-        "dative": "кандарга",
-        "accusative": "кандарды",
-        "locative": "кандарда",
-        "ablative": "кандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царь-003"
   },
   {
     "ru": "царица",
@@ -1549,26 +675,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "королеванын",
-        "dative": "королевага",
-        "accusative": "королеваны",
-        "locative": "королевада",
-        "ablative": "королевадан"
-      },
-      "pluralForms": {
-        "genitive": "королевалардын",
-        "dative": "королеваларга",
-        "accusative": "королеваларды",
-        "locative": "королеваларда",
-        "ablative": "королевалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-001"
   },
   {
     "ru": "царица",
@@ -1581,26 +688,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "каныштын",
-        "dative": "канышка",
-        "accusative": "канышты",
-        "locative": "канышта",
-        "ablative": "каныштан"
-      },
-      "pluralForms": {
-        "genitive": "каныштардын",
-        "dative": "каныштарга",
-        "accusative": "каныштарды",
-        "locative": "каныштарда",
-        "ablative": "каныштардан"
-      },
-      "rule": "Основа на глухую согласную -ш, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-002"
   },
   {
     "ru": "царица",
@@ -1613,26 +701,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-003",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "ханышанын",
-        "dative": "ханышага",
-        "accusative": "ханышаны",
-        "locative": "ханышада",
-        "ablative": "ханышадан"
-      },
-      "pluralForms": {
-        "genitive": "ханышалардын",
-        "dative": "ханышаларга",
-        "accusative": "ханышаларды",
-        "locative": "ханышаларда",
-        "ablative": "ханышалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-003"
   },
   {
     "ru": "цветы",
@@ -1656,26 +725,7 @@
       }
     ],
     "frequency": 248,
-    "id": "ru-цветы-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "гүлдүн",
-        "dative": "гүлгө",
-        "accusative": "гүлдү",
-        "locative": "гүлдө",
-        "ablative": "гүлдөн"
-      },
-      "pluralForms": {
-        "genitive": "гүлдөрдүн",
-        "dative": "гүлдөргө",
-        "accusative": "гүлдөрдү",
-        "locative": "гүлдөрдө",
-        "ablative": "гүлдөрдөн"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 4 (ө/ү) → суффиксы с -д-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-цветы-001"
   },
   {
     "ru": "царство",
@@ -1688,26 +738,7 @@
     ],
     "ruAccented": "ца'рство",
     "ruGender": "n",
-    "id": "ru-царство-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "королевствонун",
-        "dative": "королевствого",
-        "accusative": "королевствону",
-        "locative": "королевстводо",
-        "ablative": "королевстводон"
-      },
-      "pluralForms": {
-        "genitive": "королевстволордун",
-        "dative": "королевстволорго",
-        "accusative": "королевстволорду",
-        "locative": "королевстволордо",
-        "ablative": "королевстволордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-царство-001"
   },
   {
     "ru": "царство",
@@ -1723,26 +754,7 @@
     "ruAccented": "ца'рство",
     "ruGender": "n",
     "frequency": 14,
-    "id": "ru-царство-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "падышалыктын",
-        "dative": "падышалыкка",
-        "accusative": "падышалыкты",
-        "locative": "падышалыкта",
-        "ablative": "падышалыктан"
-      },
-      "pluralForms": {
-        "genitive": "падышалыктардын",
-        "dative": "падышалыктарга",
-        "accusative": "падышалыктарды",
-        "locative": "падышалыктарда",
-        "ablative": "падышалыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царство-002"
   },
   {
     "ru": "цвета индиго",
@@ -1772,26 +784,7 @@
     ],
     "ruAccented": "цепь",
     "ruGender": "f",
-    "id": "ru-цепь-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тизмектин",
-        "dative": "тизмекке",
-        "accusative": "тизмекти",
-        "locative": "тизмекте",
-        "ablative": "тизмектен"
-      },
-      "pluralForms": {
-        "genitive": "тизмектердин",
-        "dative": "тизмектерге",
-        "accusative": "тизмектерди",
-        "locative": "тизмектерде",
-        "ablative": "тизмектерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цепь-002"
   },
   {
     "ru": "цепочка",
@@ -1806,26 +799,7 @@
     "ruAccented": "цепо'чка",
     "ruGender": "f",
     "frequency": 6,
-    "id": "ru-цепочка-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "чынжырдын",
-        "dative": "чынжырга",
-        "accusative": "чынжырды",
-        "locative": "чынжырда",
-        "ablative": "чынжырдан"
-      },
-      "pluralForms": {
-        "genitive": "чынжырлардын",
-        "dative": "чынжырларга",
-        "accusative": "чынжырларды",
-        "locative": "чынжырларда",
-        "ablative": "чынжырлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цепочка-001"
   },
   {
     "ru": "цепочка",
@@ -1844,26 +818,7 @@
     ],
     "ruAccented": "цепо'чка",
     "ruGender": "f",
-    "id": "ru-цепочка-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "тизмектин",
-        "dative": "тизмекке",
-        "accusative": "тизмекти",
-        "locative": "тизмекте",
-        "ablative": "тизмектен"
-      },
-      "pluralForms": {
-        "genitive": "тизмектердин",
-        "dative": "тизмектерге",
-        "accusative": "тизмектерди",
-        "locative": "тизмектерде",
-        "ablative": "тизмектерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цепочка-002"
   },
   {
     "ru": "цивильный",
@@ -1924,26 +879,7 @@
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
-    "id": "ru-целомудрие-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "изгиликтин",
-        "dative": "изгиликке",
-        "accusative": "изгиликти",
-        "locative": "изгиликте",
-        "ablative": "изгиликтен"
-      },
-      "pluralForms": {
-        "genitive": "изгиликтердин",
-        "dative": "изгиликтерге",
-        "accusative": "изгиликтерди",
-        "locative": "изгиликтерде",
-        "ablative": "изгиликтерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-целомудрие-001"
   },
   {
     "ru": "целомудрие",
@@ -1957,26 +893,7 @@
     "ruAccented": "целому'дрие",
     "ruGender": "n",
     "frequency": 4,
-    "id": "ru-целомудрие-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "кайрымдуунун",
-        "dative": "кайрымдууго",
-        "accusative": "кайрымдууну",
-        "locative": "кайрымдуудо",
-        "ablative": "кайрымдуудон"
-      },
-      "pluralForms": {
-        "genitive": "кайрымдуулордун",
-        "dative": "кайрымдуулорго",
-        "accusative": "кайрымдуулорду",
-        "locative": "кайрымдуулордо",
-        "ablative": "кайрымдуулордон"
-      },
-      "rule": "Основа на гласную -у, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-целомудрие-002"
   },
   {
     "ru": "цитадель",
@@ -1988,26 +905,7 @@
       "main tower"
     ],
     "ruAccented": "цитаде'ль",
-    "id": "ru-цитадель-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "башкы мунаранын",
-        "dative": "башкы мунарага",
-        "accusative": "башкы мунараны",
-        "locative": "башкы мунарада",
-        "ablative": "башкы мунарадан"
-      },
-      "pluralForms": {
-        "genitive": "башкы мунаралардын",
-        "dative": "башкы мунараларга",
-        "accusative": "башкы мунараларды",
-        "locative": "башкы мунараларда",
-        "ablative": "башкы мунаралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цитадель-001"
   },
   {
     "ru": "центральный",
@@ -2043,26 +941,7 @@
     ],
     "ruAccented": "ца'пля",
     "ruGender": "f",
-    "id": "ru-цапля-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кытандын",
-        "dative": "кытанга",
-        "accusative": "кытанды",
-        "locative": "кытанда",
-        "ablative": "кытандан"
-      },
-      "pluralForms": {
-        "genitive": "кытандардын",
-        "dative": "кытандарга",
-        "accusative": "кытандарды",
-        "locative": "кытандарда",
-        "ablative": "кытандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цапля-001"
   },
   {
     "ru": "цыплёнок",
@@ -2087,26 +966,7 @@
     "ruAccented": "цыплёнок",
     "ruGender": "m",
     "frequency": 83,
-    "id": "ru-цыплёнок-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "тооктун",
-        "dative": "тоокко",
-        "accusative": "тоокту",
-        "locative": "тоокто",
-        "ablative": "тооктон"
-      },
-      "pluralForms": {
-        "genitive": "тооктордун",
-        "dative": "тоокторго",
-        "accusative": "тоокторду",
-        "locative": "тооктордо",
-        "ablative": "тооктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-цыплёнок-001"
   },
   {
     "ru": "целый",
@@ -2131,26 +991,7 @@
     ],
     "ruAccented": "царе'вич",
     "ruGender": "m",
-    "id": "ru-царевич-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "канзаданын",
-        "dative": "канзадага",
-        "accusative": "канзаданы",
-        "locative": "канзадада",
-        "ablative": "канзададан"
-      },
-      "pluralForms": {
-        "genitive": "канзадалардын",
-        "dative": "канзадаларга",
-        "accusative": "канзадаларды",
-        "locative": "канзадаларда",
-        "ablative": "канзадалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царевич-001"
   },
   {
     "ru": "царевич",
@@ -2165,26 +1006,7 @@
     "pronunciation": "/qɑnˈzɑːˈdɑ/",
     "ruAccented": "царе'вич",
     "ruGender": "m",
-    "id": "ru-царевич-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "канзааданын",
-        "dative": "канзаадага",
-        "accusative": "канзааданы",
-        "locative": "канзаадада",
-        "ablative": "канзаададан"
-      },
-      "pluralForms": {
-        "genitive": "канзаадалардын",
-        "dative": "канзаадаларга",
-        "accusative": "канзаадаларды",
-        "locative": "канзаадаларда",
-        "ablative": "канзаадалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царевич-002"
   },
   {
     "ru": "царевич",
@@ -2197,26 +1019,7 @@
     ],
     "ruAccented": "царе'вич",
     "ruGender": "m",
-    "id": "ru-царевич-003",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "падышазаданын",
-        "dative": "падышазадага",
-        "accusative": "падышазаданы",
-        "locative": "падышазадада",
-        "ablative": "падышазададан"
-      },
-      "pluralForms": {
-        "genitive": "падышазадалардын",
-        "dative": "падышазадаларга",
-        "accusative": "падышазадаларды",
-        "locative": "падышазадаларда",
-        "ablative": "падышазадалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царевич-003"
   },
   {
     "ru": "царевна",
@@ -2231,26 +1034,7 @@
     "pronunciation": "/qɑnˈbijˈcɛ/",
     "ruAccented": "царе'вна",
     "ruGender": "f",
-    "id": "ru-царевна-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "канбийкенин",
-        "dative": "канбийкеге",
-        "accusative": "канбийкени",
-        "locative": "канбийкеде",
-        "ablative": "канбийкеден"
-      },
-      "pluralForms": {
-        "genitive": "канбийкелердин",
-        "dative": "канбийкелерге",
-        "accusative": "канбийкелерди",
-        "locative": "канбийкелерде",
-        "ablative": "канбийкелерден"
-      },
-      "rule": "Основа на гласную -е, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-царевна-001"
   },
   {
     "ru": "царевна",
@@ -2263,26 +1047,7 @@
     ],
     "ruAccented": "царе'вна",
     "ruGender": "f",
-    "id": "ru-царевна-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "принцессанын",
-        "dative": "принцессага",
-        "accusative": "принцессаны",
-        "locative": "принцессада",
-        "ablative": "принцессадан"
-      },
-      "pluralForms": {
-        "genitive": "принцессалардын",
-        "dative": "принцессаларга",
-        "accusative": "принцессаларды",
-        "locative": "принцессаларда",
-        "ablative": "принцессалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царевна-002"
   },
   {
     "ru": "царь",
@@ -2296,26 +1061,7 @@
     "ruAccented": "царь",
     "ruGender": "m",
     "frequency": 48,
-    "id": "ru-царь-004",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "императордун",
-        "dative": "императорго",
-        "accusative": "императорду",
-        "locative": "императордо",
-        "ablative": "императордон"
-      },
-      "pluralForms": {
-        "genitive": "императорлордун",
-        "dative": "императорлорго",
-        "accusative": "императорлорду",
-        "locative": "императорлордо",
-        "ablative": "императорлордон"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-царь-004"
   },
   {
     "ru": "царица",
@@ -2328,26 +1074,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-004",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "императрицанын",
-        "dative": "императрицага",
-        "accusative": "императрицаны",
-        "locative": "императрицада",
-        "ablative": "императрицадан"
-      },
-      "pluralForms": {
-        "genitive": "императрицалардын",
-        "dative": "императрицаларга",
-        "accusative": "императрицаларды",
-        "locative": "императрицаларда",
-        "ablative": "императрицалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-004"
   },
   {
     "ru": "царица",
@@ -2360,26 +1087,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-005",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "император аялдын",
-        "dative": "император аялга",
-        "accusative": "император аялды",
-        "locative": "император аялда",
-        "ablative": "император аялдан"
-      },
-      "pluralForms": {
-        "genitive": "император аялдардын",
-        "dative": "император аялдарга",
-        "accusative": "император аялдарды",
-        "locative": "император аялдарда",
-        "ablative": "император аялдардан"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-005"
   },
   {
     "ru": "царство",
@@ -2393,26 +1101,7 @@
     "ruAccented": "ца'рство",
     "ruGender": "n",
     "frequency": 90,
-    "id": "ru-царство-003",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "империянын",
-        "dative": "империяга",
-        "accusative": "империяны",
-        "locative": "империяда",
-        "ablative": "империядан"
-      },
-      "pluralForms": {
-        "genitive": "империялардын",
-        "dative": "империяларга",
-        "accusative": "империяларды",
-        "locative": "империяларда",
-        "ablative": "империялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царство-003"
   },
   {
     "ru": "цилиндр",
@@ -2426,26 +1115,7 @@
     "ruAccented": "цили'ндр",
     "ruGender": "m",
     "frequency": 3,
-    "id": "ru-цилиндр-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цилиндрдин",
-        "dative": "цилиндрге",
-        "accusative": "цилиндрди",
-        "locative": "цилиндрде",
-        "ablative": "цилиндрден"
-      },
-      "pluralForms": {
-        "genitive": "цилиндрлердин",
-        "dative": "цилиндрлерге",
-        "accusative": "цилиндрлерди",
-        "locative": "цилиндрлерде",
-        "ablative": "цилиндрлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цилиндр-001"
   },
   {
     "ru": "цех",
@@ -2458,26 +1128,7 @@
     ],
     "ruAccented": "цех",
     "ruGender": "m",
-    "id": "ru-цех-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "мастерскаянын",
-        "dative": "мастерскаяга",
-        "accusative": "мастерскаяны",
-        "locative": "мастерскаяда",
-        "ablative": "мастерскаядан"
-      },
-      "pluralForms": {
-        "genitive": "мастерскаялардын",
-        "dative": "мастерскаяларга",
-        "accusative": "мастерскаяларды",
-        "locative": "мастерскаяларда",
-        "ablative": "мастерскаялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цех-001"
   },
   {
     "ru": "цех",
@@ -2491,26 +1142,7 @@
     "ruAccented": "цех",
     "ruGender": "m",
     "frequency": 7,
-    "id": "ru-цех-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "устакананын",
-        "dative": "устаканага",
-        "accusative": "устакананы",
-        "locative": "устаканада",
-        "ablative": "устаканадан"
-      },
-      "pluralForms": {
-        "genitive": "устаканалардын",
-        "dative": "устаканаларга",
-        "accusative": "устаканаларды",
-        "locative": "устаканаларда",
-        "ablative": "устаканалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цех-002"
   },
   {
     "ru": "цех",
@@ -2534,26 +1166,7 @@
     "ruAccented": "цех",
     "ruGender": "m",
     "frequency": 31,
-    "id": "ru-цех-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цехтин",
-        "dative": "цехке",
-        "accusative": "цехти",
-        "locative": "цехте",
-        "ablative": "цехтен"
-      },
-      "pluralForms": {
-        "genitive": "цехтердин",
-        "dative": "цехтерге",
-        "accusative": "цехтерди",
-        "locative": "цехтерде",
-        "ablative": "цехтерден"
-      },
-      "rule": "Основа на глухую согласную -х, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цех-003"
   },
   {
     "ru": "цивилизация",
@@ -2579,26 +1192,7 @@
     "ruAccented": "цивилиза'ция",
     "ruGender": "f",
     "frequency": 462,
-    "id": "ru-цивилизация-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "маданияттын",
-        "dative": "маданиятка",
-        "accusative": "маданиятты",
-        "locative": "маданиятта",
-        "ablative": "маданияттан"
-      },
-      "pluralForms": {
-        "genitive": "маданияттардын",
-        "dative": "маданияттарга",
-        "accusative": "маданияттарды",
-        "locative": "маданияттарда",
-        "ablative": "маданияттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цивилизация-002"
   },
   {
     "ru": "цистерна",
@@ -2624,26 +1218,7 @@
     "ruAccented": "цисте'рна",
     "ruGender": "f",
     "frequency": 1140,
-    "id": "ru-цистерна-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бактын",
-        "dative": "бакка",
-        "accusative": "бакты",
-        "locative": "бакта",
-        "ablative": "бактан"
-      },
-      "pluralForms": {
-        "genitive": "бактардын",
-        "dative": "бактарга",
-        "accusative": "бактарды",
-        "locative": "бактарда",
-        "ablative": "бактардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цистерна-001"
   },
   {
     "ru": "цирконий",
@@ -2654,26 +1229,7 @@
     "senses": [
       "chemical element"
     ],
-    "id": "ru-цирконий-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цирконийдин",
-        "dative": "цирконийге",
-        "accusative": "цирконийди",
-        "locative": "цирконийде",
-        "ablative": "цирконийден"
-      },
-      "pluralForms": {
-        "genitive": "цирконийлердин",
-        "dative": "цирконийлерге",
-        "accusative": "цирконийлерди",
-        "locative": "цирконийлерде",
-        "ablative": "цирконийлерден"
-      },
-      "rule": "Основа на звонкую согласную -й, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирконий-001"
   },
   {
     "ru": "целовать",
@@ -2747,26 +1303,7 @@
     "ruAccented": "центр",
     "ruGender": "m",
     "frequency": 686,
-    "id": "ru-центр-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "борбордун",
-        "dative": "борборго",
-        "accusative": "борборду",
-        "locative": "борбордо",
-        "ablative": "борбордон"
-      },
-      "pluralForms": {
-        "genitive": "борборлордун",
-        "dative": "борборлорго",
-        "accusative": "борборлорду",
-        "locative": "борборлордо",
-        "ablative": "борборлордон"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-центр-001"
   },
   {
     "ru": "центр",
@@ -2791,26 +1328,7 @@
     "ruAccented": "центр",
     "ruGender": "m",
     "frequency": 1348,
-    "id": "ru-центр-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "ортонун",
-        "dative": "ортого",
-        "accusative": "ортону",
-        "locative": "ортодо",
-        "ablative": "ортодон"
-      },
-      "pluralForms": {
-        "genitive": "ортолордун",
-        "dative": "ортолорго",
-        "accusative": "ортолорду",
-        "locative": "ортолордо",
-        "ablative": "ортолордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-центр-002"
   },
   {
     "ru": "центр",
@@ -2823,26 +1341,7 @@
     ],
     "ruAccented": "центр",
     "ruGender": "m",
-    "id": "ru-центр-003",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "центрдин",
-        "dative": "центрге",
-        "accusative": "центрди",
-        "locative": "центрде",
-        "ablative": "центрден"
-      },
-      "pluralForms": {
-        "genitive": "центрлердин",
-        "dative": "центрлерге",
-        "accusative": "центрлерди",
-        "locative": "центрлерде",
-        "ablative": "центрлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-центр-003"
   },
   {
     "ru": "Цюрих",
@@ -2855,26 +1354,7 @@
     ],
     "ruAccented": "Цю'рих",
     "ruGender": "m",
-    "id": "ru-Цюрих-002",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "Цүрихтин",
-        "dative": "Цүрихке",
-        "accusative": "Цүрихти",
-        "locative": "Цүрихте",
-        "ablative": "Цүрихтен"
-      },
-      "pluralForms": {
-        "genitive": "Цүрихтердин",
-        "dative": "Цүрихтерге",
-        "accusative": "Цүрихтерди",
-        "locative": "Цүрихтерде",
-        "ablative": "Цүрихтерден"
-      },
-      "rule": "Основа на глухую согласную -х, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-Цюрих-002"
   },
   {
     "ru": "цель",
@@ -2888,26 +1368,7 @@
     "ruAccented": "цель",
     "ruGender": "f",
     "frequency": 54,
-    "id": "ru-цель-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "бутанын",
-        "dative": "бутага",
-        "accusative": "бутаны",
-        "locative": "бутада",
-        "ablative": "бутадан"
-      },
-      "pluralForms": {
-        "genitive": "буталардын",
-        "dative": "буталарга",
-        "accusative": "буталарды",
-        "locative": "буталарда",
-        "ablative": "буталардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цель-002"
   },
   {
     "ru": "цирюльник",
@@ -2920,26 +1381,7 @@
     ],
     "ruAccented": "цирю'льник",
     "ruGender": "m",
-    "id": "ru-цирюльник-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "чачтарачтын",
-        "dative": "чачтарачка",
-        "accusative": "чачтарачты",
-        "locative": "чачтарачта",
-        "ablative": "чачтарачтан"
-      },
-      "pluralForms": {
-        "genitive": "чачтарачтардын",
-        "dative": "чачтарачтарга",
-        "accusative": "чачтарачтарды",
-        "locative": "чачтарачтарда",
-        "ablative": "чачтарачтардан"
-      },
-      "rule": "Основа на глухую согласную -ч, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цирюльник-001"
   },
   {
     "ru": "цирюльник",
@@ -2952,26 +1394,7 @@
     ],
     "ruAccented": "цирю'льник",
     "ruGender": "m",
-    "id": "ru-цирюльник-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "парикмахердин",
-        "dative": "парикмахерге",
-        "accusative": "парикмахерди",
-        "locative": "парикмахерде",
-        "ablative": "парикмахерден"
-      },
-      "pluralForms": {
-        "genitive": "парикмахерлердин",
-        "dative": "парикмахерлерге",
-        "accusative": "парикмахерлерди",
-        "locative": "парикмахерлерде",
-        "ablative": "парикмахерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирюльник-002"
   },
   {
     "ru": "цирюльница",
@@ -2982,26 +1405,7 @@
     "senses": [
       "person whose profession is cutting (usually male) customers' hair and beards"
     ],
-    "id": "ru-цирюльница-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "чачтарачтын",
-        "dative": "чачтарачка",
-        "accusative": "чачтарачты",
-        "locative": "чачтарачта",
-        "ablative": "чачтарачтан"
-      },
-      "pluralForms": {
-        "genitive": "чачтарачтардын",
-        "dative": "чачтарачтарга",
-        "accusative": "чачтарачтарды",
-        "locative": "чачтарачтарда",
-        "ablative": "чачтарачтардан"
-      },
-      "rule": "Основа на глухую согласную -ч, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цирюльница-001"
   },
   {
     "ru": "цирюльница",
@@ -3012,26 +1416,7 @@
     "senses": [
       "person whose profession is cutting (usually male) customers' hair and beards"
     ],
-    "id": "ru-цирюльница-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "парикмахердин",
-        "dative": "парикмахерге",
-        "accusative": "парикмахерди",
-        "locative": "парикмахерде",
-        "ablative": "парикмахерден"
-      },
-      "pluralForms": {
-        "genitive": "парикмахерлердин",
-        "dative": "парикмахерлерге",
-        "accusative": "парикмахерлерди",
-        "locative": "парикмахерлерде",
-        "ablative": "парикмахерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирюльница-002"
   },
   {
     "ru": "цент",
@@ -3044,26 +1429,7 @@
     ],
     "ruAccented": "цент",
     "ruGender": "m",
-    "id": "ru-цент-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "центтин",
-        "dative": "центке",
-        "accusative": "центти",
-        "locative": "центте",
-        "ablative": "центтен"
-      },
-      "pluralForms": {
-        "genitive": "центтердин",
-        "dative": "центтерге",
-        "accusative": "центтерди",
-        "locative": "центтерде",
-        "ablative": "центтерден"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цент-001"
   },
   {
     "ru": "царь",
@@ -3076,26 +1442,7 @@
     ],
     "ruAccented": "царь",
     "ruGender": "m",
-    "id": "ru-царь-005",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "царьдын",
-        "dative": "царьга",
-        "accusative": "царьды",
-        "locative": "царьда",
-        "ablative": "царьдан"
-      },
-      "pluralForms": {
-        "genitive": "царьдардын",
-        "dative": "царьдарга",
-        "accusative": "царьдарды",
-        "locative": "царьдарда",
-        "ablative": "царьдардан"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царь-005"
   },
   {
     "ru": "царица",
@@ -3108,26 +1455,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-006",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "канышанын",
-        "dative": "канышага",
-        "accusative": "канышаны",
-        "locative": "канышада",
-        "ablative": "канышадан"
-      },
-      "pluralForms": {
-        "genitive": "канышалардын",
-        "dative": "канышаларга",
-        "accusative": "канышаларды",
-        "locative": "канышаларда",
-        "ablative": "канышалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-006"
   },
   {
     "ru": "царица",
@@ -3140,26 +1468,7 @@
     ],
     "ruAccented": "цари'ца",
     "ruGender": "f",
-    "id": "ru-царица-007",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "царицанын",
-        "dative": "царицага",
-        "accusative": "царицаны",
-        "locative": "царицада",
-        "ablative": "царицадан"
-      },
-      "pluralForms": {
-        "genitive": "царицалардын",
-        "dative": "царицаларга",
-        "accusative": "царицаларды",
-        "locative": "царицаларда",
-        "ablative": "царицалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царица-007"
   },
   {
     "ru": "ценность",
@@ -3180,26 +1489,7 @@
     ],
     "ruAccented": "це'нность",
     "ruGender": "f",
-    "id": "ru-ценность-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "баалуулуктун",
-        "dative": "баалуулукко",
-        "accusative": "баалуулукту",
-        "locative": "баалуулукто",
-        "ablative": "баалуулуктон"
-      },
-      "pluralForms": {
-        "genitive": "баалуулуктордун",
-        "dative": "баалуулукторго",
-        "accusative": "баалуулукторду",
-        "locative": "баалуулуктордо",
-        "ablative": "баалуулуктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-ценность-001"
   },
   {
     "ru": "ценность",
@@ -3224,26 +1514,7 @@
     "ruAccented": "це'нность",
     "ruGender": "f",
     "frequency": 685,
-    "id": "ru-ценность-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "маанинин",
-        "dative": "мааниге",
-        "accusative": "маанини",
-        "locative": "мааниде",
-        "ablative": "мааниден"
-      },
-      "pluralForms": {
-        "genitive": "маанилердин",
-        "dative": "маанилерге",
-        "accusative": "маанилерди",
-        "locative": "маанилерде",
-        "ablative": "маанилерден"
-      },
-      "rule": "Основа на гласную -и, гласная группа 2 (е/и) → суффиксы с -н-/-л-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-ценность-002"
   },
   {
     "ru": "ценный",
@@ -3281,26 +1552,7 @@
     ],
     "ruAccented": "цвете'ние",
     "ruGender": "n",
-    "id": "ru-цветение-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "гүлдөп турган маалдын",
-        "dative": "гүлдөп турган маалга",
-        "accusative": "гүлдөп турган маалды",
-        "locative": "гүлдөп турган маалда",
-        "ablative": "гүлдөп турган маалдан"
-      },
-      "pluralForms": {
-        "genitive": "гүлдөп турган маалдардын",
-        "dative": "гүлдөп турган маалдарга",
-        "accusative": "гүлдөп турган маалдарды",
-        "locative": "гүлдөп турган маалдарда",
-        "ablative": "гүлдөп турган маалдардан"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цветение-001"
   },
   {
     "ru": "цвет",
@@ -3313,26 +1565,7 @@
     ],
     "ruAccented": "цвет",
     "ruGender": "m",
-    "id": "ru-цвет-003",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "гүлдөп турган маалдын",
-        "dative": "гүлдөп турган маалга",
-        "accusative": "гүлдөп турган маалды",
-        "locative": "гүлдөп турган маалда",
-        "ablative": "гүлдөп турган маалдан"
-      },
-      "pluralForms": {
-        "genitive": "гүлдөп турган маалдардын",
-        "dative": "гүлдөп турган маалдарга",
-        "accusative": "гүлдөп турган маалдарды",
-        "locative": "гүлдөп турган маалдарда",
-        "ablative": "гүлдөп турган маалдардан"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цвет-003"
   },
   {
     "ru": "цвести",
@@ -3371,26 +1604,7 @@
     "ruAccented": "цензу'ра",
     "ruGender": "f",
     "frequency": 5,
-    "id": "ru-цензура-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цензуранын",
-        "dative": "цензурага",
-        "accusative": "цензураны",
-        "locative": "цензурада",
-        "ablative": "цензурадан"
-      },
-      "pluralForms": {
-        "genitive": "цензуралардын",
-        "dative": "цензураларга",
-        "accusative": "цензураларды",
-        "locative": "цензураларда",
-        "ablative": "цензуралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цензура-001"
   },
   {
     "ru": "цирик",
@@ -3408,26 +1622,7 @@
       }
     ],
     "frequency": 58,
-    "id": "ru-цирик-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "жоокердин",
-        "dative": "жоокерге",
-        "accusative": "жоокерди",
-        "locative": "жоокерде",
-        "ablative": "жоокерден"
-      },
-      "pluralForms": {
-        "genitive": "жоокерлердин",
-        "dative": "жоокерлерге",
-        "accusative": "жоокерлерди",
-        "locative": "жоокерлерде",
-        "ablative": "жоокерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирик-001"
   },
   {
     "ru": "цирик",
@@ -3439,26 +1634,7 @@
       "member of an army"
     ],
     "etymology": "From Proto-Turkic *čerig. Cognate to Southern Altai черӱ (čerü), etc.",
-    "id": "ru-цирик-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "черүүнүн",
-        "dative": "черүүгө",
-        "accusative": "черүүнү",
-        "locative": "черүүдө",
-        "ablative": "черүүдөн"
-      },
-      "pluralForms": {
-        "genitive": "черүүлөрдүн",
-        "dative": "черүүлөргө",
-        "accusative": "черүүлөрдү",
-        "locative": "черүүлөрдө",
-        "ablative": "черүүлөрдөн"
-      },
-      "rule": "Основа на гласную -ү, гласная группа 4 (ө/ү) → суффиксы с -н-/-л-, гласные ө/ү (гармония гласных)"
-    }
+    "id": "ru-цирик-002"
   },
   {
     "ru": "цирик",
@@ -3469,26 +1645,7 @@
     "senses": [
       "member of an army"
     ],
-    "id": "ru-цирик-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "чериктин",
-        "dative": "черикке",
-        "accusative": "черикти",
-        "locative": "черикте",
-        "ablative": "чериктен"
-      },
-      "pluralForms": {
-        "genitive": "чериктердин",
-        "dative": "чериктерге",
-        "accusative": "чериктерди",
-        "locative": "чериктерде",
-        "ablative": "чериктерден"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 2 (е/и) → суффиксы с -т-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирик-003"
   },
   {
     "ru": "цирик",
@@ -3500,26 +1657,7 @@
       "member of an army"
     ],
     "frequency": 123,
-    "id": "ru-цирик-004",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "солдаттын",
-        "dative": "солдатка",
-        "accusative": "солдатты",
-        "locative": "солдатта",
-        "ablative": "солдаттан"
-      },
-      "pluralForms": {
-        "genitive": "солдаттардын",
-        "dative": "солдаттарга",
-        "accusative": "солдаттарды",
-        "locative": "солдаттарда",
-        "ablative": "солдаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цирик-004"
   },
   {
     "ru": "цирик",
@@ -3541,26 +1679,7 @@
       }
     ],
     "frequency": 1097,
-    "id": "ru-цирик-005",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "аскердин",
-        "dative": "аскерге",
-        "accusative": "аскерди",
-        "locative": "аскерде",
-        "ablative": "аскерден"
-      },
-      "pluralForms": {
-        "genitive": "аскерлердин",
-        "dative": "аскерлерге",
-        "accusative": "аскерлерди",
-        "locative": "аскерлерде",
-        "ablative": "аскерлерден"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цирик-005"
   },
   {
     "ru": "циркумцизия",
@@ -3574,64 +1693,7 @@
     "etymology": "From Arabic سُنَّة (sunna). Cognates with Kazakh сүннет (sünnet), Turkish sünnet.",
     "pronunciation": "/synˈnøt/",
     "frequency": 15,
-    "id": "ru-циркумцизия-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 4,
-      "forms": {
-        "genitive": "сүннөттүн",
-        "dative": "сүннөткө",
-        "accusative": "сүннөттү",
-        "locative": "сүннөттө",
-        "ablative": "сүннөттөн"
-      },
-      "pluralForms": {
-        "genitive": "сүннөттөрдүн",
-        "dative": "сүннөттөргө",
-        "accusative": "сүннөттөрдү",
-        "locative": "сүннөттөрдө",
-        "ablative": "сүннөттөрдөн"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 4 (ө/ү) → суффиксы с -т-, гласные ө/ү (гармония гласных)"
-    }
-  },
-  {
-    "ru": "цацка",
-    "ky": "оюнчук",
-    "pos": "noun",
-    "source": "wiktionary-en",
-    "wiktionaryUrl": "https://en.wiktionary.org/wiki/%D0%BE%D1%8E%D0%BD%D1%87%D1%83%D0%BA",
-    "senses": [
-      "something to play with"
-    ],
-    "etymology": "From Proto-Turkic *oy- +-чук (-cuk).",
-    "examples": [
-      {
-        "ky": "Эми минтип 20-жылдан кийин, советтик чиновниктер азыркы чиновниктерге салыштырмалуу оюнчук",
-        "ru": "А спустя 20 лет оказалось, что советские чиновники по части коррупции – просто дети по сравнению с чиновниками"
-      }
-    ],
-    "frequency": 12,
-    "id": "ru-цацка-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "оюнчуктун",
-        "dative": "оюнчукко",
-        "accusative": "оюнчукту",
-        "locative": "оюнчукто",
-        "ablative": "оюнчуктон"
-      },
-      "pluralForms": {
-        "genitive": "оюнчуктордун",
-        "dative": "оюнчукторго",
-        "accusative": "оюнчукторду",
-        "locative": "оюнчуктордо",
-        "ablative": "оюнчуктордон"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 3 (о/у) → суффиксы с -т-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-циркумцизия-001"
   },
   {
     "ru": "церемония",
@@ -3645,26 +1707,7 @@
     "ruAccented": "церемо'ния",
     "ruGender": "f",
     "frequency": 38,
-    "id": "ru-церемония-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "аземдин",
-        "dative": "аземге",
-        "accusative": "аземди",
-        "locative": "аземде",
-        "ablative": "аземден"
-      },
-      "pluralForms": {
-        "genitive": "аземдердин",
-        "dative": "аземдерге",
-        "accusative": "аземдерди",
-        "locative": "аземдерде",
-        "ablative": "аземдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-церемония-001"
   },
   {
     "ru": "церковное государство",
@@ -3675,26 +1718,7 @@
     "senses": [
       "government under the control of a Church"
     ],
-    "id": "ru-церковное государство-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "теократиянын",
-        "dative": "теократияга",
-        "accusative": "теократияны",
-        "locative": "теократияда",
-        "ablative": "теократиядан"
-      },
-      "pluralForms": {
-        "genitive": "теократиялардын",
-        "dative": "теократияларга",
-        "accusative": "теократияларды",
-        "locative": "теократияларда",
-        "ablative": "теократиялардан"
-      },
-      "rule": "Основа на гласную -я, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-церковное государство-001"
   },
   {
     "ru": "целковый",
@@ -3718,26 +1742,7 @@
     ],
     "ruAccented": "целко'вый",
     "frequency": 546,
-    "id": "ru-целковый-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "сомдун",
-        "dative": "сомго",
-        "accusative": "сомду",
-        "locative": "сомдо",
-        "ablative": "сомдон"
-      },
-      "pluralForms": {
-        "genitive": "сомдордун",
-        "dative": "сомдорго",
-        "accusative": "сомдорду",
-        "locative": "сомдордо",
-        "ablative": "сомдордон"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-целковый-001"
   },
   {
     "ru": "целковый",
@@ -3755,26 +1760,7 @@
       }
     ],
     "ruAccented": "целко'вый",
-    "id": "ru-целковый-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "рубльдун",
-        "dative": "рубльго",
-        "accusative": "рубльду",
-        "locative": "рубльдо",
-        "ablative": "рубльдон"
-      },
-      "pluralForms": {
-        "genitive": "рубльдордун",
-        "dative": "рубльдорго",
-        "accusative": "рубльдорду",
-        "locative": "рубльдордо",
-        "ablative": "рубльдордон"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-целковый-002"
   },
   {
     "ru": "царствование",
@@ -3790,26 +1776,7 @@
     "ruAccented": "ца'рствование",
     "ruGender": "n",
     "frequency": 14,
-    "id": "ru-царствование-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "падышалыктын",
-        "dative": "падышалыкка",
-        "accusative": "падышалыкты",
-        "locative": "падышалыкта",
-        "ablative": "падышалыктан"
-      },
-      "pluralForms": {
-        "genitive": "падышалыктардын",
-        "dative": "падышалыктарга",
-        "accusative": "падышалыктарды",
-        "locative": "падышалыктарда",
-        "ablative": "падышалыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-царствование-001"
   },
   {
     "ru": "царствовать",
@@ -3841,26 +1808,7 @@
     "ruAccented": "Царьгра'д",
     "ruGender": "m",
     "frequency": 10,
-    "id": "ru-Царьград-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Стамбулдун",
-        "dative": "Стамбулго",
-        "accusative": "Стамбулду",
-        "locative": "Стамбулдо",
-        "ablative": "Стамбулдон"
-      },
-      "pluralForms": {
-        "genitive": "Стамбулдордун",
-        "dative": "Стамбулдорго",
-        "accusative": "Стамбулдорду",
-        "locative": "Стамбулдордо",
-        "ablative": "Стамбулдордон"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Царьград-001"
   },
   {
     "ru": "Царьград",
@@ -3873,26 +1821,7 @@
     ],
     "ruAccented": "Царьгра'д",
     "ruGender": "m",
-    "id": "ru-Царьград-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Ыстанбулдун",
-        "dative": "Ыстанбулго",
-        "accusative": "Ыстанбулду",
-        "locative": "Ыстанбулдо",
-        "ablative": "Ыстанбулдон"
-      },
-      "pluralForms": {
-        "genitive": "Ыстанбулдордун",
-        "dative": "Ыстанбулдорго",
-        "accusative": "Ыстанбулдорду",
-        "locative": "Ыстанбулдордо",
-        "ablative": "Ыстанбулдордон"
-      },
-      "rule": "Основа на звонкую согласную -л, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Царьград-002"
   },
   {
     "ru": "цифровой",
@@ -3986,26 +1915,7 @@
     "senses": [
       "condition in which the ability to see colors is impaired"
     ],
-    "id": "ru-цветовая слепота-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "дальтонизмдин",
-        "dative": "дальтонизмге",
-        "accusative": "дальтонизмди",
-        "locative": "дальтонизмде",
-        "ablative": "дальтонизмден"
-      },
-      "pluralForms": {
-        "genitive": "дальтонизмдердин",
-        "dative": "дальтонизмдерге",
-        "accusative": "дальтонизмдерди",
-        "locative": "дальтонизмдерде",
-        "ablative": "дальтонизмдерден"
-      },
-      "rule": "Основа на звонкую согласную -м, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цветовая слепота-001"
   },
   {
     "ru": "цветовая слепота",
@@ -4016,26 +1926,7 @@
     "senses": [
       "condition in which the ability to see colors is impaired"
     ],
-    "id": "ru-цветовая слепота-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "түс тааныбоонун",
-        "dative": "түс тааныбоого",
-        "accusative": "түс тааныбоону",
-        "locative": "түс тааныбоодо",
-        "ablative": "түс тааныбоодон"
-      },
-      "pluralForms": {
-        "genitive": "түс тааныбоолордун",
-        "dative": "түс тааныбоолорго",
-        "accusative": "түс тааныбоолорду",
-        "locative": "түс тааныбоолордо",
-        "ablative": "түс тааныбоолордон"
-      },
-      "rule": "Основа на гласную -о, гласная группа 3 (о/у) → суффиксы с -н-/-л-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-цветовая слепота-002"
   },
   {
     "ru": "цыган",
@@ -4048,26 +1939,7 @@
     ],
     "ruAccented": "цыга'н",
     "ruGender": "m",
-    "id": "ru-цыган-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "сыгандын",
-        "dative": "сыганга",
-        "accusative": "сыганды",
-        "locative": "сыганда",
-        "ablative": "сыгандан"
-      },
-      "pluralForms": {
-        "genitive": "сыгандардын",
-        "dative": "сыгандарга",
-        "accusative": "сыгандарды",
-        "locative": "сыгандарда",
-        "ablative": "сыгандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цыган-001"
   },
   {
     "ru": "цыган",
@@ -4080,26 +1952,7 @@
     ],
     "ruAccented": "цыга'н",
     "ruGender": "m",
-    "id": "ru-цыган-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цыгандын",
-        "dative": "цыганга",
-        "accusative": "цыганды",
-        "locative": "цыганда",
-        "ablative": "цыгандан"
-      },
-      "pluralForms": {
-        "genitive": "цыгандардын",
-        "dative": "цыгандарга",
-        "accusative": "цыгандарды",
-        "locative": "цыгандарда",
-        "ablative": "цыгандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цыган-002"
   },
   {
     "ru": "цыганка",
@@ -4112,26 +1965,7 @@
     ],
     "ruAccented": "цыга'нка",
     "ruGender": "f",
-    "id": "ru-цыганка-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "сыгандын",
-        "dative": "сыганга",
-        "accusative": "сыганды",
-        "locative": "сыганда",
-        "ablative": "сыгандан"
-      },
-      "pluralForms": {
-        "genitive": "сыгандардын",
-        "dative": "сыгандарга",
-        "accusative": "сыгандарды",
-        "locative": "сыгандарда",
-        "ablative": "сыгандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цыганка-001"
   },
   {
     "ru": "цыганка",
@@ -4144,26 +1978,7 @@
     ],
     "ruAccented": "цыга'нка",
     "ruGender": "f",
-    "id": "ru-цыганка-002",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цыгандын",
-        "dative": "цыганга",
-        "accusative": "цыганды",
-        "locative": "цыганда",
-        "ablative": "цыгандан"
-      },
-      "pluralForms": {
-        "genitive": "цыгандардын",
-        "dative": "цыгандарга",
-        "accusative": "цыгандарды",
-        "locative": "цыгандарда",
-        "ablative": "цыгандардан"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цыганка-002"
   },
   {
     "ru": "Цезарь",
@@ -4174,26 +1989,7 @@
     "senses": [
       "ancient Roman family name"
     ],
-    "id": "ru-Цезарь-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Цезарьдын",
-        "dative": "Цезарьга",
-        "accusative": "Цезарьды",
-        "locative": "Цезарьда",
-        "ablative": "Цезарьдан"
-      },
-      "pluralForms": {
-        "genitive": "Цезарьдардын",
-        "dative": "Цезарьдарга",
-        "accusative": "Цезарьдарды",
-        "locative": "Цезарьдарда",
-        "ablative": "Цезарьдардан"
-      },
-      "rule": "Основа на звонкую согласную -ь, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Цезарь-001"
   },
   {
     "ru": "Церера",
@@ -4204,26 +2000,7 @@
     "senses": [
       "asteroid"
     ],
-    "id": "ru-Церера-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Цереранын",
-        "dative": "Церерага",
-        "accusative": "Церераны",
-        "locative": "Церерада",
-        "ablative": "Церерадан"
-      },
-      "pluralForms": {
-        "genitive": "Церералардын",
-        "dative": "Церераларга",
-        "accusative": "Церераларды",
-        "locative": "Церераларда",
-        "ablative": "Церералардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Церера-001"
   },
   {
     "ru": "цистеин",
@@ -4234,26 +2011,7 @@
     "senses": [
       "nonessential amino acid"
     ],
-    "id": "ru-цистеин-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 2,
-      "forms": {
-        "genitive": "цистеиндин",
-        "dative": "цистеинге",
-        "accusative": "цистеинди",
-        "locative": "цистеинде",
-        "ablative": "цистеинден"
-      },
-      "pluralForms": {
-        "genitive": "цистеиндердин",
-        "dative": "цистеиндерге",
-        "accusative": "цистеиндерди",
-        "locative": "цистеиндерде",
-        "ablative": "цистеиндерден"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 2 (е/и) → суффиксы с -д-, гласные е/и (гармония гласных)"
-    }
+    "id": "ru-цистеин-001"
   },
   {
     "ru": "цистерна",
@@ -4266,26 +2024,7 @@
     ],
     "ruAccented": "цисте'рна",
     "ruGender": "f",
-    "id": "ru-цистерна-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "цистернанын",
-        "dative": "цистернага",
-        "accusative": "цистернаны",
-        "locative": "цистернада",
-        "ablative": "цистернадан"
-      },
-      "pluralForms": {
-        "genitive": "цистерналардын",
-        "dative": "цистерналарга",
-        "accusative": "цистерналарды",
-        "locative": "цистерналарда",
-        "ablative": "цистерналардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цистерна-002"
   },
   {
     "ru": "Цицерон",
@@ -4296,26 +2035,7 @@
     "senses": [
       "Roman statesman and orator"
     ],
-    "id": "ru-Цицерон-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 3,
-      "forms": {
-        "genitive": "Цицерондун",
-        "dative": "Цицеронго",
-        "accusative": "Цицеронду",
-        "locative": "Цицерондо",
-        "ablative": "Цицерондон"
-      },
-      "pluralForms": {
-        "genitive": "Цицерондордун",
-        "dative": "Цицерондорго",
-        "accusative": "Цицерондорду",
-        "locative": "Цицерондордо",
-        "ablative": "Цицерондордон"
-      },
-      "rule": "Основа на звонкую согласную -н, гласная группа 3 (о/у) → суффиксы с -д-, гласные о/у (гармония гласных)"
-    }
+    "id": "ru-Цицерон-001"
   },
   {
     "ru": "целомудрие",
@@ -4328,26 +2048,7 @@
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
-    "id": "ru-целомудрие-003",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "пакизалыктын",
-        "dative": "пакизалыкка",
-        "accusative": "пакизалыкты",
-        "locative": "пакизалыкта",
-        "ablative": "пакизалыктан"
-      },
-      "pluralForms": {
-        "genitive": "пакизалыктардын",
-        "dative": "пакизалыктарга",
-        "accusative": "пакизалыктарды",
-        "locative": "пакизалыктарда",
-        "ablative": "пакизалыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-целомудрие-003"
   },
   {
     "ru": "целомудрие",
@@ -4367,26 +2068,7 @@
     "ruAccented": "целому'дрие",
     "ruGender": "n",
     "frequency": 28,
-    "id": "ru-целомудрие-004",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "тазалыктын",
-        "dative": "тазалыкка",
-        "accusative": "тазалыкты",
-        "locative": "тазалыкта",
-        "ablative": "тазалыктан"
-      },
-      "pluralForms": {
-        "genitive": "тазалыктардын",
-        "dative": "тазалыктарга",
-        "accusative": "тазалыктарды",
-        "locative": "тазалыктарда",
-        "ablative": "тазалыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-целомудрие-004"
   },
   {
     "ru": "целомудрие",
@@ -4399,26 +2081,7 @@
     ],
     "ruAccented": "целому'дрие",
     "ruGender": "n",
-    "id": "ru-целомудрие-005",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кыздыктын",
-        "dative": "кыздыкка",
-        "accusative": "кыздыкты",
-        "locative": "кыздыкта",
-        "ablative": "кыздыктан"
-      },
-      "pluralForms": {
-        "genitive": "кыздыктардын",
-        "dative": "кыздыктарга",
-        "accusative": "кыздыктарды",
-        "locative": "кыздыктарда",
-        "ablative": "кыздыктардан"
-      },
-      "rule": "Основа на глухую согласную -к, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-целомудрие-005"
   },
   {
     "ru": "цветник",
@@ -4431,26 +2094,7 @@
     ],
     "ruAccented": "цветни'к",
     "ruGender": "m",
-    "id": "ru-цветник-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "гүлзардын",
-        "dative": "гүлзарга",
-        "accusative": "гүлзарды",
-        "locative": "гүлзарда",
-        "ablative": "гүлзардан"
-      },
-      "pluralForms": {
-        "genitive": "гүлзарлардын",
-        "dative": "гүлзарларга",
-        "accusative": "гүлзарларды",
-        "locative": "гүлзарларда",
-        "ablative": "гүлзарлардан"
-      },
-      "rule": "Основа на звонкую согласную -р, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цветник-001"
   },
   {
     "ru": "циферблат",
@@ -4463,26 +2107,7 @@
     ],
     "ruAccented": "цифербла'т",
     "ruGender": "m",
-    "id": "ru-циферблат-001",
-    "morphology": {
-      "stemType": "voiceless",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "циферблаттын",
-        "dative": "циферблатка",
-        "accusative": "циферблатты",
-        "locative": "циферблатта",
-        "ablative": "циферблаттан"
-      },
-      "pluralForms": {
-        "genitive": "циферблаттардын",
-        "dative": "циферблаттарга",
-        "accusative": "циферблаттарды",
-        "locative": "циферблаттарда",
-        "ablative": "циферблаттардан"
-      },
-      "rule": "Основа на глухую согласную -т, гласная группа 1 (а/ы) → суффиксы с -т-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-циферблат-001"
   },
   {
     "ru": "церебральный паралич",
@@ -4493,26 +2118,7 @@
     "senses": [
       "group of non-contagious conditions"
     ],
-    "id": "ru-церебральный паралич-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "балдардын церебралдык шалынын",
-        "dative": "балдардын церебралдык шалыга",
-        "accusative": "балдардын церебралдык шалыны",
-        "locative": "балдардын церебралдык шалыда",
-        "ablative": "балдардын церебралдык шалыдан"
-      },
-      "pluralForms": {
-        "genitive": "балдардын церебралдык шалылардын",
-        "dative": "балдардын церебралдык шалыларга",
-        "accusative": "балдардын церебралдык шалыларды",
-        "locative": "балдардын церебралдык шалыларда",
-        "ablative": "балдардын церебралдык шалылардан"
-      },
-      "rule": "Основа на гласную -ы, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-церебральный паралич-001"
   },
   {
     "ru": "цветочный горшок",
@@ -4523,26 +2129,7 @@
     "senses": [
       "container in which plants are grown"
     ],
-    "id": "ru-цветочный горшок-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "кумуранын",
-        "dative": "кумурага",
-        "accusative": "кумураны",
-        "locative": "кумурада",
-        "ablative": "кумурадан"
-      },
-      "pluralForms": {
-        "genitive": "кумуралардын",
-        "dative": "кумураларга",
-        "accusative": "кумураларды",
-        "locative": "кумураларда",
-        "ablative": "кумуралардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цветочный горшок-001"
   },
   {
     "ru": "цветочный горшок",
@@ -4553,26 +2140,7 @@
     "senses": [
       "container in which plants are grown"
     ],
-    "id": "ru-цветочный горшок-002",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "карапанын",
-        "dative": "карапага",
-        "accusative": "карапаны",
-        "locative": "карапада",
-        "ablative": "карападан"
-      },
-      "pluralForms": {
-        "genitive": "карапалардын",
-        "dative": "карапаларга",
-        "accusative": "карапаларды",
-        "locative": "карапаларда",
-        "ablative": "карапалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-цветочный горшок-002"
   },
   {
     "ru": "Центральная Европа",
@@ -4583,26 +2151,7 @@
     "senses": [
       "geographical region in the center of Europe"
     ],
-    "id": "ru-Центральная Европа-001",
-    "morphology": {
-      "stemType": "vowel",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "Борбордук Европанын",
-        "dative": "Борбордук Европага",
-        "accusative": "Борбордук Европаны",
-        "locative": "Борбордук Европада",
-        "ablative": "Борбордук Европадан"
-      },
-      "pluralForms": {
-        "genitive": "Борбордук Европалардын",
-        "dative": "Борбордук Европаларга",
-        "accusative": "Борбордук Европаларды",
-        "locative": "Борбордук Европаларда",
-        "ablative": "Борбордук Европалардан"
-      },
-      "rule": "Основа на гласную -а, гласная группа 1 (а/ы) → суффиксы с -н-/-л-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-Центральная Европа-001"
   },
   {
     "ru": "целина",
@@ -4621,25 +2170,6 @@
     ],
     "ruAccented": "целина'",
     "ruGender": "f",
-    "id": "ru-целина-001",
-    "morphology": {
-      "stemType": "voiced",
-      "vowelGroup": 1,
-      "forms": {
-        "genitive": "дыңдын",
-        "dative": "дыңга",
-        "accusative": "дыңды",
-        "locative": "дыңда",
-        "ablative": "дыңдан"
-      },
-      "pluralForms": {
-        "genitive": "дыңдардын",
-        "dative": "дыңдарга",
-        "accusative": "дыңдарды",
-        "locative": "дыңдарда",
-        "ablative": "дыңдардан"
-      },
-      "rule": "Основа на звонкую согласную -ң, гласная группа 1 (а/ы) → суффиксы с -д-, гласные а/ы (гармония гласных)"
-    }
+    "id": "ru-целина-001"
   }
 ]
