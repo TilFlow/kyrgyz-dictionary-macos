@@ -914,21 +914,26 @@ function generateMergedEnKyEntry(
   const headword = direction === "en-ky" ? primary.en : primary.ky;
   const titleField = headword;
 
-  // Collect all indices from all entries
+  // Collect indices — only for the source language of each direction
   const allIndexValues = new Set<string>();
   for (const entry of group) {
-    allIndexValues.add(entry.en);
-    allIndexValues.add(entry.ky);
-    if (entry.pos === "noun") {
-      const stem = classifyStem(entry.ky);
-      allIndexValues.add(generatePlural(entry.ky, stem));
-      for (const form of generatePossessiveCaseForms(entry.ky, stem)) allIndexValues.add(form);
-      for (const form of generateAttributiveForms(entry.ky, stem)) allIndexValues.add(form);
-      for (const form of generatePluralCaseForms(entry.ky, stem)) allIndexValues.add(form);
-      for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) allIndexValues.add(form);
-    }
-    if (entry.pos === "verb") {
-      for (const form of generateVerbForms(entry.ky)) allIndexValues.add(form);
+    if (direction === "en-ky") {
+      // English-Kyrgyz: only index English words
+      allIndexValues.add(entry.en);
+    } else {
+      // Kyrgyz-English: index Kyrgyz words + morphological forms
+      allIndexValues.add(entry.ky);
+      if (entry.pos === "noun") {
+        const stem = classifyStem(entry.ky);
+        allIndexValues.add(generatePlural(entry.ky, stem));
+        for (const form of generatePossessiveCaseForms(entry.ky, stem)) allIndexValues.add(form);
+        for (const form of generateAttributiveForms(entry.ky, stem)) allIndexValues.add(form);
+        for (const form of generatePluralCaseForms(entry.ky, stem)) allIndexValues.add(form);
+        for (const form of generatePluralPossessiveCaseForms(entry.ky, stem)) allIndexValues.add(form);
+      }
+      if (entry.pos === "verb") {
+        for (const form of generateVerbForms(entry.ky)) allIndexValues.add(form);
+      }
     }
   }
   const indices = Array.from(allIndexValues)
@@ -941,7 +946,7 @@ function generateMergedEnKyEntry(
   // Compact view
   const compactParts: string[] = [];
   compactParts.push(`<h1 class="hw">${escapeXml(headword)}</h1>`);
-  if (primary.pronunciation) {
+  if (direction === "ky-en" && primary.pronunciation) {
     compactParts.push(`<span class="pronunciation">${escapeXml(primary.pronunciation)}</span>`);
   }
   if (posLabels.length > 0) {
@@ -973,11 +978,12 @@ function generateMergedEnKyEntry(
     sections.push(`<p class="sense"><em>${allSenses.map((s) => escapeXml(s)).join("; ")}</em></p>`);
   }
 
-  // Pronunciation
+  // Pronunciation (Kyrgyz word pronunciation from Wiktionary)
   if (primary.pronunciation) {
+    const pronLabel = direction === "en-ky" ? "Kyrgyz Pronunciation" : "Pronunciation";
     sections.push(
       `<div class="section">
-<h3 class="section-header">Pronunciation</h3>
+<h3 class="section-header">${pronLabel}</h3>
 <p class="pronunciation">${escapeXml(primary.pronunciation)}</p>
 </div>`
     );
@@ -1003,12 +1009,13 @@ ${exItems}
     sections.push(`<p class="frequency">Corpus frequency: ${maxFreq}</p>`);
   }
 
-  // Etymology — first available
+  // Etymology — first available (Kyrgyz word etymology from Wiktionary)
   const etymEntry = group.find((e) => e.etymology);
   if (etymEntry) {
+    const etymLabel = direction === "en-ky" ? "Kyrgyz Etymology" : "Etymology";
     sections.push(
       `<div class="section">
-<h3 class="section-header">Etymology</h3>
+<h3 class="section-header">${etymLabel}</h3>
 <p class="etymology">${escapeXml(etymEntry.etymology!)}</p>
 </div>`
     );

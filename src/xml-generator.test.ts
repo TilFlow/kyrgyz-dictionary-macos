@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test";
-import { generateEntry, generateDictionary, generateFrontMatter } from "./xml-generator";
+import { generateEntry, generateDictionary, generateFrontMatter, generateEnKyDictionary, generateKyEnDictionary } from "./xml-generator";
 import type { DictionaryEntry } from "./schema";
+import type { EnKyEntry } from "./xml-generator";
 
 const fullEntry: DictionaryEntry = {
   id: "ru-книга-001",
@@ -250,5 +251,262 @@ describe("generateDictionary", () => {
     expect(xml).toContain("</d:dictionary>");
     // Still has front matter
     expect(xml).toContain('id="front-matter"');
+  });
+});
+
+// ── Cross-dictionary integration tests ──────────────────────────────
+
+const солнцеEntry: DictionaryEntry = {
+  id: "ru-солнце-001",
+  ru: "солнце",
+  ky: "күн",
+  pos: "noun",
+  pronunciation: "/kyn/",
+  senses: ["небесное тело"],
+  etymology: "From Proto-Turkic *kün",
+  source: "wiktionary-en",
+};
+
+const sunEnKy: EnKyEntry = {
+  en: "sun",
+  ky: "күн",
+  sense: "the star around which the Earth revolves",
+  pos: "noun",
+  pronunciation: "/kyn/",
+  etymology: "From Proto-Turkic *kün",
+  frequency: 5801,
+  wiktionaryUrl: "https://en.wiktionary.org/wiki/күн",
+};
+
+const жашEntry: DictionaryEntry = {
+  id: "ru-возраст-001",
+  ru: "возраст",
+  ky: "жаш",
+  pos: "noun",
+  senses: ["возраст"],
+  source: "wiktionary-en",
+};
+
+const молодойEntry: DictionaryEntry = {
+  id: "ru-молодой-001",
+  ru: "молодой",
+  ky: "жаш",
+  pos: "adj",
+  senses: ["молодой", "юный"],
+  source: "wiktionary-en",
+};
+
+const youngEnKy: EnKyEntry = {
+  en: "young",
+  ky: "жаш",
+  sense: "in the early part of life or growth",
+  pos: "adj",
+  pronunciation: "/d͡ʒɑʃ/",
+  etymology: "From жаш (jaş)",
+  frequency: 2529,
+};
+
+const ageEnKy: EnKyEntry = {
+  en: "age",
+  ky: "жаш",
+  sense: "amount of time since birth",
+  pos: "noun",
+  pronunciation: "/d͡ʒɑʃ/",
+  frequency: 2529,
+};
+
+describe("солнце — all 4 directions", () => {
+  test("ru-ky: headword солнце, indexes both ru and ky + morphology", () => {
+    const xml = generateDictionary([солнцеEntry], "ru-ky");
+    expect(xml).toContain('d:title="солнце"');
+    expect(xml).toContain('<h1 class="hw">солнце</h1>');
+    expect(xml).toContain('d:value="солнце"');
+    expect(xml).toContain('d:value="күн"');
+    // Morphological forms indexed
+    expect(xml).toContain('d:value="күндөр"');
+    expect(xml).toContain('d:value="күнүнүн"');
+    // Pronunciation shown in compact view
+    expect(xml).toContain('<span class="pronunciation">/kyn/</span>');
+  });
+
+  test("ky-ru: headword күн, groups by ky, indexes ky + morphology", () => {
+    const xml = generateDictionary([солнцеEntry], "ky-ru");
+    expect(xml).toContain('d:title="күн"');
+    expect(xml).toContain('<h1 class="hw">күн</h1>');
+    expect(xml).toContain('d:value="күн"');
+    // Morphological forms
+    expect(xml).toContain('d:value="күндөр"');
+    expect(xml).toContain('d:value="күнүнүн"');
+    // Translation is Russian
+    expect(xml).toContain("солнце");
+  });
+
+  test("en-ky: headword sun, indexes ONLY English word", () => {
+    const xml = generateEnKyDictionary([sunEnKy]);
+    expect(xml).toContain('d:title="sun"');
+    expect(xml).toContain('<h1 class="hw">sun</h1>');
+    // Only English index
+    expect(xml).toContain('d:value="sun"');
+    // NO Kyrgyz index or morphological forms
+    expect(xml).not.toContain('d:value="күн"');
+    expect(xml).not.toContain('d:value="күндөр"');
+    // Translation is Kyrgyz
+    expect(xml).toContain("<li>күн</li>");
+    // Pronunciation NOT in compact view (it's Kyrgyz, not English)
+    expect(xml).not.toMatch(/<span d:priority="1">[\s\S]*?<span class="pronunciation">/);
+    // Pronunciation in full view with "Kyrgyz" label
+    expect(xml).toContain("Kyrgyz Pronunciation");
+    expect(xml).toContain("/kyn/");
+    // Etymology labeled as Kyrgyz
+    expect(xml).toContain("Kyrgyz Etymology");
+  });
+
+  test("ky-en: headword күн, indexes ONLY Kyrgyz word + morphology", () => {
+    const xml = generateKyEnDictionary([sunEnKy]);
+    expect(xml).toContain('d:title="күн"');
+    expect(xml).toContain('<h1 class="hw">күн</h1>');
+    // Kyrgyz index + morphology
+    expect(xml).toContain('d:value="күн"');
+    expect(xml).toContain('d:value="күндөр"');
+    expect(xml).toContain('d:value="күнүнүн"');
+    // NO English index
+    expect(xml).not.toContain('d:value="sun"');
+    // Translation is English
+    expect(xml).toContain("<li>sun</li>");
+    // Pronunciation in compact view (headword is Kyrgyz — correct)
+    expect(xml).toContain('<span class="pronunciation">/kyn/</span>');
+    // Section labeled just "Pronunciation" (not "Kyrgyz")
+    expect(xml).not.toContain("Kyrgyz Pronunciation");
+    expect(xml).toContain("Pronunciation");
+  });
+});
+
+describe("sun — all 4 directions", () => {
+  test("en-ky: headword sun, no Kyrgyz in index", () => {
+    const xml = generateEnKyDictionary([sunEnKy]);
+    const indexMatches = xml.match(/d:index d:value="[^"]*"/g) || [];
+    // Only 1 index: "sun"
+    expect(indexMatches).toHaveLength(1);
+    expect(indexMatches[0]).toContain("sun");
+  });
+
+  test("ky-en: headword күн, no English in index, morphological forms present", () => {
+    const xml = generateKyEnDictionary([sunEnKy]);
+    const indexMatches = xml.match(/d:index d:value="[^"]*"/g) || [];
+    // All indices should be Kyrgyz
+    for (const idx of indexMatches) {
+      expect(idx).not.toContain("sun");
+    }
+    expect(indexMatches.length).toBeGreaterThan(10); // morphological forms
+  });
+
+  test("ru-ky: солнце entry has күн as translation", () => {
+    const xml = generateEntry(солнцеEntry, "ru-ky");
+    expect(xml).toContain('<h1 class="hw">солнце</h1>');
+    expect(xml).toContain("<li>күн</li>");
+  });
+
+  test("ky-ru: күн entry has солнце as translation", () => {
+    const xml = generateDictionary([солнцеEntry], "ky-ru");
+    expect(xml).toContain('<h1 class="hw">күн</h1>');
+    expect(xml).toContain("солнце");
+  });
+});
+
+describe("жаш — all 4 directions", () => {
+  test("ru-ky: indexes both возраст→жаш and молодой→жаш separately", () => {
+    const xml = generateDictionary([жашEntry, молодойEntry], "ru-ky");
+    expect(xml).toContain('d:title="возраст"');
+    expect(xml).toContain('d:title="молодой"');
+    expect(xml).toContain('<h1 class="hw">возраст</h1>');
+    expect(xml).toContain('<h1 class="hw">молодой</h1>');
+    // Both index жаш forms
+    expect(xml).toContain('d:value="жаш"');
+    expect(xml).toContain('d:value="жаштар"');
+  });
+
+  test("ky-ru: жаш merges both noun and adj translations", () => {
+    const xml = generateDictionary([жашEntry, молодойEntry], "ky-ru");
+    // Single merged entry with жаш headword
+    expect(xml).toContain('d:title="жаш"');
+    expect(xml).toContain('<h1 class="hw">жаш</h1>');
+    // Both translations present
+    expect(xml).toContain("возраст");
+    expect(xml).toContain("молодой");
+    // Morphological forms indexed
+    expect(xml).toContain('d:value="жаштар"');
+    expect(xml).toContain('d:value="жашынын"');
+  });
+
+  test("en-ky: age and young have separate entries, no Kyrgyz in index", () => {
+    const xml = generateEnKyDictionary([ageEnKy, youngEnKy]);
+    expect(xml).toContain('d:title="age"');
+    expect(xml).toContain('d:title="young"');
+    // No Kyrgyz index values
+    expect(xml).not.toContain('d:value="жаш"');
+    expect(xml).not.toContain('d:value="жаштар"');
+    // English indices only
+    expect(xml).toContain('d:value="age"');
+    expect(xml).toContain('d:value="young"');
+    // No pronunciation in compact view
+    expect(xml).not.toMatch(/<span d:priority="1">[\s\S]*?<span class="pronunciation">/);
+  });
+
+  test("ky-en: жаш groups age+young, indexes Kyrgyz forms only", () => {
+    const xml = generateKyEnDictionary([ageEnKy, youngEnKy]);
+    expect(xml).toContain('d:title="жаш"');
+    expect(xml).toContain('<h1 class="hw">жаш</h1>');
+    // Kyrgyz morphological forms indexed
+    expect(xml).toContain('d:value="жаш"');
+    expect(xml).toContain('d:value="жаштар"');
+    expect(xml).toContain('d:value="жашынын"');
+    // No English indices
+    expect(xml).not.toContain('d:value="age"');
+    expect(xml).not.toContain('d:value="young"');
+    // Both translations merged
+    expect(xml).toContain("age");
+    expect(xml).toContain("young");
+    // Pronunciation in compact view (Kyrgyz headword)
+    expect(xml).toContain('<span class="pronunciation">/d͡ʒɑʃ/</span>');
+  });
+});
+
+describe("молодой — all 4 directions", () => {
+  test("ru-ky: headword молодой, translation жаш", () => {
+    const xml = generateEntry(молодойEntry, "ru-ky");
+    expect(xml).toContain('d:title="молодой"');
+    expect(xml).toContain('<h1 class="hw">молодой</h1>');
+    expect(xml).toContain("<li>жаш</li>");
+    // No noun morphology for adj
+    expect(xml).not.toContain('d:value="жаштар"');
+  });
+
+  test("ky-ru: молодой appears in merged жаш entry", () => {
+    const xml = generateDictionary([жашEntry, молодойEntry], "ky-ru");
+    const hwMatches = xml.match(/<h1 class="hw">жаш<\/h1>/g) || [];
+    // Only one жаш headword (merged)
+    expect(hwMatches).toHaveLength(1);
+    expect(xml).toContain("молодой");
+    expect(xml).toContain("возраст");
+  });
+
+  test("en-ky: young has headword young, no Kyrgyz index", () => {
+    const xml = generateEnKyDictionary([youngEnKy]);
+    expect(xml).toContain('d:title="young"');
+    expect(xml).toContain('<h1 class="hw">young</h1>');
+    expect(xml).toContain("<li>жаш</li>");
+    expect(xml).not.toContain('d:value="жаш"');
+    // Kyrgyz pronunciation/etymology labeled
+    expect(xml).toContain("Kyrgyz Pronunciation");
+    expect(xml).toContain("Kyrgyz Etymology");
+  });
+
+  test("ky-en: young translation appears under жаш headword", () => {
+    const xml = generateKyEnDictionary([youngEnKy]);
+    expect(xml).toContain('d:title="жаш"');
+    expect(xml).toContain('<h1 class="hw">жаш</h1>');
+    expect(xml).toContain("young");
+    // Not labeled "Kyrgyz" — headword IS Kyrgyz
+    expect(xml).not.toContain("Kyrgyz Pronunciation");
   });
 });
