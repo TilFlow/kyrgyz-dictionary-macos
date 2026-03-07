@@ -15,7 +15,19 @@ export interface EnKyEntry {
   wiktionaryUrl?: string;
 }
 
-const POS_LABELS: Record<string, string> = {
+const POS_LABELS_KY: Record<string, string> = {
+  noun: "зат.",
+  verb: "эт.",
+  adj: "сын.",
+  adv: "такт.",
+  pron: "ат.",
+  post: "жанд.",
+  num: "сан.",
+  conj: "байл.",
+  intj: "сырд.",
+};
+
+const POS_LABELS_RU: Record<string, string> = {
   noun: "сущ.",
   verb: "гл.",
   adj: "прил.",
@@ -26,6 +38,12 @@ const POS_LABELS: Record<string, string> = {
   conj: "союз",
   intj: "межд.",
 };
+
+function getPosLabel(pos: string, direction: DictDirection): string {
+  if (direction === "ky-ru") return POS_LABELS_RU[pos] ?? pos;
+  if (direction === "ky-en") return POS_LABELS_EN_LABELS[pos] ?? pos;
+  return POS_LABELS_KY[pos] ?? pos; // ru-ky, en-ky → Kyrgyz audience
+}
 
 const CASE_LABELS: Record<string, string> = {
   nominative: "Именительный",
@@ -232,7 +250,7 @@ function generateCompactView(entry: DictionaryEntry, direction: DictDirection = 
   }
 
   parts.push(
-    `<span class="pos">${escapeXml(POS_LABELS[entry.pos] ?? entry.pos)}</span>`
+    `<span class="pos">${escapeXml(getPosLabel(entry.pos, direction))}</span>`
   );
 
   // Brief plural form
@@ -404,7 +422,7 @@ ${full}
 </d:entry>`;
 }
 
-const POS_LABELS_EN: Record<string, string> = {
+const POS_LABELS_EN_LABELS: Record<string, string> = {
   noun: "n.",
   verb: "v.",
   adj: "adj.",
@@ -518,17 +536,17 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
   if (posEntries.length === 1) {
     // Single POS — simple list
     const [pos, translations] = posEntries[0];
-    const posLabel = POS_LABELS[pos] ?? pos;
-    compactParts.push(`<span class="pos">${escapeXml(posLabel)}</span>`);
+    const pl = getPosLabel(pos, direction);
+    compactParts.push(`<span class="pos">${escapeXml(pl)}</span>`);
     const sensesHtml = translations.map((s) => `<li>${escapeXml(s)}</li>`).join("");
     compactParts.push(`<ol class="senses">${sensesHtml}</ol>`);
   } else {
-    // Multiple POS — inline layout: "сущ. выбор · гл. 1. выбрать 2. выбирать"
+    // Multiple POS — inline layout
     const groups: string[] = [];
     for (const [pos, translations] of posEntries) {
-      const posLabel = POS_LABELS[pos] ?? pos;
+      const pl = getPosLabel(pos, direction);
       const senses = translations.map((s) => escapeXml(s)).join(", ");
-      groups.push(`<span class="pos-inline">${escapeXml(posLabel)}</span> ${senses}`);
+      groups.push(`<span class="pos-inline">${escapeXml(pl)}</span> ${senses}`);
     }
     compactParts.push(`<p class="pos-groups">${groups.join(' <span class="pos-sep">▪</span> ')}</p>`);
   }
@@ -562,8 +580,8 @@ function generateMergedEntry(group: DictionaryEntry[], direction: DictDirection)
   } else {
     const parts: string[] = [];
     for (const [pos, items] of fullPosEntries) {
-      const posLabel = POS_LABELS[pos] ?? pos;
-      parts.push(`<p class="pos-label">${escapeXml(posLabel)}</p>
+      const pl = getPosLabel(pos, direction);
+      parts.push(`<p class="pos-label">${escapeXml(pl)}</p>
 <ol class="senses">${items.map((s) => `<li>${escapeXml(s)}</li>`).join("")}</ol>`);
     }
     // Add extra senses not already covered
@@ -684,7 +702,7 @@ export function generateDictionary(entries: DictionaryEntry[], direction: DictDi
 
 function generateEnKyEntryXml(entry: EnKyEntry, index: number): string {
   const id = `en-ky-${index.toString().padStart(6, "0")}`;
-  const posLabel = entry.pos ? (POS_LABELS_EN[entry.pos] ?? entry.pos) : "";
+  const posLabel = entry.pos ? getPosLabel(entry.pos, "en-ky") : "";
 
   const indexSet = new Set<string>([entry.en, entry.ky]);
   if (entry.pos === "noun") {
@@ -797,7 +815,7 @@ ${full}
 
 function generateKyEnEntryXml(entry: EnKyEntry, index: number): string {
   const id = `ky-en-${index.toString().padStart(6, "0")}`;
-  const posLabel = entry.pos ? (POS_LABELS_EN[entry.pos] ?? entry.pos) : "";
+  const posLabel = entry.pos ? getPosLabel(entry.pos, "ky-en") : "";
 
   const indexSet = new Set<string>([entry.ky, entry.en]);
   if (entry.pos === "noun") {
@@ -945,7 +963,7 @@ function generateMergedEnKyEntry(
     .join("\n");
 
   // Collect unique POS labels
-  const posLabels = [...new Set(group.map((e) => e.pos ? (POS_LABELS_EN[e.pos] ?? e.pos) : "").filter(Boolean))];
+  const posLabels = [...new Set(group.map((e) => e.pos ? getPosLabel(e.pos, direction) : "").filter(Boolean))];
 
   // Compact view
   const compactParts: string[] = [];

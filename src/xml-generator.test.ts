@@ -62,12 +62,23 @@ describe("generateEntry", () => {
     expect(xml).toContain("</d:entry>");
   });
 
-  test("includes d:index for ru word, ky word, and all morphological forms", () => {
-    const xml = generateEntry(fullEntry);
-    // ru word index (d:title = headword "книга" for ru-ky direction)
+  test("ru-ky: d:index contains ONLY Russian headword, not Kyrgyz", () => {
+    const xml = generateEntry(fullEntry, "ru-ky");
+    // ru word index
     expect(xml).toContain('d:value="книга" d:title="книга"');
+    // NO Kyrgyz word or morphological forms in index
+    expect(xml).not.toContain('d:value="китеп"');
+    expect(xml).not.toContain('d:value="китептин"');
+    expect(xml).not.toContain('d:value="китептер"');
+    // Only 1 index element (the Russian headword)
+    const indexCount = (xml.match(/d:index/g) || []).length;
+    expect(indexCount).toBe(1);
+  });
+
+  test("ky-ru: d:index contains Kyrgyz word and all morphological forms", () => {
+    const xml = generateEntry(fullEntry, "ky-ru");
     // ky word index
-    expect(xml).toContain('d:value="китеп" d:title="книга"');
+    expect(xml).toContain('d:value="китеп"');
     // singular forms
     expect(xml).toContain('d:value="китептин"');
     expect(xml).toContain('d:value="китепке"');
@@ -82,10 +93,11 @@ describe("generateEntry", () => {
     expect(xml).toContain('d:value="китептерди"');
     expect(xml).toContain('d:value="китептерде"');
     expect(xml).toContain('d:value="китептерден"');
+    // NO Russian word in index
+    expect(xml).not.toContain('d:value="книга"');
     // all indices have d:title
     const indexCount = (xml.match(/d:index/g) || []).length;
     const titleCount = (xml.match(/d:title="/g) || []).length;
-    // Each d:index has d:title, plus d:entry has d:title = indexCount + 1
     expect(titleCount).toBe(indexCount + 1);
   });
 
@@ -95,7 +107,7 @@ describe("generateEntry", () => {
     expect(xml).toContain('<h1 class="hw">книга</h1>');
     expect(xml).toContain('<span class="pronunciation">/kitep/</span>');
     expect(xml).toContain('<span class="pos">');
-    expect(xml).toContain("сущ.");
+    expect(xml).toContain("зат.");
     // Brief morphology with case labels
     expect(xml).toContain("китептин");
     expect(xml).toContain("(род.)");
@@ -147,11 +159,12 @@ describe("generateEntry", () => {
   });
 
   test("works for minimal entry without optional fields", () => {
-    const xml = generateEntry(minimalEntry);
+    const xml = generateEntry(minimalEntry, "ru-ky");
     expect(xml).toContain('<d:entry id="ru-да-001"');
     expect(xml).toContain('d:value="да" d:title="да"');
-    expect(xml).toContain('d:value="ооба" d:title="да"');
-    expect(xml).toContain("межд.");
+    // ru-ky: only Russian headword in index, not Kyrgyz
+    expect(xml).not.toContain('d:value="ооба"');
+    expect(xml).toContain("сырд.");
     // Should not contain optional sections
     expect(xml).not.toContain("Морфология");
     expect(xml).not.toContain("Примеры");
@@ -160,7 +173,7 @@ describe("generateEntry", () => {
     expect(xml).not.toContain("wiktionary-link");
   });
 
-  test("includes verb conjugation forms in d:index for verb entries", () => {
+  test("ru-ky: verb entry indexes ONLY Russian headword", () => {
     const verbEntry: DictionaryEntry = {
       id: "ru-идти-001",
       ru: "идти",
@@ -168,26 +181,44 @@ describe("generateEntry", () => {
       pos: "verb",
       source: "wiktionary-en",
     };
-    const xml = generateEntry(verbEntry);
+    const xml = generateEntry(verbEntry, "ru-ky");
     expect(xml).toContain('d:value="идти"');
+    // No Kyrgyz verb forms in ru-ky index
+    expect(xml).not.toContain('d:value="баруу"');
+    expect(xml).not.toContain('d:value="барат"');
+    const indexMatches = xml.match(/d:index/g) || [];
+    expect(indexMatches).toHaveLength(1);
+  });
+
+  test("ky-ru: verb entry indexes Kyrgyz conjugation forms", () => {
+    const verbEntry: DictionaryEntry = {
+      id: "ru-идти-001",
+      ru: "идти",
+      ky: "баруу",
+      pos: "verb",
+      source: "wiktionary-en",
+    };
+    const xml = generateEntry(verbEntry, "ky-ru");
     expect(xml).toContain('d:value="баруу"');
     expect(xml).toContain('d:value="барат"');
     expect(xml).toContain('d:value="барды"');
     expect(xml).toContain('d:value="барган"');
     expect(xml).toContain('d:value="барбайт"');
     expect(xml).toContain('d:value="барылат"');
+    // No Russian word in ky-ru index
+    expect(xml).not.toContain('d:value="идти"');
     const indexMatches = xml.match(/d:index/g) || [];
     expect(indexMatches.length).toBeGreaterThan(10);
   });
 
-  test("includes attributive forms in d:index for noun entries", () => {
-    const xml = generateEntry(fullEntry);
+  test("ky-ru: includes attributive forms in d:index for noun entries", () => {
+    const xml = generateEntry(fullEntry, "ky-ru");
     // китеп (voiceless, group 2): locative=китепте, attr=китептеги
     expect(xml).toContain('d:value="китептеги"');
   });
 
-  test("includes plural+possessive+case forms in d:index for noun entries", () => {
-    const xml = generateEntry(fullEntry);
+  test("ky-ru: includes plural+possessive+case forms in d:index for noun entries", () => {
+    const xml = generateEntry(fullEntry, "ky-ru");
     // китеп → китептери (pl+3sg poss), китептеринин (pl+3sg poss+gen)
     expect(xml).toContain('d:value="китептери"');
     expect(xml).toContain('d:value="китептеринин"');
@@ -203,15 +234,14 @@ describe("generateEntry", () => {
       etymology: 'от "источника" & <языка>',
       source: "manual",
     };
-    const xml = generateEntry(entryWithSpecials);
+    const xml = generateEntry(entryWithSpecials, "ru-ky");
     // Must not contain unescaped special characters in text content
     expect(xml).toContain("тест &amp; &quot;кавычки&quot;");
     expect(xml).toContain("тест &lt;тег&gt;");
     expect(xml).toContain("смысл &amp; &lt;значение&gt;");
     expect(xml).toContain('от &quot;источника&quot; &amp; &lt;языка&gt;');
-    // d:index values must also be escaped
+    // d:index values must also be escaped (only Russian headword in ru-ky)
     expect(xml).toContain('d:value="тест &amp; &quot;кавычки&quot;"');
-    expect(xml).toContain('d:value="тест &lt;тег&gt;"');
   });
 });
 
@@ -316,15 +346,15 @@ const ageEnKy: EnKyEntry = {
 };
 
 describe("солнце — all 4 directions", () => {
-  test("ru-ky: headword солнце, indexes both ru and ky + morphology", () => {
+  test("ru-ky: headword солнце, indexes ONLY Russian headword", () => {
     const xml = generateDictionary([солнцеEntry], "ru-ky");
     expect(xml).toContain('d:title="солнце"');
     expect(xml).toContain('<h1 class="hw">солнце</h1>');
     expect(xml).toContain('d:value="солнце"');
-    expect(xml).toContain('d:value="күн"');
-    // Morphological forms indexed
-    expect(xml).toContain('d:value="күндөр"');
-    expect(xml).toContain('d:value="күнүнүн"');
+    // NO Kyrgyz words or morphological forms in ru-ky index
+    expect(xml).not.toContain('d:value="күн"');
+    expect(xml).not.toContain('d:value="күндөр"');
+    expect(xml).not.toContain('d:value="күнүнүн"');
     // Pronunciation shown in compact view
     expect(xml).toContain('<span class="pronunciation">/kyn/</span>');
   });
@@ -414,15 +444,18 @@ describe("sun — all 4 directions", () => {
 });
 
 describe("жаш — all 4 directions", () => {
-  test("ru-ky: indexes both возраст→жаш and молодой→жаш separately", () => {
+  test("ru-ky: indexes both возраст and молодой separately, no Kyrgyz in index", () => {
     const xml = generateDictionary([жашEntry, молодойEntry], "ru-ky");
     expect(xml).toContain('d:title="возраст"');
     expect(xml).toContain('d:title="молодой"');
     expect(xml).toContain('<h1 class="hw">возраст</h1>');
     expect(xml).toContain('<h1 class="hw">молодой</h1>');
-    // Both index жаш forms
-    expect(xml).toContain('d:value="жаш"');
-    expect(xml).toContain('d:value="жаштар"');
+    // Only Russian headwords in index
+    expect(xml).toContain('d:value="возраст"');
+    expect(xml).toContain('d:value="молодой"');
+    // NO Kyrgyz words in ru-ky index
+    expect(xml).not.toContain('d:value="жаш"');
+    expect(xml).not.toContain('d:value="жаштар"');
   });
 
   test("ky-ru: жаш merges both noun and adj translations", () => {
@@ -472,12 +505,14 @@ describe("жаш — all 4 directions", () => {
 });
 
 describe("молодой — all 4 directions", () => {
-  test("ru-ky: headword молодой, translation жаш", () => {
+  test("ru-ky: headword молодой, translation жаш, no Kyrgyz in index", () => {
     const xml = generateEntry(молодойEntry, "ru-ky");
     expect(xml).toContain('d:title="молодой"');
     expect(xml).toContain('<h1 class="hw">молодой</h1>');
     expect(xml).toContain("<li>жаш</li>");
-    // No noun morphology for adj
+    // ru-ky: only Russian headword in index
+    expect(xml).toContain('d:value="молодой"');
+    expect(xml).not.toContain('d:value="жаш"');
     expect(xml).not.toContain('d:value="жаштар"');
   });
 
