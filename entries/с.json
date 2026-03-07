@@ -31984,7 +31984,7 @@
   {
     "ru": "с",
     "ky": "менен",
-    "pos": "particle",
+    "pos": "post",
     "source": "manual",
     "senses": [
       "указывает на совместность"
@@ -32118,7 +32118,7 @@
   {
     "ru": "со стороны",
     "ky": "тарабынан",
-    "pos": "particle",
+    "pos": "post",
     "source": "manual",
     "id": "ru-со стороны-001",
     "senses": [

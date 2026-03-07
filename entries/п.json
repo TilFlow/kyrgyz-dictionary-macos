@@ -42195,7 +42195,7 @@
   {
     "ru": "по",
     "ky": "боюнча",
-    "pos": "particle",
+    "pos": "post",
     "source": "manual",
     "id": "ru-по-005",
     "senses": [
@@ -42412,7 +42412,7 @@
   {
     "ru": "после",
     "ky": "кийин",
-    "pos": "particle",
+    "pos": "post",
     "source": "manual",
     "id": "ru-после-001",
     "senses": [
